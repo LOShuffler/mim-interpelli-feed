@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 2,
+  "site": {
+    "id": "lodi",
+    "name": "Lodi",
+    "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
+  },
+  "status": "success",
+  "retrievedAt": "2026-07-22T22:52:15.904Z",
+  "completedAt": "2026-07-22T22:52:50.609Z",
+  "index": {
+    "status": 200,
+    "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
+    "title": "Navigazione",
+    "textLength": 25666,
+    "discoveredCount": 200,
+    "safetyLimited": false,
+    "processedCount": 4
+  },
+  "recentEvents": [],
+  "latestFour": [
+    {
+      "id": "ba7c956ea04a3703",
+      "position": 1,
+      "collectionReason": "refresh",
+      "listLabel": "I.C. Lodi III",
+      "listContext": "27 maggio 2026 Interpelli ricerca supplenti I.C. Lodi III Interpello posto comune scuola primaria",
+      "title": "I.C. Lodi III",
+      "subtitle": "Interpello posto comune scuola primaria",
+      "publicationDate": "27 maggio 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-44",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-44",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/0551c44c-d38c-4a76-8b7d-b48b2bffe61b",
+          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/0551c44c-d38c-4a76-8b7d-b48b2bffe61b",
+          "httpStatus": 200,
+          "title": "Elenco interpelli",
+          "subtitle": "",
+          "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" LODI 3 \" Cerca Elenco interpelli Nessun interpello presente È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "e5805db91a2af2f2",
+      "position": 2,
+      "collectionReason": "refresh",
+      "listLabel": "I.C. Lodi I",
+      "listContext": "25 maggio 2026 Interpelli ricerca supplenti I.C. Lodi I Interpello su n.1 posto EE alt. IRC dal 25/05 al 29/05",
+      "title": "I.C. Lodi I",
+      "subtitle": "Interpello su n.1 posto EE alt. IRC dal 25/05 al 29/05",
+      "publicationDate": "25 maggio 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-28",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-28",
+      "httpStatus": 200,
+      "text": "Link inerpello",
+      "pages": [
+        {
+          "label": "Link inerpello",
+          "url": "https://www.portaleargo.it/albopretorio/online/",
+          "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
+          "httpStatus": 200,
+          "title": "Albo Pretorio",
+          "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
+          "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "e2b466e52444588a",
+      "position": 3,
+      "collectionReason": "refresh",
+      "listLabel": "Liceo Statale \"M. Vegio\" Lodi",
+      "listContext": "20 maggio 2026 Interpelli ricerca supplenti Liceo Statale \"M. Vegio\" Lodi INTERPELLO URGENTE CDC A027 - MATEMATICA E FISICA",
+      "title": "Liceo Statale \"M. Vegio\" Lodi",
+      "subtitle": "INTERPELLO URGENTE CDC A027 - MATEMATICA E FISICA",
+      "publicationDate": "20 maggio 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/liceo-statale-m-vegio-lodi-1",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/liceo-statale-m-vegio-lodi-1",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://nuvola.madisoft.it/file/api/public-file-preview/LOPM010008/4b6f38d9-448d-4b29-a889-2f176bdd1ce3",
+          "finalUrl": "https://auth.nuvola.madisoft.it/realms/nuvola/protocol/openid-connect/auth?scope=openid%20profile%20email&state=aa5f0ba85850e9e6d31bcda85d134c10&response_type=code&approval_prompt=auto&redirect_uri=https%3A%2F%2Fnuvola.madisoft.it%2Fconnect%2Fauthentication-service%2Fcheck&client_id=web",
+          "httpStatus": 200,
+          "title": "Accedi in Nuvola",
+          "subtitle": "Accedi al portale della tua scuola. Entra come Ata, Docente, Tutore e Studente.",
+          "text": "Accedi in Nuvola Accedi con la tua identità digitale SPID/CIE Usa le credenziali Nome utente Password Login Credenziali dimenticate? Copyright © Madisoft S.p.A., con socio unico, Direzione e coordinamento Gruppo Buffetti S.p.A."
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "921402aadb4039dd",
+      "position": 4,
+      "collectionReason": "refresh",
+      "listLabel": "I.C. Casalpusterlengo",
+      "listContext": "18 maggio 2026 Interpelli ricerca supplenti I.C. Casalpusterlengo interpello Scuola Primaria posto comune",
+      "title": "I.C. Casalpusterlengo",
+      "subtitle": "interpello Scuola Primaria posto comune",
+      "publicationDate": "18 maggio 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-casalpusterlengo-30",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-casalpusterlengo-30",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://nuvola.madisoft.it/mad/LOIC80900D/interpelli",
+          "finalUrl": "https://nuvola.madisoft.it/mad/LOIC80900D/interpelli",
+          "httpStatus": 200,
+          "title": "LOIC80900D",
+          "subtitle": "",
+          "text": "Nuvola Invio candidatura per \"IC Casalpusterlengo\" Interpelli personale docente Attenzione: L'istituto non ha interpelli docente aperti alle candidature per la data odierna. Riprovare nei prossimi giorni o rivolgersi alla segreteria della scuola. Grazie. COOKIE POLICY NUVOLA by MADISOFT"
+        }
+      ],
+      "attachments": []
+    }
+  ],
+  "errors": []
+}
