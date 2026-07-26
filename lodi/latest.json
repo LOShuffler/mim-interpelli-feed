@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-07-26T05:05:13.271Z",
-  "completedAt": "2026-07-26T05:05:50.409Z",
+  "retrievedAt": "2026-07-26T06:05:24.307Z",
+  "completedAt": "2026-07-26T06:05:58.731Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -36,11 +36,11 @@
         {
           "label": "Link interpello",
           "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/0551c44c-d38c-4a76-8b7d-b48b2bffe61b",
-          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/0551c44c-d38c-4a76-8b7d-b48b2bffe61b",
-          "httpStatus": 200,
-          "title": "Elenco interpelli",
+          "finalUrl": "https://web.spaggiari.eu/sdg/app/default/verifica_abilitazioni.php",
+          "httpStatus": 503,
+          "title": "Gruppo Spaggiari Parma",
           "subtitle": "",
-          "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" LODI 3 \" Cerca Elenco interpelli Nessun interpello presente È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+          "text": "Siamo felici di informarti che stiamo completando gli ultimi ritocchi su ClasseViva per offrirti un’esperienza ancora più fluida, utile e intuitiva in vista del nuovo anno scolastico. Per questo motivo, le nostre piattaforme non saranno temporaneamente accessibili. Da domani troverai tutti i servizi aggiornati e pronti ad accompagnarti, giorno dopo giorno, nel tuo percorso scolastico. Grazie per la tua pazienza. Non vediamo l’ora di farti scoprire tutte le novità!"
         }
       ],
       "attachments": []
@@ -88,7 +88,7 @@
         {
           "label": "Link interpello",
           "url": "https://nuvola.madisoft.it/file/api/public-file-preview/LOPM010008/4b6f38d9-448d-4b29-a889-2f176bdd1ce3",
-          "finalUrl": "https://auth.nuvola.madisoft.it/realms/nuvola/protocol/openid-connect/auth?scope=openid%20profile%20email&state=2cbf18bb6c76957c2ece0816ce2b4e9f&response_type=code&approval_prompt=auto&redirect_uri=https%3A%2F%2Fnuvola.madisoft.it%2Fconnect%2Fauthentication-service%2Fcheck&client_id=web",
+          "finalUrl": "https://auth.nuvola.madisoft.it/realms/nuvola/protocol/openid-connect/auth?scope=openid%20profile%20email&state=6c7fd17422a332f9e854f8f2fa2f7a42&response_type=code&approval_prompt=auto&redirect_uri=https%3A%2F%2Fnuvola.madisoft.it%2Fconnect%2Fauthentication-service%2Fcheck&client_id=web",
           "httpStatus": 200,
           "title": "Accedi in Nuvola",
           "subtitle": "Accedi al portale della tua scuola. Entra come Ata, Docente, Tutore e Studente.",
