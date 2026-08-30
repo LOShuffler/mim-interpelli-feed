@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-08-30T13:05:36.307Z",
-  "completedAt": "2026-08-30T13:06:11.849Z",
+  "retrievedAt": "2026-08-30T14:06:03.933Z",
+  "completedAt": "2026-08-30T14:06:39.788Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -38,9 +38,9 @@
           "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/0551c44c-d38c-4a76-8b7d-b48b2bffe61b",
           "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/0551c44c-d38c-4a76-8b7d-b48b2bffe61b",
           "httpStatus": 200,
-          "title": "Elenco interpelli",
+          "title": "",
           "subtitle": "",
-          "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" LODI 3 \" Cerca Elenco interpelli Nessun interpello presente È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+          "text": ""
         }
       ],
       "attachments": []
@@ -88,7 +88,7 @@
         {
           "label": "Link interpello",
           "url": "https://nuvola.madisoft.it/file/api/public-file-preview/LOPM010008/4b6f38d9-448d-4b29-a889-2f176bdd1ce3",
-          "finalUrl": "https://auth.nuvola.madisoft.it/realms/nuvola/protocol/openid-connect/auth?scope=openid%20profile%20email&state=7547dc93832223cc75995bcaf4bd9b95&response_type=code&approval_prompt=auto&redirect_uri=https%3A%2F%2Fnuvola.madisoft.it%2Fconnect%2Fauthentication-service%2Fcheck&client_id=web",
+          "finalUrl": "https://auth.nuvola.madisoft.it/realms/nuvola/protocol/openid-connect/auth?scope=openid%20profile%20email&state=1a41af647966f5c221c73e492b27375f&response_type=code&approval_prompt=auto&redirect_uri=https%3A%2F%2Fnuvola.madisoft.it%2Fconnect%2Fauthentication-service%2Fcheck&client_id=web",
           "httpStatus": 200,
           "title": "Accedi in Nuvola",
           "subtitle": "Accedi al portale della tua scuola. Entra come Ata, Docente, Tutore e Studente.",
