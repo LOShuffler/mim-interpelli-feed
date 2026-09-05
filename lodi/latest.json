@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-09-05T17:05:17.247Z",
-  "completedAt": "2026-09-05T17:05:53.107Z",
+  "retrievedAt": "2026-09-05T18:05:34.117Z",
+  "completedAt": "2026-09-05T18:06:09.411Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -88,7 +88,7 @@
         {
           "label": "Link interpello",
           "url": "https://nuvola.madisoft.it/file/api/public-file-preview/LOPM010008/4b6f38d9-448d-4b29-a889-2f176bdd1ce3",
-          "finalUrl": "https://auth.nuvola.madisoft.it/realms/nuvola/protocol/openid-connect/auth?scope=openid%20profile%20email&state=cbd478bf73e8e0ad63c8412eba072bfa&response_type=code&approval_prompt=auto&redirect_uri=https%3A%2F%2Fnuvola.madisoft.it%2Fconnect%2Fauthentication-service%2Fcheck&client_id=web",
+          "finalUrl": "https://auth.nuvola.madisoft.it/realms/nuvola/protocol/openid-connect/auth?scope=openid%20profile%20email&state=8f2b54dc9b921e003a56bb3a235ce17f&response_type=code&approval_prompt=auto&redirect_uri=https%3A%2F%2Fnuvola.madisoft.it%2Fconnect%2Fauthentication-service%2Fcheck&client_id=web",
           "httpStatus": 200,
           "title": "Accedi in Nuvola",
           "subtitle": "Accedi al portale della tua scuola. Entra come Ata, Docente, Tutore e Studente.",
