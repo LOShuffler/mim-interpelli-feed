@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-09-09T14:05:17.372Z",
-  "completedAt": "2026-09-09T14:05:52.411Z",
+  "retrievedAt": "2026-09-09T15:05:17.384Z",
+  "completedAt": "2026-09-09T15:05:52.483Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -88,7 +88,7 @@
         {
           "label": "Link interpello",
           "url": "https://nuvola.madisoft.it/file/api/public-file-preview/LOPM010008/4b6f38d9-448d-4b29-a889-2f176bdd1ce3",
-          "finalUrl": "https://auth.nuvola.madisoft.it/realms/nuvola/protocol/openid-connect/auth?scope=openid%20profile%20email&state=5759ce308a8e7eb2a0cd7c9cab719b0d&response_type=code&approval_prompt=auto&redirect_uri=https%3A%2F%2Fnuvola.madisoft.it%2Fconnect%2Fauthentication-service%2Fcheck&client_id=web",
+          "finalUrl": "https://auth.nuvola.madisoft.it/realms/nuvola/protocol/openid-connect/auth?scope=openid%20profile%20email&state=9970b3f579dd4f9aef73f350cde40b7d&response_type=code&approval_prompt=auto&redirect_uri=https%3A%2F%2Fnuvola.madisoft.it%2Fconnect%2Fauthentication-service%2Fcheck&client_id=web",
           "httpStatus": 200,
           "title": "Accedi in Nuvola",
           "subtitle": "Accedi al portale della tua scuola. Entra come Ata, Docente, Tutore e Studente.",
@@ -114,11 +114,11 @@
         {
           "label": "Link interpello",
           "url": "https://nuvola.madisoft.it/mad/LOIC80900D/interpelli",
-          "finalUrl": "https://nuvola.madisoft.it/mad/LOIC80900D/interpelli",
+          "finalUrl": "https://nuvola.madisoft.it/interpelli/LOIC80900D/docenti",
           "httpStatus": 200,
-          "title": "LOIC80900D",
-          "subtitle": "",
-          "text": "Nuvola Invio candidatura per \"IC Casalpusterlengo\" Interpelli personale docente Attenzione: L'istituto non ha interpelli docente aperti alle candidature per la data odierna. Riprovare nei prossimi giorni o rivolgersi alla segreteria della scuola. Grazie. COOKIE POLICY NUVOLA by MADISOFT"
+          "title": "Interpelli per: Personale docente",
+          "subtitle": "Nuvola - Interpelli",
+          "text": "nuvola Gestione Interpelli IC Casalpusterlengo Codice meccanografico: LOIC80900D CASALPUSTERLENGO (LO) Interpelli per: Personale Docente Cambia ruolo Nessun interpello aperto Non ci sono elementi per la categoria selezionata."
         }
       ],
       "attachments": []
