@@ -6,22 +6,123 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-09-10T11:05:34.221Z",
-  "completedAt": "2026-09-10T11:06:09.316Z",
+  "retrievedAt": "2026-09-10T12:05:17.020Z",
+  "completedAt": "2026-09-10T12:05:55.031Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 25660,
+    "textLength": 25521,
     "discoveredCount": 200,
     "safetyLimited": false,
     "processedCount": 4
   },
-  "recentEvents": [],
+  "recentEvents": [
+    {
+      "id": "dc3fe5e59f67fdbf",
+      "type": "new",
+      "detectedAt": "2026-09-10T12:05:17.020Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/interpello-infanzia-caselle",
+      "item": {
+        "id": "97b5b6bf6231fca0",
+        "position": 1,
+        "collectionReason": "new",
+        "listLabel": "I.C. Maleo",
+        "listContext": "10 settembre 2026 Interpelli ricerca supplenti I.C. Maleo Interpello Scuola Infanzia Caselle",
+        "title": "I.C. Maleo",
+        "subtitle": "Interpello Scuola Infanzia Caselle",
+        "publicationDate": "10 settembre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/interpello-infanzia-caselle",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/interpello-infanzia-caselle",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://www.iccsmaleo.edu.it/tipologia-articolo/interpello/",
+            "finalUrl": "https://www.iccsmaleo.edu.it/tipologia-articolo/interpello/",
+            "httpStatus": 200,
+            "title": "Interpello infanzia Caselle",
+            "subtitle": "",
+            "text": "2026 10 Set Interpello infanzia Caselle Si pubblica interpello relativo ad un posto comune fino al 2-10."
+          }
+        ],
+        "attachments": [
+          {
+            "text": "Le carte della scuola",
+            "href": "https://www.iccsmaleo.edu.it/documento/",
+            "title": "",
+            "context": "Le carte della scuola",
+            "status": 200,
+            "contentType": "text/html; charset=UTF-8",
+            "bytes": 273836,
+            "file": "items/01-I.C.-Maleo/01-attachment"
+          },
+          {
+            "text": "Albo online",
+            "href": "https://www.iccsmaleo.edu.it/tipologia-documento/albo-online/",
+            "title": "",
+            "context": "Albo online",
+            "status": 200,
+            "contentType": "text/html; charset=UTF-8",
+            "bytes": 256755,
+            "file": "items/01-I.C.-Maleo/02-attachment"
+          }
+        ]
+      }
+    }
+  ],
   "latestFour": [
     {
-      "id": "ba7c956ea04a3703",
+      "id": "97b5b6bf6231fca0",
       "position": 1,
+      "collectionReason": "new",
+      "listLabel": "I.C. Maleo",
+      "listContext": "10 settembre 2026 Interpelli ricerca supplenti I.C. Maleo Interpello Scuola Infanzia Caselle",
+      "title": "I.C. Maleo",
+      "subtitle": "Interpello Scuola Infanzia Caselle",
+      "publicationDate": "10 settembre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/interpello-infanzia-caselle",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/interpello-infanzia-caselle",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://www.iccsmaleo.edu.it/tipologia-articolo/interpello/",
+          "finalUrl": "https://www.iccsmaleo.edu.it/tipologia-articolo/interpello/",
+          "httpStatus": 200,
+          "title": "Interpello infanzia Caselle",
+          "subtitle": "",
+          "text": "2026 10 Set Interpello infanzia Caselle Si pubblica interpello relativo ad un posto comune fino al 2-10."
+        }
+      ],
+      "attachments": [
+        {
+          "text": "Le carte della scuola",
+          "href": "https://www.iccsmaleo.edu.it/documento/",
+          "title": "",
+          "context": "Le carte della scuola",
+          "status": 200,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 273836,
+          "file": "items/01-I.C.-Maleo/01-attachment"
+        },
+        {
+          "text": "Albo online",
+          "href": "https://www.iccsmaleo.edu.it/tipologia-documento/albo-online/",
+          "title": "",
+          "context": "Albo online",
+          "status": 200,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 256755,
+          "file": "items/01-I.C.-Maleo/02-attachment"
+        }
+      ]
+    },
+    {
+      "id": "ba7c956ea04a3703",
+      "position": 2,
       "collectionReason": "refresh",
       "listLabel": "I.C. Lodi III",
       "listContext": "27 maggio 2026 Interpelli ricerca supplenti I.C. Lodi III Interpello posto comune scuola primaria",
@@ -47,7 +148,7 @@
     },
     {
       "id": "e5805db91a2af2f2",
-      "position": 2,
+      "position": 3,
       "collectionReason": "refresh",
       "listLabel": "I.C. Lodi I",
       "listContext": "25 maggio 2026 Interpelli ricerca supplenti I.C. Lodi I Interpello su n.1 posto EE alt. IRC dal 25/05 al 29/05",
@@ -73,7 +174,7 @@
     },
     {
       "id": "e2b466e52444588a",
-      "position": 3,
+      "position": 4,
       "collectionReason": "refresh",
       "listLabel": "Liceo Statale \"M. Vegio\" Lodi",
       "listContext": "20 maggio 2026 Interpelli ricerca supplenti Liceo Statale \"M. Vegio\" Lodi INTERPELLO URGENTE CDC A027 - MATEMATICA E FISICA",
@@ -88,37 +189,11 @@
         {
           "label": "Link interpello",
           "url": "https://nuvola.madisoft.it/file/api/public-file-preview/LOPM010008/4b6f38d9-448d-4b29-a889-2f176bdd1ce3",
-          "finalUrl": "https://auth.nuvola.madisoft.it/realms/nuvola/protocol/openid-connect/auth?scope=openid%20profile%20email&state=4433e762bb9c6fe7d004405f702829eb&response_type=code&approval_prompt=auto&redirect_uri=https%3A%2F%2Fnuvola.madisoft.it%2Fconnect%2Fauthentication-service%2Fcheck&client_id=web",
+          "finalUrl": "https://auth.nuvola.madisoft.it/realms/nuvola/protocol/openid-connect/auth?scope=openid%20profile%20email&state=9281775950f83ec69a7b8fc555fd5105&response_type=code&approval_prompt=auto&redirect_uri=https%3A%2F%2Fnuvola.madisoft.it%2Fconnect%2Fauthentication-service%2Fcheck&client_id=web",
           "httpStatus": 200,
           "title": "Accedi in Nuvola",
           "subtitle": "Accedi al portale della tua scuola. Entra come Ata, Docente, Tutore e Studente.",
           "text": "Accedi in Nuvola Accedi con la tua identità digitale SPID/CIE Usa le credenziali Nome utente Password Login Credenziali dimenticate? Copyright © Madisoft S.p.A., con socio unico, Direzione e coordinamento Gruppo Buffetti S.p.A."
-        }
-      ],
-      "attachments": []
-    },
-    {
-      "id": "921402aadb4039dd",
-      "position": 4,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. Casalpusterlengo",
-      "listContext": "18 maggio 2026 Interpelli ricerca supplenti I.C. Casalpusterlengo interpello Scuola Primaria posto comune",
-      "title": "I.C. Casalpusterlengo",
-      "subtitle": "interpello Scuola Primaria posto comune",
-      "publicationDate": "18 maggio 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-casalpusterlengo-30",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-casalpusterlengo-30",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://nuvola.madisoft.it/mad/LOIC80900D/interpelli",
-          "finalUrl": "https://nuvola.madisoft.it/interpelli/LOIC80900D/docenti",
-          "httpStatus": 200,
-          "title": "Interpelli per: Personale docente",
-          "subtitle": "Nuvola - Interpelli",
-          "text": "nuvola Gestione Interpelli IC Casalpusterlengo Codice meccanografico: LOIC80900D CASALPUSTERLENGO (LO) Interpelli per: Personale Docente Cambia ruolo Nessun interpello aperto Non ci sono elementi per la categoria selezionata."
         }
       ],
       "attachments": []
