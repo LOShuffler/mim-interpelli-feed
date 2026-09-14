@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-09-14T08:05:48.900Z",
-  "completedAt": "2026-09-14T08:06:29.001Z",
+  "retrievedAt": "2026-09-14T09:05:33.406Z",
+  "completedAt": "2026-09-14T09:06:08.392Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -98,7 +98,7 @@
     {
       "id": "1000604163c4d67b",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Mulazzano",
       "listContext": "14 settembre 2026 Interpelli ricerca supplenti I.C. Mulazzano Interpello per n. 6 ORE SCUOLA SECONDARIA AG77; n. 3 ore SCUOLA SECONDARIA AN56",
       "title": "I.C. Mulazzano",
