@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-09-14T12:05:32.195Z",
-  "completedAt": "2026-09-14T12:06:07.378Z",
+  "retrievedAt": "2026-09-14T13:05:32.055Z",
+  "completedAt": "2026-09-14T13:06:06.761Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -130,7 +130,7 @@
     {
       "id": "ab33703d764139b9",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "Liceo \"G. Novello\" Codogno",
       "listContext": "14 settembre 2026 Interpelli ricerca supplenti Liceo \"G. Novello\" Codogno Interpello BA02 conversazione francese",
       "title": "Liceo \"G. Novello\" Codogno",
