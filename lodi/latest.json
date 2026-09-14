@@ -6,18 +6,50 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-09-14T09:05:33.406Z",
-  "completedAt": "2026-09-14T09:06:08.392Z",
+  "retrievedAt": "2026-09-14T12:05:32.195Z",
+  "completedAt": "2026-09-14T12:06:07.378Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 25356,
+    "textLength": 25329,
     "discoveredCount": 200,
     "safetyLimited": false,
     "processedCount": 4
   },
   "recentEvents": [
+    {
+      "id": "a10c4035bbe2d7b0",
+      "type": "new",
+      "detectedAt": "2026-09-14T12:05:32.195Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/liceo-g-novello-codogno",
+      "item": {
+        "id": "ab33703d764139b9",
+        "position": 1,
+        "collectionReason": "new",
+        "listLabel": "Liceo \"G. Novello\" Codogno",
+        "listContext": "14 settembre 2026 Interpelli ricerca supplenti Liceo \"G. Novello\" Codogno Interpello BA02 conversazione francese",
+        "title": "Liceo \"G. Novello\" Codogno",
+        "subtitle": "Interpello BA02 conversazione francese",
+        "publicationDate": "14 settembre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/liceo-g-novello-codogno",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/liceo-g-novello-codogno",
+        "httpStatus": 200,
+        "text": "Link pagina interpello",
+        "pages": [
+          {
+            "label": "Link pagina interpello",
+            "url": "https://madinterpello.portaleargo.it/index.html",
+            "finalUrl": "https://madinterpello.portaleargo.it/index.html#/",
+            "httpStatus": 200,
+            "title": "Argo MAD INTERPELLO",
+            "subtitle": "",
+            "text": "Mad - Interpello Benvenuti nel portale Argo MAD - Interpello, lo strumento mediante il quale inviare la propria domanda di supplenza alle scuole Argo. Scarica il manuale su come utilizzare la piattaforma. Per eventuali richieste di supporto è possibile inviare una mail a: mad@argosoft.it. Argo MAD INTERPELLO Invia la tua domanda di supplenza alle scuole Argo Seleziona Operazione Mad-Interpello / Argo - Vers. 4.3.0"
+          }
+        ],
+        "attachments": []
+      }
+    },
     {
       "id": "ced89b982606bd12",
       "type": "new",
@@ -96,8 +128,34 @@
   ],
   "latestFour": [
     {
-      "id": "1000604163c4d67b",
+      "id": "ab33703d764139b9",
       "position": 1,
+      "collectionReason": "new",
+      "listLabel": "Liceo \"G. Novello\" Codogno",
+      "listContext": "14 settembre 2026 Interpelli ricerca supplenti Liceo \"G. Novello\" Codogno Interpello BA02 conversazione francese",
+      "title": "Liceo \"G. Novello\" Codogno",
+      "subtitle": "Interpello BA02 conversazione francese",
+      "publicationDate": "14 settembre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/liceo-g-novello-codogno",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/liceo-g-novello-codogno",
+      "httpStatus": 200,
+      "text": "Link pagina interpello",
+      "pages": [
+        {
+          "label": "Link pagina interpello",
+          "url": "https://madinterpello.portaleargo.it/index.html",
+          "finalUrl": "https://madinterpello.portaleargo.it/index.html#/",
+          "httpStatus": 200,
+          "title": "Argo MAD INTERPELLO",
+          "subtitle": "",
+          "text": "Mad - Interpello Benvenuti nel portale Argo MAD - Interpello, lo strumento mediante il quale inviare la propria domanda di supplenza alle scuole Argo. Scarica il manuale su come utilizzare la piattaforma. Per eventuali richieste di supporto è possibile inviare una mail a: mad@argosoft.it. Argo MAD INTERPELLO Invia la tua domanda di supplenza alle scuole Argo Seleziona Operazione Mad-Interpello / Argo - Vers. 4.3.0"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "1000604163c4d67b",
+      "position": 2,
       "collectionReason": "refresh",
       "listLabel": "I.C. Mulazzano",
       "listContext": "14 settembre 2026 Interpelli ricerca supplenti I.C. Mulazzano Interpello per n. 6 ORE SCUOLA SECONDARIA AG77; n. 3 ore SCUOLA SECONDARIA AN56",
@@ -113,7 +171,7 @@
     },
     {
       "id": "97b5b6bf6231fca0",
-      "position": 2,
+      "position": 3,
       "collectionReason": "refresh",
       "listLabel": "I.C. Maleo",
       "listContext": "10 settembre 2026 Interpelli ricerca supplenti I.C. Maleo Interpello Scuola Infanzia Caselle",
@@ -144,7 +202,7 @@
           "status": 200,
           "contentType": "text/html; charset=UTF-8",
           "bytes": 273836,
-          "file": "items/02-I.C.-Maleo/01-attachment"
+          "file": "items/03-I.C.-Maleo/01-attachment"
         },
         {
           "text": "Albo online",
@@ -154,13 +212,13 @@
           "status": 200,
           "contentType": "text/html; charset=UTF-8",
           "bytes": 256755,
-          "file": "items/02-I.C.-Maleo/02-attachment"
+          "file": "items/03-I.C.-Maleo/02-attachment"
         }
       ]
     },
     {
       "id": "ba7c956ea04a3703",
-      "position": 3,
+      "position": 4,
       "collectionReason": "refresh",
       "listLabel": "I.C. Lodi III",
       "listContext": "27 maggio 2026 Interpelli ricerca supplenti I.C. Lodi III Interpello posto comune scuola primaria",
@@ -180,32 +238,6 @@
           "title": "Elenco interpelli",
           "subtitle": "",
           "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" LODI 3 \" Cerca Elenco interpelli Nessun interpello presente È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
-        }
-      ],
-      "attachments": []
-    },
-    {
-      "id": "e5805db91a2af2f2",
-      "position": 4,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. Lodi I",
-      "listContext": "25 maggio 2026 Interpelli ricerca supplenti I.C. Lodi I Interpello su n.1 posto EE alt. IRC dal 25/05 al 29/05",
-      "title": "I.C. Lodi I",
-      "subtitle": "Interpello su n.1 posto EE alt. IRC dal 25/05 al 29/05",
-      "publicationDate": "25 maggio 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-28",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-28",
-      "httpStatus": 200,
-      "text": "Link inerpello",
-      "pages": [
-        {
-          "label": "Link inerpello",
-          "url": "https://www.portaleargo.it/albopretorio/online/",
-          "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
-          "httpStatus": 200,
-          "title": "Albo Pretorio",
-          "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
-          "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
         }
       ],
       "attachments": []
