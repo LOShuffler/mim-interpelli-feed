@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-09-15T12:05:33.291Z",
-  "completedAt": "2026-09-15T12:06:09.444Z",
+  "retrievedAt": "2026-09-15T13:05:32.712Z",
+  "completedAt": "2026-09-15T13:06:07.507Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -162,7 +162,7 @@
     {
       "id": "2247050396d04180",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Lodi II",
       "listContext": "15 settembre 2026 Interpelli ricerca supplenti I.C. Lodi II Interpelli scuola infanzia, scuola primaria e scuola I grado",
       "title": "I.C. Lodi II",
