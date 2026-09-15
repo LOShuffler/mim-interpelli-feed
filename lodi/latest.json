@@ -6,18 +6,50 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-09-15T13:05:32.712Z",
-  "completedAt": "2026-09-15T13:06:07.507Z",
+  "retrievedAt": "2026-09-15T15:05:32.347Z",
+  "completedAt": "2026-09-15T15:06:05.897Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 25326,
+    "textLength": 25312,
     "discoveredCount": 200,
     "safetyLimited": false,
     "processedCount": 4
   },
   "recentEvents": [
+    {
+      "id": "9327d25399fb550c",
+      "type": "new",
+      "detectedAt": "2026-09-15T15:05:32.347Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-45",
+      "item": {
+        "id": "d7304899850fe2a7",
+        "position": 1,
+        "collectionReason": "new",
+        "listLabel": "I.C. Lodi III",
+        "listContext": "15 settembre 2026 Interpelli ricerca supplenti I.C. Lodi III Interpello posto comune primaria",
+        "title": "I.C. Lodi III",
+        "subtitle": "Interpello posto comune primaria",
+        "publicationDate": "15 settembre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-45",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-45",
+        "httpStatus": 200,
+        "text": "Link pagina interpello",
+        "pages": [
+          {
+            "label": "Link pagina interpello",
+            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013",
+            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013",
+            "httpStatus": 200,
+            "title": "Elenco interpelli",
+            "subtitle": "",
+            "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" LODI 3 \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio ARTE E IMMAGINE NELLA SCUOLA SECONDARIA DI I GRADO AM01 ARTE E IMMAGINE NELLA SCUOLA SECONDARIA DI I GRADO 17/09/2026 02/02/2027 LOIC814001 IC LODI TERZO Iscriviti INTERPELLO POSTO COMUNE SCUOLA PRIMARIA ADEE Sostegno scuola primaria 17/09/2026 30/06/2027 LOIC814001 IC LODI TERZO Iscriviti INTERPELLO POSTO COMUNE SCUOLA PRIMARIA EEEE Insegnante posto comune scuola primaria 17/09/2026 30/06/2027 LOIC814001 I.C. LODI III Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+          }
+        ],
+        "attachments": []
+      }
+    },
     {
       "id": "2259a1c70522da09",
       "type": "new",
@@ -160,8 +192,34 @@
   ],
   "latestFour": [
     {
-      "id": "2247050396d04180",
+      "id": "d7304899850fe2a7",
       "position": 1,
+      "collectionReason": "new",
+      "listLabel": "I.C. Lodi III",
+      "listContext": "15 settembre 2026 Interpelli ricerca supplenti I.C. Lodi III Interpello posto comune primaria",
+      "title": "I.C. Lodi III",
+      "subtitle": "Interpello posto comune primaria",
+      "publicationDate": "15 settembre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-45",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-45",
+      "httpStatus": 200,
+      "text": "Link pagina interpello",
+      "pages": [
+        {
+          "label": "Link pagina interpello",
+          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013",
+          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013",
+          "httpStatus": 200,
+          "title": "Elenco interpelli",
+          "subtitle": "",
+          "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" LODI 3 \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio ARTE E IMMAGINE NELLA SCUOLA SECONDARIA DI I GRADO AM01 ARTE E IMMAGINE NELLA SCUOLA SECONDARIA DI I GRADO 17/09/2026 02/02/2027 LOIC814001 IC LODI TERZO Iscriviti INTERPELLO POSTO COMUNE SCUOLA PRIMARIA ADEE Sostegno scuola primaria 17/09/2026 30/06/2027 LOIC814001 IC LODI TERZO Iscriviti INTERPELLO POSTO COMUNE SCUOLA PRIMARIA EEEE Insegnante posto comune scuola primaria 17/09/2026 30/06/2027 LOIC814001 I.C. LODI III Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "2247050396d04180",
+      "position": 2,
       "collectionReason": "refresh",
       "listLabel": "I.C. Lodi II",
       "listContext": "15 settembre 2026 Interpelli ricerca supplenti I.C. Lodi II Interpelli scuola infanzia, scuola primaria e scuola I grado",
@@ -187,7 +245,7 @@
     },
     {
       "id": "ab33703d764139b9",
-      "position": 2,
+      "position": 3,
       "collectionReason": "refresh",
       "listLabel": "Liceo \"G. Novello\" Codogno",
       "listContext": "14 settembre 2026 Interpelli ricerca supplenti Liceo \"G. Novello\" Codogno Interpello BA02 conversazione francese",
@@ -213,7 +271,7 @@
     },
     {
       "id": "1000604163c4d67b",
-      "position": 3,
+      "position": 4,
       "collectionReason": "refresh",
       "listLabel": "I.C. Mulazzano",
       "listContext": "14 settembre 2026 Interpelli ricerca supplenti I.C. Mulazzano Interpello per n. 6 ORE SCUOLA SECONDARIA AG77; n. 3 ore SCUOLA SECONDARIA AN56",
@@ -226,53 +284,6 @@
       "text": "Link interpello",
       "pages": [],
       "attachments": []
-    },
-    {
-      "id": "97b5b6bf6231fca0",
-      "position": 4,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. Maleo",
-      "listContext": "10 settembre 2026 Interpelli ricerca supplenti I.C. Maleo Interpello Scuola Infanzia Caselle",
-      "title": "I.C. Maleo",
-      "subtitle": "Interpello Scuola Infanzia Caselle",
-      "publicationDate": "10 settembre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/interpello-infanzia-caselle",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/interpello-infanzia-caselle",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://www.iccsmaleo.edu.it/tipologia-articolo/interpello/",
-          "finalUrl": "https://www.iccsmaleo.edu.it/tipologia-articolo/interpello/",
-          "httpStatus": 200,
-          "title": "Interpello infanzia Caselle",
-          "subtitle": "",
-          "text": "2026 10 Set Interpello infanzia Caselle Si pubblica interpello relativo ad un posto comune fino al 2-10."
-        }
-      ],
-      "attachments": [
-        {
-          "text": "Le carte della scuola",
-          "href": "https://www.iccsmaleo.edu.it/documento/",
-          "title": "",
-          "context": "Le carte della scuola",
-          "status": 200,
-          "contentType": "text/html; charset=UTF-8",
-          "bytes": 273836,
-          "file": "items/04-I.C.-Maleo/01-attachment"
-        },
-        {
-          "text": "Albo online",
-          "href": "https://www.iccsmaleo.edu.it/tipologia-documento/albo-online/",
-          "title": "",
-          "context": "Albo online",
-          "status": 200,
-          "contentType": "text/html; charset=UTF-8",
-          "bytes": 256755,
-          "file": "items/04-I.C.-Maleo/02-attachment"
-        }
-      ]
     }
   ],
   "errors": []
