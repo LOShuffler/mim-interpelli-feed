@@ -6,18 +6,50 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-09-14T13:05:32.055Z",
-  "completedAt": "2026-09-14T13:06:06.761Z",
+  "retrievedAt": "2026-09-15T12:05:33.291Z",
+  "completedAt": "2026-09-15T12:06:09.444Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 25329,
+    "textLength": 25326,
     "discoveredCount": 200,
     "safetyLimited": false,
     "processedCount": 4
   },
   "recentEvents": [
+    {
+      "id": "2259a1c70522da09",
+      "type": "new",
+      "detectedAt": "2026-09-15T12:05:33.291Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-ii-58",
+      "item": {
+        "id": "2247050396d04180",
+        "position": 1,
+        "collectionReason": "new",
+        "listLabel": "I.C. Lodi II",
+        "listContext": "15 settembre 2026 Interpelli ricerca supplenti I.C. Lodi II Interpelli scuola infanzia, scuola primaria e scuola I grado",
+        "title": "I.C. Lodi II",
+        "subtitle": "Interpelli scuola infanzia, scuola primaria e scuola I grado",
+        "publicationDate": "15 settembre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-ii-58",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-ii-58",
+        "httpStatus": 200,
+        "text": "Link pagina interpelli",
+        "pages": [
+          {
+            "label": "Link pagina interpelli",
+            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0014",
+            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0014",
+            "httpStatus": 200,
+            "title": "Elenco interpelli",
+            "subtitle": "",
+            "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \"LODI 2\" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio INTERPELLO PER SUPPLENZA BREVE SCUOLA INFANZIA- POSTO COMUNE AAAA Insegnante posto comune scuola infanzia 17/09/2026 12/02/2027 LOAA812016 LODI VIA SPEZZAFERRI Iscriviti INTERPELLO PER SUPPLENZA BREVE SCUOLA SECONDARIA 1 GRADO A028 Matematica e scienze 17/09/2026 31/10/2026 LOMM81202B /LOMM81201A SAN MARTINO/BASIASCO Iscriviti INTERPELLO PER SUPPLENZA BREVE SCUOLA SECONDARIA 1 GRADO AM48 SCIENZE MOTORIE E SPORTIVE NELLA SCUOLA SECONDARIA DI I GRADO 17/09/2026 18/09/2026 LOMM81203C LODI VIA SPEZZAFERRI Iscriviti INTERPELLO PER SUPPLENZA BREVE SCUOLA SECONDARIA 1 GRADO AM12 ITALIANO, STORIA, GEOGRAFIA NELLA SCUOLA SECONDARIA DI I GRADO 17/09/2026 08/06/2027 POTENZIAMENTO Iscriviti INTERPELLO PER SUPPLENZA BREVE SCUOLA SECONDARIA 1 GRADO AM12 ITALIANO, STORIA, GEOGRAFIA NELLA SCUOLA SECONDARIA DI I GRADO 17/09/2026 30/09/2026 LOMM81201A BASIASCO Iscriviti INTERPELLO PER SUPPLENZA BREVE SCUOLA SECONDARIA 1 GRADO ADMM Sostegno medie inferiori 17/09/2026 30/09/2026 LOMM81203C LODI VIA SPEZZAFERRI Iscriviti INTERPELLO PER SUPPLENZA BREVE SCUOLA PRIMARIA EEEE Insegnante posto comune scuola primaria 17/09/2026 22/09/2026 LOEE81201B LODI G.PASCOLI Iscriviti INTERPELLO PER SUPPLENZA BREVE SCUOLA PRIMARIA EEEE Insegnante posto comune scuola primaria 17/09/2026 08/06/2027 LOEE81201B LODI G.PASCOLI Iscriviti INTERPELLO PER SUPPLENZA BREVE SCUOLA PRIMARIA EEEE Insegnante posto comune scuola primaria 17/09/2026 30/09/2026 LOEE81204E SCUOLA PRIMARIA CAVENAGO D'ADDA Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+          }
+        ],
+        "attachments": []
+      }
+    },
     {
       "id": "a10c4035bbe2d7b0",
       "type": "new",
@@ -128,8 +160,34 @@
   ],
   "latestFour": [
     {
-      "id": "ab33703d764139b9",
+      "id": "2247050396d04180",
       "position": 1,
+      "collectionReason": "new",
+      "listLabel": "I.C. Lodi II",
+      "listContext": "15 settembre 2026 Interpelli ricerca supplenti I.C. Lodi II Interpelli scuola infanzia, scuola primaria e scuola I grado",
+      "title": "I.C. Lodi II",
+      "subtitle": "Interpelli scuola infanzia, scuola primaria e scuola I grado",
+      "publicationDate": "15 settembre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-ii-58",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-ii-58",
+      "httpStatus": 200,
+      "text": "Link pagina interpelli",
+      "pages": [
+        {
+          "label": "Link pagina interpelli",
+          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0014",
+          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0014",
+          "httpStatus": 200,
+          "title": "Elenco interpelli",
+          "subtitle": "",
+          "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \"LODI 2\" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio INTERPELLO PER SUPPLENZA BREVE SCUOLA INFANZIA- POSTO COMUNE AAAA Insegnante posto comune scuola infanzia 17/09/2026 12/02/2027 LOAA812016 LODI VIA SPEZZAFERRI Iscriviti INTERPELLO PER SUPPLENZA BREVE SCUOLA SECONDARIA 1 GRADO A028 Matematica e scienze 17/09/2026 31/10/2026 LOMM81202B /LOMM81201A SAN MARTINO/BASIASCO Iscriviti INTERPELLO PER SUPPLENZA BREVE SCUOLA SECONDARIA 1 GRADO AM48 SCIENZE MOTORIE E SPORTIVE NELLA SCUOLA SECONDARIA DI I GRADO 17/09/2026 18/09/2026 LOMM81203C LODI VIA SPEZZAFERRI Iscriviti INTERPELLO PER SUPPLENZA BREVE SCUOLA SECONDARIA 1 GRADO AM12 ITALIANO, STORIA, GEOGRAFIA NELLA SCUOLA SECONDARIA DI I GRADO 17/09/2026 08/06/2027 POTENZIAMENTO Iscriviti INTERPELLO PER SUPPLENZA BREVE SCUOLA SECONDARIA 1 GRADO AM12 ITALIANO, STORIA, GEOGRAFIA NELLA SCUOLA SECONDARIA DI I GRADO 17/09/2026 30/09/2026 LOMM81201A BASIASCO Iscriviti INTERPELLO PER SUPPLENZA BREVE SCUOLA SECONDARIA 1 GRADO ADMM Sostegno medie inferiori 17/09/2026 30/09/2026 LOMM81203C LODI VIA SPEZZAFERRI Iscriviti INTERPELLO PER SUPPLENZA BREVE SCUOLA PRIMARIA EEEE Insegnante posto comune scuola primaria 17/09/2026 22/09/2026 LOEE81201B LODI G.PASCOLI Iscriviti INTERPELLO PER SUPPLENZA BREVE SCUOLA PRIMARIA EEEE Insegnante posto comune scuola primaria 17/09/2026 08/06/2027 LOEE81201B LODI G.PASCOLI Iscriviti INTERPELLO PER SUPPLENZA BREVE SCUOLA PRIMARIA EEEE Insegnante posto comune scuola primaria 17/09/2026 30/09/2026 LOEE81204E SCUOLA PRIMARIA CAVENAGO D'ADDA Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "ab33703d764139b9",
+      "position": 2,
       "collectionReason": "refresh",
       "listLabel": "Liceo \"G. Novello\" Codogno",
       "listContext": "14 settembre 2026 Interpelli ricerca supplenti Liceo \"G. Novello\" Codogno Interpello BA02 conversazione francese",
@@ -155,7 +213,7 @@
     },
     {
       "id": "1000604163c4d67b",
-      "position": 2,
+      "position": 3,
       "collectionReason": "refresh",
       "listLabel": "I.C. Mulazzano",
       "listContext": "14 settembre 2026 Interpelli ricerca supplenti I.C. Mulazzano Interpello per n. 6 ORE SCUOLA SECONDARIA AG77; n. 3 ore SCUOLA SECONDARIA AN56",
@@ -171,7 +229,7 @@
     },
     {
       "id": "97b5b6bf6231fca0",
-      "position": 3,
+      "position": 4,
       "collectionReason": "refresh",
       "listLabel": "I.C. Maleo",
       "listContext": "10 settembre 2026 Interpelli ricerca supplenti I.C. Maleo Interpello Scuola Infanzia Caselle",
@@ -202,7 +260,7 @@
           "status": 200,
           "contentType": "text/html; charset=UTF-8",
           "bytes": 273836,
-          "file": "items/03-I.C.-Maleo/01-attachment"
+          "file": "items/04-I.C.-Maleo/01-attachment"
         },
         {
           "text": "Albo online",
@@ -212,35 +270,9 @@
           "status": 200,
           "contentType": "text/html; charset=UTF-8",
           "bytes": 256755,
-          "file": "items/03-I.C.-Maleo/02-attachment"
+          "file": "items/04-I.C.-Maleo/02-attachment"
         }
       ]
-    },
-    {
-      "id": "ba7c956ea04a3703",
-      "position": 4,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. Lodi III",
-      "listContext": "27 maggio 2026 Interpelli ricerca supplenti I.C. Lodi III Interpello posto comune scuola primaria",
-      "title": "I.C. Lodi III",
-      "subtitle": "Interpello posto comune scuola primaria",
-      "publicationDate": "27 maggio 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-44",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-44",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/0551c44c-d38c-4a76-8b7d-b48b2bffe61b",
-          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/0551c44c-d38c-4a76-8b7d-b48b2bffe61b",
-          "httpStatus": 200,
-          "title": "Elenco interpelli",
-          "subtitle": "",
-          "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" LODI 3 \" Cerca Elenco interpelli Nessun interpello presente È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
-        }
-      ],
-      "attachments": []
     }
   ],
   "errors": []
