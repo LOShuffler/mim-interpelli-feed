@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-09-15T15:05:32.347Z",
-  "completedAt": "2026-09-15T15:06:05.897Z",
+  "retrievedAt": "2026-09-15T16:05:33.362Z",
+  "completedAt": "2026-09-15T16:06:05.947Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -194,7 +194,7 @@
     {
       "id": "d7304899850fe2a7",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Lodi III",
       "listContext": "15 settembre 2026 Interpelli ricerca supplenti I.C. Lodi III Interpello posto comune primaria",
       "title": "I.C. Lodi III",
@@ -212,7 +212,7 @@
           "httpStatus": 200,
           "title": "Elenco interpelli",
           "subtitle": "",
-          "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" LODI 3 \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio ARTE E IMMAGINE NELLA SCUOLA SECONDARIA DI I GRADO AM01 ARTE E IMMAGINE NELLA SCUOLA SECONDARIA DI I GRADO 17/09/2026 02/02/2027 LOIC814001 IC LODI TERZO Iscriviti INTERPELLO POSTO COMUNE SCUOLA PRIMARIA ADEE Sostegno scuola primaria 17/09/2026 30/06/2027 LOIC814001 IC LODI TERZO Iscriviti INTERPELLO POSTO COMUNE SCUOLA PRIMARIA EEEE Insegnante posto comune scuola primaria 17/09/2026 30/06/2027 LOIC814001 I.C. LODI III Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+          "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" LODI 3 \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio docente matematica e scienze A028 Matematica e scienze 17/09/2026 14/10/2026 LOIC814001 I.C. LODI III Iscriviti ARTE E IMMAGINE NELLA SCUOLA SECONDARIA DI I GRADO AM01 ARTE E IMMAGINE NELLA SCUOLA SECONDARIA DI I GRADO 17/09/2026 02/02/2027 LOIC814001 IC LODI TERZO Iscriviti INTERPELLO POSTO COMUNE SCUOLA PRIMARIA ADEE Sostegno scuola primaria 17/09/2026 30/06/2027 LOIC814001 IC LODI TERZO Iscriviti INTERPELLO POSTO COMUNE SCUOLA PRIMARIA EEEE Insegnante posto comune scuola primaria 17/09/2026 30/06/2027 LOIC814001 I.C. LODI III Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
         }
       ],
       "attachments": []
