@@ -6,13 +6,13 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-09-15T16:05:33.362Z",
-  "completedAt": "2026-09-15T16:06:05.947Z",
+  "retrievedAt": "2026-09-16T07:05:33.220Z",
+  "completedAt": "2026-09-16T07:06:06.473Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 25312,
+    "textLength": 25332,
     "discoveredCount": 200,
     "safetyLimited": false,
     "processedCount": 4
@@ -194,12 +194,12 @@
     {
       "id": "d7304899850fe2a7",
       "position": 1,
-      "collectionReason": "refresh",
+      "collectionReason": "changed",
       "listLabel": "I.C. Lodi III",
-      "listContext": "15 settembre 2026 Interpelli ricerca supplenti I.C. Lodi III Interpello posto comune primaria",
+      "listContext": "16 settembre 2026 Interpelli ricerca supplenti I.C. Lodi III Interpello posto comune primaria, sostegno e I grado",
       "title": "I.C. Lodi III",
-      "subtitle": "Interpello posto comune primaria",
-      "publicationDate": "15 settembre 2026",
+      "subtitle": "Interpello posto comune primaria, sostegno e I grado",
+      "publicationDate": "16 settembre 2026",
       "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-45",
       "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-45",
       "httpStatus": 200,
