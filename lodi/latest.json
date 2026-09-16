@@ -6,18 +6,114 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-09-16T11:05:33.012Z",
-  "completedAt": "2026-09-16T11:06:08.073Z",
+  "retrievedAt": "2026-09-16T12:05:33.092Z",
+  "completedAt": "2026-09-16T12:06:07.978Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 25352,
+    "textLength": 25351,
     "discoveredCount": 200,
     "safetyLimited": false,
     "processedCount": 4
   },
   "recentEvents": [
+    {
+      "id": "2086b5952794b395",
+      "type": "new",
+      "detectedAt": "2026-09-16T12:05:33.092Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-47",
+      "item": {
+        "id": "3c2db2f7b4445432",
+        "position": 1,
+        "collectionReason": "new",
+        "listLabel": "I.C. Lodi III",
+        "listContext": "16 settembre 2026 Interpelli ricerca supplenti I.C. Lodi III Posto comune A028 matematica e scienze",
+        "title": "I.C. Lodi III",
+        "subtitle": "Posto comune A028 matematica e scienze",
+        "publicationDate": "16 settembre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-47",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-47",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/8e93420f-d2b3-46df-a851-f1f9b34a3873",
+            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/8e93420f-d2b3-46df-a851-f1f9b34a3873",
+            "httpStatus": 200,
+            "title": "Elenco interpelli",
+            "subtitle": "",
+            "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" LODI 3 \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio docente matematica e scienze A028 Matematica e scienze 17/09/2026 14/10/2026 LOIC814001 I.C. LODI III Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+          }
+        ],
+        "attachments": []
+      }
+    },
+    {
+      "id": "767bc42d93ff20a1",
+      "type": "new",
+      "detectedAt": "2026-09-16T12:05:33.092Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-46",
+      "item": {
+        "id": "c7f26a0404cd44ee",
+        "position": 2,
+        "collectionReason": "new",
+        "listLabel": "I.C. Lodi III",
+        "listContext": "16 settembre 2026 Interpelli ricerca supplenti I.C. Lodi III ARTE E IMMAGINE NELLA SCUOLA SECONDARIA DI I GRADO",
+        "title": "I.C. Lodi III",
+        "subtitle": "ARTE E IMMAGINE NELLA SCUOLA SECONDARIA DI I GRADO",
+        "publicationDate": "16 settembre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-46",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-46",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/2c9ae597-696c-4c80-8a7b-e153c6e2b1d3",
+            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/2c9ae597-696c-4c80-8a7b-e153c6e2b1d3",
+            "httpStatus": 200,
+            "title": "Elenco interpelli",
+            "subtitle": "",
+            "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" LODI 3 \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio ARTE E IMMAGINE NELLA SCUOLA SECONDARIA DI I GRADO AM01 ARTE E IMMAGINE NELLA SCUOLA SECONDARIA DI I GRADO 17/09/2026 02/02/2027 LOIC814001 IC LODI TERZO Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+          }
+        ],
+        "attachments": []
+      }
+    },
+    {
+      "id": "501547aeec383457",
+      "type": "new",
+      "detectedAt": "2026-09-16T12:05:33.092Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-fellini-di-tavazzano",
+      "item": {
+        "id": "20775c8cd381a952",
+        "position": 3,
+        "collectionReason": "new",
+        "listLabel": "I.C. \"Fellini\" di Tavazzano",
+        "listContext": "16 settembre 2026 Interpelli ricerca supplenti I.C. \"Fellini\" di Tavazzano Posto SOSTEGNO - SCUOLA INFANZIA fino al 30/06/2027",
+        "title": "I.C. \"Fellini\" di Tavazzano",
+        "subtitle": "Posto SOSTEGNO - SCUOLA INFANZIA fino al 30/06/2027",
+        "publicationDate": "16 settembre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-fellini-di-tavazzano",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-fellini-di-tavazzano",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0001/dd82ddad-5a7a-4c0b-8466-abbf159093dc",
+            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0001/dd82ddad-5a7a-4c0b-8466-abbf159093dc",
+            "httpStatus": 200,
+            "title": "Elenco interpelli",
+            "subtitle": "",
+            "text": "Interpelli ISTITUTO COMPRENSIVO \"F. FELLINI\" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio Interpello nazionale per reperimento docenti su tipo di posto SOSTEGNO - SCUOLA INFANZIA fino al 30/06/2027 ADAA Sostegno scuola dell'infanzia 21/09/2026 30/06/2027 LOAA80000V Scuola Infanzia di Tavazzano e Sordio Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+          }
+        ],
+        "attachments": []
+      }
+    },
     {
       "id": "988da7e6e9dfa20c",
       "type": "new",
@@ -288,9 +384,87 @@
   ],
   "latestFour": [
     {
-      "id": "4c1ef23467c1b95c",
+      "id": "3c2db2f7b4445432",
       "position": 1,
       "collectionReason": "new",
+      "listLabel": "I.C. Lodi III",
+      "listContext": "16 settembre 2026 Interpelli ricerca supplenti I.C. Lodi III Posto comune A028 matematica e scienze",
+      "title": "I.C. Lodi III",
+      "subtitle": "Posto comune A028 matematica e scienze",
+      "publicationDate": "16 settembre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-47",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-47",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/8e93420f-d2b3-46df-a851-f1f9b34a3873",
+          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/8e93420f-d2b3-46df-a851-f1f9b34a3873",
+          "httpStatus": 200,
+          "title": "Elenco interpelli",
+          "subtitle": "",
+          "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" LODI 3 \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio docente matematica e scienze A028 Matematica e scienze 17/09/2026 14/10/2026 LOIC814001 I.C. LODI III Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "c7f26a0404cd44ee",
+      "position": 2,
+      "collectionReason": "new",
+      "listLabel": "I.C. Lodi III",
+      "listContext": "16 settembre 2026 Interpelli ricerca supplenti I.C. Lodi III ARTE E IMMAGINE NELLA SCUOLA SECONDARIA DI I GRADO",
+      "title": "I.C. Lodi III",
+      "subtitle": "ARTE E IMMAGINE NELLA SCUOLA SECONDARIA DI I GRADO",
+      "publicationDate": "16 settembre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-46",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-46",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/2c9ae597-696c-4c80-8a7b-e153c6e2b1d3",
+          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/2c9ae597-696c-4c80-8a7b-e153c6e2b1d3",
+          "httpStatus": 200,
+          "title": "Elenco interpelli",
+          "subtitle": "",
+          "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" LODI 3 \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio ARTE E IMMAGINE NELLA SCUOLA SECONDARIA DI I GRADO AM01 ARTE E IMMAGINE NELLA SCUOLA SECONDARIA DI I GRADO 17/09/2026 02/02/2027 LOIC814001 IC LODI TERZO Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "20775c8cd381a952",
+      "position": 3,
+      "collectionReason": "new",
+      "listLabel": "I.C. \"Fellini\" di Tavazzano",
+      "listContext": "16 settembre 2026 Interpelli ricerca supplenti I.C. \"Fellini\" di Tavazzano Posto SOSTEGNO - SCUOLA INFANZIA fino al 30/06/2027",
+      "title": "I.C. \"Fellini\" di Tavazzano",
+      "subtitle": "Posto SOSTEGNO - SCUOLA INFANZIA fino al 30/06/2027",
+      "publicationDate": "16 settembre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-fellini-di-tavazzano",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-fellini-di-tavazzano",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0001/dd82ddad-5a7a-4c0b-8466-abbf159093dc",
+          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0001/dd82ddad-5a7a-4c0b-8466-abbf159093dc",
+          "httpStatus": 200,
+          "title": "Elenco interpelli",
+          "subtitle": "",
+          "text": "Interpelli ISTITUTO COMPRENSIVO \"F. FELLINI\" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio Interpello nazionale per reperimento docenti su tipo di posto SOSTEGNO - SCUOLA INFANZIA fino al 30/06/2027 ADAA Sostegno scuola dell'infanzia 21/09/2026 30/06/2027 LOAA80000V Scuola Infanzia di Tavazzano e Sordio Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "4c1ef23467c1b95c",
+      "position": 4,
+      "collectionReason": "refresh",
       "listLabel": "I.C. Borghetto Lodigiano",
       "listContext": "16 settembre 2026 Interpelli ricerca supplenti I.C. Borghetto Lodigiano SELEZIONE PERSONALE DOCENTE SOSTEGNO SCUOLA PRIMARIA",
       "title": "I.C. Borghetto Lodigiano",
@@ -309,84 +483,6 @@
           "title": "INTERPELLO PER SELEZIONE PERSONALE DOCENTE SOSTEGNO SCUOLA PRIMARIA",
           "subtitle": "Nuvola - Interpelli",
           "text": "nuvola Gestione Interpelli Torna agli interpelli aperti STEP 1 Dati anagrafici Generalità e contatti STEP 2 Titoli e certificazioni Studio e lingue STEP 3 Abilitazioni Abilitazione all'insegnamento e servizio prestato STEP 4 Esperienze di servizio Incarichi svolti e periodi di servizio STEP 5 Allegati e dichiarazioni Curriculum, altri allegati e dichiarazioni finali STEP 6 Riepilogo Controlla i dati inseriti INTERPELLO PER SELEZIONE PERSONALE DOCENTE SOSTEGNO SCUOLA PRIMARIA Durata: 24 ore 0 minuti dal 18/09/2026 al 06/10/2026 Presentazione candidature: dal 16/09/2026 11:00 al 17/09/2026 11:00 Posti disponibili: 1 Annotazioni: A parità di ordine di priorità, la supplenza sarà conferita all'aspirante che abbia già prestato servizio di insegnamento presso questa istituzione scolastica, preferibilmente per la medesima tipologia di posto. Classe di concorso: ADEE Sostegno nella scuola Primaria Ordine di scuola: PRIMARIA Sede di servizio: IC BORGHETTO LODIGIANO STEP 1 DI 6 Dati anagrafici Generalità e contatti Generalità Generalità Nome Cognome Sesso Codice fiscale Data di nascita Comune di nascita Stato di nascita Residenza Residenza Indirizzo di residenza Comune di residenza CAP di residenza Contatti Contatti Email PEC Cellulare Cittadinanza Cittadinanza Cittadino Italiano Cittadino di uno Stato membro UE Cittadino non comunitario con diritto di soggiorno o soggiorno permanente Avanti"
-        }
-      ],
-      "attachments": []
-    },
-    {
-      "id": "0b3e642bb2c3d398",
-      "position": 2,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. Borghetto Lodigiano",
-      "listContext": "16 settembre 2026 Interpelli ricerca supplenti I.C. Borghetto Lodigiano SELEZIONE PERSONALE DOCENTE SCUOLA PRIMARIA",
-      "title": "I.C. Borghetto Lodigiano",
-      "subtitle": "SELEZIONE PERSONALE DOCENTE SCUOLA PRIMARIA",
-      "publicationDate": "16 settembre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-borghetto-lodigiano-8",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-borghetto-lodigiano-8",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://nuvola.madisoft.it/interpelli/LOIC80400A/docenti/068e88bd-12de-4292-9b81-861e5d07ed81/candidatura",
-          "finalUrl": "https://nuvola.madisoft.it/interpelli/LOIC80400A/docenti/068e88bd-12de-4292-9b81-861e5d07ed81/candidatura",
-          "httpStatus": 200,
-          "title": "INTERPELLO PER SELEZIONE PERSONALE DOCENTE SCUOLA PRIMARIA",
-          "subtitle": "Nuvola - Interpelli",
-          "text": "nuvola Gestione Interpelli Torna agli interpelli aperti STEP 1 Dati anagrafici Generalità e contatti STEP 2 Titoli e certificazioni Studio e lingue STEP 3 Abilitazioni Abilitazione all'insegnamento e servizio prestato STEP 4 Esperienze di servizio Incarichi svolti e periodi di servizio STEP 5 Allegati e dichiarazioni Curriculum, altri allegati e dichiarazioni finali STEP 6 Riepilogo Controlla i dati inseriti INTERPELLO PER SELEZIONE PERSONALE DOCENTE SCUOLA PRIMARIA Durata: 5 ore 0 minuti dal 18/09/2026 al 14/11/2026 Presentazione candidature: dal 16/09/2026 11:00 al 17/09/2026 11:00 Posti disponibili: 1 Annotazioni: A parità di ordine di priorità, la supplenza sarà conferita all'aspirante che abbia già prestato servizio di insegnamento presso questa istituzione scolastica, preferibilmente per la medesima tipologia di posto. Classe di concorso: Posto comune primaria Ordine di scuola: PRIMARIA Sede di servizio: IC BORGHETTO LODIGIANO STEP 1 DI 6 Dati anagrafici Generalità e contatti Generalità Generalità Nome Cognome Sesso Codice fiscale Data di nascita Comune di nascita Stato di nascita Residenza Residenza Indirizzo di residenza Comune di residenza CAP di residenza Contatti Contatti Email PEC Cellulare Cittadinanza Cittadinanza Cittadino Italiano Cittadino di uno Stato membro UE Cittadino non comunitario con diritto di soggiorno o soggiorno permanente Avanti"
-        }
-      ],
-      "attachments": []
-    },
-    {
-      "id": "bd3767aebe264236",
-      "position": 3,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. Borghetto Lodigiano",
-      "listContext": "16 settembre 2026 Interpelli ricerca supplenti I.C. Borghetto Lodigiano SELEZIONE PERSONALE DOCENTE SCUOLA PRIMARIA",
-      "title": "I.C. Borghetto Lodigiano",
-      "subtitle": "SELEZIONE PERSONALE DOCENTE SCUOLA PRIMARIA",
-      "publicationDate": "16 settembre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-borghetto-lodigiano-7",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-borghetto-lodigiano-7",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://nuvola.madisoft.it/interpelli/LOIC80400A/docenti/0695ae2b-ba91-46e2-9f69-ac40f8013e67/candidatura",
-          "finalUrl": "https://nuvola.madisoft.it/interpelli/LOIC80400A/docenti/0695ae2b-ba91-46e2-9f69-ac40f8013e67/candidatura",
-          "httpStatus": 200,
-          "title": "INTERPELLO PER SELEZIONE PERSONALE DOCENTE SCUOLA PRIMARIA",
-          "subtitle": "Nuvola - Interpelli",
-          "text": "nuvola Gestione Interpelli Torna agli interpelli aperti STEP 1 Dati anagrafici Generalità e contatti STEP 2 Titoli e certificazioni Studio e lingue STEP 3 Abilitazioni Abilitazione all'insegnamento e servizio prestato STEP 4 Esperienze di servizio Incarichi svolti e periodi di servizio STEP 5 Allegati e dichiarazioni Curriculum, altri allegati e dichiarazioni finali STEP 6 Riepilogo Controlla i dati inseriti INTERPELLO PER SELEZIONE PERSONALE DOCENTE SCUOLA PRIMARIA Durata: 24 ore 0 minuti dal 18/09/2026 al 11/01/2027 Presentazione candidature: dal 16/09/2026 11:00 al 17/09/2026 11:00 Posti disponibili: 1 Annotazioni: A parità di ordine di priorità, la supplenza sarà conferita all'aspirante che abbia già prestato servizio di insegnamento presso questa istituzione scolastica, preferibilmente per la medesima tipologia di posto. Classe di concorso: Posto comune primaria Ordine di scuola: PRIMARIA Sede di servizio: IC BORGHETTO LODIGIANO STEP 1 DI 6 Dati anagrafici Generalità e contatti Generalità Generalità Nome Cognome Sesso Codice fiscale Data di nascita Comune di nascita Stato di nascita Residenza Residenza Indirizzo di residenza Comune di residenza CAP di residenza Contatti Contatti Email PEC Cellulare Cittadinanza Cittadinanza Cittadino Italiano Cittadino di uno Stato membro UE Cittadino non comunitario con diritto di soggiorno o soggiorno permanente Avanti"
-        }
-      ],
-      "attachments": []
-    },
-    {
-      "id": "d7304899850fe2a7",
-      "position": 4,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. Lodi III",
-      "listContext": "16 settembre 2026 Interpelli ricerca supplenti I.C. Lodi III Interpello posto comune primaria, sostegno e I grado",
-      "title": "I.C. Lodi III",
-      "subtitle": "Interpello posto comune primaria, sostegno e I grado",
-      "publicationDate": "16 settembre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-45",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-45",
-      "httpStatus": 200,
-      "text": "Link pagina interpello",
-      "pages": [
-        {
-          "label": "Link pagina interpello",
-          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013",
-          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013",
-          "httpStatus": 200,
-          "title": "Elenco interpelli",
-          "subtitle": "",
-          "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" LODI 3 \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio docente matematica e scienze A028 Matematica e scienze 17/09/2026 14/10/2026 LOIC814001 I.C. LODI III Iscriviti ARTE E IMMAGINE NELLA SCUOLA SECONDARIA DI I GRADO AM01 ARTE E IMMAGINE NELLA SCUOLA SECONDARIA DI I GRADO 17/09/2026 02/02/2027 LOIC814001 IC LODI TERZO Iscriviti INTERPELLO POSTO COMUNE SCUOLA PRIMARIA ADEE Sostegno scuola primaria 17/09/2026 30/06/2027 LOIC814001 IC LODI TERZO Iscriviti INTERPELLO POSTO COMUNE SCUOLA PRIMARIA EEEE Insegnante posto comune scuola primaria 17/09/2026 30/06/2027 LOIC814001 I.C. LODI III Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
         }
       ],
       "attachments": []
