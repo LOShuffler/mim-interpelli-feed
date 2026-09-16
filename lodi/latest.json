@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-09-16T14:05:32.534Z",
-  "completedAt": "2026-09-16T14:06:18.024Z",
+  "retrievedAt": "2026-09-16T15:05:22.480Z",
+  "completedAt": "2026-09-16T15:05:58.397Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -15,7 +15,7 @@
     "textLength": 25333,
     "discoveredCount": 200,
     "safetyLimited": false,
-    "processedCount": 5
+    "processedCount": 4
   },
   "recentEvents": [
     {
@@ -578,7 +578,7 @@
     {
       "id": "8d0491c9016610b6",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. \"Ognissanti\" di Codogno",
       "listContext": "16 settembre 2026 Interpelli ricerca supplenti I.C. \"Ognissanti\" di Codogno Posti Scuola primaria",
       "title": "I.C. \"Ognissanti\" di Codogno",
@@ -613,7 +613,7 @@
     {
       "id": "f7bdf7ada614741c",
       "position": 2,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. \"Fellini\" di Tavazzano",
       "listContext": "16 settembre 2026 Interpelli ricerca supplenti I.C. \"Fellini\" di Tavazzano Posto comune- Scuola Infanzia fino al 30/06/2027",
       "title": "I.C. \"Fellini\" di Tavazzano",
@@ -639,7 +639,7 @@
     {
       "id": "a912b0380f4753dd",
       "position": 3,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. \"Fellini\" di Tavazzano",
       "listContext": "16 settembre 2026 Interpelli ricerca supplenti I.C. \"Fellini\" di Tavazzano Posto comune - Scuola Infanzia fino al 30/06/2027",
       "title": "I.C. \"Fellini\" di Tavazzano",
@@ -665,7 +665,7 @@
     {
       "id": "ed7e0cbe285ea161",
       "position": 4,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Lodi III",
       "listContext": "16 settembre 2026 Interpelli ricerca supplenti I.C. Lodi III Posto sostegno scuola primaria",
       "title": "I.C. Lodi III",
