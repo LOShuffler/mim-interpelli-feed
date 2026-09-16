@@ -6,18 +6,50 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-09-16T10:05:32.946Z",
-  "completedAt": "2026-09-16T10:06:08.456Z",
+  "retrievedAt": "2026-09-16T11:05:33.012Z",
+  "completedAt": "2026-09-16T11:06:08.073Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 25322,
+    "textLength": 25352,
     "discoveredCount": 200,
     "safetyLimited": false,
     "processedCount": 4
   },
   "recentEvents": [
+    {
+      "id": "988da7e6e9dfa20c",
+      "type": "new",
+      "detectedAt": "2026-09-16T11:05:33.012Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-borghetto-lodigiano-9",
+      "item": {
+        "id": "4c1ef23467c1b95c",
+        "position": 1,
+        "collectionReason": "new",
+        "listLabel": "I.C. Borghetto Lodigiano",
+        "listContext": "16 settembre 2026 Interpelli ricerca supplenti I.C. Borghetto Lodigiano SELEZIONE PERSONALE DOCENTE SOSTEGNO SCUOLA PRIMARIA",
+        "title": "I.C. Borghetto Lodigiano",
+        "subtitle": "SELEZIONE PERSONALE DOCENTE SOSTEGNO SCUOLA PRIMARIA",
+        "publicationDate": "16 settembre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-borghetto-lodigiano-9",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-borghetto-lodigiano-9",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://nuvola.madisoft.it/interpelli/LOIC80400A/docenti/5cd4d115-45bd-4556-bde7-6386e3640e8f/candidatura",
+            "finalUrl": "https://nuvola.madisoft.it/interpelli/LOIC80400A/docenti/5cd4d115-45bd-4556-bde7-6386e3640e8f/candidatura",
+            "httpStatus": 200,
+            "title": "INTERPELLO PER SELEZIONE PERSONALE DOCENTE SOSTEGNO SCUOLA PRIMARIA",
+            "subtitle": "Nuvola - Interpelli",
+            "text": "nuvola Gestione Interpelli Torna agli interpelli aperti STEP 1 Dati anagrafici Generalità e contatti STEP 2 Titoli e certificazioni Studio e lingue STEP 3 Abilitazioni Abilitazione all'insegnamento e servizio prestato STEP 4 Esperienze di servizio Incarichi svolti e periodi di servizio STEP 5 Allegati e dichiarazioni Curriculum, altri allegati e dichiarazioni finali STEP 6 Riepilogo Controlla i dati inseriti INTERPELLO PER SELEZIONE PERSONALE DOCENTE SOSTEGNO SCUOLA PRIMARIA Durata: 24 ore 0 minuti dal 18/09/2026 al 06/10/2026 Presentazione candidature: dal 16/09/2026 11:00 al 17/09/2026 11:00 Posti disponibili: 1 Annotazioni: A parità di ordine di priorità, la supplenza sarà conferita all'aspirante che abbia già prestato servizio di insegnamento presso questa istituzione scolastica, preferibilmente per la medesima tipologia di posto. Classe di concorso: ADEE Sostegno nella scuola Primaria Ordine di scuola: PRIMARIA Sede di servizio: IC BORGHETTO LODIGIANO STEP 1 DI 6 Dati anagrafici Generalità e contatti Generalità Generalità Nome Cognome Sesso Codice fiscale Data di nascita Comune di nascita Stato di nascita Residenza Residenza Indirizzo di residenza Comune di residenza CAP di residenza Contatti Contatti Email PEC Cellulare Cittadinanza Cittadinanza Cittadino Italiano Cittadino di uno Stato membro UE Cittadino non comunitario con diritto di soggiorno o soggiorno permanente Avanti"
+          }
+        ],
+        "attachments": []
+      }
+    },
     {
       "id": "5f34f6fb21025a2e",
       "type": "new",
@@ -256,9 +288,35 @@
   ],
   "latestFour": [
     {
-      "id": "0b3e642bb2c3d398",
+      "id": "4c1ef23467c1b95c",
       "position": 1,
       "collectionReason": "new",
+      "listLabel": "I.C. Borghetto Lodigiano",
+      "listContext": "16 settembre 2026 Interpelli ricerca supplenti I.C. Borghetto Lodigiano SELEZIONE PERSONALE DOCENTE SOSTEGNO SCUOLA PRIMARIA",
+      "title": "I.C. Borghetto Lodigiano",
+      "subtitle": "SELEZIONE PERSONALE DOCENTE SOSTEGNO SCUOLA PRIMARIA",
+      "publicationDate": "16 settembre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-borghetto-lodigiano-9",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-borghetto-lodigiano-9",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://nuvola.madisoft.it/interpelli/LOIC80400A/docenti/5cd4d115-45bd-4556-bde7-6386e3640e8f/candidatura",
+          "finalUrl": "https://nuvola.madisoft.it/interpelli/LOIC80400A/docenti/5cd4d115-45bd-4556-bde7-6386e3640e8f/candidatura",
+          "httpStatus": 200,
+          "title": "INTERPELLO PER SELEZIONE PERSONALE DOCENTE SOSTEGNO SCUOLA PRIMARIA",
+          "subtitle": "Nuvola - Interpelli",
+          "text": "nuvola Gestione Interpelli Torna agli interpelli aperti STEP 1 Dati anagrafici Generalità e contatti STEP 2 Titoli e certificazioni Studio e lingue STEP 3 Abilitazioni Abilitazione all'insegnamento e servizio prestato STEP 4 Esperienze di servizio Incarichi svolti e periodi di servizio STEP 5 Allegati e dichiarazioni Curriculum, altri allegati e dichiarazioni finali STEP 6 Riepilogo Controlla i dati inseriti INTERPELLO PER SELEZIONE PERSONALE DOCENTE SOSTEGNO SCUOLA PRIMARIA Durata: 24 ore 0 minuti dal 18/09/2026 al 06/10/2026 Presentazione candidature: dal 16/09/2026 11:00 al 17/09/2026 11:00 Posti disponibili: 1 Annotazioni: A parità di ordine di priorità, la supplenza sarà conferita all'aspirante che abbia già prestato servizio di insegnamento presso questa istituzione scolastica, preferibilmente per la medesima tipologia di posto. Classe di concorso: ADEE Sostegno nella scuola Primaria Ordine di scuola: PRIMARIA Sede di servizio: IC BORGHETTO LODIGIANO STEP 1 DI 6 Dati anagrafici Generalità e contatti Generalità Generalità Nome Cognome Sesso Codice fiscale Data di nascita Comune di nascita Stato di nascita Residenza Residenza Indirizzo di residenza Comune di residenza CAP di residenza Contatti Contatti Email PEC Cellulare Cittadinanza Cittadinanza Cittadino Italiano Cittadino di uno Stato membro UE Cittadino non comunitario con diritto di soggiorno o soggiorno permanente Avanti"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "0b3e642bb2c3d398",
+      "position": 2,
+      "collectionReason": "refresh",
       "listLabel": "I.C. Borghetto Lodigiano",
       "listContext": "16 settembre 2026 Interpelli ricerca supplenti I.C. Borghetto Lodigiano SELEZIONE PERSONALE DOCENTE SCUOLA PRIMARIA",
       "title": "I.C. Borghetto Lodigiano",
@@ -283,8 +341,8 @@
     },
     {
       "id": "bd3767aebe264236",
-      "position": 2,
-      "collectionReason": "new",
+      "position": 3,
+      "collectionReason": "refresh",
       "listLabel": "I.C. Borghetto Lodigiano",
       "listContext": "16 settembre 2026 Interpelli ricerca supplenti I.C. Borghetto Lodigiano SELEZIONE PERSONALE DOCENTE SCUOLA PRIMARIA",
       "title": "I.C. Borghetto Lodigiano",
@@ -309,7 +367,7 @@
     },
     {
       "id": "d7304899850fe2a7",
-      "position": 3,
+      "position": 4,
       "collectionReason": "refresh",
       "listLabel": "I.C. Lodi III",
       "listContext": "16 settembre 2026 Interpelli ricerca supplenti I.C. Lodi III Interpello posto comune primaria, sostegno e I grado",
@@ -329,32 +387,6 @@
           "title": "Elenco interpelli",
           "subtitle": "",
           "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" LODI 3 \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio docente matematica e scienze A028 Matematica e scienze 17/09/2026 14/10/2026 LOIC814001 I.C. LODI III Iscriviti ARTE E IMMAGINE NELLA SCUOLA SECONDARIA DI I GRADO AM01 ARTE E IMMAGINE NELLA SCUOLA SECONDARIA DI I GRADO 17/09/2026 02/02/2027 LOIC814001 IC LODI TERZO Iscriviti INTERPELLO POSTO COMUNE SCUOLA PRIMARIA ADEE Sostegno scuola primaria 17/09/2026 30/06/2027 LOIC814001 IC LODI TERZO Iscriviti INTERPELLO POSTO COMUNE SCUOLA PRIMARIA EEEE Insegnante posto comune scuola primaria 17/09/2026 30/06/2027 LOIC814001 I.C. LODI III Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
-        }
-      ],
-      "attachments": []
-    },
-    {
-      "id": "2247050396d04180",
-      "position": 4,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. Lodi II",
-      "listContext": "15 settembre 2026 Interpelli ricerca supplenti I.C. Lodi II Interpelli scuola infanzia, scuola primaria e scuola I grado",
-      "title": "I.C. Lodi II",
-      "subtitle": "Interpelli scuola infanzia, scuola primaria e scuola I grado",
-      "publicationDate": "15 settembre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-ii-58",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-ii-58",
-      "httpStatus": 200,
-      "text": "Link pagina interpelli",
-      "pages": [
-        {
-          "label": "Link pagina interpelli",
-          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0014",
-          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0014",
-          "httpStatus": 200,
-          "title": "Elenco interpelli",
-          "subtitle": "",
-          "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \"LODI 2\" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio INTERPELLO PER SUPPLENZA BREVE SCUOLA INFANZIA- POSTO COMUNE AAAA Insegnante posto comune scuola infanzia 17/09/2026 12/02/2027 LOAA812016 LODI VIA SPEZZAFERRI Iscriviti INTERPELLO PER SUPPLENZA BREVE SCUOLA SECONDARIA 1 GRADO A028 Matematica e scienze 17/09/2026 31/10/2026 LOMM81202B /LOMM81201A SAN MARTINO/BASIASCO Iscriviti INTERPELLO PER SUPPLENZA BREVE SCUOLA SECONDARIA 1 GRADO AM48 SCIENZE MOTORIE E SPORTIVE NELLA SCUOLA SECONDARIA DI I GRADO 17/09/2026 18/09/2026 LOMM81203C LODI VIA SPEZZAFERRI Iscriviti INTERPELLO PER SUPPLENZA BREVE SCUOLA SECONDARIA 1 GRADO AM12 ITALIANO, STORIA, GEOGRAFIA NELLA SCUOLA SECONDARIA DI I GRADO 17/09/2026 08/06/2027 POTENZIAMENTO Iscriviti INTERPELLO PER SUPPLENZA BREVE SCUOLA SECONDARIA 1 GRADO AM12 ITALIANO, STORIA, GEOGRAFIA NELLA SCUOLA SECONDARIA DI I GRADO 17/09/2026 30/09/2026 LOMM81201A BASIASCO Iscriviti INTERPELLO PER SUPPLENZA BREVE SCUOLA SECONDARIA 1 GRADO ADMM Sostegno medie inferiori 17/09/2026 30/09/2026 LOMM81203C LODI VIA SPEZZAFERRI Iscriviti INTERPELLO PER SUPPLENZA BREVE SCUOLA PRIMARIA EEEE Insegnante posto comune scuola primaria 17/09/2026 22/09/2026 LOEE81201B LODI G.PASCOLI Iscriviti INTERPELLO PER SUPPLENZA BREVE SCUOLA PRIMARIA EEEE Insegnante posto comune scuola primaria 17/09/2026 08/06/2027 LOEE81201B LODI G.PASCOLI Iscriviti INTERPELLO PER SUPPLENZA BREVE SCUOLA PRIMARIA EEEE Insegnante posto comune scuola primaria 17/09/2026 30/09/2026 LOEE81204E SCUOLA PRIMARIA CAVENAGO D'ADDA Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
         }
       ],
       "attachments": []
