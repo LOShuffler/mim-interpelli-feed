@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-09-16T12:05:33.092Z",
-  "completedAt": "2026-09-16T12:06:07.978Z",
+  "retrievedAt": "2026-09-16T13:05:33.478Z",
+  "completedAt": "2026-09-16T13:06:08.919Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -386,7 +386,7 @@
     {
       "id": "3c2db2f7b4445432",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Lodi III",
       "listContext": "16 settembre 2026 Interpelli ricerca supplenti I.C. Lodi III Posto comune A028 matematica e scienze",
       "title": "I.C. Lodi III",
@@ -412,7 +412,7 @@
     {
       "id": "c7f26a0404cd44ee",
       "position": 2,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Lodi III",
       "listContext": "16 settembre 2026 Interpelli ricerca supplenti I.C. Lodi III ARTE E IMMAGINE NELLA SCUOLA SECONDARIA DI I GRADO",
       "title": "I.C. Lodi III",
@@ -438,7 +438,7 @@
     {
       "id": "20775c8cd381a952",
       "position": 3,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. \"Fellini\" di Tavazzano",
       "listContext": "16 settembre 2026 Interpelli ricerca supplenti I.C. \"Fellini\" di Tavazzano Posto SOSTEGNO - SCUOLA INFANZIA fino al 30/06/2027",
       "title": "I.C. \"Fellini\" di Tavazzano",
