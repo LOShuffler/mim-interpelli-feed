@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-09-17T16:05:32.663Z",
-  "completedAt": "2026-09-17T16:06:13.265Z",
+  "retrievedAt": "2026-09-17T21:05:23.769Z",
+  "completedAt": "2026-09-17T21:06:05.320Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -1328,7 +1328,7 @@
           "context": "Le carte della scuola",
           "status": 200,
           "contentType": "text/html; charset=UTF-8",
-          "bytes": 273836,
+          "bytes": 273882,
           "file": "items/03-I.C.-Maleo/01-attachment"
         },
         {
@@ -1338,7 +1338,7 @@
           "context": "Albo online",
           "status": 200,
           "contentType": "text/html; charset=UTF-8",
-          "bytes": 256755,
+          "bytes": 256801,
           "file": "items/03-I.C.-Maleo/02-attachment"
         }
       ]
