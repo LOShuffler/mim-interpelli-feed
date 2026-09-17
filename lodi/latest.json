@@ -6,18 +6,82 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-09-17T07:05:33.227Z",
-  "completedAt": "2026-09-17T07:06:37.592Z",
+  "retrievedAt": "2026-09-17T08:05:33.391Z",
+  "completedAt": "2026-09-17T08:06:09.816Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 25112,
+    "textLength": 25028,
     "discoveredCount": 200,
     "safetyLimited": false,
-    "processedCount": 7
+    "processedCount": 4
   },
   "recentEvents": [
+    {
+      "id": "af6bbc2dadfe0388",
+      "type": "new",
+      "detectedAt": "2026-09-17T08:05:33.391Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-49",
+      "item": {
+        "id": "0005876a643fbf26",
+        "position": 1,
+        "collectionReason": "new",
+        "listLabel": "I.C. Lodi III",
+        "listContext": "17 settembre 2026 Interpelli ricerca supplenti I.C. Lodi III Posto sostegno scuola infanzia",
+        "title": "I.C. Lodi III",
+        "subtitle": "Posto sostegno scuola infanzia",
+        "publicationDate": "17 settembre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-49",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-49",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/2edd7f58-0dbb-46ff-820c-ab3dc4e895ea",
+            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/2edd7f58-0dbb-46ff-820c-ab3dc4e895ea",
+            "httpStatus": 200,
+            "title": "Elenco interpelli",
+            "subtitle": "",
+            "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" LODI 3 \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio Insegnante posto sostegno scuola infanzia ADAA Sostegno scuola dell'infanzia 18/09/2026 30/06/2027 LOIC814001 I.C. LODI III Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+          }
+        ],
+        "attachments": []
+      }
+    },
+    {
+      "id": "4725962077fd5d88",
+      "type": "new",
+      "detectedAt": "2026-09-17T08:05:33.391Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-di-zelo-buon-persico-1",
+      "item": {
+        "id": "de0251637cb19d71",
+        "position": 2,
+        "collectionReason": "new",
+        "listLabel": "I.C. di Zelo Buon Persico",
+        "listContext": "17 settembre 2026 Interpelli ricerca supplenti I.C. di Zelo Buon Persico PRIMARIA EEEE - PRIMARIA ADEE SOSTEGNO",
+        "title": "I.C. di Zelo Buon Persico",
+        "subtitle": "PRIMARIA EEEE - PRIMARIA ADEE SOSTEGNO",
+        "publicationDate": "17 settembre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-di-zelo-buon-persico-1",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-di-zelo-buon-persico-1",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0003/e5925a77-ae00-4ae6-9f6c-f5a2af0782c1",
+            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0003/e5925a77-ae00-4ae6-9f6c-f5a2af0782c1",
+            "httpStatus": 200,
+            "title": "Elenco interpelli",
+            "subtitle": "",
+            "text": "Interpelli ISTITUTO COMPRENSIVO STATALE . Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio PRIMARIA POSTO COMUNE (EEEE) + SOSTEGNO (ADEE) EEEE Insegnante posto comune scuola primaria 21/09/2026 30/06/2027 SCUOLA PRIMARIA IC ZELO B.P./MERLINO/COMAZZO Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+          }
+        ],
+        "attachments": []
+      }
+    },
     {
       "id": "5e136ee2924d0252",
       "type": "new",
@@ -857,9 +921,61 @@
   ],
   "latestFour": [
     {
-      "id": "d250da757102f097",
+      "id": "0005876a643fbf26",
       "position": 1,
       "collectionReason": "new",
+      "listLabel": "I.C. Lodi III",
+      "listContext": "17 settembre 2026 Interpelli ricerca supplenti I.C. Lodi III Posto sostegno scuola infanzia",
+      "title": "I.C. Lodi III",
+      "subtitle": "Posto sostegno scuola infanzia",
+      "publicationDate": "17 settembre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-49",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-49",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/2edd7f58-0dbb-46ff-820c-ab3dc4e895ea",
+          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/2edd7f58-0dbb-46ff-820c-ab3dc4e895ea",
+          "httpStatus": 200,
+          "title": "Elenco interpelli",
+          "subtitle": "",
+          "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" LODI 3 \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio Insegnante posto sostegno scuola infanzia ADAA Sostegno scuola dell'infanzia 18/09/2026 30/06/2027 LOIC814001 I.C. LODI III Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "de0251637cb19d71",
+      "position": 2,
+      "collectionReason": "new",
+      "listLabel": "I.C. di Zelo Buon Persico",
+      "listContext": "17 settembre 2026 Interpelli ricerca supplenti I.C. di Zelo Buon Persico PRIMARIA EEEE - PRIMARIA ADEE SOSTEGNO",
+      "title": "I.C. di Zelo Buon Persico",
+      "subtitle": "PRIMARIA EEEE - PRIMARIA ADEE SOSTEGNO",
+      "publicationDate": "17 settembre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-di-zelo-buon-persico-1",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-di-zelo-buon-persico-1",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0003/e5925a77-ae00-4ae6-9f6c-f5a2af0782c1",
+          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0003/e5925a77-ae00-4ae6-9f6c-f5a2af0782c1",
+          "httpStatus": 200,
+          "title": "Elenco interpelli",
+          "subtitle": "",
+          "text": "Interpelli ISTITUTO COMPRENSIVO STATALE . Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio PRIMARIA POSTO COMUNE (EEEE) + SOSTEGNO (ADEE) EEEE Insegnante posto comune scuola primaria 21/09/2026 30/06/2027 SCUOLA PRIMARIA IC ZELO B.P./MERLINO/COMAZZO Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "d250da757102f097",
+      "position": 3,
+      "collectionReason": "refresh",
       "listLabel": "I.C. Casalpusterlengo",
       "listContext": "17 settembre 2026 Interpelli ricerca supplenti I.C. Casalpusterlengo ADAA Sostegno nella scuola dell’Infanzia",
       "title": "I.C. Casalpusterlengo",
@@ -889,7 +1005,7 @@
           "status": 200,
           "contentType": "application/pdf",
           "bytes": 56510,
-          "file": "items/01-I.C.-Casalpusterlengo/01-SEGNATURA_1789566222_Interpello_per_selezione_docenti_Scuola_Infanzia.pdf",
+          "file": "items/03-I.C.-Casalpusterlengo/01-SEGNATURA_1789566222_Interpello_per_selezione_docenti_Scuola_Infanzia.pdf",
           "extractedText": "LOIC80900D - A24EECC - REGISTRO PROTOCOLLO - 0005835 - 16/09/2026 - VII - U\n\fLOIC80900D - A24EECC - REGISTRO PROTOCOLLO - 0005835 - 16/09/2026 - VII - U\n\f"
         },
         {
@@ -900,15 +1016,15 @@
           "status": 200,
           "contentType": "application/pdf",
           "bytes": 70556,
-          "file": "items/01-I.C.-Casalpusterlengo/02-SEGNATURA_1789562064_Interpello_per_selezione_personale_docente_Scuola_Primaria.pdf",
+          "file": "items/03-I.C.-Casalpusterlengo/02-SEGNATURA_1789562064_Interpello_per_selezione_personale_docente_Scuola_Primaria.pdf",
           "extractedText": "LOIC80900D - A24EECC - REGISTRO PROTOCOLLO - 0005832 - 16/09/2026 - VII - U\n\fLOIC80900D - A24EECC - REGISTRO PROTOCOLLO - 0005832 - 16/09/2026 - VII - U\n\f"
         }
       ]
     },
     {
       "id": "70a93c9644a50d59",
-      "position": 2,
-      "collectionReason": "new",
+      "position": 4,
+      "collectionReason": "refresh",
       "listLabel": "I.C. di Zelo Buon Persico",
       "listContext": "17 settembre 2026 Interpelli ricerca supplenti I.C. di Zelo Buon Persico AAEH SOSTEGNO - N. 1 Posto 30.06.2027",
       "title": "I.C. di Zelo Buon Persico",
@@ -927,58 +1043,6 @@
           "title": "Elenco interpelli",
           "subtitle": "",
           "text": "Interpelli ISTITUTO COMPRENSIVO STATALE . Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio INFANZIA POSTO SOSTEGNO (AADA) AAEH Infanzia – sostegno minorati psicofisici 21/09/2026 30/06/2027 LOAA805002 INFANZIA MERLINO/COMAZZO Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
-        }
-      ],
-      "attachments": []
-    },
-    {
-      "id": "2d040d1357cb5ee0",
-      "position": 3,
-      "collectionReason": "new",
-      "listLabel": "I.C. \"C. Collodi\" di Sant.Angelo Lodigiano",
-      "listContext": "17 settembre 2026 Interpelli ricerca supplenti I.C. \"C. Collodi\" di Sant.Angelo Lodigiano ADEE - n. 5 posti al 31 agosto 2026",
-      "title": "I.C. \"C. Collodi\" di Sant.Angelo Lodigiano",
-      "subtitle": "ADEE - n. 5 posti al 31 agosto 2026",
-      "publicationDate": "17 settembre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-di-sant-angelo-lodigiano-2",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-di-sant-angelo-lodigiano-2",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/bf2b8673-ad94-437b-a7f0-535bd017cfc7",
-          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/bf2b8673-ad94-437b-a7f0-535bd017cfc7",
-          "httpStatus": 200,
-          "title": "Elenco interpelli",
-          "subtitle": "",
-          "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" CARLO COLLODI \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio INTERPELLO per n. 5 posti su cdc ADEE fino al 31 agosto 2027 ADEE Sostegno scuola primaria 18/09/2026 31/08/2027 LOIC81500R Plessi di scuola primaria afferenti all'Istituto Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
-        }
-      ],
-      "attachments": []
-    },
-    {
-      "id": "bc729c4c5422ca26",
-      "position": 4,
-      "collectionReason": "new",
-      "listLabel": "I.C. \"C. Collodi\" di Sant.Angelo Lodigiano",
-      "listContext": "17 settembre 2026 Interpelli ricerca supplenti I.C. \"C. Collodi\" di Sant.Angelo Lodigiano ADEE - sostegno scuola primaria - n. 20 cattedre fino al 30/06/2027",
-      "title": "I.C. \"C. Collodi\" di Sant.Angelo Lodigiano",
-      "subtitle": "ADEE - sostegno scuola primaria - n. 20 cattedre fino al 30/06/2027",
-      "publicationDate": "17 settembre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-di-sant-angelo-lodigiano-1",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-di-sant-angelo-lodigiano-1",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/65db9d4a-4ea5-48ac-83b5-0f66a8f54dea",
-          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/65db9d4a-4ea5-48ac-83b5-0f66a8f54dea",
-          "httpStatus": 200,
-          "title": "Elenco interpelli",
-          "subtitle": "",
-          "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" CARLO COLLODI \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio INTERPELLO su cdc ADEE - sostegno scuola primaria - n. 20 posti fino al 30/06/2027 ADEE Sostegno scuola primaria 21/09/2026 30/06/2027 LOIC81500R plessi di scuola primaria afferenti all'IC Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
         }
       ],
       "attachments": []
