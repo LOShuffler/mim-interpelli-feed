@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-09-17T13:05:33.453Z",
-  "completedAt": "2026-09-17T13:06:11.572Z",
+  "retrievedAt": "2026-09-17T14:05:14.856Z",
+  "completedAt": "2026-09-17T14:05:52.268Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -1147,7 +1147,7 @@
     {
       "id": "38ba4407383dafeb",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Maleo",
       "listContext": "17 settembre 2026 Interpelli ricerca supplenti I.C. Maleo Posti sostegno Scuola infanzia",
       "title": "I.C. Maleo",
