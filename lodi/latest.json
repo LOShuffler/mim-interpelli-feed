@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-09-17T11:05:33.304Z",
-  "completedAt": "2026-09-17T11:06:11.699Z",
+  "retrievedAt": "2026-09-17T12:05:32.983Z",
+  "completedAt": "2026-09-17T12:06:07.593Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -1094,7 +1094,7 @@
     {
       "id": "19b197b014e49b31",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. LODI V",
       "listContext": "17 settembre 2026 Interpelli ricerca supplenti I.C. LODI V Interpello primaria e infanzia",
       "title": "I.C. LODI V",
@@ -1116,7 +1116,7 @@
     {
       "id": "5cba06ca14e7e64c",
       "position": 2,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. \"Gramsci\" Lodivecchio",
       "listContext": "17 settembre 2026 Interpelli ricerca supplenti I.C. \"Gramsci\" Lodivecchio SUPPLENZE – SCUOLA DELL’INFANZIA E PRIMARIA – POSTO COMUNE E SOSTEGNO – A.S. 20262027",
       "title": "I.C. \"Gramsci\" Lodivecchio",
