@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-09-17T15:05:33.099Z",
-  "completedAt": "2026-09-17T15:06:14.389Z",
+  "retrievedAt": "2026-09-17T16:05:32.663Z",
+  "completedAt": "2026-09-17T16:06:13.265Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -1229,7 +1229,7 @@
     {
       "id": "cbe3b06294a5b7cf",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Lodi II",
       "listContext": "17 settembre 2026 Interpelli ricerca supplenti I.C. Lodi II Link Interpelli Scuola Primaria",
       "title": "I.C. Lodi II",
@@ -1273,7 +1273,7 @@
     {
       "id": "8a79fe863b49a1d2",
       "position": 2,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Collodi",
       "listContext": "17 settembre 2026 Interpelli ricerca supplenti I.C. Collodi Interpello ADEE 24 ore",
       "title": "I.C. Collodi",
