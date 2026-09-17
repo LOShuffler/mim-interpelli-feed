@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-09-16T15:05:22.480Z",
-  "completedAt": "2026-09-16T15:05:58.397Z",
+  "retrievedAt": "2026-09-17T04:05:33.220Z",
+  "completedAt": "2026-09-17T04:06:08.688Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -594,21 +594,12 @@
           "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCssOuw4TigJkVw5IBwqAJWw%3d%3d",
           "finalUrl": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCssOuw4TigJkVw5IBwqAJWw%3d%3d",
           "httpStatus": 200,
-          "title": "INVIO CANDIDATURE PER",
+          "title": "Axios | Interpelli",
           "subtitle": "",
-          "text": "INVIO CANDIDATURE PER INTERPELLI Interpelli selezionati: 0/2 Compila modulo candidature Ricerca : Data Pubblicazione Anno Scolastico Tipo Personale Oggetto Documento Periodo validità 16/09/2026 15:23 2026/2027 DOCENTE INTERPELLO PER SUPPLENZE BREVI E SALTUARIE SCUOLA PRIMARIA/INFANZIA POSTO COMUNE E SOSTEGNO A.S. 2026/27 16/09/2026 00:00 31/12/2026 00:00 16/09/2026 14:50 N.Prot.: 0005864 2026/2027 DOCENTE INTERPELLO POSTI SCUOLA PRIMARIA 16/09/2026 14:30 17/09/2026 14:30"
+          "text": ""
         }
       ],
-      "attachments": [
-        {
-          "text": "INTEPELLO_16.09.2026.pdf.pades.pdf",
-          "href": "https://serviziweb.axioscloud.it/Handlers/updw.aspx",
-          "title": "INTEPELLO_16.09.2026.pdf.pades.pdf",
-          "context": "",
-          "status": 500,
-          "error": "HTTP 500"
-        }
-      ]
+      "attachments": []
     },
     {
       "id": "f7bdf7ada614741c",
