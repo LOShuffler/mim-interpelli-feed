@@ -6,18 +6,299 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-09-17T05:05:34.138Z",
-  "completedAt": "2026-09-17T05:06:10.226Z",
+  "retrievedAt": "2026-09-17T07:05:33.227Z",
+  "completedAt": "2026-09-17T07:06:37.592Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 25333,
+    "textLength": 25112,
     "discoveredCount": 200,
     "safetyLimited": false,
-    "processedCount": 4
+    "processedCount": 7
   },
   "recentEvents": [
+    {
+      "id": "5e136ee2924d0252",
+      "type": "new",
+      "detectedAt": "2026-09-17T07:05:33.227Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-casalpusterlengo-32",
+      "item": {
+        "id": "d250da757102f097",
+        "position": 1,
+        "collectionReason": "new",
+        "listLabel": "I.C. Casalpusterlengo",
+        "listContext": "17 settembre 2026 Interpelli ricerca supplenti I.C. Casalpusterlengo ADAA Sostegno nella scuola dell’Infanzia",
+        "title": "I.C. Casalpusterlengo",
+        "subtitle": "ADAA Sostegno nella scuola dell’Infanzia",
+        "publicationDate": "17 settembre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-casalpusterlengo-32",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-casalpusterlengo-32",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://nuvola.madisoft.it/interpelli/LOIC80900D/docenti",
+            "finalUrl": "https://nuvola.madisoft.it/interpelli/LOIC80900D/docenti",
+            "httpStatus": 200,
+            "title": "Interpelli per: Personale docente",
+            "subtitle": "Nuvola - Interpelli",
+            "text": "nuvola Gestione Interpelli IC Casalpusterlengo Codice meccanografico: LOIC80900D CASALPUSTERLENGO (LO) Interpelli per: Personale Docente Cambia ruolo Interpello per selezione docenti Scuola Infanzia - Sostegno e Posto comune Durata: 25 ore 0 minuti dal 22/09/2026 al 30/06/2027 Presentazione candidature: dal 16/09/2026 15:50 al 18/09/2026 15:50 Posti disponibili: 5 Classe di concorso: ADAA Sostegno nella scuola dell’Infanzia Ordine di scuola: INFANZIA Sede di servizio: Scuola Infanzia Documento allegato: Scarica decreto di emissione interpello per Interpello per selezione docenti Scuola Infanzia - Sostegno e Posto comune Invia la tua candidatura Interpello per selezione docenti Scuola Primaria - Posto comune - Sostegno - Lingua inglese Durata: 24 ore 0 minuti dal 22/09/2026 al 30/06/2027 Presentazione candidature: dal 16/09/2026 14:45 al 18/09/2026 14:45 Posti disponibili: 28 Classe di concorso: ADEE Sostegno nella scuola Primaria Ordine di scuola: PRIMARIA Sede di servizio: Scuola Primaria Documento allegato: Scarica decreto di emissione interpello per Interpello per selezione docenti Scuola Primaria - Posto comune - Sostegno - Lingua inglese Invia la tua candidatura"
+          }
+        ],
+        "attachments": [
+          {
+            "text": "Scarica decreto di emissione interpelloper Interpello per selezione docenti Scuola Infanzia - Sostegno e Posto comune",
+            "href": "https://nuvola.madisoft.it/file/api/public-download-file-from-entity/LOIC80900D/e8c3a878-502f-4da4-a45d-2081484d1c1b",
+            "title": "",
+            "context": "",
+            "status": 200,
+            "contentType": "application/pdf",
+            "bytes": 56510,
+            "file": "items/01-I.C.-Casalpusterlengo/01-SEGNATURA_1789566222_Interpello_per_selezione_docenti_Scuola_Infanzia.pdf",
+            "extractedText": "LOIC80900D - A24EECC - REGISTRO PROTOCOLLO - 0005835 - 16/09/2026 - VII - U\n\fLOIC80900D - A24EECC - REGISTRO PROTOCOLLO - 0005835 - 16/09/2026 - VII - U\n\f"
+          },
+          {
+            "text": "Scarica decreto di emissione interpelloper Interpello per selezione docenti Scuola Primaria - Posto comune - Sostegno - Lingua inglese",
+            "href": "https://nuvola.madisoft.it/file/api/public-download-file-from-entity/LOIC80900D/e04f2ef4-e9be-4767-adde-d54440412262",
+            "title": "",
+            "context": "",
+            "status": 200,
+            "contentType": "application/pdf",
+            "bytes": 70556,
+            "file": "items/01-I.C.-Casalpusterlengo/02-SEGNATURA_1789562064_Interpello_per_selezione_personale_docente_Scuola_Primaria.pdf",
+            "extractedText": "LOIC80900D - A24EECC - REGISTRO PROTOCOLLO - 0005832 - 16/09/2026 - VII - U\n\fLOIC80900D - A24EECC - REGISTRO PROTOCOLLO - 0005832 - 16/09/2026 - VII - U\n\f"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ca1dd32cb9465b40",
+      "type": "new",
+      "detectedAt": "2026-09-17T07:05:33.227Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-di-zelo-buon-persico",
+      "item": {
+        "id": "70a93c9644a50d59",
+        "position": 2,
+        "collectionReason": "new",
+        "listLabel": "I.C. di Zelo Buon Persico",
+        "listContext": "17 settembre 2026 Interpelli ricerca supplenti I.C. di Zelo Buon Persico AAEH SOSTEGNO - N. 1 Posto 30.06.2027",
+        "title": "I.C. di Zelo Buon Persico",
+        "subtitle": "AAEH SOSTEGNO - N. 1 Posto 30.06.2027",
+        "publicationDate": "17 settembre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-di-zelo-buon-persico",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-di-zelo-buon-persico",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0003/0ef18653-26e6-4976-a73b-d89fea59ddac",
+            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0003/0ef18653-26e6-4976-a73b-d89fea59ddac",
+            "httpStatus": 200,
+            "title": "Elenco interpelli",
+            "subtitle": "",
+            "text": "Interpelli ISTITUTO COMPRENSIVO STATALE . Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio INFANZIA POSTO SOSTEGNO (AADA) AAEH Infanzia – sostegno minorati psicofisici 21/09/2026 30/06/2027 LOAA805002 INFANZIA MERLINO/COMAZZO Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+          }
+        ],
+        "attachments": []
+      }
+    },
+    {
+      "id": "ad670bd01f203c1f",
+      "type": "new",
+      "detectedAt": "2026-09-17T07:05:33.227Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-di-sant-angelo-lodigiano-2",
+      "item": {
+        "id": "2d040d1357cb5ee0",
+        "position": 3,
+        "collectionReason": "new",
+        "listLabel": "I.C. \"C. Collodi\" di Sant.Angelo Lodigiano",
+        "listContext": "17 settembre 2026 Interpelli ricerca supplenti I.C. \"C. Collodi\" di Sant.Angelo Lodigiano ADEE - n. 5 posti al 31 agosto 2026",
+        "title": "I.C. \"C. Collodi\" di Sant.Angelo Lodigiano",
+        "subtitle": "ADEE - n. 5 posti al 31 agosto 2026",
+        "publicationDate": "17 settembre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-di-sant-angelo-lodigiano-2",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-di-sant-angelo-lodigiano-2",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/bf2b8673-ad94-437b-a7f0-535bd017cfc7",
+            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/bf2b8673-ad94-437b-a7f0-535bd017cfc7",
+            "httpStatus": 200,
+            "title": "Elenco interpelli",
+            "subtitle": "",
+            "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" CARLO COLLODI \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio INTERPELLO per n. 5 posti su cdc ADEE fino al 31 agosto 2027 ADEE Sostegno scuola primaria 18/09/2026 31/08/2027 LOIC81500R Plessi di scuola primaria afferenti all'Istituto Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+          }
+        ],
+        "attachments": []
+      }
+    },
+    {
+      "id": "14a95ad02c0b92a3",
+      "type": "new",
+      "detectedAt": "2026-09-17T07:05:33.227Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-di-sant-angelo-lodigiano-1",
+      "item": {
+        "id": "bc729c4c5422ca26",
+        "position": 4,
+        "collectionReason": "new",
+        "listLabel": "I.C. \"C. Collodi\" di Sant.Angelo Lodigiano",
+        "listContext": "17 settembre 2026 Interpelli ricerca supplenti I.C. \"C. Collodi\" di Sant.Angelo Lodigiano ADEE - sostegno scuola primaria - n. 20 cattedre fino al 30/06/2027",
+        "title": "I.C. \"C. Collodi\" di Sant.Angelo Lodigiano",
+        "subtitle": "ADEE - sostegno scuola primaria - n. 20 cattedre fino al 30/06/2027",
+        "publicationDate": "17 settembre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-di-sant-angelo-lodigiano-1",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-di-sant-angelo-lodigiano-1",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/65db9d4a-4ea5-48ac-83b5-0f66a8f54dea",
+            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/65db9d4a-4ea5-48ac-83b5-0f66a8f54dea",
+            "httpStatus": 200,
+            "title": "Elenco interpelli",
+            "subtitle": "",
+            "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" CARLO COLLODI \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio INTERPELLO su cdc ADEE - sostegno scuola primaria - n. 20 posti fino al 30/06/2027 ADEE Sostegno scuola primaria 21/09/2026 30/06/2027 LOIC81500R plessi di scuola primaria afferenti all'IC Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+          }
+        ],
+        "attachments": []
+      }
+    },
+    {
+      "id": "c69df3d39092f788",
+      "type": "new",
+      "detectedAt": "2026-09-17T07:05:33.227Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-di-sant-angelo-lodigiano",
+      "item": {
+        "id": "6ccb6540f22d745e",
+        "position": 5,
+        "collectionReason": "new",
+        "listLabel": "I.C. \"C. Collodi\" di Sant.Angelo Lodigiano",
+        "listContext": "17 settembre 2026 Interpelli ricerca supplenti I.C. \"C. Collodi\" di Sant.Angelo Lodigiano ADEE - 1 posto 24 h/sett. fino al 4 ottobre 2026",
+        "title": "I.C. \"C. Collodi\" di Sant.Angelo Lodigiano",
+        "subtitle": "ADEE - 1 posto 24 h/sett. fino al 4 ottobre 2026",
+        "publicationDate": "17 settembre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-di-sant-angelo-lodigiano",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-di-sant-angelo-lodigiano",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/277e9b22-cb29-4a8a-86da-9821311e9e26",
+            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/277e9b22-cb29-4a8a-86da-9821311e9e26",
+            "httpStatus": 200,
+            "title": "Elenco interpelli",
+            "subtitle": "",
+            "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" CARLO COLLODI \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio INTERPELLO su cdc ADEE - sostegno scuola primaria fino al 4 ottobre 2026 - plesso Mairano ADEE Sostegno scuola primaria 21/09/2026 LOEE815042 Scuola primaria di Mairano Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+          }
+        ],
+        "attachments": []
+      }
+    },
+    {
+      "id": "34d7332be36c6c1b",
+      "type": "new",
+      "detectedAt": "2026-09-17T07:05:33.227Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-di-livraga",
+      "item": {
+        "id": "65f0401ed1cf2670",
+        "position": 6,
+        "collectionReason": "new",
+        "listLabel": "I.C. di Livraga",
+        "listContext": "17 settembre 2026 Interpelli ricerca supplenti I.C. di Livraga n. 2 Interpelli IC Maria Scoglio di Livraga",
+        "title": "I.C. di Livraga",
+        "subtitle": "n. 2 Interpelli IC Maria Scoglio di Livraga",
+        "publicationDate": "17 settembre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-di-livraga",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-di-livraga",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://www.iclivraga.it/interpello/",
+            "finalUrl": "https://www.iclivraga.it/interpello/",
+            "httpStatus": 200,
+            "title": "Accedi ai servizi Chiudi modale",
+            "subtitle": "Homepage del portale scolastico",
+            "text": "Stampa / Condividi Stampa / Condividi Stampa Invia Condividi Facebook WhatsApp Linkedin ANNO SCOLASTICO 2026-2027 Interpello num 1 Interpello num 2 Modello domanda disponibilità ANNO SCOLASTICO 2025-2026 Interpello n.14(CHIUSO) Interpello n.13 (CHIUSO) Interpello n.12(CHIUSO) Interpello n. 10(CHIUSO) Interpello n.9(CHIUSO) Interpello n. 8 (CHIUSO) Interpello n.7(CHIUSO) Interpello n.6(CHIUSO) Interpello n.5(CHIUSO) Interpello n.4(CHIUSO) Interpello n.3(CHIUSO) Interpello n.2(CHIUSO) Interpello n.1(CHIUSO) Modello domanda disponibilità Pubblicato: 20.09.2024 - Revisione: 16.09.2026 Eccetto dove diversamente specificato, questo articolo è stato rilasciato sotto Licenza Creative Commons Attribuzione CC-BY 4.0."
+          }
+        ],
+        "attachments": [
+          {
+            "text": "Le carte della scuola",
+            "href": "https://www.iclivraga.it/documento/",
+            "title": "",
+            "context": "Le carte della scuola",
+            "status": 200,
+            "contentType": "text/html; charset=UTF-8",
+            "bytes": 388580,
+            "file": "items/06-I.C.-di-Livraga/01-attachment"
+          }
+        ]
+      }
+    },
+    {
+      "id": "dbab606acd8ff757",
+      "type": "new",
+      "detectedAt": "2026-09-17T07:05:33.227Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-gramsci-di-mulazzano-3",
+      "item": {
+        "id": "79bcf5adcae54d80",
+        "position": 7,
+        "collectionReason": "new",
+        "listLabel": "I.C. \"Gramsci\" di Mulazzano",
+        "listContext": "17 settembre 2026 Interpelli ricerca supplenti I.C. \"Gramsci\" di Mulazzano reclutamento docenti Scuola Infanzia e Scuola Primaria",
+        "title": "I.C. \"Gramsci\" di Mulazzano",
+        "subtitle": "reclutamento docenti Scuola Infanzia e Scuola Primaria",
+        "publicationDate": "17 settembre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-gramsci-di-mulazzano-3",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-gramsci-di-mulazzano-3",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://www.icmulazzano.edu.it/index.php/notizie/notizie-per-il-personale/circolari-e-comunicazioni/9381-interpello-16-09-2026",
+            "finalUrl": "https://www.icmulazzano.edu.it/index.php/notizie/notizie-per-il-personale/circolari-e-comunicazioni/9381-interpello-16-09-2026",
+            "httpStatus": 200,
+            "title": "INTERPELLO 16.09.2026",
+            "subtitle": "Istituto Comprensivo A. Gramsci di Mulazzano",
+            "text": "Stampa Condividi Facebook Twitter Whatsapp Telegram Email INTERPELLO 16.09.2026 Si veda pubblicazione al seguente LINK Attachments: CANDIDATURA[10446]321 kB INTERPELLO[10446]316 kB DocentiATA"
+          }
+        ],
+        "attachments": [
+          {
+            "text": "Download this file (sett 2026 CANDIDATURA-interpello 10446.pdf)",
+            "href": "https://www.icmulazzano.edu.it/attachments/article/9381/sett%202026%20CANDIDATURA-interpello%2010446.pdf",
+            "title": "Download this file (sett 2026 CANDIDATURA-interpello 10446.pdf)",
+            "context": "Stampa Condividi Facebook Twitter Whatsapp Telegram Email INTERPELLO 16.09.2026 Si veda pubblicazione al seguente LINK Attachments: CANDIDATURA[10446]321 kB INTERPELLO[10446]316 kB DocentiATA",
+            "status": 200,
+            "contentType": "application/pdf",
+            "bytes": 329118,
+            "file": "items/07-I.C.-Gramsci-di-Mulazzano/01-sett-2026-CANDIDATURA-interpello-10446.pdf",
+            "extractedText": "                          M i n i s t e r o d e l l ’ Is t r u z i o n e e d e l M e r i to\n                                 Istituto Comprensivo “A. GRAMSCI”\n                             Via Ada Negri, 44 - 26837 Mulazzano Tel: 02 989137\n                            www.icmulazzano.edu.it C.F. 92537730159\n                      e-mail loic80200p@istruzione.it PEC loic80200p@pec.istruzione.it\n\n          DOMANDA - Dichiarazione dell’interessato e autocertificazione titoli\n\nIl/la sottoscritt_ ____________________________________, nato a ___________\n_____________il _______________ codice fiscale ______________________,\n\nresidente a ________________________________________________________(prov.____),\ndomiciliato a_______________________________________________________(prov.____),\nrecapito telefonico ______________, indirizzo mail ____________________________,\n\n   •   dichiara di essere interessato al seguente posto: -\n       codice____________________________________________________,\n\n   •   come da interpello prot. N° 10446 del 16.09.2026\n\n   •   dichiara di non essere stato individuato quale destinatario di contratto a tempo\n       determinato e/o destinatario delle assegnazioni di cui all’articolo 4, commi 3 e\n       8, del Decreto ministeriale;\n\n   •   dichiara di possedere i seguenti titoli/abilitazione e il seguente servizio:\n\n   Titolo/servizio                                      Descrizione del titolo/                 Note\n                                                        servizio dell’autocertificante\n   Abilitazione per la classe di concorso\n   per l’insegnamento richiesto\n   nell’interpello\n   Specializzazione sostegno\n\n   Possesso titolo di studio necessario per\n   l’insegnamento richiesto dall’interpello\n   Possesso di altri titoli di studio\n\n   Anni/mesi di insegnamento nella stessa                                                     Numero anni,\n   tipologia di posto nell’IC Gramsci -                                                       mesi e giorni\n   Mulazzano\n   Progetti presso l’IC Gramsci -\n   Mulazzano\n   Anni/mesi di insegnamento nella stessa                                                     Numero anni,\n   tipologia di posto                                                                         mesi e giorni\n   • di essere consapevole delle conseguenze amministrative e penali per chi rilasci dichiarazioni non\n       corrispondenti a verità̀ , ai sensi del DPR 445/2000, dichiara che quanto sopra dichiarato corrisponde\n       al vero.\n   • di autorizzare al trattamento dei dati per lo scopo di cui in oggetto (trattamento privacy vedi sito)\n\n   •   Allega alla presente:\n       -       1) Curriculum vitae, debitamente sottoscritto\n       -       2) Copia del proprio documento di identità e codice fiscale\n                                                                                        Firma\n                                                             ____________________________________\n\f"
+          },
+          {
+            "text": "Download this file (SETT 2026 INTERPELLO 10446 infanzia_primaria.pdf)",
+            "href": "https://www.icmulazzano.edu.it/attachments/article/9381/SETT%202026%20INTERPELLO%2010446%20infanzia_primaria.pdf",
+            "title": "Download this file (SETT 2026 INTERPELLO 10446 infanzia_primaria.pdf)",
+            "context": "Stampa Condividi Facebook Twitter Whatsapp Telegram Email INTERPELLO 16.09.2026 Si veda pubblicazione al seguente LINK Attachments: CANDIDATURA[10446]321 kB INTERPELLO[10446]316 kB DocentiATA",
+            "status": 200,
+            "contentType": "application/pdf",
+            "bytes": 324281,
+            "file": "items/07-I.C.-Gramsci-di-Mulazzano/02-SETT-2026-INTERPELLO-10446-infanzia_primaria.pdf",
+            "extractedText": "                                                 M i n i s t ero d el l ’ I s t ru z i o n e e d e l M e r i to\n                                                        Istituto Comprensivo “A. GRAMSCI”\n                                                   Via Ada Negri, 44 - 26837 Mulazzano Tel: 02 989137\n                                                   www.icmulazzano.edu.it C.F. 92537730159\n                                            e-mail loic80200p@istruzione.it PEC loic80200p@pec.istruzione.it\n\n\n\n\n                            AVVISO/INTERPELLO PER LA COPERTURA DI POSTI ART. 13 C. 23 OM. 88/2024\n\n\n\n                                                            Prot. N. 10446del 16.09.2026\n\n\n             DENOMINAZIONE SCUOLA: Istituto Comprensivo “A. Gramsci”\n\n             INDIRIZZO SCUOLA: via Ada Negri, 44 -26837 Mulazzano (LODI)\n\n             CODICE MECCANOGRAFICO SCUOLA: LOIC80200P\n\n             MAIL SCUOLA SU CUI RICEVERE LA CANDIDATURA: interpello@icmulazzano.com\n\n\n\n             OGGETTO: Interpello per n.1 posto sostegno SCUOLA INFANZIA;\n                             n. 1 posto comune/ n.7 posti sostegno/ n.1 posto inglese SCUOLA PRIMARIA\n\n\n\n                                                                    IL DIRIGENTE SCOLASTICO\n\n\n\n             VISTA l’O.M. 88/2024 ed in particolare l’art. 13 c. 23;\n\n             CONSIDERATO che risultano esaurite le GPS, consultate le graduatorie dello scrivente Istituto e degli Istituti\n             viciniori;\n\n             CONSIDERATA la necessità di reperire docenti per la copertura dei posti indicati in oggetto;\n\n             EMETTE avviso per l’individuazione e il reclutamento di personale docente per il conferimento delle\n             supplenze come da prospetto:\n\n               CODICE          TIPOLOGIA DI               INIZIO                  TERMINE        ORARIO      SEDE/I DI SERVIZIO\n               POSTO           POSTO                      SUPPLENZA               SUPPLENZA      SETTIMANALE\n                               disponibile\n               10446-A         n. 1 posto ADAA            Dalla presa di          30.06.2027     25 ORE           Infanzia Cabrini –\n                               - SOSTEGNO                 servizio                                                Cassino d’Alberi\n                               SCUOLA\n                               INFANZIA -\n                               SOSTEGNO\n                               PSICOFISICO\n\n\n\n\nDocumento informatico firmato digitalmente ai sensi del D.Lgs 82/2005 s.m.i. e norme collegate\n\f                            M i n i s t ero d el l ’ I s t ru z i o n e e d e l M e r i to\n                                   Istituto Comprensivo “A. GRAMSCI”\n                               Via Ada Negri, 44 - 26837 Mulazzano Tel: 02 989137\n                               www.icmulazzano.edu.it C.F. 92537730159\n                        e-mail loic80200p@istruzione.it PEC loic80200p@pec.istruzione.it\n\n 10446-B     n. 1 posto EEIL -     Dalla presa di      30.06.2027          24 ore            Primaria\n             INSEGNAMENTO          servizio                                                      • Mulazzano\n             SCUOLA                                                                              • Casalmaiocco\n             PRIMARIA                                                                            • Cervignano\n             (LINGUA\n             INGLESE) -\n             LINGUA INGLESE\n 10446-C     n. 1 posto EEEE -     Dalla presa di      30.06.2027          24 ore            Primaria\n             INSEGNAMENTO          servizio                                                      • Mulazzano\n             SCUOLA                                                                              • Casalmaiocco\n             PRIMARIA -                                                                          • Cervignano\n             COMUNE\n 10446-D n. 7 posti ADEE -         Dalla presa di      30.06.2027          24 ore            Primaria\n             SOSTEGNO              servizio                                                      • Mulazzano\n             SCUOLA                                                                              • Casalmaiocco\n             PRIMARIA -                                                                          • Cervignano\n             SOSTEGNO\n             PSICOFISICO\nTITOLI DI PREFERENZA:\n\n    1. Possesso dell’abilitazione per la classe di concorso (per il sostegno: possesso della specializzazione).\n    2. Titolo di studio necessario per l’insegnamento richiesto dall’interpello\n    3. Possesso dei titoli necessari per l’iscrizione nella seconda fascia delle graduatorie provinciali per le\n       supplenze, per l’insegnamento richiesto dall’interpello.\n    4. Altri titoli di studio.\n\nA parità di ordine di priorità, la supplenza sarà conferita all’aspirante che abbia già prestato servizi di\ninsegnamento per la medesima tipologia di posto nel nostro Istituto.\n\nIl personale disponibile potrà presentare la propria manifestazione di interesse entro e non oltre le ore 14.00\ndel 18 settembre 2026, utilizzando ESCLUSIVAMENTE il modulo allegato al presente interpello, che dovrà\nessere trasmesso, in formato PDF e debitamente sottoscritto, tramite email a interpello@icmulazzano.com\n(compilare ed allegare un modulo per ogni candidatura)\n\nIl conferimento della supplenza sarà comunicato tramite mail all’indirizzo indicato dall’aspirante.\n\nLa presa di servizio dovrà avvenire entro le successive 24 ore.\n\nI riscontri agli avvisi devono contenere tutte le dichiarazioni necessarie, rese in autocertificazione ai sensi del\nD.P.R. n. 445/2000, per consentire la verifica puntuale dei suddetti requisiti da parte dei dirigenti scolastici,\nivi compresi gli estremi del conseguimento del titolo di abilitazione e/o del titolo di specializzazione (allegare\nCurriculum Vitae e copia documento di identità): non saranno prese in considerazione istanze formulate con\nmodalità difformi a quelle indicate nel presente avviso e non complete delle dichiarazioni obbligatorie.\n\n\n                                                                                        LA DIRIGENTE SCOLASTICA\n                                                                                        Prof.ssa Eleonora Tarantola\n\f"
+          }
+        ]
+      }
+    },
     {
       "id": "2cc47e3db632118b",
       "type": "new",
@@ -576,114 +857,128 @@
   ],
   "latestFour": [
     {
-      "id": "8d0491c9016610b6",
+      "id": "d250da757102f097",
       "position": 1,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. \"Ognissanti\" di Codogno",
-      "listContext": "16 settembre 2026 Interpelli ricerca supplenti I.C. \"Ognissanti\" di Codogno Posti Scuola primaria",
-      "title": "I.C. \"Ognissanti\" di Codogno",
-      "subtitle": "Posti Scuola primaria",
-      "publicationDate": "16 settembre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-ognissanti-di-codogno-1",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-ognissanti-di-codogno-1",
+      "collectionReason": "new",
+      "listLabel": "I.C. Casalpusterlengo",
+      "listContext": "17 settembre 2026 Interpelli ricerca supplenti I.C. Casalpusterlengo ADAA Sostegno nella scuola dell’Infanzia",
+      "title": "I.C. Casalpusterlengo",
+      "subtitle": "ADAA Sostegno nella scuola dell’Infanzia",
+      "publicationDate": "17 settembre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-casalpusterlengo-32",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-casalpusterlengo-32",
       "httpStatus": 200,
       "text": "Link interpello",
       "pages": [
         {
           "label": "Link interpello",
-          "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCssOuw4TigJkVw5IBwqAJWw%3d%3d",
-          "finalUrl": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCssOuw4TigJkVw5IBwqAJWw%3d%3d",
+          "url": "https://nuvola.madisoft.it/interpelli/LOIC80900D/docenti",
+          "finalUrl": "https://nuvola.madisoft.it/interpelli/LOIC80900D/docenti",
           "httpStatus": 200,
-          "title": "INVIO CANDIDATURE PER",
-          "subtitle": "",
-          "text": "INVIO CANDIDATURE PER INTERPELLI Interpelli selezionati: 0/2 Compila modulo candidature Ricerca : Data Pubblicazione Anno Scolastico Tipo Personale Oggetto Documento Periodo validità 16/09/2026 15:23 2026/2027 DOCENTE INTERPELLO PER SUPPLENZE BREVI E SALTUARIE SCUOLA PRIMARIA/INFANZIA POSTO COMUNE E SOSTEGNO A.S. 2026/27 16/09/2026 00:00 31/12/2026 00:00 16/09/2026 14:50 N.Prot.: 0005864 2026/2027 DOCENTE INTERPELLO POSTI SCUOLA PRIMARIA 16/09/2026 14:30 17/09/2026 14:30"
+          "title": "Interpelli per: Personale docente",
+          "subtitle": "Nuvola - Interpelli",
+          "text": "nuvola Gestione Interpelli IC Casalpusterlengo Codice meccanografico: LOIC80900D CASALPUSTERLENGO (LO) Interpelli per: Personale Docente Cambia ruolo Interpello per selezione docenti Scuola Infanzia - Sostegno e Posto comune Durata: 25 ore 0 minuti dal 22/09/2026 al 30/06/2027 Presentazione candidature: dal 16/09/2026 15:50 al 18/09/2026 15:50 Posti disponibili: 5 Classe di concorso: ADAA Sostegno nella scuola dell’Infanzia Ordine di scuola: INFANZIA Sede di servizio: Scuola Infanzia Documento allegato: Scarica decreto di emissione interpello per Interpello per selezione docenti Scuola Infanzia - Sostegno e Posto comune Invia la tua candidatura Interpello per selezione docenti Scuola Primaria - Posto comune - Sostegno - Lingua inglese Durata: 24 ore 0 minuti dal 22/09/2026 al 30/06/2027 Presentazione candidature: dal 16/09/2026 14:45 al 18/09/2026 14:45 Posti disponibili: 28 Classe di concorso: ADEE Sostegno nella scuola Primaria Ordine di scuola: PRIMARIA Sede di servizio: Scuola Primaria Documento allegato: Scarica decreto di emissione interpello per Interpello per selezione docenti Scuola Primaria - Posto comune - Sostegno - Lingua inglese Invia la tua candidatura"
         }
       ],
       "attachments": [
         {
-          "text": "INTEPELLO_16.09.2026.pdf.pades.pdf",
-          "href": "https://serviziweb.axioscloud.it/Handlers/updw.aspx",
-          "title": "INTEPELLO_16.09.2026.pdf.pades.pdf",
+          "text": "Scarica decreto di emissione interpelloper Interpello per selezione docenti Scuola Infanzia - Sostegno e Posto comune",
+          "href": "https://nuvola.madisoft.it/file/api/public-download-file-from-entity/LOIC80900D/e8c3a878-502f-4da4-a45d-2081484d1c1b",
+          "title": "",
           "context": "",
-          "status": 500,
-          "error": "HTTP 500"
+          "status": 200,
+          "contentType": "application/pdf",
+          "bytes": 56510,
+          "file": "items/01-I.C.-Casalpusterlengo/01-SEGNATURA_1789566222_Interpello_per_selezione_docenti_Scuola_Infanzia.pdf",
+          "extractedText": "LOIC80900D - A24EECC - REGISTRO PROTOCOLLO - 0005835 - 16/09/2026 - VII - U\n\fLOIC80900D - A24EECC - REGISTRO PROTOCOLLO - 0005835 - 16/09/2026 - VII - U\n\f"
+        },
+        {
+          "text": "Scarica decreto di emissione interpelloper Interpello per selezione docenti Scuola Primaria - Posto comune - Sostegno - Lingua inglese",
+          "href": "https://nuvola.madisoft.it/file/api/public-download-file-from-entity/LOIC80900D/e04f2ef4-e9be-4767-adde-d54440412262",
+          "title": "",
+          "context": "",
+          "status": 200,
+          "contentType": "application/pdf",
+          "bytes": 70556,
+          "file": "items/01-I.C.-Casalpusterlengo/02-SEGNATURA_1789562064_Interpello_per_selezione_personale_docente_Scuola_Primaria.pdf",
+          "extractedText": "LOIC80900D - A24EECC - REGISTRO PROTOCOLLO - 0005832 - 16/09/2026 - VII - U\n\fLOIC80900D - A24EECC - REGISTRO PROTOCOLLO - 0005832 - 16/09/2026 - VII - U\n\f"
         }
       ]
     },
     {
-      "id": "f7bdf7ada614741c",
+      "id": "70a93c9644a50d59",
       "position": 2,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. \"Fellini\" di Tavazzano",
-      "listContext": "16 settembre 2026 Interpelli ricerca supplenti I.C. \"Fellini\" di Tavazzano Posto comune- Scuola Infanzia fino al 30/06/2027",
-      "title": "I.C. \"Fellini\" di Tavazzano",
-      "subtitle": "Posto comune- Scuola Infanzia fino al 30/06/2027",
-      "publicationDate": "16 settembre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-fellini-di-tavazzano-2",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-fellini-di-tavazzano-2",
+      "collectionReason": "new",
+      "listLabel": "I.C. di Zelo Buon Persico",
+      "listContext": "17 settembre 2026 Interpelli ricerca supplenti I.C. di Zelo Buon Persico AAEH SOSTEGNO - N. 1 Posto 30.06.2027",
+      "title": "I.C. di Zelo Buon Persico",
+      "subtitle": "AAEH SOSTEGNO - N. 1 Posto 30.06.2027",
+      "publicationDate": "17 settembre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-di-zelo-buon-persico",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-di-zelo-buon-persico",
       "httpStatus": 200,
       "text": "Link interpello",
       "pages": [
         {
           "label": "Link interpello",
-          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0001/35e0ab2c-625b-4a1a-a275-dc7bda1802b4",
-          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0001/35e0ab2c-625b-4a1a-a275-dc7bda1802b4",
+          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0003/0ef18653-26e6-4976-a73b-d89fea59ddac",
+          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0003/0ef18653-26e6-4976-a73b-d89fea59ddac",
           "httpStatus": 200,
           "title": "Elenco interpelli",
           "subtitle": "",
-          "text": "Interpelli ISTITUTO COMPRENSIVO \"F. FELLINI\" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio Interpello nazionale per reperimento docenti su tipo di posto COMUNE - SCUOLA INFANZIA fino al 30/06/2027 AAAA Insegnante posto comune scuola infanzia 21/09/2026 30/06/2027 LOAA80000V Scuola Infanzia di Tavazzano e Sordio Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+          "text": "Interpelli ISTITUTO COMPRENSIVO STATALE . Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio INFANZIA POSTO SOSTEGNO (AADA) AAEH Infanzia – sostegno minorati psicofisici 21/09/2026 30/06/2027 LOAA805002 INFANZIA MERLINO/COMAZZO Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
         }
       ],
       "attachments": []
     },
     {
-      "id": "a912b0380f4753dd",
+      "id": "2d040d1357cb5ee0",
       "position": 3,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. \"Fellini\" di Tavazzano",
-      "listContext": "16 settembre 2026 Interpelli ricerca supplenti I.C. \"Fellini\" di Tavazzano Posto comune - Scuola Infanzia fino al 30/06/2027",
-      "title": "I.C. \"Fellini\" di Tavazzano",
-      "subtitle": "Posto comune - Scuola Infanzia fino al 30/06/2027",
-      "publicationDate": "16 settembre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-fellini-di-tavazzano-1",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-fellini-di-tavazzano-1",
+      "collectionReason": "new",
+      "listLabel": "I.C. \"C. Collodi\" di Sant.Angelo Lodigiano",
+      "listContext": "17 settembre 2026 Interpelli ricerca supplenti I.C. \"C. Collodi\" di Sant.Angelo Lodigiano ADEE - n. 5 posti al 31 agosto 2026",
+      "title": "I.C. \"C. Collodi\" di Sant.Angelo Lodigiano",
+      "subtitle": "ADEE - n. 5 posti al 31 agosto 2026",
+      "publicationDate": "17 settembre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-di-sant-angelo-lodigiano-2",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-di-sant-angelo-lodigiano-2",
       "httpStatus": 200,
       "text": "Link interpello",
       "pages": [
         {
           "label": "Link interpello",
-          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0001/35e0ab2c-625b-4a1a-a275-dc7bda1802b4",
-          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0001/35e0ab2c-625b-4a1a-a275-dc7bda1802b4",
+          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/bf2b8673-ad94-437b-a7f0-535bd017cfc7",
+          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/bf2b8673-ad94-437b-a7f0-535bd017cfc7",
           "httpStatus": 200,
           "title": "Elenco interpelli",
           "subtitle": "",
-          "text": "Interpelli ISTITUTO COMPRENSIVO \"F. FELLINI\" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio Interpello nazionale per reperimento docenti su tipo di posto COMUNE - SCUOLA INFANZIA fino al 30/06/2027 AAAA Insegnante posto comune scuola infanzia 21/09/2026 30/06/2027 LOAA80000V Scuola Infanzia di Tavazzano e Sordio Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+          "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" CARLO COLLODI \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio INTERPELLO per n. 5 posti su cdc ADEE fino al 31 agosto 2027 ADEE Sostegno scuola primaria 18/09/2026 31/08/2027 LOIC81500R Plessi di scuola primaria afferenti all'Istituto Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
         }
       ],
       "attachments": []
     },
     {
-      "id": "ed7e0cbe285ea161",
+      "id": "bc729c4c5422ca26",
       "position": 4,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. Lodi III",
-      "listContext": "16 settembre 2026 Interpelli ricerca supplenti I.C. Lodi III Posto sostegno scuola primaria",
-      "title": "I.C. Lodi III",
-      "subtitle": "Posto sostegno scuola primaria",
-      "publicationDate": "16 settembre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-48",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-48",
+      "collectionReason": "new",
+      "listLabel": "I.C. \"C. Collodi\" di Sant.Angelo Lodigiano",
+      "listContext": "17 settembre 2026 Interpelli ricerca supplenti I.C. \"C. Collodi\" di Sant.Angelo Lodigiano ADEE - sostegno scuola primaria - n. 20 cattedre fino al 30/06/2027",
+      "title": "I.C. \"C. Collodi\" di Sant.Angelo Lodigiano",
+      "subtitle": "ADEE - sostegno scuola primaria - n. 20 cattedre fino al 30/06/2027",
+      "publicationDate": "17 settembre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-di-sant-angelo-lodigiano-1",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-di-sant-angelo-lodigiano-1",
       "httpStatus": 200,
       "text": "Link interpello",
       "pages": [
         {
           "label": "Link interpello",
-          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/50224eb7-0093-464c-99be-e8feaf68364e",
-          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/50224eb7-0093-464c-99be-e8feaf68364e",
+          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/65db9d4a-4ea5-48ac-83b5-0f66a8f54dea",
+          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/65db9d4a-4ea5-48ac-83b5-0f66a8f54dea",
           "httpStatus": 200,
           "title": "Elenco interpelli",
           "subtitle": "",
-          "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" LODI 3 \" Cerca Elenco interpelli Nessun interpello presente È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+          "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" CARLO COLLODI \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio INTERPELLO su cdc ADEE - sostegno scuola primaria - n. 20 posti fino al 30/06/2027 ADEE Sostegno scuola primaria 21/09/2026 30/06/2027 LOIC81500R plessi di scuola primaria afferenti all'IC Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
         }
       ],
       "attachments": []
