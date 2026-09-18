@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-09-17T21:05:23.769Z",
-  "completedAt": "2026-09-17T21:06:05.320Z",
+  "retrievedAt": "2026-09-18T06:05:32.238Z",
+  "completedAt": "2026-09-18T06:06:13.107Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -1291,7 +1291,7 @@
           "httpStatus": 200,
           "title": "Elenco interpelli",
           "subtitle": "",
-          "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" CARLO COLLODI \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio INTERPELLO su cdc ADEE - sostegno scuola primaria fino al 4 ottobre 2026 - plesso Mairano ADEE Sostegno scuola primaria 21/09/2026 LOEE815042 Scuola primaria di Mairano Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+          "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" CARLO COLLODI \" Cerca Elenco interpelli Nessun interpello presente È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
         }
       ],
       "attachments": []
