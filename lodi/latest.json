@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-09-18T12:05:33.195Z",
-  "completedAt": "2026-09-18T12:06:13.127Z",
+  "retrievedAt": "2026-09-18T13:05:33.556Z",
+  "completedAt": "2026-09-18T13:06:10.733Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -1822,7 +1822,7 @@
     {
       "id": "f2bf327f86b9e46f",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "ITET \"A. Bassi\" Lodi",
       "listContext": "18 settembre 2026 Interpelli ricerca supplenti ITET \"A. Bassi\" Lodi Interpello per incarico sino al termine attività didattica - A041 INFORMATICA",
       "title": "ITET \"A. Bassi\" Lodi",
