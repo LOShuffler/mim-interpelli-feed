@@ -6,18 +6,161 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-09-18T11:05:33.493Z",
-  "completedAt": "2026-09-18T11:06:14.570Z",
+  "retrievedAt": "2026-09-18T12:05:33.195Z",
+  "completedAt": "2026-09-18T12:06:13.127Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 25050,
+    "textLength": 25022,
     "discoveredCount": 200,
     "safetyLimited": false,
-    "processedCount": 5
+    "processedCount": 4
   },
   "recentEvents": [
+    {
+      "id": "9357e1d0902d7e43",
+      "type": "new",
+      "detectedAt": "2026-09-18T12:05:33.195Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/itet-a-bassi-lodi",
+      "item": {
+        "id": "f2bf327f86b9e46f",
+        "position": 1,
+        "collectionReason": "new",
+        "listLabel": "ITET \"A. Bassi\" Lodi",
+        "listContext": "18 settembre 2026 Interpelli ricerca supplenti ITET \"A. Bassi\" Lodi Interpello per incarico sino al termine attività didattica - A041 INFORMATICA",
+        "title": "ITET \"A. Bassi\" Lodi",
+        "subtitle": "Interpello per incarico sino al termine attività didattica - A041 INFORMATICA",
+        "publicationDate": "18 settembre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/itet-a-bassi-lodi",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/itet-a-bassi-lodi",
+        "httpStatus": 200,
+        "text": "Link pagina interpello",
+        "pages": [
+          {
+            "label": "Link pagina interpello",
+            "url": "https://web.spaggiari.eu/sdg2/AlboOnline/LOIT0001?idCategoria=10003",
+            "finalUrl": "https://web.spaggiari.eu/sdg2/AlboOnline/LOIT0001?idCategoria=10003",
+            "httpStatus": 200,
+            "title": "Albo Online",
+            "subtitle": "",
+            "text": "Albo Online ISTITUTO TECNICO COMM. E PER GEOM. \"A BASSI\" Cerca Numero totale documenti: 13 Categorie Tutte (13) Avvisi Organi Collegiali (1) Graduatorie (6) Nomine personale (1) Contabilità (1) Bandi di gara (4) Convenzioni Incarichi e consulenze Libri di testo Sicurezza Contratti Regolamenti Esami Altro Albo Altre PA Scrutini Graduatorie Documenti Mostra: Tutti In pubblicazione Annullati Tipo documento Individuazione del personale INTERPELLO 141 2026 INTERPELLO PER INCARICO SINO AL TERMINE ATTIVITA' DIDATTICA - A041 INFORMATICA Protocollo: 9344/2026 del 17/09/2026 Categoria: Graduatorie Pubblicato il: 17/09/2026 Valido fino: 02/10/2026 Allegati: annotazione_INTERPELLO A041 INFORMATICA.pdf 137 2026 ANNULLATOIndividuazione dalla Graduatoria d'Istituto di 3^Fascia 2024/2027 Assistente Amministrativo Capuano Immacolata posizione 110 punteggio 17,6 Protocollo: 8993/2026 del 10/09/2026 Categoria: Graduatorie Pubblicato il: 10/09/2026 Valido fino: 10/10/2026 Motivazione annullamento: 11/09/2026 09:43:29: errata pubblicazione 133 2026 Individuazione dalla Graduatoria d'Istituto di 3^Fascia 2024/2027 Assistente Amministrativo Forte Serena posizione 97 punteggio 18,1 Protocollo: 8827/2026 del 08/09/2026 Categoria: Graduatorie Pubblicato il: 08/09/2026 Valido fino: 08/10/2026 Allegati: annotazione_Indiv. Forte Serena.pdf 130 2026 Individuazione dalla Graduatoria d'Istituto di 1^Fascia contingente 2026/2027 Collaboratore Scolastico Capua Elena Aida posizione 59 punteggio 28,50 Protocollo: 8558/2026 del 01/09/2026 Categoria: Graduatorie Pubblicato il: 05/09/2026 Valido fino: 05/10/2026 129 2026 Individuazione dalla Graduatoria d'Istituto di 1^Fascia contingente 2026/2027 Collaboratore Scolastico Mazzeo Antonio posizione 60 punteggio 28,50 Protocollo: 8559/2026 del 01/09/2026 Categoria: Graduatorie Pubblicato il: 03/09/2026 Valido fino: 03/10/2026 128 2026 Individuazione dalla Graduatoria d'Istituto di 1^Fascia contingente 2026/2027 Assistente Amministrativo Catapano Maria posizione21 punteggio 29,70 Protocollo: 8581/2026 del 01/09/2026 Categoria: Graduatorie Pubblicato il: 03/09/2026 Valido fino: 03/10/2026 È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+          }
+        ],
+        "attachments": [
+          {
+            "text": "Visualizza documento",
+            "href": "https://web.spaggiari.eu/sdg2/Documenti/LOIT0001/215734371",
+            "title": "Visualizza documento",
+            "context": "1412026INTERPELLO PER INCARICO SINO AL TERMINE ATTIVITA' DIDATTICA - A041 INFORMATICAProtocollo: 9344/2026 del 17/09/2026Categoria: GraduatoriePubblicato il: 17/09/2026Valido fino: 02/10/2026 Allegati:annotazione_INTERPELLO A041 INFORMATICA.pdf",
+            "status": 200,
+            "contentType": "application/pdf",
+            "bytes": 305763,
+            "file": "items/01-ITET-A.-Bassi-Lodi/01-215734371.pdf",
+            "extractedText": "Documento informatico firmato digitalmente da VINCENZA LANDRO ai sensi del D.Lgs 82/2005 s.m.i. e norme collegate\n\f\f\f\f"
+          },
+          {
+            "text": "Scarica documento",
+            "href": "https://web.spaggiari.eu/sdg2/Documenti/LOIT0001/215734371?download=1",
+            "title": "Scarica documento",
+            "context": "1412026INTERPELLO PER INCARICO SINO AL TERMINE ATTIVITA' DIDATTICA - A041 INFORMATICAProtocollo: 9344/2026 del 17/09/2026Categoria: GraduatoriePubblicato il: 17/09/2026Valido fino: 02/10/2026 Allegati:annotazione_INTERPELLO A041 INFORMATICA.pdf",
+            "status": 200,
+            "contentType": "application/pdf",
+            "bytes": 305763,
+            "file": "items/01-ITET-A.-Bassi-Lodi/02-INTERPELLO-A041-INFORMATICA.pdf",
+            "extractedText": "Documento informatico firmato digitalmente da VINCENZA LANDRO ai sensi del D.Lgs 82/2005 s.m.i. e norme collegate\n\f\f\f\f"
+          },
+          {
+            "text": "annotazione_INTERPELLO A041 INFORMATICA.pdf",
+            "href": "https://web.spaggiari.eu/sdg2/Documenti/LOIT0001/215735006?download=1",
+            "title": "",
+            "context": "annotazione_INTERPELLO A041 INFORMATICA.pdf",
+            "status": 200,
+            "contentType": "application/pdf",
+            "bytes": 307027,
+            "file": "items/01-ITET-A.-Bassi-Lodi/03-annotazione_INTERPELLO-A041-INFORMATICA.pdf",
+            "extractedText": "      Protocollo 0009344/2026 del 17/09/2026\n\n\n\n\nDocumento informatico firmato digitalmente da VINCENZA LANDRO ai sensi del D.Lgs 82/2005 s.m.i. e norme collegate\n\f\f\f\f"
+          },
+          {
+            "text": "Visualizza documento",
+            "href": "https://web.spaggiari.eu/sdg2/Documenti/LOIT0001/215441714",
+            "title": "Visualizza documento",
+            "context": "1332026Individuazione dalla Graduatoria d'Istituto di 3^Fascia 2024/2027 Assistente Amministrativo Forte Serena posizione 97 punteggio 18,1 Protocollo: 8827/2026 del 08/09/2026Categoria: GraduatoriePubblicato il: 08/09/2026Valido fino: 08/10/2026 Allegati:annotazione_Indiv. Forte Serena.pdf",
+            "status": 200,
+            "contentType": "application/pdf",
+            "bytes": 77965,
+            "file": "items/01-ITET-A.-Bassi-Lodi/04-215441714.pdf",
+            "extractedText": "Documento informatico firmato digitalmente da VINCENZA LANDRO ai sensi del D.Lgs 82/2005 s.m.i. e norme collegate\n\f"
+          },
+          {
+            "text": "Scarica documento",
+            "href": "https://web.spaggiari.eu/sdg2/Documenti/LOIT0001/215441714?download=1",
+            "title": "Scarica documento",
+            "context": "1332026Individuazione dalla Graduatoria d'Istituto di 3^Fascia 2024/2027 Assistente Amministrativo Forte Serena posizione 97 punteggio 18,1 Protocollo: 8827/2026 del 08/09/2026Categoria: GraduatoriePubblicato il: 08/09/2026Valido fino: 08/10/2026 Allegati:annotazione_Indiv. Forte Serena.pdf",
+            "status": 200,
+            "contentType": "application/pdf",
+            "bytes": 77965,
+            "file": "items/01-ITET-A.-Bassi-Lodi/05-Indiv.-Forte-Serena.pdf",
+            "extractedText": "Documento informatico firmato digitalmente da VINCENZA LANDRO ai sensi del D.Lgs 82/2005 s.m.i. e norme collegate\n\f"
+          },
+          {
+            "text": "annotazione_Indiv. Forte Serena.pdf",
+            "href": "https://web.spaggiari.eu/sdg2/Documenti/LOIT0001/215444025?download=1",
+            "title": "",
+            "context": "annotazione_Indiv. Forte Serena.pdf",
+            "status": 200,
+            "contentType": "application/pdf",
+            "bytes": 79212,
+            "file": "items/01-ITET-A.-Bassi-Lodi/06-annotazione_Indiv.-Forte-Serena.pdf",
+            "extractedText": "      Protocollo 0008827/2026 del 08/09/2026\n\n\n\n\nDocumento informatico firmato digitalmente da VINCENZA LANDRO ai sensi del D.Lgs 82/2005 s.m.i. e norme collegate\n\f"
+          },
+          {
+            "text": "Visualizza documento",
+            "href": "https://web.spaggiari.eu/sdg2/Documenti/LOIT0001/215351318",
+            "title": "Visualizza documento",
+            "context": "1302026Individuazione dalla Graduatoria d'Istituto di 1^Fascia contingente 2026/2027 Collaboratore Scolastico Capua Elena Aida posizione 59 punteggio 28,50 Protocollo: 8558/2026 del 01/09/2026Categoria: GraduatoriePubblicato il: 05/09/2026Valido fino: 05/10/2026",
+            "status": 200,
+            "contentType": "application/pdf",
+            "bytes": 80744,
+            "file": "items/01-ITET-A.-Bassi-Lodi/07-215351318.pdf",
+            "extractedText": "Documento informatico firmato digitalmente da VINCENZA LANDRO ai sensi del D.Lgs 82/2005 s.m.i. e norme collegate\n\f"
+          },
+          {
+            "text": "Scarica documento",
+            "href": "https://web.spaggiari.eu/sdg2/Documenti/LOIT0001/215351318?download=1",
+            "title": "Scarica documento",
+            "context": "1302026Individuazione dalla Graduatoria d'Istituto di 1^Fascia contingente 2026/2027 Collaboratore Scolastico Capua Elena Aida posizione 59 punteggio 28,50 Protocollo: 8558/2026 del 01/09/2026Categoria: GraduatoriePubblicato il: 05/09/2026Valido fino: 05/10/2026",
+            "status": 200,
+            "contentType": "application/pdf",
+            "bytes": 80744,
+            "file": "items/01-ITET-A.-Bassi-Lodi/08-Capua-Elena-Aida.pdf",
+            "extractedText": "Documento informatico firmato digitalmente da VINCENZA LANDRO ai sensi del D.Lgs 82/2005 s.m.i. e norme collegate\n\f"
+          },
+          {
+            "text": "Visualizza documento",
+            "href": "https://web.spaggiari.eu/sdg2/Documenti/LOIT0001/215350226",
+            "title": "Visualizza documento",
+            "context": "1292026Individuazione dalla Graduatoria d'Istituto di 1^Fascia contingente 2026/2027 Collaboratore Scolastico Mazzeo Antonio posizione 60 punteggio 28,50 Protocollo: 8559/2026 del 01/09/2026Categoria: GraduatoriePubblicato il: 03/09/2026Valido fino: 03/10/2026",
+            "status": 200,
+            "contentType": "application/pdf",
+            "bytes": 81472,
+            "file": "items/01-ITET-A.-Bassi-Lodi/09-215350226.pdf",
+            "extractedText": "Documento informatico firmato digitalmente da VINCENZA LANDRO ai sensi del D.Lgs 82/2005 s.m.i. e norme collegate\n\f"
+          },
+          {
+            "text": "Scarica documento",
+            "href": "https://web.spaggiari.eu/sdg2/Documenti/LOIT0001/215350226?download=1",
+            "title": "Scarica documento",
+            "context": "1292026Individuazione dalla Graduatoria d'Istituto di 1^Fascia contingente 2026/2027 Collaboratore Scolastico Mazzeo Antonio posizione 60 punteggio 28,50 Protocollo: 8559/2026 del 01/09/2026Categoria: GraduatoriePubblicato il: 03/09/2026Valido fino: 03/10/2026",
+            "status": 200,
+            "contentType": "application/pdf",
+            "bytes": 81472,
+            "file": "items/01-ITET-A.-Bassi-Lodi/10-Mazzeo-Antonio.pdf",
+            "extractedText": "Documento informatico firmato digitalmente da VINCENZA LANDRO ai sensi del D.Lgs 82/2005 s.m.i. e norme collegate\n\f"
+          }
+        ]
+      }
+    },
     {
       "id": "6031289cb8fdc053",
       "type": "new",
@@ -1677,9 +1820,146 @@
   ],
   "latestFour": [
     {
-      "id": "f90be28e2355747a",
+      "id": "f2bf327f86b9e46f",
       "position": 1,
       "collectionReason": "new",
+      "listLabel": "ITET \"A. Bassi\" Lodi",
+      "listContext": "18 settembre 2026 Interpelli ricerca supplenti ITET \"A. Bassi\" Lodi Interpello per incarico sino al termine attività didattica - A041 INFORMATICA",
+      "title": "ITET \"A. Bassi\" Lodi",
+      "subtitle": "Interpello per incarico sino al termine attività didattica - A041 INFORMATICA",
+      "publicationDate": "18 settembre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/itet-a-bassi-lodi",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/itet-a-bassi-lodi",
+      "httpStatus": 200,
+      "text": "Link pagina interpello",
+      "pages": [
+        {
+          "label": "Link pagina interpello",
+          "url": "https://web.spaggiari.eu/sdg2/AlboOnline/LOIT0001?idCategoria=10003",
+          "finalUrl": "https://web.spaggiari.eu/sdg2/AlboOnline/LOIT0001?idCategoria=10003",
+          "httpStatus": 200,
+          "title": "Albo Online",
+          "subtitle": "",
+          "text": "Albo Online ISTITUTO TECNICO COMM. E PER GEOM. \"A BASSI\" Cerca Numero totale documenti: 13 Categorie Tutte (13) Avvisi Organi Collegiali (1) Graduatorie (6) Nomine personale (1) Contabilità (1) Bandi di gara (4) Convenzioni Incarichi e consulenze Libri di testo Sicurezza Contratti Regolamenti Esami Altro Albo Altre PA Scrutini Graduatorie Documenti Mostra: Tutti In pubblicazione Annullati Tipo documento Individuazione del personale INTERPELLO 141 2026 INTERPELLO PER INCARICO SINO AL TERMINE ATTIVITA' DIDATTICA - A041 INFORMATICA Protocollo: 9344/2026 del 17/09/2026 Categoria: Graduatorie Pubblicato il: 17/09/2026 Valido fino: 02/10/2026 Allegati: annotazione_INTERPELLO A041 INFORMATICA.pdf 137 2026 ANNULLATOIndividuazione dalla Graduatoria d'Istituto di 3^Fascia 2024/2027 Assistente Amministrativo Capuano Immacolata posizione 110 punteggio 17,6 Protocollo: 8993/2026 del 10/09/2026 Categoria: Graduatorie Pubblicato il: 10/09/2026 Valido fino: 10/10/2026 Motivazione annullamento: 11/09/2026 09:43:29: errata pubblicazione 133 2026 Individuazione dalla Graduatoria d'Istituto di 3^Fascia 2024/2027 Assistente Amministrativo Forte Serena posizione 97 punteggio 18,1 Protocollo: 8827/2026 del 08/09/2026 Categoria: Graduatorie Pubblicato il: 08/09/2026 Valido fino: 08/10/2026 Allegati: annotazione_Indiv. Forte Serena.pdf 130 2026 Individuazione dalla Graduatoria d'Istituto di 1^Fascia contingente 2026/2027 Collaboratore Scolastico Capua Elena Aida posizione 59 punteggio 28,50 Protocollo: 8558/2026 del 01/09/2026 Categoria: Graduatorie Pubblicato il: 05/09/2026 Valido fino: 05/10/2026 129 2026 Individuazione dalla Graduatoria d'Istituto di 1^Fascia contingente 2026/2027 Collaboratore Scolastico Mazzeo Antonio posizione 60 punteggio 28,50 Protocollo: 8559/2026 del 01/09/2026 Categoria: Graduatorie Pubblicato il: 03/09/2026 Valido fino: 03/10/2026 128 2026 Individuazione dalla Graduatoria d'Istituto di 1^Fascia contingente 2026/2027 Assistente Amministrativo Catapano Maria posizione21 punteggio 29,70 Protocollo: 8581/2026 del 01/09/2026 Categoria: Graduatorie Pubblicato il: 03/09/2026 Valido fino: 03/10/2026 È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+        }
+      ],
+      "attachments": [
+        {
+          "text": "Visualizza documento",
+          "href": "https://web.spaggiari.eu/sdg2/Documenti/LOIT0001/215734371",
+          "title": "Visualizza documento",
+          "context": "1412026INTERPELLO PER INCARICO SINO AL TERMINE ATTIVITA' DIDATTICA - A041 INFORMATICAProtocollo: 9344/2026 del 17/09/2026Categoria: GraduatoriePubblicato il: 17/09/2026Valido fino: 02/10/2026 Allegati:annotazione_INTERPELLO A041 INFORMATICA.pdf",
+          "status": 200,
+          "contentType": "application/pdf",
+          "bytes": 305763,
+          "file": "items/01-ITET-A.-Bassi-Lodi/01-215734371.pdf",
+          "extractedText": "Documento informatico firmato digitalmente da VINCENZA LANDRO ai sensi del D.Lgs 82/2005 s.m.i. e norme collegate\n\f\f\f\f"
+        },
+        {
+          "text": "Scarica documento",
+          "href": "https://web.spaggiari.eu/sdg2/Documenti/LOIT0001/215734371?download=1",
+          "title": "Scarica documento",
+          "context": "1412026INTERPELLO PER INCARICO SINO AL TERMINE ATTIVITA' DIDATTICA - A041 INFORMATICAProtocollo: 9344/2026 del 17/09/2026Categoria: GraduatoriePubblicato il: 17/09/2026Valido fino: 02/10/2026 Allegati:annotazione_INTERPELLO A041 INFORMATICA.pdf",
+          "status": 200,
+          "contentType": "application/pdf",
+          "bytes": 305763,
+          "file": "items/01-ITET-A.-Bassi-Lodi/02-INTERPELLO-A041-INFORMATICA.pdf",
+          "extractedText": "Documento informatico firmato digitalmente da VINCENZA LANDRO ai sensi del D.Lgs 82/2005 s.m.i. e norme collegate\n\f\f\f\f"
+        },
+        {
+          "text": "annotazione_INTERPELLO A041 INFORMATICA.pdf",
+          "href": "https://web.spaggiari.eu/sdg2/Documenti/LOIT0001/215735006?download=1",
+          "title": "",
+          "context": "annotazione_INTERPELLO A041 INFORMATICA.pdf",
+          "status": 200,
+          "contentType": "application/pdf",
+          "bytes": 307027,
+          "file": "items/01-ITET-A.-Bassi-Lodi/03-annotazione_INTERPELLO-A041-INFORMATICA.pdf",
+          "extractedText": "      Protocollo 0009344/2026 del 17/09/2026\n\n\n\n\nDocumento informatico firmato digitalmente da VINCENZA LANDRO ai sensi del D.Lgs 82/2005 s.m.i. e norme collegate\n\f\f\f\f"
+        },
+        {
+          "text": "Visualizza documento",
+          "href": "https://web.spaggiari.eu/sdg2/Documenti/LOIT0001/215441714",
+          "title": "Visualizza documento",
+          "context": "1332026Individuazione dalla Graduatoria d'Istituto di 3^Fascia 2024/2027 Assistente Amministrativo Forte Serena posizione 97 punteggio 18,1 Protocollo: 8827/2026 del 08/09/2026Categoria: GraduatoriePubblicato il: 08/09/2026Valido fino: 08/10/2026 Allegati:annotazione_Indiv. Forte Serena.pdf",
+          "status": 200,
+          "contentType": "application/pdf",
+          "bytes": 77965,
+          "file": "items/01-ITET-A.-Bassi-Lodi/04-215441714.pdf",
+          "extractedText": "Documento informatico firmato digitalmente da VINCENZA LANDRO ai sensi del D.Lgs 82/2005 s.m.i. e norme collegate\n\f"
+        },
+        {
+          "text": "Scarica documento",
+          "href": "https://web.spaggiari.eu/sdg2/Documenti/LOIT0001/215441714?download=1",
+          "title": "Scarica documento",
+          "context": "1332026Individuazione dalla Graduatoria d'Istituto di 3^Fascia 2024/2027 Assistente Amministrativo Forte Serena posizione 97 punteggio 18,1 Protocollo: 8827/2026 del 08/09/2026Categoria: GraduatoriePubblicato il: 08/09/2026Valido fino: 08/10/2026 Allegati:annotazione_Indiv. Forte Serena.pdf",
+          "status": 200,
+          "contentType": "application/pdf",
+          "bytes": 77965,
+          "file": "items/01-ITET-A.-Bassi-Lodi/05-Indiv.-Forte-Serena.pdf",
+          "extractedText": "Documento informatico firmato digitalmente da VINCENZA LANDRO ai sensi del D.Lgs 82/2005 s.m.i. e norme collegate\n\f"
+        },
+        {
+          "text": "annotazione_Indiv. Forte Serena.pdf",
+          "href": "https://web.spaggiari.eu/sdg2/Documenti/LOIT0001/215444025?download=1",
+          "title": "",
+          "context": "annotazione_Indiv. Forte Serena.pdf",
+          "status": 200,
+          "contentType": "application/pdf",
+          "bytes": 79212,
+          "file": "items/01-ITET-A.-Bassi-Lodi/06-annotazione_Indiv.-Forte-Serena.pdf",
+          "extractedText": "      Protocollo 0008827/2026 del 08/09/2026\n\n\n\n\nDocumento informatico firmato digitalmente da VINCENZA LANDRO ai sensi del D.Lgs 82/2005 s.m.i. e norme collegate\n\f"
+        },
+        {
+          "text": "Visualizza documento",
+          "href": "https://web.spaggiari.eu/sdg2/Documenti/LOIT0001/215351318",
+          "title": "Visualizza documento",
+          "context": "1302026Individuazione dalla Graduatoria d'Istituto di 1^Fascia contingente 2026/2027 Collaboratore Scolastico Capua Elena Aida posizione 59 punteggio 28,50 Protocollo: 8558/2026 del 01/09/2026Categoria: GraduatoriePubblicato il: 05/09/2026Valido fino: 05/10/2026",
+          "status": 200,
+          "contentType": "application/pdf",
+          "bytes": 80744,
+          "file": "items/01-ITET-A.-Bassi-Lodi/07-215351318.pdf",
+          "extractedText": "Documento informatico firmato digitalmente da VINCENZA LANDRO ai sensi del D.Lgs 82/2005 s.m.i. e norme collegate\n\f"
+        },
+        {
+          "text": "Scarica documento",
+          "href": "https://web.spaggiari.eu/sdg2/Documenti/LOIT0001/215351318?download=1",
+          "title": "Scarica documento",
+          "context": "1302026Individuazione dalla Graduatoria d'Istituto di 1^Fascia contingente 2026/2027 Collaboratore Scolastico Capua Elena Aida posizione 59 punteggio 28,50 Protocollo: 8558/2026 del 01/09/2026Categoria: GraduatoriePubblicato il: 05/09/2026Valido fino: 05/10/2026",
+          "status": 200,
+          "contentType": "application/pdf",
+          "bytes": 80744,
+          "file": "items/01-ITET-A.-Bassi-Lodi/08-Capua-Elena-Aida.pdf",
+          "extractedText": "Documento informatico firmato digitalmente da VINCENZA LANDRO ai sensi del D.Lgs 82/2005 s.m.i. e norme collegate\n\f"
+        },
+        {
+          "text": "Visualizza documento",
+          "href": "https://web.spaggiari.eu/sdg2/Documenti/LOIT0001/215350226",
+          "title": "Visualizza documento",
+          "context": "1292026Individuazione dalla Graduatoria d'Istituto di 1^Fascia contingente 2026/2027 Collaboratore Scolastico Mazzeo Antonio posizione 60 punteggio 28,50 Protocollo: 8559/2026 del 01/09/2026Categoria: GraduatoriePubblicato il: 03/09/2026Valido fino: 03/10/2026",
+          "status": 200,
+          "contentType": "application/pdf",
+          "bytes": 81472,
+          "file": "items/01-ITET-A.-Bassi-Lodi/09-215350226.pdf",
+          "extractedText": "Documento informatico firmato digitalmente da VINCENZA LANDRO ai sensi del D.Lgs 82/2005 s.m.i. e norme collegate\n\f"
+        },
+        {
+          "text": "Scarica documento",
+          "href": "https://web.spaggiari.eu/sdg2/Documenti/LOIT0001/215350226?download=1",
+          "title": "Scarica documento",
+          "context": "1292026Individuazione dalla Graduatoria d'Istituto di 1^Fascia contingente 2026/2027 Collaboratore Scolastico Mazzeo Antonio posizione 60 punteggio 28,50 Protocollo: 8559/2026 del 01/09/2026Categoria: GraduatoriePubblicato il: 03/09/2026Valido fino: 03/10/2026",
+          "status": 200,
+          "contentType": "application/pdf",
+          "bytes": 81472,
+          "file": "items/01-ITET-A.-Bassi-Lodi/10-Mazzeo-Antonio.pdf",
+          "extractedText": "Documento informatico firmato digitalmente da VINCENZA LANDRO ai sensi del D.Lgs 82/2005 s.m.i. e norme collegate\n\f"
+        }
+      ]
+    },
+    {
+      "id": "f90be28e2355747a",
+      "position": 2,
+      "collectionReason": "refresh",
       "listLabel": "I.C. Tavazzano",
       "listContext": "18 settembre 2026 Interpelli ricerca supplenti I.C. Tavazzano Interpello nazionale per reperimento docenti su tipo di posto COMUNE - SCUOLA PRIMARIA fino al 30/06/2027",
       "title": "I.C. Tavazzano",
@@ -1704,8 +1984,8 @@
     },
     {
       "id": "418d734eac594a69",
-      "position": 2,
-      "collectionReason": "new",
+      "position": 3,
+      "collectionReason": "refresh",
       "listLabel": "I.C. Tavazzano",
       "listContext": "18 settembre 2026 Interpelli ricerca supplenti I.C. Tavazzano Interpello nazionale per reperimento docenti su tipo di posto SOSTEGNO - SCUOLA PRIMARIA fino al 30/06/2027",
       "title": "I.C. Tavazzano",
@@ -1730,8 +2010,8 @@
     },
     {
       "id": "8de41838201a9148",
-      "position": 3,
-      "collectionReason": "new",
+      "position": 4,
+      "collectionReason": "refresh",
       "listLabel": "I.C. Tavazzano",
       "listContext": "18 settembre 2026 Interpelli ricerca supplenti I.C. Tavazzano Interpello nazionale per reperimento docenti su tipo di posto COMUNE - SCUOLA PRIMARIA fino 8/06/2027",
       "title": "I.C. Tavazzano",
@@ -1750,32 +2030,6 @@
           "title": "Elenco interpelli",
           "subtitle": "",
           "text": "Interpelli ISTITUTO COMPRENSIVO \"F. FELLINI\" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio Interpello nazionale per reperimento docenti su tipo di posto COMUNE - SCUOLA PRIMARIA fino 8/06/2027 EEEE Insegnante posto comune scuola primaria 22/09/2026 08/06/2027 LOEE800015 Scuola Primaria di Tavazzano e Sordio Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
-        }
-      ],
-      "attachments": []
-    },
-    {
-      "id": "72b39e02884f9f39",
-      "position": 4,
-      "collectionReason": "new",
-      "listLabel": "I.C. Lodi IV",
-      "listContext": "18 settembre 2026 Interpelli ricerca supplenti I.C. Lodi IV Interpello per il reclutamento di N. 1 docente POSTO COMUNE Scuola Primaria EEEE 24 H SETT. supplenza breve presumibilmente fino al 30/10/26",
-      "title": "I.C. Lodi IV",
-      "subtitle": "Interpello per il reclutamento di N. 1 docente POSTO COMUNE Scuola Primaria EEEE 24 H SETT. supplenza breve presumibilmente fino al 30/10/26",
-      "publicationDate": "18 settembre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iv-24",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iv-24",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://www.portaleargo.it/albopretorio/online/",
-          "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
-          "httpStatus": 200,
-          "title": "Albo Pretorio",
-          "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
-          "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
         }
       ],
       "attachments": []
