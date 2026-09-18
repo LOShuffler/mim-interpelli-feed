@@ -6,18 +6,114 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-09-18T06:05:32.238Z",
-  "completedAt": "2026-09-18T06:06:13.107Z",
+  "retrievedAt": "2026-09-18T07:05:32.476Z",
+  "completedAt": "2026-09-18T07:06:14.407Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 24863,
+    "textLength": 24825,
     "discoveredCount": 200,
     "safetyLimited": false,
     "processedCount": 4
   },
   "recentEvents": [
+    {
+      "id": "92dece7aa9b26b6f",
+      "type": "new",
+      "detectedAt": "2026-09-18T07:05:32.476Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-borghetto-lodigiano-11",
+      "item": {
+        "id": "8f9561749ed8f1a7",
+        "position": 1,
+        "collectionReason": "new",
+        "listLabel": "I.C. Borghetto Lodigiano",
+        "listContext": "18 settembre 2026 Interpelli ricerca supplenti I.C. Borghetto Lodigiano ADAA Sostegno nella scuola dell’Infanzia",
+        "title": "I.C. Borghetto Lodigiano",
+        "subtitle": "ADAA Sostegno nella scuola dell’Infanzia",
+        "publicationDate": "18 settembre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-borghetto-lodigiano-11",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-borghetto-lodigiano-11",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://nuvola.madisoft.it/interpelli/LOIC80400A/docenti/119a00a1-a6c7-4df0-95b5-86709d94326a/candidatura",
+            "finalUrl": "https://nuvola.madisoft.it/interpelli/LOIC80400A/docenti/119a00a1-a6c7-4df0-95b5-86709d94326a/candidatura",
+            "httpStatus": 200,
+            "title": "INTERPELLO PER SELEZIONE PERSONALE DOCENTE SOSTEGNO SCUOLA INFANZIA",
+            "subtitle": "Nuvola - Interpelli",
+            "text": "nuvola Gestione Interpelli Torna agli interpelli aperti STEP 1 Dati anagrafici Generalità e contatti STEP 2 Titoli e certificazioni Studio e lingue STEP 3 Abilitazioni Abilitazione all'insegnamento e servizio prestato STEP 4 Esperienze di servizio Incarichi svolti e periodi di servizio STEP 5 Allegati e dichiarazioni Curriculum, altri allegati e dichiarazioni finali STEP 6 Riepilogo Controlla i dati inseriti INTERPELLO PER SELEZIONE PERSONALE DOCENTE SOSTEGNO SCUOLA INFANZIA Durata: 25 ore 0 minuti dal 21/09/2026 al 30/06/2027 Presentazione candidature: dal 17/09/2026 16:00 al 19/09/2026 16:00 Posti disponibili: 2 Annotazioni: A parità di ordine di priorità, la supplenza sarà conferita all'aspirante che abbia già prestato servizio di insegnamento presso questa istituzione scolastica, preferibilmente per la medesima tipologia di posto. Classe di concorso: ADAA Sostegno nella scuola dell’Infanzia Ordine di scuola: INFANZIA Sede di servizio: IC BORGHETTO LODIGIANO Leggi il testo sul trattamento dei dati STEP 1 DI 6 Dati anagrafici Generalità e contatti Generalità Generalità Nome Cognome Sesso Codice fiscale Data di nascita Comune di nascita Stato di nascita Residenza Residenza Indirizzo di residenza Comune di residenza CAP di residenza Contatti Contatti Email PEC Cellulare Cittadinanza Cittadinanza Cittadino Italiano Cittadino di uno Stato membro UE Cittadino non comunitario con diritto di soggiorno o soggiorno permanente Avanti"
+          }
+        ],
+        "attachments": []
+      }
+    },
+    {
+      "id": "6b5d2440dd2a25d6",
+      "type": "new",
+      "detectedAt": "2026-09-18T07:05:32.476Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-borghetto-lodigiano-10",
+      "item": {
+        "id": "a72e3213f63f4b25",
+        "position": 2,
+        "collectionReason": "new",
+        "listLabel": "I.C. Borghetto Lodigiano",
+        "listContext": "18 settembre 2026 Interpelli ricerca supplenti I.C. Borghetto Lodigiano ADEE Sostegno nella scuola Primaria",
+        "title": "I.C. Borghetto Lodigiano",
+        "subtitle": "ADEE Sostegno nella scuola Primaria",
+        "publicationDate": "18 settembre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-borghetto-lodigiano-10",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-borghetto-lodigiano-10",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://nuvola.madisoft.it/interpelli/LOIC80400A/docenti/2035430e-fce1-431b-bd1c-0b0c95ef80f4/candidatura",
+            "finalUrl": "https://nuvola.madisoft.it/interpelli/LOIC80400A/docenti/2035430e-fce1-431b-bd1c-0b0c95ef80f4/candidatura",
+            "httpStatus": 200,
+            "title": "INTERPELLO PER SELEZIONE PERSONALE DOCENTE SOSTEGNO SCUOLA PRIMARIA",
+            "subtitle": "Nuvola - Interpelli",
+            "text": "nuvola Gestione Interpelli Torna agli interpelli aperti STEP 1 Dati anagrafici Generalità e contatti STEP 2 Titoli e certificazioni Studio e lingue STEP 3 Abilitazioni Abilitazione all'insegnamento e servizio prestato STEP 4 Esperienze di servizio Incarichi svolti e periodi di servizio STEP 5 Allegati e dichiarazioni Curriculum, altri allegati e dichiarazioni finali STEP 6 Riepilogo Controlla i dati inseriti INTERPELLO PER SELEZIONE PERSONALE DOCENTE SOSTEGNO SCUOLA PRIMARIA Durata: 24 ore 0 minuti dal 22/09/2026 al 30/06/2027 Presentazione candidature: dal 17/09/2026 16:00 al 19/09/2026 16:00 Posti disponibili: 10 Annotazioni: A parità di ordine di priorità, la supplenza sarà conferita all'aspirante che abbia già prestato servizio di insegnamento presso questa istituzione scolastica, preferibilmente per la medesima tipologia di posto. Classe di concorso: ADEE Sostegno nella scuola Primaria Ordine di scuola: PRIMARIA Sede di servizio: IC BORGHETTO LODIGIANO Leggi il testo sul trattamento dei dati STEP 1 DI 6 Dati anagrafici Generalità e contatti Generalità Generalità Nome Cognome Sesso Codice fiscale Data di nascita Comune di nascita Stato di nascita Residenza Residenza Indirizzo di residenza Comune di residenza CAP di residenza Contatti Contatti Email PEC Cellulare Cittadinanza Cittadinanza Cittadino Italiano Cittadino di uno Stato membro UE Cittadino non comunitario con diritto di soggiorno o soggiorno permanente Avanti"
+          }
+        ],
+        "attachments": []
+      }
+    },
+    {
+      "id": "cda7e6c4bfb316a6",
+      "type": "new",
+      "detectedAt": "2026-09-18T07:05:32.476Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-50",
+      "item": {
+        "id": "d0d12775598ef654",
+        "position": 3,
+        "collectionReason": "new",
+        "listLabel": "I.C. Lodi III",
+        "listContext": "18 settembre 2026 Interpelli ricerca supplenti I.C. Lodi III Interpelli scuola primaria sostegno e posto comune",
+        "title": "I.C. Lodi III",
+        "subtitle": "Interpelli scuola primaria sostegno e posto comune",
+        "publicationDate": "18 settembre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-50",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-50",
+        "httpStatus": 200,
+        "text": "Link pagina interpelli",
+        "pages": [
+          {
+            "label": "Link pagina interpelli",
+            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013",
+            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013",
+            "httpStatus": 200,
+            "title": "Elenco interpelli",
+            "subtitle": "",
+            "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" LODI 3 \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio INTERPELLO POSTO COMUNE SCUOLA PRIMARIA EEEE Insegnante posto comune scuola primaria 21/09/2026 28/11/2026 LOIC814001 IC LODI TERZO Iscriviti INTERPELLO SOSTEGNO SCUOLA PRIMARIA ADEE Sostegno scuola primaria 21/09/2026 15/12/2026 LOIC814001 I.C. LODI III Iscriviti INTERPELLO SOSTEGNO SCUOLA PRIMARIA ADEE Sostegno scuola primaria 21/09/2026 30/06/2027 LOIC814001 I.C. LODI III Iscriviti INTERPELLO POSTO COMUNE SCUOLA PRIMARIA EEEE Insegnante posto comune scuola primaria 21/09/2026 16/01/2027 LOIC814001 I.C. LODI III Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+          }
+        ],
+        "attachments": []
+      }
+    },
     {
       "id": "3bd8b5a46e919095",
       "type": "new",
@@ -1227,8 +1323,86 @@
   ],
   "latestFour": [
     {
-      "id": "cbe3b06294a5b7cf",
+      "id": "8f9561749ed8f1a7",
       "position": 1,
+      "collectionReason": "new",
+      "listLabel": "I.C. Borghetto Lodigiano",
+      "listContext": "18 settembre 2026 Interpelli ricerca supplenti I.C. Borghetto Lodigiano ADAA Sostegno nella scuola dell’Infanzia",
+      "title": "I.C. Borghetto Lodigiano",
+      "subtitle": "ADAA Sostegno nella scuola dell’Infanzia",
+      "publicationDate": "18 settembre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-borghetto-lodigiano-11",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-borghetto-lodigiano-11",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://nuvola.madisoft.it/interpelli/LOIC80400A/docenti/119a00a1-a6c7-4df0-95b5-86709d94326a/candidatura",
+          "finalUrl": "https://nuvola.madisoft.it/interpelli/LOIC80400A/docenti/119a00a1-a6c7-4df0-95b5-86709d94326a/candidatura",
+          "httpStatus": 200,
+          "title": "INTERPELLO PER SELEZIONE PERSONALE DOCENTE SOSTEGNO SCUOLA INFANZIA",
+          "subtitle": "Nuvola - Interpelli",
+          "text": "nuvola Gestione Interpelli Torna agli interpelli aperti STEP 1 Dati anagrafici Generalità e contatti STEP 2 Titoli e certificazioni Studio e lingue STEP 3 Abilitazioni Abilitazione all'insegnamento e servizio prestato STEP 4 Esperienze di servizio Incarichi svolti e periodi di servizio STEP 5 Allegati e dichiarazioni Curriculum, altri allegati e dichiarazioni finali STEP 6 Riepilogo Controlla i dati inseriti INTERPELLO PER SELEZIONE PERSONALE DOCENTE SOSTEGNO SCUOLA INFANZIA Durata: 25 ore 0 minuti dal 21/09/2026 al 30/06/2027 Presentazione candidature: dal 17/09/2026 16:00 al 19/09/2026 16:00 Posti disponibili: 2 Annotazioni: A parità di ordine di priorità, la supplenza sarà conferita all'aspirante che abbia già prestato servizio di insegnamento presso questa istituzione scolastica, preferibilmente per la medesima tipologia di posto. Classe di concorso: ADAA Sostegno nella scuola dell’Infanzia Ordine di scuola: INFANZIA Sede di servizio: IC BORGHETTO LODIGIANO Leggi il testo sul trattamento dei dati STEP 1 DI 6 Dati anagrafici Generalità e contatti Generalità Generalità Nome Cognome Sesso Codice fiscale Data di nascita Comune di nascita Stato di nascita Residenza Residenza Indirizzo di residenza Comune di residenza CAP di residenza Contatti Contatti Email PEC Cellulare Cittadinanza Cittadinanza Cittadino Italiano Cittadino di uno Stato membro UE Cittadino non comunitario con diritto di soggiorno o soggiorno permanente Avanti"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "a72e3213f63f4b25",
+      "position": 2,
+      "collectionReason": "new",
+      "listLabel": "I.C. Borghetto Lodigiano",
+      "listContext": "18 settembre 2026 Interpelli ricerca supplenti I.C. Borghetto Lodigiano ADEE Sostegno nella scuola Primaria",
+      "title": "I.C. Borghetto Lodigiano",
+      "subtitle": "ADEE Sostegno nella scuola Primaria",
+      "publicationDate": "18 settembre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-borghetto-lodigiano-10",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-borghetto-lodigiano-10",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://nuvola.madisoft.it/interpelli/LOIC80400A/docenti/2035430e-fce1-431b-bd1c-0b0c95ef80f4/candidatura",
+          "finalUrl": "https://nuvola.madisoft.it/interpelli/LOIC80400A/docenti/2035430e-fce1-431b-bd1c-0b0c95ef80f4/candidatura",
+          "httpStatus": 200,
+          "title": "INTERPELLO PER SELEZIONE PERSONALE DOCENTE SOSTEGNO SCUOLA PRIMARIA",
+          "subtitle": "Nuvola - Interpelli",
+          "text": "nuvola Gestione Interpelli Torna agli interpelli aperti STEP 1 Dati anagrafici Generalità e contatti STEP 2 Titoli e certificazioni Studio e lingue STEP 3 Abilitazioni Abilitazione all'insegnamento e servizio prestato STEP 4 Esperienze di servizio Incarichi svolti e periodi di servizio STEP 5 Allegati e dichiarazioni Curriculum, altri allegati e dichiarazioni finali STEP 6 Riepilogo Controlla i dati inseriti INTERPELLO PER SELEZIONE PERSONALE DOCENTE SOSTEGNO SCUOLA PRIMARIA Durata: 24 ore 0 minuti dal 22/09/2026 al 30/06/2027 Presentazione candidature: dal 17/09/2026 16:00 al 19/09/2026 16:00 Posti disponibili: 10 Annotazioni: A parità di ordine di priorità, la supplenza sarà conferita all'aspirante che abbia già prestato servizio di insegnamento presso questa istituzione scolastica, preferibilmente per la medesima tipologia di posto. Classe di concorso: ADEE Sostegno nella scuola Primaria Ordine di scuola: PRIMARIA Sede di servizio: IC BORGHETTO LODIGIANO Leggi il testo sul trattamento dei dati STEP 1 DI 6 Dati anagrafici Generalità e contatti Generalità Generalità Nome Cognome Sesso Codice fiscale Data di nascita Comune di nascita Stato di nascita Residenza Residenza Indirizzo di residenza Comune di residenza CAP di residenza Contatti Contatti Email PEC Cellulare Cittadinanza Cittadinanza Cittadino Italiano Cittadino di uno Stato membro UE Cittadino non comunitario con diritto di soggiorno o soggiorno permanente Avanti"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "d0d12775598ef654",
+      "position": 3,
+      "collectionReason": "new",
+      "listLabel": "I.C. Lodi III",
+      "listContext": "18 settembre 2026 Interpelli ricerca supplenti I.C. Lodi III Interpelli scuola primaria sostegno e posto comune",
+      "title": "I.C. Lodi III",
+      "subtitle": "Interpelli scuola primaria sostegno e posto comune",
+      "publicationDate": "18 settembre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-50",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-50",
+      "httpStatus": 200,
+      "text": "Link pagina interpelli",
+      "pages": [
+        {
+          "label": "Link pagina interpelli",
+          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013",
+          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013",
+          "httpStatus": 200,
+          "title": "Elenco interpelli",
+          "subtitle": "",
+          "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" LODI 3 \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio INTERPELLO POSTO COMUNE SCUOLA PRIMARIA EEEE Insegnante posto comune scuola primaria 21/09/2026 28/11/2026 LOIC814001 IC LODI TERZO Iscriviti INTERPELLO SOSTEGNO SCUOLA PRIMARIA ADEE Sostegno scuola primaria 21/09/2026 15/12/2026 LOIC814001 I.C. LODI III Iscriviti INTERPELLO SOSTEGNO SCUOLA PRIMARIA ADEE Sostegno scuola primaria 21/09/2026 30/06/2027 LOIC814001 I.C. LODI III Iscriviti INTERPELLO POSTO COMUNE SCUOLA PRIMARIA EEEE Insegnante posto comune scuola primaria 21/09/2026 16/01/2027 LOIC814001 I.C. LODI III Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "cbe3b06294a5b7cf",
+      "position": 4,
       "collectionReason": "refresh",
       "listLabel": "I.C. Lodi II",
       "listContext": "17 settembre 2026 Interpelli ricerca supplenti I.C. Lodi II Link Interpelli Scuola Primaria",
@@ -1266,101 +1440,6 @@
           "title": "Elenco interpelli",
           "subtitle": "",
           "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \"LODI 2\" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio INTERPELLO PER SUPPLENZA -Scuola Primaria posto comune su “POTENZIAMENTO” fino al 30/06 EEEE Insegnante posto comune scuola primaria 21/09/2026 30/06/2027 LOEE81201B LODI G.PASCOLI Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
-        }
-      ],
-      "attachments": []
-    },
-    {
-      "id": "8a79fe863b49a1d2",
-      "position": 2,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. Collodi",
-      "listContext": "17 settembre 2026 Interpelli ricerca supplenti I.C. Collodi Interpello ADEE 24 ore",
-      "title": "I.C. Collodi",
-      "subtitle": "Interpello ADEE 24 ore",
-      "publicationDate": "17 settembre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-collodi-3",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-collodi-3",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/277e9b22-cb29-4a8a-86da-9821311e9e26",
-          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/277e9b22-cb29-4a8a-86da-9821311e9e26",
-          "httpStatus": 200,
-          "title": "Elenco interpelli",
-          "subtitle": "",
-          "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" CARLO COLLODI \" Cerca Elenco interpelli Nessun interpello presente È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
-        }
-      ],
-      "attachments": []
-    },
-    {
-      "id": "38ba4407383dafeb",
-      "position": 3,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. Maleo",
-      "listContext": "17 settembre 2026 Interpelli ricerca supplenti I.C. Maleo Posti sostegno Scuola infanzia",
-      "title": "I.C. Maleo",
-      "subtitle": "Posti sostegno Scuola infanzia",
-      "publicationDate": "17 settembre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-maleo-18",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-maleo-18",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://www.iccsmaleo.edu.it/2026/09/16/interpelli-sc-infanzia/",
-          "finalUrl": "https://www.iccsmaleo.edu.it/2026/09/16/interpelli-sc-infanzia/",
-          "httpStatus": 200,
-          "title": "Documenti",
-          "subtitle": "",
-          "text": "Documenti interpello sostegno infanzia Maleo 30.06 pdf - 111 kb interpello sostegno infanzia Maleo Caselle 30.06 pdf - 111 kb Pubblicato: 16.09.2026 - Revisione: 16.09.2026 Eccetto dove diversamente specificato, questo articolo è stato rilasciato sotto Licenza Creative Commons Attribuzione 4.0 Italia."
-        }
-      ],
-      "attachments": [
-        {
-          "text": "Le carte della scuola",
-          "href": "https://www.iccsmaleo.edu.it/documento/",
-          "title": "",
-          "context": "Le carte della scuola",
-          "status": 200,
-          "contentType": "text/html; charset=UTF-8",
-          "bytes": 273882,
-          "file": "items/03-I.C.-Maleo/01-attachment"
-        },
-        {
-          "text": "Albo online",
-          "href": "https://www.iccsmaleo.edu.it/tipologia-documento/albo-online/",
-          "title": "",
-          "context": "Albo online",
-          "status": 200,
-          "contentType": "text/html; charset=UTF-8",
-          "bytes": 256801,
-          "file": "items/03-I.C.-Maleo/02-attachment"
-        }
-      ]
-    },
-    {
-      "id": "19b197b014e49b31",
-      "position": 4,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. LODI V",
-      "listContext": "17 settembre 2026 Interpelli ricerca supplenti I.C. LODI V Interpello primaria e infanzia",
-      "title": "I.C. LODI V",
-      "subtitle": "Interpello primaria e infanzia",
-      "publicationDate": "17 settembre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-v-15",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-v-15",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://web.spaggiari.eu/sdg2/Documenti/LOME0004/1394301",
-          "error": "page.goto: Download is starting\nCall log:\n  - navigating to \"https://web.spaggiari.eu/sdg2/Documenti/LOME0004/1394301\", waiting until \"domcontentloaded\"\n"
         }
       ],
       "attachments": []
