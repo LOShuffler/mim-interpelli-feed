@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-09-21T14:05:32.763Z",
-  "completedAt": "2026-09-21T14:06:12.976Z",
+  "retrievedAt": "2026-09-21T15:05:32.605Z",
+  "completedAt": "2026-09-21T15:06:13.243Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -2464,7 +2464,7 @@
     {
       "id": "02a4ba72ff7faf09",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Casalpusterlengo",
       "listContext": "21 settembre 2026 Interpelli ricerca supplenti I.C. Casalpusterlengo Interpello per 12 ore cdc AG56 - Flauto Scuola Sec. primo grado",
       "title": "I.C. Casalpusterlengo",
@@ -2502,7 +2502,7 @@
     {
       "id": "8cf8de570969b082",
       "position": 2,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. di Livraga",
       "listContext": "21 settembre 2026 Interpelli ricerca supplenti I.C. di Livraga Interpello posto sostegno Scuola Primaria",
       "title": "I.C. di Livraga",
