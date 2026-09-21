@@ -6,18 +6,124 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-09-21T06:05:33.284Z",
-  "completedAt": "2026-09-21T06:06:11.409Z",
+  "retrievedAt": "2026-09-21T07:05:33.357Z",
+  "completedAt": "2026-09-21T07:06:15.887Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 25022,
+    "textLength": 25001,
     "discoveredCount": 200,
     "safetyLimited": false,
     "processedCount": 4
   },
   "recentEvents": [
+    {
+      "id": "948f8deca7ee94b1",
+      "type": "new",
+      "detectedAt": "2026-09-21T07:05:33.357Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-maleo-20",
+      "item": {
+        "id": "2ab530dd26f392ca",
+        "position": 1,
+        "collectionReason": "new",
+        "listLabel": "I.C. Maleo",
+        "listContext": "21 settembre 2026 Interpelli ricerca supplenti I.C. Maleo Interpello supplenza al 30/06/27 sc. primaria h. 21 su più plessi",
+        "title": "I.C. Maleo",
+        "subtitle": "Interpello supplenza al 30/06/27 sc. primaria h. 21 su più plessi",
+        "publicationDate": "21 settembre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-maleo-20",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-maleo-20",
+        "httpStatus": 200,
+        "text": "Link pagina interpello",
+        "pages": [
+          {
+            "label": "Link pagina interpello",
+            "url": "https://www.iccsmaleo.edu.it/tipologia-articolo/interpello/",
+            "finalUrl": "https://www.iccsmaleo.edu.it/tipologia-articolo/interpello/",
+            "httpStatus": 200,
+            "title": "Interpello part time scuola primaria",
+            "subtitle": "",
+            "text": "2026 18 Set Interpello part time scuola primaria Interpello part time scuola primaria"
+          }
+        ],
+        "attachments": [
+          {
+            "text": "Le carte della scuola",
+            "href": "https://www.iccsmaleo.edu.it/documento/",
+            "title": "",
+            "context": "Le carte della scuola",
+            "status": 200,
+            "contentType": "text/html; charset=UTF-8",
+            "bytes": 273882,
+            "file": "items/01-I.C.-Maleo/01-attachment"
+          },
+          {
+            "text": "Albo online",
+            "href": "https://www.iccsmaleo.edu.it/tipologia-documento/albo-online/",
+            "title": "",
+            "context": "Albo online",
+            "status": 200,
+            "contentType": "text/html; charset=UTF-8",
+            "bytes": 256801,
+            "file": "items/01-I.C.-Maleo/02-attachment"
+          }
+        ]
+      }
+    },
+    {
+      "id": "23350ae80f023850",
+      "type": "new",
+      "detectedAt": "2026-09-21T07:05:33.357Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-s-angelo-lodigiano-12",
+      "item": {
+        "id": "7c82041747062c62",
+        "position": 2,
+        "collectionReason": "new",
+        "listLabel": "I.I.S. S. Angelo Lodigiano",
+        "listContext": "21 settembre 2026 Interpelli ricerca supplenti I.I.S. S. Angelo Lodigiano Interpelli classe di concorso A020 - A027 - A041",
+        "title": "I.I.S. S. Angelo Lodigiano",
+        "subtitle": "Interpelli classe di concorso A020 - A027 - A041",
+        "publicationDate": "21 settembre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-s-angelo-lodigiano-12",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-i-s-s-angelo-lodigiano-12",
+        "httpStatus": 200,
+        "text": "Link pagina interpelli",
+        "pages": [
+          {
+            "label": "Link pagina interpelli",
+            "url": "https://www.iispandinipiazza.edu.it/procedura-di-interpello/",
+            "finalUrl": "https://www.iispandinipiazza.edu.it/procedura-di-interpello/",
+            "httpStatus": 200,
+            "title": "ANNO SCOLASTICO 2026 – 27",
+            "subtitle": "",
+            "text": "Stampa / Condividi Stampa Invia Condividi Facebook Twitter Linkedin L’Ordinanza Ministeriale n. 88/2024 introduce una novità importante: gli interpelli. Si tratta di avvisi pubblici che le scuole sono tenute a pubblicare nel caso in cui non riescano a reperire supplenti tramite le graduatorie. ANNO SCOLASTICO 2026 – 27 INTERPELLI ATTIVI Interpello A020 Interpello A027 Interpello A041 INTERPELLI SCADUTI ANNUALITA’ PRECEDENTI ANNO SCOLASTICO 2025 – 26 INTERPELLO ADSS INTERPELLO A041 INTERPELLO B003 INTERPELLO A021 INTERPELLO ADSS interpello AS48 Interpello AS12 INTERPELLO A018 nuovo INTERPELLO AS2A INTERPELLO AS2A 12 ORE INTERPELLO ADSS – 1 INTERPELLO ADSS – 2 INTERPELLO AS2A INTERPELLO ADSS INTERPELLO A050 INTERPELLO A045 INTERPELLO ADSS INTERPELLO AS12 INTERPELLO A026 INTERPELLO AS12 INTERPELLO AS48 SCIENZE MOTORIE E SPORTIVE A040 SCIENZE E TECNOLOGIE ELETTRICHE ED ELETTRONICHE A033 SCIENZE E TECNOLOGIE AERONAUTICHE A042 SCIENZE E TECNOLOGIE MECCANICHE A026 INTERPELLO MATEMATICA A027 INTERPELLO MATEMATICA E FISICA A036 INTERPELLO SCIENZE E TECNOLOGIE DELLA LOGISTICA A041 INTERPELLO SCIENZE E TECNOLOGIE INFORMATICHE A050 INTERPELLO SCIENZE NATURALI BIOLOGICHE E CHIMICHE B005 INTERPELLO LABORATORIO DI LOGISTICA B009 INTERPELLO LABORATORIO DI SCIENZE E TECNOLOGIE AERONAUTICHE ANNO SCOLASTICO 2024 – 25 A026 Interpello 9 ore fino al 08.06.2025 A012 INTERPELLO PER 14 ORE IIS PANDINI AB24 LINGUA E CIVILTA’ STRANIERA (INGLESE) CATTEDRA DI 18 ORE SEDE DI SERVIZIO IIS “RAIMONDO PANDINI A040 9 ORE INTERPELLO supplenza breve A050 INTERPELLO PER CATTEDRA INTERNA IIS PANDINI B015 ORE 6 INTERPELLO A014 Interpello per cattedra interna L.A.S. Piazza A020 Interpello per 14 ore I.I.S. Pandini A020 Interpello per cattedra interna I.I.S. Pandini A027 Interpello per 10 ore L.A.S. Piazza A033 Interpello per 9 ore I.I.S. Pandini A036 Interpello per 16 ore I.I.S. Pandini A040 Interpello per 9 ore I.I.S. Pandini A041 Interpello per 9 ore I.I.S. Pandini A041 Interpello per cattedra interna I.I.S. Pandini A042 Interpello per 9 ore I.I.S. Pandini B009 LAB. AEREONAUTICHE 6 ORE INTERPELLO presso I.I.S Pandini di Sant’Angelo Lodigiano B005 LAB. LOGISTICA 8 ORE INTERPELLO presso I.I.S. Pandini di Sant’Angelo Lodigiano A050: INTERPELLO PER SUPPLENZA SU CLASSE DI CONCORSO A-50 (18 ORE) FINO ALL’AVENTE DIRITTO- SEDE DI SERVIZIO LAS “CALLISTO PIAZZA” Pubblicato: 18.09.2024 - Revisione: 18.09.2026 Eccetto dove diversamente specificato, questo articolo è stato rilasciato sotto Licenza Creative Commons Attribuzione 4.0 Italia."
+          }
+        ],
+        "attachments": [
+          {
+            "text": "Le carte della scuola",
+            "href": "https://www.iispandinipiazza.edu.it/documento/",
+            "title": "",
+            "context": "Le carte della scuola",
+            "status": 200,
+            "contentType": "text/html; charset=UTF-8",
+            "bytes": 375002,
+            "file": "items/02-I.I.S.-S.-Angelo-Lodigiano/01-attachment"
+          },
+          {
+            "text": "PNRR",
+            "href": "https://www.iispandinipiazza.edu.it/tipologia-documento/PNRR/",
+            "title": "",
+            "context": "PNRR",
+            "status": 200,
+            "contentType": "text/html; charset=UTF-8",
+            "bytes": 368699,
+            "file": "items/02-I.I.S.-S.-Angelo-Lodigiano/02-attachment"
+          }
+        ]
+      }
+    },
     {
       "id": "9357e1d0902d7e43",
       "type": "new",
@@ -1820,8 +1926,102 @@
   ],
   "latestFour": [
     {
-      "id": "f2bf327f86b9e46f",
+      "id": "2ab530dd26f392ca",
       "position": 1,
+      "collectionReason": "new",
+      "listLabel": "I.C. Maleo",
+      "listContext": "21 settembre 2026 Interpelli ricerca supplenti I.C. Maleo Interpello supplenza al 30/06/27 sc. primaria h. 21 su più plessi",
+      "title": "I.C. Maleo",
+      "subtitle": "Interpello supplenza al 30/06/27 sc. primaria h. 21 su più plessi",
+      "publicationDate": "21 settembre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-maleo-20",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-maleo-20",
+      "httpStatus": 200,
+      "text": "Link pagina interpello",
+      "pages": [
+        {
+          "label": "Link pagina interpello",
+          "url": "https://www.iccsmaleo.edu.it/tipologia-articolo/interpello/",
+          "finalUrl": "https://www.iccsmaleo.edu.it/tipologia-articolo/interpello/",
+          "httpStatus": 200,
+          "title": "Interpello part time scuola primaria",
+          "subtitle": "",
+          "text": "2026 18 Set Interpello part time scuola primaria Interpello part time scuola primaria"
+        }
+      ],
+      "attachments": [
+        {
+          "text": "Le carte della scuola",
+          "href": "https://www.iccsmaleo.edu.it/documento/",
+          "title": "",
+          "context": "Le carte della scuola",
+          "status": 200,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 273882,
+          "file": "items/01-I.C.-Maleo/01-attachment"
+        },
+        {
+          "text": "Albo online",
+          "href": "https://www.iccsmaleo.edu.it/tipologia-documento/albo-online/",
+          "title": "",
+          "context": "Albo online",
+          "status": 200,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 256801,
+          "file": "items/01-I.C.-Maleo/02-attachment"
+        }
+      ]
+    },
+    {
+      "id": "7c82041747062c62",
+      "position": 2,
+      "collectionReason": "new",
+      "listLabel": "I.I.S. S. Angelo Lodigiano",
+      "listContext": "21 settembre 2026 Interpelli ricerca supplenti I.I.S. S. Angelo Lodigiano Interpelli classe di concorso A020 - A027 - A041",
+      "title": "I.I.S. S. Angelo Lodigiano",
+      "subtitle": "Interpelli classe di concorso A020 - A027 - A041",
+      "publicationDate": "21 settembre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-s-angelo-lodigiano-12",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-i-s-s-angelo-lodigiano-12",
+      "httpStatus": 200,
+      "text": "Link pagina interpelli",
+      "pages": [
+        {
+          "label": "Link pagina interpelli",
+          "url": "https://www.iispandinipiazza.edu.it/procedura-di-interpello/",
+          "finalUrl": "https://www.iispandinipiazza.edu.it/procedura-di-interpello/",
+          "httpStatus": 200,
+          "title": "ANNO SCOLASTICO 2026 – 27",
+          "subtitle": "",
+          "text": "Stampa / Condividi Stampa Invia Condividi Facebook Twitter Linkedin L’Ordinanza Ministeriale n. 88/2024 introduce una novità importante: gli interpelli. Si tratta di avvisi pubblici che le scuole sono tenute a pubblicare nel caso in cui non riescano a reperire supplenti tramite le graduatorie. ANNO SCOLASTICO 2026 – 27 INTERPELLI ATTIVI Interpello A020 Interpello A027 Interpello A041 INTERPELLI SCADUTI ANNUALITA’ PRECEDENTI ANNO SCOLASTICO 2025 – 26 INTERPELLO ADSS INTERPELLO A041 INTERPELLO B003 INTERPELLO A021 INTERPELLO ADSS interpello AS48 Interpello AS12 INTERPELLO A018 nuovo INTERPELLO AS2A INTERPELLO AS2A 12 ORE INTERPELLO ADSS – 1 INTERPELLO ADSS – 2 INTERPELLO AS2A INTERPELLO ADSS INTERPELLO A050 INTERPELLO A045 INTERPELLO ADSS INTERPELLO AS12 INTERPELLO A026 INTERPELLO AS12 INTERPELLO AS48 SCIENZE MOTORIE E SPORTIVE A040 SCIENZE E TECNOLOGIE ELETTRICHE ED ELETTRONICHE A033 SCIENZE E TECNOLOGIE AERONAUTICHE A042 SCIENZE E TECNOLOGIE MECCANICHE A026 INTERPELLO MATEMATICA A027 INTERPELLO MATEMATICA E FISICA A036 INTERPELLO SCIENZE E TECNOLOGIE DELLA LOGISTICA A041 INTERPELLO SCIENZE E TECNOLOGIE INFORMATICHE A050 INTERPELLO SCIENZE NATURALI BIOLOGICHE E CHIMICHE B005 INTERPELLO LABORATORIO DI LOGISTICA B009 INTERPELLO LABORATORIO DI SCIENZE E TECNOLOGIE AERONAUTICHE ANNO SCOLASTICO 2024 – 25 A026 Interpello 9 ore fino al 08.06.2025 A012 INTERPELLO PER 14 ORE IIS PANDINI AB24 LINGUA E CIVILTA’ STRANIERA (INGLESE) CATTEDRA DI 18 ORE SEDE DI SERVIZIO IIS “RAIMONDO PANDINI A040 9 ORE INTERPELLO supplenza breve A050 INTERPELLO PER CATTEDRA INTERNA IIS PANDINI B015 ORE 6 INTERPELLO A014 Interpello per cattedra interna L.A.S. Piazza A020 Interpello per 14 ore I.I.S. Pandini A020 Interpello per cattedra interna I.I.S. Pandini A027 Interpello per 10 ore L.A.S. Piazza A033 Interpello per 9 ore I.I.S. Pandini A036 Interpello per 16 ore I.I.S. Pandini A040 Interpello per 9 ore I.I.S. Pandini A041 Interpello per 9 ore I.I.S. Pandini A041 Interpello per cattedra interna I.I.S. Pandini A042 Interpello per 9 ore I.I.S. Pandini B009 LAB. AEREONAUTICHE 6 ORE INTERPELLO presso I.I.S Pandini di Sant’Angelo Lodigiano B005 LAB. LOGISTICA 8 ORE INTERPELLO presso I.I.S. Pandini di Sant’Angelo Lodigiano A050: INTERPELLO PER SUPPLENZA SU CLASSE DI CONCORSO A-50 (18 ORE) FINO ALL’AVENTE DIRITTO- SEDE DI SERVIZIO LAS “CALLISTO PIAZZA” Pubblicato: 18.09.2024 - Revisione: 18.09.2026 Eccetto dove diversamente specificato, questo articolo è stato rilasciato sotto Licenza Creative Commons Attribuzione 4.0 Italia."
+        }
+      ],
+      "attachments": [
+        {
+          "text": "Le carte della scuola",
+          "href": "https://www.iispandinipiazza.edu.it/documento/",
+          "title": "",
+          "context": "Le carte della scuola",
+          "status": 200,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 375002,
+          "file": "items/02-I.I.S.-S.-Angelo-Lodigiano/01-attachment"
+        },
+        {
+          "text": "PNRR",
+          "href": "https://www.iispandinipiazza.edu.it/tipologia-documento/PNRR/",
+          "title": "",
+          "context": "PNRR",
+          "status": 200,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 368699,
+          "file": "items/02-I.I.S.-S.-Angelo-Lodigiano/02-attachment"
+        }
+      ]
+    },
+    {
+      "id": "f2bf327f86b9e46f",
+      "position": 3,
       "collectionReason": "refresh",
       "listLabel": "ITET \"A. Bassi\" Lodi",
       "listContext": "18 settembre 2026 Interpelli ricerca supplenti ITET \"A. Bassi\" Lodi Interpello per incarico sino al termine attività didattica - A041 INFORMATICA",
@@ -1852,7 +2052,7 @@
           "status": 200,
           "contentType": "application/pdf",
           "bytes": 305763,
-          "file": "items/01-ITET-A.-Bassi-Lodi/01-215734371.pdf",
+          "file": "items/03-ITET-A.-Bassi-Lodi/01-215734371.pdf",
           "extractedText": "Documento informatico firmato digitalmente da VINCENZA LANDRO ai sensi del D.Lgs 82/2005 s.m.i. e norme collegate\n\f\f\f\f"
         },
         {
@@ -1863,7 +2063,7 @@
           "status": 200,
           "contentType": "application/pdf",
           "bytes": 305763,
-          "file": "items/01-ITET-A.-Bassi-Lodi/02-INTERPELLO-A041-INFORMATICA.pdf",
+          "file": "items/03-ITET-A.-Bassi-Lodi/02-INTERPELLO-A041-INFORMATICA.pdf",
           "extractedText": "Documento informatico firmato digitalmente da VINCENZA LANDRO ai sensi del D.Lgs 82/2005 s.m.i. e norme collegate\n\f\f\f\f"
         },
         {
@@ -1874,7 +2074,7 @@
           "status": 200,
           "contentType": "application/pdf",
           "bytes": 307027,
-          "file": "items/01-ITET-A.-Bassi-Lodi/03-annotazione_INTERPELLO-A041-INFORMATICA.pdf",
+          "file": "items/03-ITET-A.-Bassi-Lodi/03-annotazione_INTERPELLO-A041-INFORMATICA.pdf",
           "extractedText": "      Protocollo 0009344/2026 del 17/09/2026\n\n\n\n\nDocumento informatico firmato digitalmente da VINCENZA LANDRO ai sensi del D.Lgs 82/2005 s.m.i. e norme collegate\n\f\f\f\f"
         },
         {
@@ -1885,7 +2085,7 @@
           "status": 200,
           "contentType": "application/pdf",
           "bytes": 77965,
-          "file": "items/01-ITET-A.-Bassi-Lodi/04-215441714.pdf",
+          "file": "items/03-ITET-A.-Bassi-Lodi/04-215441714.pdf",
           "extractedText": "Documento informatico firmato digitalmente da VINCENZA LANDRO ai sensi del D.Lgs 82/2005 s.m.i. e norme collegate\n\f"
         },
         {
@@ -1896,7 +2096,7 @@
           "status": 200,
           "contentType": "application/pdf",
           "bytes": 77965,
-          "file": "items/01-ITET-A.-Bassi-Lodi/05-Indiv.-Forte-Serena.pdf",
+          "file": "items/03-ITET-A.-Bassi-Lodi/05-Indiv.-Forte-Serena.pdf",
           "extractedText": "Documento informatico firmato digitalmente da VINCENZA LANDRO ai sensi del D.Lgs 82/2005 s.m.i. e norme collegate\n\f"
         },
         {
@@ -1907,7 +2107,7 @@
           "status": 200,
           "contentType": "application/pdf",
           "bytes": 79212,
-          "file": "items/01-ITET-A.-Bassi-Lodi/06-annotazione_Indiv.-Forte-Serena.pdf",
+          "file": "items/03-ITET-A.-Bassi-Lodi/06-annotazione_Indiv.-Forte-Serena.pdf",
           "extractedText": "      Protocollo 0008827/2026 del 08/09/2026\n\n\n\n\nDocumento informatico firmato digitalmente da VINCENZA LANDRO ai sensi del D.Lgs 82/2005 s.m.i. e norme collegate\n\f"
         },
         {
@@ -1918,7 +2118,7 @@
           "status": 200,
           "contentType": "application/pdf",
           "bytes": 80744,
-          "file": "items/01-ITET-A.-Bassi-Lodi/07-215351318.pdf",
+          "file": "items/03-ITET-A.-Bassi-Lodi/07-215351318.pdf",
           "extractedText": "Documento informatico firmato digitalmente da VINCENZA LANDRO ai sensi del D.Lgs 82/2005 s.m.i. e norme collegate\n\f"
         },
         {
@@ -1929,7 +2129,7 @@
           "status": 200,
           "contentType": "application/pdf",
           "bytes": 80744,
-          "file": "items/01-ITET-A.-Bassi-Lodi/08-Capua-Elena-Aida.pdf",
+          "file": "items/03-ITET-A.-Bassi-Lodi/08-Capua-Elena-Aida.pdf",
           "extractedText": "Documento informatico firmato digitalmente da VINCENZA LANDRO ai sensi del D.Lgs 82/2005 s.m.i. e norme collegate\n\f"
         },
         {
@@ -1940,7 +2140,7 @@
           "status": 200,
           "contentType": "application/pdf",
           "bytes": 81472,
-          "file": "items/01-ITET-A.-Bassi-Lodi/09-215350226.pdf",
+          "file": "items/03-ITET-A.-Bassi-Lodi/09-215350226.pdf",
           "extractedText": "Documento informatico firmato digitalmente da VINCENZA LANDRO ai sensi del D.Lgs 82/2005 s.m.i. e norme collegate\n\f"
         },
         {
@@ -1951,14 +2151,14 @@
           "status": 200,
           "contentType": "application/pdf",
           "bytes": 81472,
-          "file": "items/01-ITET-A.-Bassi-Lodi/10-Mazzeo-Antonio.pdf",
+          "file": "items/03-ITET-A.-Bassi-Lodi/10-Mazzeo-Antonio.pdf",
           "extractedText": "Documento informatico firmato digitalmente da VINCENZA LANDRO ai sensi del D.Lgs 82/2005 s.m.i. e norme collegate\n\f"
         }
       ]
     },
     {
       "id": "f90be28e2355747a",
-      "position": 2,
+      "position": 4,
       "collectionReason": "refresh",
       "listLabel": "I.C. Tavazzano",
       "listContext": "18 settembre 2026 Interpelli ricerca supplenti I.C. Tavazzano Interpello nazionale per reperimento docenti su tipo di posto COMUNE - SCUOLA PRIMARIA fino al 30/06/2027",
@@ -1974,58 +2174,6 @@
           "label": "Link interpello",
           "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0001/9fbe5e41-ca79-46ec-9a57-f6810675b67e",
           "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0001/9fbe5e41-ca79-46ec-9a57-f6810675b67e",
-          "httpStatus": 200,
-          "title": "Elenco interpelli",
-          "subtitle": "",
-          "text": "Interpelli ISTITUTO COMPRENSIVO \"F. FELLINI\" Cerca Elenco interpelli Nessun interpello presente È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
-        }
-      ],
-      "attachments": []
-    },
-    {
-      "id": "418d734eac594a69",
-      "position": 3,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. Tavazzano",
-      "listContext": "18 settembre 2026 Interpelli ricerca supplenti I.C. Tavazzano Interpello nazionale per reperimento docenti su tipo di posto SOSTEGNO - SCUOLA PRIMARIA fino al 30/06/2027",
-      "title": "I.C. Tavazzano",
-      "subtitle": "Interpello nazionale per reperimento docenti su tipo di posto SOSTEGNO - SCUOLA PRIMARIA fino al 30/06/2027",
-      "publicationDate": "18 settembre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-tavazzano-8",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-tavazzano-8",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0001/3187f6be-61fc-4c65-9bd2-05125f48bb2e",
-          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0001/3187f6be-61fc-4c65-9bd2-05125f48bb2e",
-          "httpStatus": 200,
-          "title": "Elenco interpelli",
-          "subtitle": "",
-          "text": "Interpelli ISTITUTO COMPRENSIVO \"F. FELLINI\" Cerca Elenco interpelli Nessun interpello presente È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
-        }
-      ],
-      "attachments": []
-    },
-    {
-      "id": "8de41838201a9148",
-      "position": 4,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. Tavazzano",
-      "listContext": "18 settembre 2026 Interpelli ricerca supplenti I.C. Tavazzano Interpello nazionale per reperimento docenti su tipo di posto COMUNE - SCUOLA PRIMARIA fino 8/06/2027",
-      "title": "I.C. Tavazzano",
-      "subtitle": "Interpello nazionale per reperimento docenti su tipo di posto COMUNE - SCUOLA PRIMARIA fino 8/06/2027",
-      "publicationDate": "18 settembre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-tavazzano-7",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-tavazzano-7",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0001/f335fe7d-be34-471b-9ab9-75e5d6dbb46a",
-          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0001/f335fe7d-be34-471b-9ab9-75e5d6dbb46a",
           "httpStatus": 200,
           "title": "Elenco interpelli",
           "subtitle": "",
