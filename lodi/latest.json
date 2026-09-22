@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-09-22T14:05:33.000Z",
-  "completedAt": "2026-09-22T14:06:16.428Z",
+  "retrievedAt": "2026-09-22T15:05:33.097Z",
+  "completedAt": "2026-09-22T15:06:16.093Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -2507,7 +2507,7 @@
     {
       "id": "6e308e8404ea67a4",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.I.S. Casalpusterlengo",
       "listContext": "22 settembre 2026 Interpelli ricerca supplenti I.I.S. Casalpusterlengo Interpello su classi di concorso A041 - A040 - BB02",
       "title": "I.I.S. Casalpusterlengo",
