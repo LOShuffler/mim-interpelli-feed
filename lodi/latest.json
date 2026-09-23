@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-09-23T13:05:33.192Z",
-  "completedAt": "2026-09-23T13:06:08.428Z",
+  "retrievedAt": "2026-09-23T14:05:32.459Z",
+  "completedAt": "2026-09-23T14:06:07.411Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -2667,7 +2667,7 @@
     {
       "id": "e5a8938040411725",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Lodi III",
       "listContext": "23 settembre 2026 Interpelli ricerca supplenti I.C. Lodi III Interpello cdc AAAA posto comune scuola infanzia",
       "title": "I.C. Lodi III",
@@ -2693,7 +2693,7 @@
     {
       "id": "ce69e5883208e9a9",
       "position": 2,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Livraga",
       "listContext": "23 settembre 2026 Interpelli ricerca supplenti I.C. Livraga Interpello cdc A023",
       "title": "I.C. Livraga",
@@ -2719,11 +2719,11 @@
     {
       "id": "49b8bbaa74776a91",
       "position": 3,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
       "listContext": "23 settembre 2026 Interpelli ricerca supplenti I.C. \"R. Morzenti\" S. Angelo Lodigiano Interpello posto cdc A028 Matematica e scienze",
       "title": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
-      "subtitle": "Posto cdc A028 Matematica e scienze",
+      "subtitle": "Interpello posto cdc A028 Matematica e scienze",
       "publicationDate": "23 settembre 2026",
       "url": "https://www.mim.gov.it/web/lodi/-/i-c-r-morzenti-s-angelo-lodigiano-16",
       "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-r-morzenti-s-angelo-lodigiano-16",
