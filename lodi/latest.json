@@ -6,18 +6,50 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-09-23T07:05:33.117Z",
-  "completedAt": "2026-09-23T07:06:18.471Z",
+  "retrievedAt": "2026-09-23T08:05:33.528Z",
+  "completedAt": "2026-09-23T08:06:13.901Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 25196,
+    "textLength": 25218,
     "discoveredCount": 200,
     "safetyLimited": false,
     "processedCount": 4
   },
   "recentEvents": [
+    {
+      "id": "bbaa514b5998bff8",
+      "type": "new",
+      "detectedAt": "2026-09-23T08:05:33.528Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-29",
+      "item": {
+        "id": "1a98a0b8b506bbc0",
+        "position": 1,
+        "collectionReason": "new",
+        "listLabel": "I.C. \"C. Collodi\" S. Angelo Lodigiano",
+        "listContext": "23 settembre 2026 Interpelli ricerca supplenti I.C. \"C. Collodi\" S. Angelo Lodigiano Scuola primaria posto comune - n. 4 posti fino al 30 giugno 2027",
+        "title": "I.C. \"C. Collodi\" S. Angelo Lodigiano",
+        "subtitle": "Scuola primaria posto comune - n. 4 posti fino al 30 giugno 2027",
+        "publicationDate": "23 settembre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-29",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-29",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/6a02fd09-de2c-4f47-925d-b5308fe188ba",
+            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/6a02fd09-de2c-4f47-925d-b5308fe188ba",
+            "httpStatus": 200,
+            "title": "Elenco interpelli",
+            "subtitle": "",
+            "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" CARLO COLLODI \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio Interpello su cdc EEEE posto comune primaria - n. 4 posti 24h settimanali fino al 30/06/2027 EEEE Insegnante posto comune scuola primaria 24/09/2026 30/06/2027 LOEE815053 Scuola primaria Salerano sul Lambro Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+          }
+        ],
+        "attachments": []
+      }
+    },
     {
       "id": "6c5eca480d5c6f60",
       "type": "new",
@@ -2505,8 +2537,34 @@
   ],
   "latestFour": [
     {
-      "id": "6e308e8404ea67a4",
+      "id": "1a98a0b8b506bbc0",
       "position": 1,
+      "collectionReason": "new",
+      "listLabel": "I.C. \"C. Collodi\" S. Angelo Lodigiano",
+      "listContext": "23 settembre 2026 Interpelli ricerca supplenti I.C. \"C. Collodi\" S. Angelo Lodigiano Scuola primaria posto comune - n. 4 posti fino al 30 giugno 2027",
+      "title": "I.C. \"C. Collodi\" S. Angelo Lodigiano",
+      "subtitle": "Scuola primaria posto comune - n. 4 posti fino al 30 giugno 2027",
+      "publicationDate": "23 settembre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-29",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-29",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/6a02fd09-de2c-4f47-925d-b5308fe188ba",
+          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/6a02fd09-de2c-4f47-925d-b5308fe188ba",
+          "httpStatus": 200,
+          "title": "Elenco interpelli",
+          "subtitle": "",
+          "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" CARLO COLLODI \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio Interpello su cdc EEEE posto comune primaria - n. 4 posti 24h settimanali fino al 30/06/2027 EEEE Insegnante posto comune scuola primaria 24/09/2026 30/06/2027 LOEE815053 Scuola primaria Salerano sul Lambro Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "6e308e8404ea67a4",
+      "position": 2,
       "collectionReason": "refresh",
       "listLabel": "I.I.S. Casalpusterlengo",
       "listContext": "22 settembre 2026 Interpelli ricerca supplenti I.I.S. Casalpusterlengo Interpello su classi di concorso A041 - A040 - BB02",
@@ -2537,13 +2595,13 @@
           "status": 200,
           "contentType": "text/html; charset=UTF-8",
           "bytes": 269147,
-          "file": "items/01-I.I.S.-Casalpusterlengo/01-attachment"
+          "file": "items/02-I.I.S.-Casalpusterlengo/01-attachment"
         }
       ]
     },
     {
       "id": "02a4ba72ff7faf09",
-      "position": 2,
+      "position": 3,
       "collectionReason": "refresh",
       "listLabel": "I.C. Casalpusterlengo",
       "listContext": "21 settembre 2026 Interpelli ricerca supplenti I.C. Casalpusterlengo Interpello per 12 ore cdc AG56 - Flauto Scuola Sec. primo grado",
@@ -2574,14 +2632,14 @@
           "status": 200,
           "contentType": "application/pdf",
           "bytes": 97592,
-          "file": "items/02-I.C.-Casalpusterlengo/01-SEGNATURA_1789997293_AG56_Flauto_-_Interpello_per_12_ore_Sec._primo_grado.pdf",
+          "file": "items/03-I.C.-Casalpusterlengo/01-SEGNATURA_1789997293_AG56_Flauto_-_Interpello_per_12_ore_Sec._primo_grado.pdf",
           "extractedText": "                                                                                                     Ministero dell’Istruzione e del Merito\n\n                                                                                                     Istituto Comprensivo di Casalpusterlengo\n\n                                                                                                               ad Indirizzo Musicale\n                                                                                                    Via Olimpo, 6 - 26841 CASALPUSTERLENGO (LO)\n\n                                                                                                                               Codice Meccanografico LOIC80900D - Codice Fiscale 90518620159 – Codice Univoco Ufficio UFTH6W\n\n                                                                                                                                                Tel. 037781940 – 037784379 - E-Mail: loic80900d@istruzione.it\n\n                                                                                                                                               PEC loic80900d@pec.istruzione.it – www.iccasalpusterlengo.edu.it\n\n\n                                                                              Oggetto: interpello per selezione personale docente.\n\n                                                                                                                                                     IL DIRIGENTE SCOLASTICO\n\n                                                                              VISTO l’articolo 13 comma 23 DELL’OM 88/2024\n\n                                                                              VISTO il CCNL SCUOLA VIGENTE;\n\n                                                                              RILEVATA la necessità di provvedere a formulare specifico avviso finalizzato al reclutamento di docenti forniti dell’abilitazione o, in subordine, del titolo di\n\n                                                                              studio, che saranno valutati solo se la Convocazione da Graduatoria di Istituto non avrà esito positivo.\nLOIC80900D - A24EECC - REGISTRO PROTOCOLLO - 0005953 - 21/09/2026 - VII - U\n\n\n\n\n                                                                              RITENUTO di dover procedere a proporre interpello;\n\n\n\n                                                                                                                                                              INTERPELLA\n\n                                                                              Il personale interessato per la seguente supplenza :\n\n\n\n                                                                              - n.1 posto, profilo docente AG56-Flauto Scuola Secondaria primo grado\n                                                                              - supplenza fino al 30/06/2027\n                                                                              - numero di ore settimanali: 12,00\n                                                                              - Tipologia supplenza: fino al termine delle attività didattiche\n\n                                                                              1      Il candidato/la candidata dovrà possedere i seguenti titoli di studio: abilitazione e, in          subordine, titoli di studio che danno accesso alla seconda\n\n                                                                                     fascia delle GPS;\n\n                                                                              2      Ai fini della tutela e della garanzia dell’offerta formativa e nel rispetto delle norme di prevenzione e protezione dei rischi, qualora non pervenissero\n\n                                                                                     candidature di aspiranti in possesso dei titoli richiamati al punto 1, si prenderanno in considerazione le eventuali candidature degli aspiranti in\n\n                                                                                     possesso di titoli affini a quelli previsti al punto 1.\n\n                                                                              3      La selezione avverrà sulla base dei titoli o dei servizi presentati dai candidati secondo i criteri pubblicati all’Albo on line dell’Istituto e visionabili al\n\n                                                                                     seguente    link\n                                                                              4      la candidatura dovrà pervenire, a pena di esclusione, unicamente attraverso la                         compilazione del form presente sulla pagina dell’Istituto\n\n                                                                                     entro le ore 15.00 del 23/09/2026 allegando C.V. in formato Europass e copia della Carta d’Identità;\n\n                                                                              5      la presa di servizio avverrà al termine della valutazione delle candidature pervenute, a seguito di comunicazione da parte della segreteria del nostro\n\n                                                                                     istituto.\n\n                                                                              6      si ricorda ai sensi dell’OM 88/2024 l’applicazione dell’articolo 14;\n\n\n\n\n                                                                              7      aderendo alla procedura in oggetto si autorizza al trattamento dei dati personali conformemente al Regolamento (UE) 2016/679 del Parlamento\n\n                                                                                     Europeo e del Consiglio del 27 aprile 2016 relativo alla protezione delle persone fisiche nonché alla libera circolazione di tali dati e che abroga la\n\n                                                                                     direttiva 95/46CE e del D.lgs. n.\n\n                                                                                  196/2003, come modificato dal D.lgs. n. 101/2018 e ss.mm.ii per le finalità proprie                dell’interpello. Il titolare del trattamento dei dati personali è\n\n                                                                              l’Istituto Comprensivo di Casalpusterlengo.\n\n\n\n                                                                                                                                                         Il Dirigente Scolastico\n\n                                                                                                                                                                                                                    Brunella Tirelli\n\f"
         }
       ]
     },
     {
       "id": "8cf8de570969b082",
-      "position": 3,
+      "position": 4,
       "collectionReason": "refresh",
       "listLabel": "I.C. di Livraga",
       "listContext": "21 settembre 2026 Interpelli ricerca supplenti I.C. di Livraga Interpello posto sostegno Scuola Primaria",
@@ -2612,54 +2670,7 @@
           "status": 200,
           "contentType": "text/html; charset=UTF-8",
           "bytes": 388621,
-          "file": "items/03-I.C.-di-Livraga/01-attachment"
-        }
-      ]
-    },
-    {
-      "id": "dd9ea9d5fefa3370",
-      "position": 4,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. Maleo",
-      "listContext": "21 settembre 2026 Interpelli ricerca supplenti I.C. Maleo Interpelli Scuola Primaria",
-      "title": "I.C. Maleo",
-      "subtitle": "Interpelli Scuola Primaria",
-      "publicationDate": "21 settembre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-maleo-21",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-maleo-21",
-      "httpStatus": 200,
-      "text": "Link interpelli",
-      "pages": [
-        {
-          "label": "Link interpelli",
-          "url": "https://www.iccsmaleo.edu.it/tipologia-articolo/notizie/",
-          "finalUrl": "https://www.iccsmaleo.edu.it/tipologia-articolo/notizie/",
-          "httpStatus": 200,
-          "title": "Interpello supplenza primaria fino al 30-10",
-          "subtitle": "",
-          "text": "2026 21 Set Interpello supplenza primaria fino al 30-10 Interpello supplenza primaria fino al 30-10"
-        }
-      ],
-      "attachments": [
-        {
-          "text": "Le carte della scuola",
-          "href": "https://www.iccsmaleo.edu.it/documento/",
-          "title": "",
-          "context": "Le carte della scuola",
-          "status": 200,
-          "contentType": "text/html; charset=UTF-8",
-          "bytes": 273882,
-          "file": "items/04-I.C.-Maleo/01-attachment"
-        },
-        {
-          "text": "Albo online",
-          "href": "https://www.iccsmaleo.edu.it/tipologia-documento/albo-online/",
-          "title": "",
-          "context": "Albo online",
-          "status": 200,
-          "contentType": "text/html; charset=UTF-8",
-          "bytes": 256801,
-          "file": "items/04-I.C.-Maleo/02-attachment"
+          "file": "items/04-I.C.-di-Livraga/01-attachment"
         }
       ]
     }
