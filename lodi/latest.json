@@ -6,13 +6,13 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-09-23T14:05:32.459Z",
-  "completedAt": "2026-09-23T14:06:07.411Z",
+  "retrievedAt": "2026-09-24T07:05:32.073Z",
+  "completedAt": "2026-09-24T07:06:08.006Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 25111,
+    "textLength": 25113,
     "discoveredCount": 200,
     "safetyLimited": false,
     "processedCount": 4
@@ -2719,25 +2719,25 @@
     {
       "id": "49b8bbaa74776a91",
       "position": 3,
-      "collectionReason": "refresh",
+      "collectionReason": "changed",
       "listLabel": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
-      "listContext": "23 settembre 2026 Interpelli ricerca supplenti I.C. \"R. Morzenti\" S. Angelo Lodigiano Interpello posto cdc A028 Matematica e scienze",
+      "listContext": "23 settembre 2026 Interpelli ricerca supplenti I.C. \"R. Morzenti\" S. Angelo Lodigiano Interpello 2 posti cdc A028 Matematica e scienze",
       "title": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
-      "subtitle": "Interpello posto cdc A028 Matematica e scienze",
+      "subtitle": "Interpello 2 posti cdc A028 Matematica e scienze",
       "publicationDate": "23 settembre 2026",
       "url": "https://www.mim.gov.it/web/lodi/-/i-c-r-morzenti-s-angelo-lodigiano-16",
       "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-r-morzenti-s-angelo-lodigiano-16",
       "httpStatus": 200,
-      "text": "Link interpello",
+      "text": "Link pagina interpello",
       "pages": [
         {
-          "label": "Link interpello",
-          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0012/720da941-f5eb-4bc6-bf60-1da0b969a518",
-          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0012/720da941-f5eb-4bc6-bf60-1da0b969a518",
+          "label": "Link pagina interpello",
+          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0012",
+          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0012",
           "httpStatus": 200,
           "title": "Elenco interpelli",
           "subtitle": "",
-          "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" R. MORZENTI \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio Avviso n. 4 2026/2027 A028 Matematica e scienze 25/09/2026 25/10/2026 lomm81602p Caselle Lurani Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+          "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" R. MORZENTI \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio Avviso n. 4 2026/2027 A028 Matematica e scienze 25/09/2026 25/10/2026 lomm81602p Caselle Lurani Iscriviti Avviso n. 3 2026/2027 A028 Matematica e scienze 25/09/2026 17/10/2026 LOMM81601N Sant'Angelo Lodigiano Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
         }
       ],
       "attachments": []
