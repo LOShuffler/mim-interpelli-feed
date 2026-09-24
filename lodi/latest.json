@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-09-24T10:05:32.765Z",
-  "completedAt": "2026-09-24T10:06:11.008Z",
+  "retrievedAt": "2026-09-24T11:05:32.034Z",
+  "completedAt": "2026-09-24T11:06:09.159Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -2796,7 +2796,7 @@
     {
       "id": "63790f56c8389fe6",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.I.S. S. Angelo Lodigiano",
       "listContext": "24 settembre 2026 Interpelli ricerca supplenti I.I.S. S. Angelo Lodigiano Interpello classe di concorso A041",
       "title": "I.I.S. S. Angelo Lodigiano",
@@ -2843,7 +2843,7 @@
     {
       "id": "f77dbe1b3e8b2aa9",
       "position": 2,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Zelo Buon Persico",
       "listContext": "24 settembre 2026 Interpelli ricerca supplenti I.C. Zelo Buon Persico Posto comune primaria",
       "title": "I.C. Zelo Buon Persico",
