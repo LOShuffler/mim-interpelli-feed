@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-09-24T07:05:32.073Z",
-  "completedAt": "2026-09-24T07:06:08.006Z",
+  "retrievedAt": "2026-09-24T08:05:33.500Z",
+  "completedAt": "2026-09-24T08:06:08.964Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -2719,7 +2719,7 @@
     {
       "id": "49b8bbaa74776a91",
       "position": 3,
-      "collectionReason": "changed",
+      "collectionReason": "refresh",
       "listLabel": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
       "listContext": "23 settembre 2026 Interpelli ricerca supplenti I.C. \"R. Morzenti\" S. Angelo Lodigiano Interpello 2 posti cdc A028 Matematica e scienze",
       "title": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
