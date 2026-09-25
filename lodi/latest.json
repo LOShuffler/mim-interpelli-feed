@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-09-25T12:05:33.457Z",
-  "completedAt": "2026-09-25T12:06:08.944Z",
+  "retrievedAt": "2026-09-25T13:05:33.632Z",
+  "completedAt": "2026-09-25T13:06:09.368Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -2947,7 +2947,7 @@
     {
       "id": "843f63b0f0b2d80a",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Lodi I",
       "listContext": "25 settembre 2026 Interpelli ricerca supplenti I.C. Lodi I Interpello 6H ADEE fino al 30/06",
       "title": "I.C. Lodi I",
