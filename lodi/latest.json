@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-09-25T01:06:16.559Z",
-  "completedAt": "2026-09-25T01:07:09.678Z",
+  "retrievedAt": "2026-09-25T06:05:33.345Z",
+  "completedAt": "2026-09-25T06:06:11.309Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -2965,7 +2965,7 @@
           "httpStatus": 200,
           "title": "Elenco interpelli",
           "subtitle": "",
-          "text": "Interpelli ISTITUTO COMPRENSIVO STATALE . Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio EEEE POSTO COMUNE PRIMARIA EEEE Insegnante posto comune scuola primaria 28/09/2026 07/10/2026 LOEE805018 SCUOLA PRIMARIA IC ZELO B.P./MERLINO/COMAZZO Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+          "text": "Interpelli ISTITUTO COMPRENSIVO STATALE . Cerca Elenco interpelli Nessun interpello presente È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
         }
       ],
       "attachments": []
