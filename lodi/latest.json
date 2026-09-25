@@ -6,18 +6,50 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-09-25T11:05:33.177Z",
-  "completedAt": "2026-09-25T11:06:11.309Z",
+  "retrievedAt": "2026-09-25T12:05:33.457Z",
+  "completedAt": "2026-09-25T12:06:08.944Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 25212,
+    "textLength": 25200,
     "discoveredCount": 200,
     "safetyLimited": false,
     "processedCount": 4
   },
   "recentEvents": [
+    {
+      "id": "2d63924818cc59c8",
+      "type": "new",
+      "detectedAt": "2026-09-25T12:05:33.457Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-30",
+      "item": {
+        "id": "843f63b0f0b2d80a",
+        "position": 1,
+        "collectionReason": "new",
+        "listLabel": "I.C. Lodi I",
+        "listContext": "25 settembre 2026 Interpelli ricerca supplenti I.C. Lodi I Interpello 6H ADEE fino al 30/06",
+        "title": "I.C. Lodi I",
+        "subtitle": "Interpello 6H ADEE fino al 30/06",
+        "publicationDate": "25 settembre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-30",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-30",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://www.portaleargo.it/albopretorio/online/",
+            "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
+            "httpStatus": 200,
+            "title": "Albo Pretorio",
+            "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
+            "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
+          }
+        ],
+        "attachments": []
+      }
+    },
     {
       "id": "a48debbc54ae750b",
       "type": "new",
@@ -2913,9 +2945,35 @@
   ],
   "latestFour": [
     {
-      "id": "6ed2487070f07b5f",
+      "id": "843f63b0f0b2d80a",
       "position": 1,
       "collectionReason": "new",
+      "listLabel": "I.C. Lodi I",
+      "listContext": "25 settembre 2026 Interpelli ricerca supplenti I.C. Lodi I Interpello 6H ADEE fino al 30/06",
+      "title": "I.C. Lodi I",
+      "subtitle": "Interpello 6H ADEE fino al 30/06",
+      "publicationDate": "25 settembre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-30",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-30",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://www.portaleargo.it/albopretorio/online/",
+          "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
+          "httpStatus": 200,
+          "title": "Albo Pretorio",
+          "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
+          "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "6ed2487070f07b5f",
+      "position": 2,
+      "collectionReason": "refresh",
       "listLabel": "I.C. Tavazzano con Villavesco",
       "listContext": "25 settembre 2026 Interpelli ricerca supplenti I.C. Tavazzano con Villavesco Interpello nazionale per reperimento docenti su tipo di posto SOSTEGNO - SCUOLA PRIMARIA n. 3 supplenze brevi",
       "title": "I.C. Tavazzano con Villavesco",
@@ -2940,7 +2998,7 @@
     },
     {
       "id": "d903920e11f4970c",
-      "position": 2,
+      "position": 3,
       "collectionReason": "refresh",
       "listLabel": "I.C. Lodi I",
       "listContext": "25 settembre 2026 Interpelli ricerca supplenti I.C. Lodi I Interpello n. 1 posto ADEE fino al 21/10",
@@ -2966,7 +3024,7 @@
     },
     {
       "id": "26354cea3b25c4d7",
-      "position": 3,
+      "position": 4,
       "collectionReason": "refresh",
       "listLabel": "I.C. \"Gramsci\" di Mulazzano",
       "listContext": "24 settembre 2026 Interpelli ricerca supplenti I.C. \"Gramsci\" di Mulazzano Posto comune primari 6 ore",
@@ -2997,7 +3055,7 @@
           "status": 200,
           "contentType": "application/pdf",
           "bytes": 260179,
-          "file": "items/03-I.C.-Gramsci-di-Mulazzano/01-sett-2026-CANDIDATURA-interpello-10630.pdf",
+          "file": "items/04-I.C.-Gramsci-di-Mulazzano/01-sett-2026-CANDIDATURA-interpello-10630.pdf",
           "extractedText": "                          M i n i s t e r o d e l l ’ Is t r u z i o n e e d e l M e r i to\n                                 Istituto Comprensivo “A. GRAMSCI”\n                             Via Ada Negri, 44 - 26837 Mulazzano Tel: 02 989137\n                            www.icmulazzano.edu.it C.F. 92537730159\n                      e-mail loic80200p@istruzione.it PEC loic80200p@pec.istruzione.it\n\n          DOMANDA - Dichiarazione dell’interessato e autocertificazione titoli\n\nIl/la sottoscritt_ ____________________________________, nato a ___________\n_____________il _______________ codice fiscale ______________________,\n\nresidente a ________________________________________________________(prov.____),\ndomiciliato a_______________________________________________________(prov.____),\nrecapito telefonico ______________, indirizzo mail ____________________________,\n\n   •   dichiara di essere interessato al seguente posto: -\n       codice____________________________________________________,\n\n   •   come da interpello prot. N° 10630 del 24.09.2026\n\n   •   dichiara di non essere stato individuato quale destinatario di contratto a tempo\n       determinato e/o destinatario delle assegnazioni di cui all’articolo 4, commi 3 e\n       8, del Decreto ministeriale;\n\n   •   dichiara di possedere i seguenti titoli/abilitazione e il seguente servizio:\n\n   Titolo/servizio                                     Descrizione del titolo/                  Note\n                                                       servizio dell’autocertificante\n   Abilitazione per la classe di concorso\n   per l’insegnamento richiesto\n   nell’interpello\n   Specializzazione sostegno\n\n   Possesso titolo di studio necessario per\n   l’insegnamento richiesto dall’interpello\n   Possesso di altri titoli di studio\n\n   Anni/mesi di insegnamento nella stessa                                                     Numero anni,\n   tipologia di posto nell’IC Gramsci -                                                       mesi e giorni\n   Mulazzano\n   Progetti presso l’IC Gramsci -\n   Mulazzano\n   Anni/mesi di insegnamento nella stessa                                                     Numero anni,\n   tipologia di posto                                                                         mesi e giorni\n   • di essere consapevole delle conseguenze amministrative e penali per chi rilasci dichiarazioni non\n       corrispondenti a verità̀ , ai sensi del DPR 445/2000, dichiara che quanto sopra dichiarato corrisponde\n       al vero.\n   • di autorizzare al trattamento dei dati per lo scopo di cui in oggetto (trattamento privacy vedi sito)\n\n   •   Allega alla presente:\n       -       1) Curriculum vitae, debitamente sottoscritto\n       -       2) Copia del proprio documento di identità e codice fiscale\n                                                                                        Firma\n                                                             ____________________________________\n\f"
         },
         {
@@ -3008,55 +3066,8 @@
           "status": 200,
           "contentType": "application/pdf",
           "bytes": 319378,
-          "file": "items/03-I.C.-Gramsci-di-Mulazzano/02-SETT-2026-INTERPELLO-10630_primaria-1-.pdf",
+          "file": "items/04-I.C.-Gramsci-di-Mulazzano/02-SETT-2026-INTERPELLO-10630_primaria-1-.pdf",
           "extractedText": "                                                 M i n i s t ero d el l ’ I s t ru z i o n e e d e l M e r i to\n                                                        Istituto Comprensivo “A. GRAMSCI”\n                                                   Via Ada Negri, 44 - 26837 Mulazzano Tel: 02 989137\n                                                   www.icmulazzano.edu.it C.F. 92537730159\n                                            e-mail loic80200p@istruzione.it PEC loic80200p@pec.istruzione.it\n\n\n\n\n                            AVVISO/INTERPELLO PER LA COPERTURA DI POSTI ART. 13 C. 23 OM. 88/2024\n\n\n\n                                                            Prot. N. 10630 del 24.09.2026\n\n\n             DENOMINAZIONE SCUOLA: Istituto Comprensivo “A. Gramsci”\n\n             INDIRIZZO SCUOLA: via Ada Negri, 44 -26837 Mulazzano (LODI)\n\n             CODICE MECCANOGRAFICO SCUOLA: LOIC80200P\n\n             MAIL SCUOLA SU CUI RICEVERE LA CANDIDATURA: interpello@icmulazzano.com\n\n\n\n             OGGETTO: Interpello per 6 ore posto comune SCUOLA PRIMARIA\n\n\n                                                                    IL DIRIGENTE SCOLASTICO\n\n\n\n             VISTA l’O.M. 88/2024 ed in particolare l’art. 13 c. 23;\n\n             CONSIDERATO che risultano esaurite le GPS, consultate le graduatorie dello scrivente Istituto e degli Istituti\n             viciniori;\n\n             CONSIDERATA la necessità di reperire docenti per la copertura dei posti indicati in oggetto;\n\n             EMETTE avviso per l’individuazione e il reclutamento di personale docente per il conferimento delle\n             supplenze come da prospetto:\n\n               CODICE     TIPOLOGIA DI                    INIZIO                  TERMINE        ORARIO      SEDE/I DI SERVIZIO\n               POSTO      POSTO                           SUPPLENZA               SUPPLENZA      SETTIMANALE\n                          disponibile\n              10630       n. 1 posto EEEE -               Dalla presa di          30.06.2027     6 ore            Primaria\n                          INSEGNAMENTO                    servizio                                                    • Mulazzano\n                          SCUOLA                                                                                      • Casalmaiocco\n                          PRIMARIA -                                                                                  • Cervignano\n                          COMUNE\n             TITOLI DI PREFERENZA:\n\n                  1. Possesso dell’abilitazione per la classe di concorso (per il sostegno: possesso della specializzazione).\n                  2. Titolo di studio necessario per l’insegnamento richiesto dall’interpello\n\n\n\nDocumento informatico firmato digitalmente ai sensi del D.Lgs 82/2005 s.m.i. e norme collegate\n\f                            M i n i s t ero d el l ’ I s t ru z i o n e e d e l M e r i to\n                                   Istituto Comprensivo “A. GRAMSCI”\n                               Via Ada Negri, 44 - 26837 Mulazzano Tel: 02 989137\n                               www.icmulazzano.edu.it C.F. 92537730159\n                        e-mail loic80200p@istruzione.it PEC loic80200p@pec.istruzione.it\n\n    3. Possesso dei titoli necessari per l’iscrizione nella seconda fascia delle graduatorie provinciali per le\n       supplenze, per l’insegnamento richiesto dall’interpello.\n    4. Altri titoli di studio.\n\nA parità di ordine di priorità, la supplenza sarà conferita all’aspirante che abbia già prestato servizi di\ninsegnamento per la medesima tipologia di posto nel nostro Istituto.\n\nIl personale disponibile potrà presentare la propria manifestazione di interesse entro e non oltre le ore 14.00\ndel 25 settembre 2026, utilizzando ESCLUSIVAMENTE il modulo allegato al presente interpello, che dovrà\nessere trasmesso, in formato PDF e debitamente sottoscritto, tramite email a interpello@icmulazzano.com\n(compilare ed allegare un modulo per ogni candidatura)\n\nIl conferimento della supplenza sarà comunicato tramite mail all’indirizzo indicato dall’aspirante.\n\nLa presa di servizio dovrà avvenire entro le successive 24 ore.\n\nI riscontri agli avvisi devono contenere tutte le dichiarazioni necessarie, rese in autocertificazione ai sensi del\nD.P.R. n. 445/2000, per consentire la verifica puntuale dei suddetti requisiti da parte dei dirigenti scolastici,\nivi compresi gli estremi del conseguimento del titolo di abilitazione e/o del titolo di specializzazione (allegare\nCurriculum Vitae e copia documento di identità): non saranno prese in considerazione istanze formulate con\nmodalità difformi a quelle indicate nel presente avviso e non complete delle dichiarazioni obbligatorie.\n\n\n                                                                                        LA DIRIGENTE SCOLASTICA\n                                                                                        Prof.ssa Eleonora Tarantola\n\f"
-        }
-      ]
-    },
-    {
-      "id": "63790f56c8389fe6",
-      "position": 4,
-      "collectionReason": "refresh",
-      "listLabel": "I.I.S. S. Angelo Lodigiano",
-      "listContext": "24 settembre 2026 Interpelli ricerca supplenti I.I.S. S. Angelo Lodigiano Interpello classe di concorso A041",
-      "title": "I.I.S. S. Angelo Lodigiano",
-      "subtitle": "Interpello classe di concorso A041",
-      "publicationDate": "24 settembre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-s-angelo-lodigiano-13",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-i-s-s-angelo-lodigiano-13",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://www.iispandinipiazza.edu.it/procedura-di-interpello/",
-          "finalUrl": "https://www.iispandinipiazza.edu.it/procedura-di-interpello/",
-          "httpStatus": 200,
-          "title": "ANNO SCOLASTICO 2026 – 27",
-          "subtitle": "",
-          "text": "Stampa / Condividi Stampa Invia Condividi Facebook Twitter Linkedin L’Ordinanza Ministeriale n. 88/2024 introduce una novità importante: gli interpelli. Si tratta di avvisi pubblici che le scuole sono tenute a pubblicare nel caso in cui non riescano a reperire supplenti tramite le graduatorie. ANNO SCOLASTICO 2026 – 27 INTERPELLI ATTIVI INTERPELLO A041 INTERPELLI SCADUTI Interpello A027 Interpello A041 Interpello A020 ANNUALITA’ PRECEDENTI ANNO SCOLASTICO 2025 – 26 INTERPELLO ADSS INTERPELLO A041 INTERPELLO B003 INTERPELLO A021 INTERPELLO ADSS interpello AS48 Interpello AS12 INTERPELLO A018 nuovo INTERPELLO AS2A INTERPELLO AS2A 12 ORE INTERPELLO ADSS – 1 INTERPELLO ADSS – 2 INTERPELLO AS2A INTERPELLO ADSS INTERPELLO A050 INTERPELLO A045 INTERPELLO ADSS INTERPELLO AS12 INTERPELLO A026 INTERPELLO AS12 INTERPELLO AS48 SCIENZE MOTORIE E SPORTIVE A040 SCIENZE E TECNOLOGIE ELETTRICHE ED ELETTRONICHE A033 SCIENZE E TECNOLOGIE AERONAUTICHE A042 SCIENZE E TECNOLOGIE MECCANICHE A026 INTERPELLO MATEMATICA A027 INTERPELLO MATEMATICA E FISICA A036 INTERPELLO SCIENZE E TECNOLOGIE DELLA LOGISTICA A041 INTERPELLO SCIENZE E TECNOLOGIE INFORMATICHE A050 INTERPELLO SCIENZE NATURALI BIOLOGICHE E CHIMICHE B005 INTERPELLO LABORATORIO DI LOGISTICA B009 INTERPELLO LABORATORIO DI SCIENZE E TECNOLOGIE AERONAUTICHE ANNO SCOLASTICO 2024 – 25 A026 Interpello 9 ore fino al 08.06.2025 A012 INTERPELLO PER 14 ORE IIS PANDINI AB24 LINGUA E CIVILTA’ STRANIERA (INGLESE) CATTEDRA DI 18 ORE SEDE DI SERVIZIO IIS “RAIMONDO PANDINI A040 9 ORE INTERPELLO supplenza breve A050 INTERPELLO PER CATTEDRA INTERNA IIS PANDINI B015 ORE 6 INTERPELLO A014 Interpello per cattedra interna L.A.S. Piazza A020 Interpello per 14 ore I.I.S. Pandini A020 Interpello per cattedra interna I.I.S. Pandini A027 Interpello per 10 ore L.A.S. Piazza A033 Interpello per 9 ore I.I.S. Pandini A036 Interpello per 16 ore I.I.S. Pandini A040 Interpello per 9 ore I.I.S. Pandini A041 Interpello per 9 ore I.I.S. Pandini A041 Interpello per cattedra interna I.I.S. Pandini A042 Interpello per 9 ore I.I.S. Pandini B009 LAB. AEREONAUTICHE 6 ORE INTERPELLO presso I.I.S Pandini di Sant’Angelo Lodigiano B005 LAB. LOGISTICA 8 ORE INTERPELLO presso I.I.S. Pandini di Sant’Angelo Lodigiano A050: INTERPELLO PER SUPPLENZA SU CLASSE DI CONCORSO A-50 (18 ORE) FINO ALL’AVENTE DIRITTO- SEDE DI SERVIZIO LAS “CALLISTO PIAZZA” Pubblicato: 18.09.2024 - Revisione: 24.09.2026 Eccetto dove diversamente specificato, questo articolo è stato rilasciato sotto Licenza Creative Commons Attribuzione 4.0 Italia."
-        }
-      ],
-      "attachments": [
-        {
-          "text": "Le carte della scuola",
-          "href": "https://www.iispandinipiazza.edu.it/documento/",
-          "title": "",
-          "context": "Le carte della scuola",
-          "status": 200,
-          "contentType": "text/html; charset=UTF-8",
-          "bytes": 375038,
-          "file": "items/04-I.I.S.-S.-Angelo-Lodigiano/01-attachment"
-        },
-        {
-          "text": "PNRR",
-          "href": "https://www.iispandinipiazza.edu.it/tipologia-documento/PNRR/",
-          "title": "",
-          "context": "PNRR",
-          "status": 200,
-          "contentType": "text/html; charset=UTF-8",
-          "bytes": 368735,
-          "file": "items/04-I.I.S.-S.-Angelo-Lodigiano/02-attachment"
         }
       ]
     }
