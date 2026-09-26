@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-09-26T15:05:32.228Z",
-  "completedAt": "2026-09-26T15:06:09.156Z",
+  "retrievedAt": "2026-09-26T16:05:32.279Z",
+  "completedAt": "2026-09-26T16:06:13.555Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -3028,48 +3028,15 @@
       "collectionReason": "refresh",
       "listLabel": "I.C. \"Gramsci\" di Mulazzano",
       "listContext": "24 settembre 2026 Interpelli ricerca supplenti I.C. \"Gramsci\" di Mulazzano Posto comune primari 6 ore",
-      "title": "I.C. \"Gramsci\" di Mulazzano",
-      "subtitle": "Posto comune primari 6 ore",
+      "title": "Error 503 Backend fetch failed",
+      "subtitle": "",
       "publicationDate": "24 settembre 2026",
       "url": "https://www.mim.gov.it/web/lodi/-/i-c-gramsci-di-mulazzano-4",
       "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-gramsci-di-mulazzano-4",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://www.icmulazzano.edu.it/index.php/notizie/notizie-per-il-personale/circolari-e-comunicazioni/9382-interpello-10630-24-09-26",
-          "finalUrl": "https://www.icmulazzano.edu.it/index.php/notizie/notizie-per-il-personale/circolari-e-comunicazioni/9382-interpello-10630-24-09-26",
-          "httpStatus": 200,
-          "title": "INTERPELLO 10630 24.09.26",
-          "subtitle": "Istituto Comprensivo A. Gramsci di Mulazzano",
-          "text": "Stampa Condividi Facebook Twitter Whatsapp Telegram Email INTERPELLO 10630 24.09.26 LINK PUBBLICAZIONE Attachments: sett 2026 CANDIDATURA-interpello 10630.pdf[candidatura 10630]254 kB SETT 2026 INTERPELLO 10630_primaria (1).pdf[interpello 10630/2026]311 kB"
-        }
-      ],
-      "attachments": [
-        {
-          "text": "Download this file (sett 2026 CANDIDATURA-interpello 10630.pdf)",
-          "href": "https://icmulazzano.edu.it/attachments/article/9382/sett%202026%20CANDIDATURA-interpello%2010630.pdf",
-          "title": "Download this file (sett 2026 CANDIDATURA-interpello 10630.pdf)",
-          "context": "Stampa Condividi Facebook Twitter Whatsapp Telegram Email INTERPELLO 10630 24.09.26 LINK PUBBLICAZIONE Attachments: sett 2026 CANDIDATURA-interpello 10630.pdf[candidatura 10630]254 kB SETT 2026 INTERPELLO 10630_primaria (1).pdf[interpello 10630/2026]311 kB",
-          "status": 200,
-          "contentType": "application/pdf",
-          "bytes": 260179,
-          "file": "items/04-I.C.-Gramsci-di-Mulazzano/01-sett-2026-CANDIDATURA-interpello-10630.pdf",
-          "extractedText": "                          M i n i s t e r o d e l l ’ Is t r u z i o n e e d e l M e r i to\n                                 Istituto Comprensivo “A. GRAMSCI”\n                             Via Ada Negri, 44 - 26837 Mulazzano Tel: 02 989137\n                            www.icmulazzano.edu.it C.F. 92537730159\n                      e-mail loic80200p@istruzione.it PEC loic80200p@pec.istruzione.it\n\n          DOMANDA - Dichiarazione dell’interessato e autocertificazione titoli\n\nIl/la sottoscritt_ ____________________________________, nato a ___________\n_____________il _______________ codice fiscale ______________________,\n\nresidente a ________________________________________________________(prov.____),\ndomiciliato a_______________________________________________________(prov.____),\nrecapito telefonico ______________, indirizzo mail ____________________________,\n\n   •   dichiara di essere interessato al seguente posto: -\n       codice____________________________________________________,\n\n   •   come da interpello prot. N° 10630 del 24.09.2026\n\n   •   dichiara di non essere stato individuato quale destinatario di contratto a tempo\n       determinato e/o destinatario delle assegnazioni di cui all’articolo 4, commi 3 e\n       8, del Decreto ministeriale;\n\n   •   dichiara di possedere i seguenti titoli/abilitazione e il seguente servizio:\n\n   Titolo/servizio                                     Descrizione del titolo/                  Note\n                                                       servizio dell’autocertificante\n   Abilitazione per la classe di concorso\n   per l’insegnamento richiesto\n   nell’interpello\n   Specializzazione sostegno\n\n   Possesso titolo di studio necessario per\n   l’insegnamento richiesto dall’interpello\n   Possesso di altri titoli di studio\n\n   Anni/mesi di insegnamento nella stessa                                                     Numero anni,\n   tipologia di posto nell’IC Gramsci -                                                       mesi e giorni\n   Mulazzano\n   Progetti presso l’IC Gramsci -\n   Mulazzano\n   Anni/mesi di insegnamento nella stessa                                                     Numero anni,\n   tipologia di posto                                                                         mesi e giorni\n   • di essere consapevole delle conseguenze amministrative e penali per chi rilasci dichiarazioni non\n       corrispondenti a verità̀ , ai sensi del DPR 445/2000, dichiara che quanto sopra dichiarato corrisponde\n       al vero.\n   • di autorizzare al trattamento dei dati per lo scopo di cui in oggetto (trattamento privacy vedi sito)\n\n   •   Allega alla presente:\n       -       1) Curriculum vitae, debitamente sottoscritto\n       -       2) Copia del proprio documento di identità e codice fiscale\n                                                                                        Firma\n                                                             ____________________________________\n\f"
-        },
-        {
-          "text": "Download this file (SETT 2026 INTERPELLO 10630_primaria (1).pdf)",
-          "href": "https://icmulazzano.edu.it/attachments/article/9382/SETT%202026%20INTERPELLO%2010630_primaria%20(1).pdf",
-          "title": "Download this file (SETT 2026 INTERPELLO 10630_primaria (1).pdf)",
-          "context": "Stampa Condividi Facebook Twitter Whatsapp Telegram Email INTERPELLO 10630 24.09.26 LINK PUBBLICAZIONE Attachments: sett 2026 CANDIDATURA-interpello 10630.pdf[candidatura 10630]254 kB SETT 2026 INTERPELLO 10630_primaria (1).pdf[interpello 10630/2026]311 kB",
-          "status": 200,
-          "contentType": "application/pdf",
-          "bytes": 319378,
-          "file": "items/04-I.C.-Gramsci-di-Mulazzano/02-SETT-2026-INTERPELLO-10630_primaria-1-.pdf",
-          "extractedText": "                                                 M i n i s t ero d el l ’ I s t ru z i o n e e d e l M e r i to\n                                                        Istituto Comprensivo “A. GRAMSCI”\n                                                   Via Ada Negri, 44 - 26837 Mulazzano Tel: 02 989137\n                                                   www.icmulazzano.edu.it C.F. 92537730159\n                                            e-mail loic80200p@istruzione.it PEC loic80200p@pec.istruzione.it\n\n\n\n\n                            AVVISO/INTERPELLO PER LA COPERTURA DI POSTI ART. 13 C. 23 OM. 88/2024\n\n\n\n                                                            Prot. N. 10630 del 24.09.2026\n\n\n             DENOMINAZIONE SCUOLA: Istituto Comprensivo “A. Gramsci”\n\n             INDIRIZZO SCUOLA: via Ada Negri, 44 -26837 Mulazzano (LODI)\n\n             CODICE MECCANOGRAFICO SCUOLA: LOIC80200P\n\n             MAIL SCUOLA SU CUI RICEVERE LA CANDIDATURA: interpello@icmulazzano.com\n\n\n\n             OGGETTO: Interpello per 6 ore posto comune SCUOLA PRIMARIA\n\n\n                                                                    IL DIRIGENTE SCOLASTICO\n\n\n\n             VISTA l’O.M. 88/2024 ed in particolare l’art. 13 c. 23;\n\n             CONSIDERATO che risultano esaurite le GPS, consultate le graduatorie dello scrivente Istituto e degli Istituti\n             viciniori;\n\n             CONSIDERATA la necessità di reperire docenti per la copertura dei posti indicati in oggetto;\n\n             EMETTE avviso per l’individuazione e il reclutamento di personale docente per il conferimento delle\n             supplenze come da prospetto:\n\n               CODICE     TIPOLOGIA DI                    INIZIO                  TERMINE        ORARIO      SEDE/I DI SERVIZIO\n               POSTO      POSTO                           SUPPLENZA               SUPPLENZA      SETTIMANALE\n                          disponibile\n              10630       n. 1 posto EEEE -               Dalla presa di          30.06.2027     6 ore            Primaria\n                          INSEGNAMENTO                    servizio                                                    • Mulazzano\n                          SCUOLA                                                                                      • Casalmaiocco\n                          PRIMARIA -                                                                                  • Cervignano\n                          COMUNE\n             TITOLI DI PREFERENZA:\n\n                  1. Possesso dell’abilitazione per la classe di concorso (per il sostegno: possesso della specializzazione).\n                  2. Titolo di studio necessario per l’insegnamento richiesto dall’interpello\n\n\n\nDocumento informatico firmato digitalmente ai sensi del D.Lgs 82/2005 s.m.i. e norme collegate\n\f                            M i n i s t ero d el l ’ I s t ru z i o n e e d e l M e r i to\n                                   Istituto Comprensivo “A. GRAMSCI”\n                               Via Ada Negri, 44 - 26837 Mulazzano Tel: 02 989137\n                               www.icmulazzano.edu.it C.F. 92537730159\n                        e-mail loic80200p@istruzione.it PEC loic80200p@pec.istruzione.it\n\n    3. Possesso dei titoli necessari per l’iscrizione nella seconda fascia delle graduatorie provinciali per le\n       supplenze, per l’insegnamento richiesto dall’interpello.\n    4. Altri titoli di studio.\n\nA parità di ordine di priorità, la supplenza sarà conferita all’aspirante che abbia già prestato servizi di\ninsegnamento per la medesima tipologia di posto nel nostro Istituto.\n\nIl personale disponibile potrà presentare la propria manifestazione di interesse entro e non oltre le ore 14.00\ndel 25 settembre 2026, utilizzando ESCLUSIVAMENTE il modulo allegato al presente interpello, che dovrà\nessere trasmesso, in formato PDF e debitamente sottoscritto, tramite email a interpello@icmulazzano.com\n(compilare ed allegare un modulo per ogni candidatura)\n\nIl conferimento della supplenza sarà comunicato tramite mail all’indirizzo indicato dall’aspirante.\n\nLa presa di servizio dovrà avvenire entro le successive 24 ore.\n\nI riscontri agli avvisi devono contenere tutte le dichiarazioni necessarie, rese in autocertificazione ai sensi del\nD.P.R. n. 445/2000, per consentire la verifica puntuale dei suddetti requisiti da parte dei dirigenti scolastici,\nivi compresi gli estremi del conseguimento del titolo di abilitazione e/o del titolo di specializzazione (allegare\nCurriculum Vitae e copia documento di identità): non saranno prese in considerazione istanze formulate con\nmodalità difformi a quelle indicate nel presente avviso e non complete delle dichiarazioni obbligatorie.\n\n\n                                                                                        LA DIRIGENTE SCOLASTICA\n                                                                                        Prof.ssa Eleonora Tarantola\n\f"
-        }
-      ]
+      "httpStatus": 503,
+      "text": "Error 503 Backend fetch failed Backend fetch failed Guru Meditation: XID: 353370126 Varnish cache server",
+      "pages": [],
+      "attachments": []
     }
   ],
   "errors": []
