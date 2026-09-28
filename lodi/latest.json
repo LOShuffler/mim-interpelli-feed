@@ -6,18 +6,50 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-09-28T12:05:33.815Z",
-  "completedAt": "2026-09-28T12:06:09.515Z",
+  "retrievedAt": "2026-09-28T13:05:32.623Z",
+  "completedAt": "2026-09-28T13:06:08.557Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 25236,
+    "textLength": 25245,
     "discoveredCount": 200,
     "safetyLimited": false,
     "processedCount": 4
   },
   "recentEvents": [
+    {
+      "id": "8f1a5e7fffb5ed1b",
+      "type": "new",
+      "detectedAt": "2026-09-28T13:05:32.623Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-ii-61",
+      "item": {
+        "id": "b8de4e48d082dd61",
+        "position": 1,
+        "collectionReason": "new",
+        "listLabel": "I.C. Lodi II",
+        "listContext": "28 settembre 2026 Interpelli ricerca supplenti I.C. Lodi II Interpello cdc EEEE posto comune scuola primaria",
+        "title": "I.C. Lodi II",
+        "subtitle": "Interpello cdc EEEE posto comune scuola primaria",
+        "publicationDate": "28 settembre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-ii-61",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-ii-61",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0014/96f3c674-5d5f-4e40-b75d-782ca6b9fac0",
+            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0014/96f3c674-5d5f-4e40-b75d-782ca6b9fac0",
+            "httpStatus": 200,
+            "title": "Elenco interpelli",
+            "subtitle": "",
+            "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \"LODI 2\" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio INTERPELLO PER SUPPLENZA BREVE SCUOLA PRIMARIA EEEE Insegnante posto comune scuola primaria 30/09/2026 02/10/2026 LOEE81201B LODI G.PASCOLI Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+          }
+        ],
+        "attachments": []
+      }
+    },
     {
       "id": "d5d27d43fb77613e",
       "type": "new",
@@ -3227,8 +3259,34 @@
   ],
   "latestFour": [
     {
-      "id": "9e2f6a67f1f40984",
+      "id": "b8de4e48d082dd61",
       "position": 1,
+      "collectionReason": "new",
+      "listLabel": "I.C. Lodi II",
+      "listContext": "28 settembre 2026 Interpelli ricerca supplenti I.C. Lodi II Interpello cdc EEEE posto comune scuola primaria",
+      "title": "I.C. Lodi II",
+      "subtitle": "Interpello cdc EEEE posto comune scuola primaria",
+      "publicationDate": "28 settembre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-ii-61",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-ii-61",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0014/96f3c674-5d5f-4e40-b75d-782ca6b9fac0",
+          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0014/96f3c674-5d5f-4e40-b75d-782ca6b9fac0",
+          "httpStatus": 200,
+          "title": "Elenco interpelli",
+          "subtitle": "",
+          "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \"LODI 2\" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio INTERPELLO PER SUPPLENZA BREVE SCUOLA PRIMARIA EEEE Insegnante posto comune scuola primaria 30/09/2026 02/10/2026 LOEE81201B LODI G.PASCOLI Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "9e2f6a67f1f40984",
+      "position": 2,
       "collectionReason": "refresh",
       "listLabel": "I.C. Casalpusterlengo",
       "listContext": "28 settembre 2026 Interpelli ricerca supplenti I.C. Casalpusterlengo Interpello per N.1 posto AM12 sino al 30/11/2026",
@@ -3259,14 +3317,14 @@
           "status": 200,
           "contentType": "application/pdf",
           "bytes": 283491,
-          "file": "items/01-I.C.-Casalpusterlengo/01-firmato_1790587286_SEGNATURA_1790586956_Interpello_scuola_Sec._AM12_al_30_novembre.pdf",
+          "file": "items/02-I.C.-Casalpusterlengo/01-firmato_1790587286_SEGNATURA_1790586956_Interpello_scuola_Sec._AM12_al_30_novembre.pdf",
           "extractedText": "                                                                                                              Ministero dell’Istruzione e del Merito\n                                                                                                   Istituto Comprensivo di Casalpusterlengo ad Indirizzo Musicale\n                                                                                                              Via Olimpo, 6 - 26841 CASALPUSTERLENGO (LO)\n                                                                                      Codice Meccanografico LOIC80900D - Codice Fiscale 90518620159 – Codice Univoco Ufficio UFTH6W\n                                                                                                      Tel. 037781940 – 037784379 - E-Mail: loic80900d@istruzione.it\n                                                                                                     PEC loic80900d@pec.istruzione.it – www.iccasalpusterlengo.edu.it\n\n\n\n\n                                                                              Oggetto: interpello per selezione personale docente.\n\n                                                                                                                IL DIRIGENTE SCOLASTICO\nLOIC80900D - A24EECC - REGISTRO PROTOCOLLO - 0006225 - 28/09/2026 - VII - U\n\n\n\n\n                                                                              VISTO l’articolo 13 comma 23 DELL’OM 88/2024\n                                                                              VISTO il CCNL SCUOLA VIGENTE;\n                                                                              RILEVATA la necessità di provvedere a formulare specifico avviso finalizzato al\n                                                                              reclutamento di docenti forniti dell’abilitazione o, in subordine, del titolo di studio, che\n                                                                              saranno valutati solo se la Convocazione da Graduatoria di Istituto non avrà esito positivo.\n                                                                              RITENUTO di dover procedere a proporre interpello;\n                                                                                                                       INTERPELLA\n                                                                              Il personale interessato per la seguente supplenza :\n\n                                                                              - n.1 posto, profilo docente AM12-Lettere Scuola Secondaria primo grado\n                                                                              - supplenza fino al 30/11/2026\n                                                                              - numero di ore settimanali: 18,00\n                                                                              - Tipologia supplenza: supplenza breve\n\n                                                                              1 Il candidato/la candidata dovrà possedere i seguenti titoli di studio: abilitazione e, in\n                                                                              subordine, titoli di studio che danno accesso alla seconda fascia delle GPS;\n                                                                              2 Ai fini della tutela e della garanzia dell’offerta formativa e nel rispetto delle norme di\n                                                                              prevenzione e protezione dei rischi, qualora non pervenissero candidature di aspiranti in\n                                                                              possesso dei titoli richiamati al punto 1, si prenderanno in considerazione le eventuali\n                                                                              candidature degli aspiranti in possesso di titoli affini a quelli previsti al punto 1.\n                                                                              3 La selezione avverrà sulla base dei titoli o dei servizi presentati dai candidati secondo i\n                                                                              criteri pubblicati all’Albo on line dell’Istituto e visionabili al seguente link\n                                                                              4 la candidatura dovrà pervenire, a pena di esclusione, unicamente attraverso la\n                                                                              compilazione del form presente sulla pagina dell’Istituto entro le ore 11.00 del\n                                                                              30/09/2026 allegando C.V. in formato Europass e copia della Carta d’Identità;\n                                                                              5 la presa di servizio avverrà al termine della valutazione delle candidature pervenute, a\n                                                                              seguito di comunicazione da parte della segreteria del nostro istituto.\n                                                                              6 si ricorda ai sensi dell’OM 88/2024 l’applicazione dell’articolo 14;\n                                                                              7 aderendo alla procedura in oggetto si autorizza al trattamento dei dati personali\n                                                                              conformemente al Regolamento (UE) 2016/679 del Parlamento Europeo e del Consiglio\n                                                                              del 27 aprile 2016 relativo alla protezione delle persone fisiche nonché alla libera\n                                                                              circolazione di tali dati e che abroga la direttiva 95/46CE e del D.lgs. n.\n                                                                                 196/2003, come modificato dal D.lgs. n. 101/2018 e ss.mm.ii per le finalità proprie\n                                                                              dell’interpello. Il titolare del trattamento dei dati personali è l’Istituto Comprensivo di\n                                                                              Casalpusterlengo.\n\n                                                                                                                                                        Il Dirigente Scolastico\n                                                                                                                                                            Brunella Tirelli\n\n                                                                                                         Firmato digitalmente da TIRELLI BRUNELLA\n\f"
         }
       ]
     },
     {
       "id": "18da407e786d0e62",
-      "position": 2,
+      "position": 3,
       "collectionReason": "refresh",
       "listLabel": "I.C. Lodi I",
       "listContext": "28 settembre 2026 Interpelli ricerca supplenti I.C. Lodi I Interpello n.1 posto ADEE fino al 30/06",
@@ -3292,7 +3350,7 @@
     },
     {
       "id": "5cc969f6eb6b1c5e",
-      "position": 3,
+      "position": 4,
       "collectionReason": "refresh",
       "listLabel": "I.C. Lodi I",
       "listContext": "28 settembre 2026 Interpelli ricerca supplenti I.C. Lodi I Interpello n.1 posto ADEE fino al 30/06 (cattedra piena condivisa tra due istituti)",
@@ -3312,32 +3370,6 @@
           "title": "Albo Pretorio",
           "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
           "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
-        }
-      ],
-      "attachments": []
-    },
-    {
-      "id": "7b224adac37cd961",
-      "position": 4,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. Lodi III",
-      "listContext": "28 settembre 2026 Interpelli ricerca supplenti I.C. Lodi III Interpello la classe di concorso AM12 \"ITALIANO, STORIA, GEOGRAFIA NELLA SCUOLA SECONDARIA DI I GRADO\"",
-      "title": "I.C. Lodi III",
-      "subtitle": "Interpello la classe di concorso AM12 \"ITALIANO, STORIA, GEOGRAFIA NELLA SCUOLA SECONDARIA DI I GRADO\"",
-      "publicationDate": "28 settembre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-52",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-52",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/245e848a-8663-4a4d-bd73-0519744f3f70",
-          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/245e848a-8663-4a4d-bd73-0519744f3f70",
-          "httpStatus": 200,
-          "title": "Elenco interpelli",
-          "subtitle": "",
-          "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" LODI 3 \" Cerca Elenco interpelli Nessun interpello presente È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
         }
       ],
       "attachments": []
