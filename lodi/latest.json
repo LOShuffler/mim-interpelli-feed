@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-09-28T13:05:32.623Z",
-  "completedAt": "2026-09-28T13:06:08.557Z",
+  "retrievedAt": "2026-09-28T14:05:32.417Z",
+  "completedAt": "2026-09-28T14:06:10.002Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -3261,7 +3261,7 @@
     {
       "id": "b8de4e48d082dd61",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Lodi II",
       "listContext": "28 settembre 2026 Interpelli ricerca supplenti I.C. Lodi II Interpello cdc EEEE posto comune scuola primaria",
       "title": "I.C. Lodi II",
