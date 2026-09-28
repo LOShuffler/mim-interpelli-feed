@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-09-28T01:06:03.101Z",
-  "completedAt": "2026-09-28T01:06:56.816Z",
+  "retrievedAt": "2026-09-28T05:05:32.127Z",
+  "completedAt": "2026-09-28T05:06:08.320Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -2991,7 +2991,7 @@
           "httpStatus": 200,
           "title": "Elenco interpelli",
           "subtitle": "",
-          "text": "Interpelli ISTITUTO COMPRENSIVO \"F. FELLINI\" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio Interpello nazionale per reperimento docenti su tipo di posto SOSTEGNO - SCUOLA PRIMARIA n. 3 supplenze brevi ADEE Sostegno scuola primaria 29/09/2026 LOEE800015 Scuola Primaria di Tavazzano e Sordio Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+          "text": "Interpelli ISTITUTO COMPRENSIVO \"F. FELLINI\" Cerca Elenco interpelli Nessun interpello presente È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
         }
       ],
       "attachments": []
