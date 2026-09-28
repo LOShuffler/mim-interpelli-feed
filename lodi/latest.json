@@ -6,18 +6,137 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-09-28T08:05:33.067Z",
-  "completedAt": "2026-09-28T08:06:09.352Z",
+  "retrievedAt": "2026-09-28T09:05:32.440Z",
+  "completedAt": "2026-09-28T09:06:10.005Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 25207,
+    "textLength": 25250,
     "discoveredCount": 200,
     "safetyLimited": false,
     "processedCount": 4
   },
   "recentEvents": [
+    {
+      "id": "61cf2191240ca94c",
+      "type": "new",
+      "detectedAt": "2026-09-28T09:05:32.440Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-52",
+      "item": {
+        "id": "7b224adac37cd961",
+        "position": 1,
+        "collectionReason": "new",
+        "listLabel": "I.C. Lodi III",
+        "listContext": "28 settembre 2026 Interpelli ricerca supplenti I.C. Lodi III Interpello la classe di concorso AM12 \"ITALIANO, STORIA, GEOGRAFIA NELLA SCUOLA SECONDARIA DI I GRADO\"",
+        "title": "I.C. Lodi III",
+        "subtitle": "Interpello la classe di concorso AM12 \"ITALIANO, STORIA, GEOGRAFIA NELLA SCUOLA SECONDARIA DI I GRADO\"",
+        "publicationDate": "28 settembre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-52",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-52",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/245e848a-8663-4a4d-bd73-0519744f3f70",
+            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/245e848a-8663-4a4d-bd73-0519744f3f70",
+            "httpStatus": 200,
+            "title": "Elenco interpelli",
+            "subtitle": "",
+            "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" LODI 3 \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio INTERPELLO POSTO COMUNE SCUOLA DI I° GRADO AM12 ITALIANO, STORIA, GEOGRAFIA NELLA SCUOLA SECONDARIA DI I GRADO 29/09/2026 26/10/2026 LOIC814001 I.C. LODI III Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+          }
+        ],
+        "attachments": []
+      }
+    },
+    {
+      "id": "89b1317f05d18f38",
+      "type": "new",
+      "detectedAt": "2026-09-28T09:05:32.440Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-t-a-s-a-tosi-codogno-7",
+      "item": {
+        "id": "4e9fe4ce26097d7f",
+        "position": 2,
+        "collectionReason": "new",
+        "listLabel": "I.T.A.S. \"A. Tosi\" Codogno",
+        "listContext": "28 settembre 2026 Interpelli ricerca supplenti I.T.A.S. \"A. Tosi\" Codogno Interpello A051, 3 posti, supplenza breve",
+        "title": "I.T.A.S. \"A. Tosi\" Codogno",
+        "subtitle": "Interpello A051, 3 posti, supplenza breve",
+        "publicationDate": "28 settembre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-t-a-s-a-tosi-codogno-7",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-t-a-s-a-tosi-codogno-7",
+        "httpStatus": 200,
+        "text": "Link pagina interpelli",
+        "pages": [
+          {
+            "label": "Link pagina interpelli",
+            "url": "https://web.spaggiari.eu/sdg2/AlboOnline/LOIT0004?idCategoria=10001&stato=pubblicati",
+            "finalUrl": "https://web.spaggiari.eu/sdg2/AlboOnline/LOIT0004?idCategoria=10001&stato=pubblicati",
+            "httpStatus": 200,
+            "title": "Albo Online",
+            "subtitle": "",
+            "text": "Albo Online ISTITUTO TECNICO STATALE AGRARIO \"A. TOSI\" Cerca Numero totale documenti: 19 Categorie Tutte (19) Avvisi (1) Organi Collegiali Graduatorie (3) Nomine personale Contabilità Bandi di gara Convenzioni Incarichi e consulenze Libri di testo Sicurezza Contratti Regolamenti Esami Altro Albo Altre PA Scrutini Import Pubblicazioni (15) Avvisi Documenti Mostra: Tutti In pubblicazione Annullati Tipo documento Interpello 9 2026 Interpello Protocollo: 9466/2026 del 28/09/2026 Categoria: Avvisi Pubblicato il: 28/09/2026 Valido fino: 28/12/2026 È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+          }
+        ],
+        "attachments": [
+          {
+            "text": "Visualizza documento",
+            "href": "https://web.spaggiari.eu/sdg2/Documenti/LOIT0004/211599208",
+            "title": "Visualizza documento",
+            "context": "92026InterpelloProtocollo: 9466/2026 del 28/09/2026Categoria: AvvisiPubblicato il: 28/09/2026Valido fino: 28/12/2026",
+            "status": 200,
+            "contentType": "application/pdf",
+            "bytes": 146273,
+            "file": "items/02-I.T.A.S.-A.-Tosi-Codogno/01-211599208.pdf",
+            "extractedText": "IT TOSI_Protocollo 0009466/2026 del 28/09/2026\n\n\n                                                       Ministero dell’Istruzione e del Merito\n\n\n                          Istituto Tecnico Agrario Statale “A. TOSI”\n                                         Sede: Viale Marconi, 60 - 26845 CODOGNO (LO) Tel. 0377/32250\n\n                          codice fiscale 8250188015-codice Fatturazione Elettronica: UFM60Y‒codice IPA: istsc_LOTA01000L\n                                        e-mail: LOTA01000L@istruzione.it ‒ PEC: LOTA01000L@pec.istruzione.it\n                                                      sito internet: http://www.agrariotosi.edu.it\n\n\n                                                                                                                             AI DOCENTI INTERESSATI\n                                                                                                                                   ALL’ALBO ONLINE\n                                                                                                                                      ALL’UST DI LODI\n   OGGETTO: Pubblicazione procedure di interpello per selezione personale Docente A051\n                                                          IL DIRIGENTE SCOLASTICO\n   VISTA       l’O.M. n.88 del 16.05.2024 “Procedure di Aggiornamento delle Graduatorie provinciali e di istituto”, in particolare\n               l’art. 13, c. 23;\n   VISTA       la nota MIM n. 157048 del 09.07.2025, “Anno scolastico 2025/2026 -Istruzioni e indicazioni operative in materia di\n               supplenze al personale docente, educativo ed A.T.A.”;\n   VISTA       la nota prot.n.4696 del 24.09.2024 dell’UST di Lodi “Ordinanza Ministeriale n.88 del 16 maggio 2024 – avvisi finalizzati al\n               reclutamento di docenti forniti dell’abilitazione – trasmissione tempestiva link di pubblicazione sito I.S.”\n   VISTA       l’assegnazione dell’organico di diritto e di fatto di codesta istituzione scolastica;\n   CONSIDERATO che risultano esaurite le GPS, le graduatorie dello scrivente Istituto e degli Istituti viciniori, per questa tipologia di posto;\n   RILEVATA    la necessità di provvedere a formulare specifico avviso finalizzato al reclutamento di docenti forniti dell’abilitazione\n               o, in subordine, del titolo di studio;\n   RITENUTO    di dover procedere a proporre interpello;\n   EMETTE      avviso per l’individuazione ed il reclutamento di personale docente per il conferimento delle supplenze di quanto di\n               seguito riportato:\n\n   SUPPLENZA 1:        01 posto su Classe di Concorso A051 – SCIENZE, TECNOLOGIE E TECNICHE AGRARIE\n                                     per n. 18 ore settimanali- n. 1 CATTEDRA, fino al 16/11/2026\n\n\n   SUPPLENZA 2:        01 posto su Classe di Concorso A051 – SCIENZE, TECNOLOGIE E TECNICHE AGRARIE\n                                     per n. 18 ore settimanali- n. 1 CATTEDRA, fino al 01/01/2027\n\n\n   SUPPLENZA 3:        01 posto su Classe di Concorso A051 – SCIENZE, TECNOLOGIE E TECNICHE AGRARIE\n                                     per n. 18 ore settimanali- n. 1 CATTEDRA, fino al 20/01/2027\n\n   La presentazione della propria istanza alla presente procedura di interpello dovrà avvenire unicamente attraverso l’invio del\n   modulo allegato all’indirizzo di posta elettronica istituzionale (LOTA01000L@ISTRUZIONE.IT):\n   - entro e non oltre le ore 10.00 del giorno 30.09.2026;\n   - Indicando, nell’oggetto dell’e-mail, “Risposta interpello A051, 18ore, SUPPLENZA N.[n.], [COGNOME Nome]”\n\n   La domanda dovrà essere corredata della seguente documentazione, e di ogni altro dato utile, pena l’esclusione dalla procedura:\n   - C.V. in formato Europass, completo di votazioni per ogni titolo conseguito;\n   - copia dei documenti di identità (Carta d’identità e CF oppure CIE).\n\n   (N.B. non è consentito inviare per il medesimo interpello più domande da parte dello stesso aspirante; in caso di mancata o incompleta\n   documentazione allegata, la domanda sarà scartata).\n   Se non si viene ricontattati significa che la supplenza è stata assegnata ad altra persona.\n   Diversamente, subito dopo la scadenza dell’interpello, si verrà ricontattati dalla segreteria per definire modi e tempi\n   dell’assunzione in servizio, che deve comunque avvenire entro e non oltre 24 ore dalla chiamata di conferma.\n   Si richiama il rispetto di quanto riportato nell’art. 14 dell’O.M. 88 del 16/05/2024 come pure l’accettazione del trattamento dei\n   propri dati personali ai fini del GDPR 679/2016.\n                                                                                       IL DIRIGENTE SCOLASTICO\n                                                                                         Prof.ssa Sara Battista\n                                                                                      Firma autografa sostituita a mezzo stampa\n                                                                                       ai sensi dell’art.3, c.2 del D.lgs. n. 39/93\n\f                                                                                        Al Dirigente scolastico\n                                                                                        Istituto Tecnico Agrario Statale\n                                                                                        ITAS “A. Tosi” di Codogno\n\n\n\nOggetto: Presentazione candidatura in risposta all’Avviso prot. n. ______________del ____________\n\n\nIl/La sottoscritto/a ___________________________________________, C.F._____________________________________,\n\nnato a ___________________________ il______________, residente a __________________________________________\n\nin Via _____________________________________________________, n.__________________________\n\nTelefono cellulare_________________________ E-mail ____________________________________________________\n\nconsapevole delle sanzioni penali in caso di dichiarazione non veritiere, richiamate dall'art. 76 del D.P.R. 445 del 28/12/2000\ncosì come modificato e integrato dell'art. 15 della Legge 16/1/2003 n.3,\n\n                                                             COMUNICA\n\nDi essere interessato al conferimento della supplenza oggetto dell’Avviso specificato in intestazione\nA tal fine dichiara in autocertificazione, ai sensi del D.P.R. n. 445/2000, quanto segue:\nDi avere cittadinanza ________________________________\n• Di godere di diritti civili e politici\n• Di non aver riportato condanne penali e di non essere destinatario di provvedimenti che riguardano l'applicazione di\n     misure di prevenzione, di decisioni civili e di provvedimenti amministrativi iscritti nel casellario giudiziale ai sensi della\n     normativa vigente;\n• Di non essere stato dispensato dal servizio per incapacità didattica o per mancato superamento del periodo di prova;\n• Di non essere stato licenziato dall’impiego presso una Pubblica Amministrazione o dichiarato decaduto dall’impiego statale\n• Di non essere sottoposto a procedimenti penali;\n• Di non essere già stato individuato quale destinatario di contratto a tempo determinato o delle assegnazioni di cui\n     all’art. 4, commi 3 e 8, del Decreto ministeriale 6 giugno 2024, n. 111\n•    Di essere incluso nella GPS di seconda fascia, scuola _________________________, provincia di _______________, per\n     la classe di Concorso _________________ con il punteggio di ______________\n•    Di essere in possesso del seguente titolo di studio: ______________________________________________________\n     conseguito il ____________________ presso ___________________________________ con votazione ___________\n•    Di essere in possesso dei seguenti ulteriori requisiti indicati nell’Avviso:\n\n     ________________________________________________________________________________________________\n     ________________________________________________________________________________________________\n•    Di aver svolto il/i seguente/i servizio/i sul sostegno e/o Classe di Concorso (ultimo triennio in assenza di sanzioni disciplinari):\n\n     ________________________________________________________________________________________________\n     ________________________________________________________________________________________________\n•    Di essere disponibile alla stipula del contratto a tempo determinato di cui all’Avviso\n•    Di essere a conoscenza delle sanzioni previste dall’art. 14 dell’OM 88/2024\n•    A conoscenza del trattamento dei dati personali, come indicato nell’Avviso, esprime il consenso al trattamento dei dati\n     personali ai sensi del D.lgs. n. 196 del 30/06/2003 e successive modifiche ed integrazioni.\n\nInoltre il sottoscritto dichiara:\n_____________________________________________________________________________________________________\n_____________________________________________________________________________________________________\nAllega:\n     • Documento d’identità\n     • Curriculum vitae aggiornato, in formato europass, completo di votazioni per ogni titolo conseguito\n\n\nData ______________                                               Firma ___________________________\n\f"
+          },
+          {
+            "text": "Scarica documento",
+            "href": "https://web.spaggiari.eu/sdg2/Documenti/LOIT0004/211599208?download=1",
+            "title": "Scarica documento",
+            "context": "92026InterpelloProtocollo: 9466/2026 del 28/09/2026Categoria: AvvisiPubblicato il: 28/09/2026Valido fino: 28/12/2026",
+            "status": 200,
+            "contentType": "application/pdf",
+            "bytes": 146273,
+            "file": "items/02-I.T.A.S.-A.-Tosi-Codogno/02-INTERPELLO_A051_18ore_3_posti_Breve_LOTA01000L.pdf",
+            "extractedText": "IT TOSI_Protocollo 0009466/2026 del 28/09/2026\n\n\n                                                       Ministero dell’Istruzione e del Merito\n\n\n                          Istituto Tecnico Agrario Statale “A. TOSI”\n                                         Sede: Viale Marconi, 60 - 26845 CODOGNO (LO) Tel. 0377/32250\n\n                          codice fiscale 8250188015-codice Fatturazione Elettronica: UFM60Y‒codice IPA: istsc_LOTA01000L\n                                        e-mail: LOTA01000L@istruzione.it ‒ PEC: LOTA01000L@pec.istruzione.it\n                                                      sito internet: http://www.agrariotosi.edu.it\n\n\n                                                                                                                             AI DOCENTI INTERESSATI\n                                                                                                                                   ALL’ALBO ONLINE\n                                                                                                                                      ALL’UST DI LODI\n   OGGETTO: Pubblicazione procedure di interpello per selezione personale Docente A051\n                                                          IL DIRIGENTE SCOLASTICO\n   VISTA       l’O.M. n.88 del 16.05.2024 “Procedure di Aggiornamento delle Graduatorie provinciali e di istituto”, in particolare\n               l’art. 13, c. 23;\n   VISTA       la nota MIM n. 157048 del 09.07.2025, “Anno scolastico 2025/2026 -Istruzioni e indicazioni operative in materia di\n               supplenze al personale docente, educativo ed A.T.A.”;\n   VISTA       la nota prot.n.4696 del 24.09.2024 dell’UST di Lodi “Ordinanza Ministeriale n.88 del 16 maggio 2024 – avvisi finalizzati al\n               reclutamento di docenti forniti dell’abilitazione – trasmissione tempestiva link di pubblicazione sito I.S.”\n   VISTA       l’assegnazione dell’organico di diritto e di fatto di codesta istituzione scolastica;\n   CONSIDERATO che risultano esaurite le GPS, le graduatorie dello scrivente Istituto e degli Istituti viciniori, per questa tipologia di posto;\n   RILEVATA    la necessità di provvedere a formulare specifico avviso finalizzato al reclutamento di docenti forniti dell’abilitazione\n               o, in subordine, del titolo di studio;\n   RITENUTO    di dover procedere a proporre interpello;\n   EMETTE      avviso per l’individuazione ed il reclutamento di personale docente per il conferimento delle supplenze di quanto di\n               seguito riportato:\n\n   SUPPLENZA 1:        01 posto su Classe di Concorso A051 – SCIENZE, TECNOLOGIE E TECNICHE AGRARIE\n                                     per n. 18 ore settimanali- n. 1 CATTEDRA, fino al 16/11/2026\n\n\n   SUPPLENZA 2:        01 posto su Classe di Concorso A051 – SCIENZE, TECNOLOGIE E TECNICHE AGRARIE\n                                     per n. 18 ore settimanali- n. 1 CATTEDRA, fino al 01/01/2027\n\n\n   SUPPLENZA 3:        01 posto su Classe di Concorso A051 – SCIENZE, TECNOLOGIE E TECNICHE AGRARIE\n                                     per n. 18 ore settimanali- n. 1 CATTEDRA, fino al 20/01/2027\n\n   La presentazione della propria istanza alla presente procedura di interpello dovrà avvenire unicamente attraverso l’invio del\n   modulo allegato all’indirizzo di posta elettronica istituzionale (LOTA01000L@ISTRUZIONE.IT):\n   - entro e non oltre le ore 10.00 del giorno 30.09.2026;\n   - Indicando, nell’oggetto dell’e-mail, “Risposta interpello A051, 18ore, SUPPLENZA N.[n.], [COGNOME Nome]”\n\n   La domanda dovrà essere corredata della seguente documentazione, e di ogni altro dato utile, pena l’esclusione dalla procedura:\n   - C.V. in formato Europass, completo di votazioni per ogni titolo conseguito;\n   - copia dei documenti di identità (Carta d’identità e CF oppure CIE).\n\n   (N.B. non è consentito inviare per il medesimo interpello più domande da parte dello stesso aspirante; in caso di mancata o incompleta\n   documentazione allegata, la domanda sarà scartata).\n   Se non si viene ricontattati significa che la supplenza è stata assegnata ad altra persona.\n   Diversamente, subito dopo la scadenza dell’interpello, si verrà ricontattati dalla segreteria per definire modi e tempi\n   dell’assunzione in servizio, che deve comunque avvenire entro e non oltre 24 ore dalla chiamata di conferma.\n   Si richiama il rispetto di quanto riportato nell’art. 14 dell’O.M. 88 del 16/05/2024 come pure l’accettazione del trattamento dei\n   propri dati personali ai fini del GDPR 679/2016.\n                                                                                       IL DIRIGENTE SCOLASTICO\n                                                                                         Prof.ssa Sara Battista\n                                                                                      Firma autografa sostituita a mezzo stampa\n                                                                                       ai sensi dell’art.3, c.2 del D.lgs. n. 39/93\n\f                                                                                        Al Dirigente scolastico\n                                                                                        Istituto Tecnico Agrario Statale\n                                                                                        ITAS “A. Tosi” di Codogno\n\n\n\nOggetto: Presentazione candidatura in risposta all’Avviso prot. n. ______________del ____________\n\n\nIl/La sottoscritto/a ___________________________________________, C.F._____________________________________,\n\nnato a ___________________________ il______________, residente a __________________________________________\n\nin Via _____________________________________________________, n.__________________________\n\nTelefono cellulare_________________________ E-mail ____________________________________________________\n\nconsapevole delle sanzioni penali in caso di dichiarazione non veritiere, richiamate dall'art. 76 del D.P.R. 445 del 28/12/2000\ncosì come modificato e integrato dell'art. 15 della Legge 16/1/2003 n.3,\n\n                                                             COMUNICA\n\nDi essere interessato al conferimento della supplenza oggetto dell’Avviso specificato in intestazione\nA tal fine dichiara in autocertificazione, ai sensi del D.P.R. n. 445/2000, quanto segue:\nDi avere cittadinanza ________________________________\n• Di godere di diritti civili e politici\n• Di non aver riportato condanne penali e di non essere destinatario di provvedimenti che riguardano l'applicazione di\n     misure di prevenzione, di decisioni civili e di provvedimenti amministrativi iscritti nel casellario giudiziale ai sensi della\n     normativa vigente;\n• Di non essere stato dispensato dal servizio per incapacità didattica o per mancato superamento del periodo di prova;\n• Di non essere stato licenziato dall’impiego presso una Pubblica Amministrazione o dichiarato decaduto dall’impiego statale\n• Di non essere sottoposto a procedimenti penali;\n• Di non essere già stato individuato quale destinatario di contratto a tempo determinato o delle assegnazioni di cui\n     all’art. 4, commi 3 e 8, del Decreto ministeriale 6 giugno 2024, n. 111\n•    Di essere incluso nella GPS di seconda fascia, scuola _________________________, provincia di _______________, per\n     la classe di Concorso _________________ con il punteggio di ______________\n•    Di essere in possesso del seguente titolo di studio: ______________________________________________________\n     conseguito il ____________________ presso ___________________________________ con votazione ___________\n•    Di essere in possesso dei seguenti ulteriori requisiti indicati nell’Avviso:\n\n     ________________________________________________________________________________________________\n     ________________________________________________________________________________________________\n•    Di aver svolto il/i seguente/i servizio/i sul sostegno e/o Classe di Concorso (ultimo triennio in assenza di sanzioni disciplinari):\n\n     ________________________________________________________________________________________________\n     ________________________________________________________________________________________________\n•    Di essere disponibile alla stipula del contratto a tempo determinato di cui all’Avviso\n•    Di essere a conoscenza delle sanzioni previste dall’art. 14 dell’OM 88/2024\n•    A conoscenza del trattamento dei dati personali, come indicato nell’Avviso, esprime il consenso al trattamento dei dati\n     personali ai sensi del D.lgs. n. 196 del 30/06/2003 e successive modifiche ed integrazioni.\n\nInoltre il sottoscritto dichiara:\n_____________________________________________________________________________________________________\n_____________________________________________________________________________________________________\nAllega:\n     • Documento d’identità\n     • Curriculum vitae aggiornato, in formato europass, completo di votazioni per ogni titolo conseguito\n\n\nData ______________                                               Firma ___________________________\n\f"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a0ef14c37f41179a",
+      "type": "new",
+      "detectedAt": "2026-09-28T09:05:32.440Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-31",
+      "item": {
+        "id": "4f70f456c1aa5a01",
+        "position": 3,
+        "collectionReason": "new",
+        "listLabel": "I.C. Lodi I",
+        "listContext": "28 settembre 2026 Interpelli ricerca supplenti I.C. Lodi I Interpello EE su posto inglese fino al 04/03/27",
+        "title": "I.C. Lodi I",
+        "subtitle": "Interpello EE su posto inglese fino al 04/03/27",
+        "publicationDate": "28 settembre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-31",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-31",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://www.portaleargo.it/albopretorio/online/",
+            "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
+            "httpStatus": 200,
+            "title": "Albo Pretorio",
+            "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
+            "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
+          }
+        ],
+        "attachments": []
+      }
+    },
     {
       "id": "3ba515fa22e32d9e",
       "type": "new",
@@ -3000,9 +3119,110 @@
   ],
   "latestFour": [
     {
-      "id": "81fb8a46d6eb0241",
+      "id": "7b224adac37cd961",
       "position": 1,
       "collectionReason": "new",
+      "listLabel": "I.C. Lodi III",
+      "listContext": "28 settembre 2026 Interpelli ricerca supplenti I.C. Lodi III Interpello la classe di concorso AM12 \"ITALIANO, STORIA, GEOGRAFIA NELLA SCUOLA SECONDARIA DI I GRADO\"",
+      "title": "I.C. Lodi III",
+      "subtitle": "Interpello la classe di concorso AM12 \"ITALIANO, STORIA, GEOGRAFIA NELLA SCUOLA SECONDARIA DI I GRADO\"",
+      "publicationDate": "28 settembre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-52",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-52",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/245e848a-8663-4a4d-bd73-0519744f3f70",
+          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/245e848a-8663-4a4d-bd73-0519744f3f70",
+          "httpStatus": 200,
+          "title": "Elenco interpelli",
+          "subtitle": "",
+          "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" LODI 3 \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio INTERPELLO POSTO COMUNE SCUOLA DI I° GRADO AM12 ITALIANO, STORIA, GEOGRAFIA NELLA SCUOLA SECONDARIA DI I GRADO 29/09/2026 26/10/2026 LOIC814001 I.C. LODI III Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "4e9fe4ce26097d7f",
+      "position": 2,
+      "collectionReason": "new",
+      "listLabel": "I.T.A.S. \"A. Tosi\" Codogno",
+      "listContext": "28 settembre 2026 Interpelli ricerca supplenti I.T.A.S. \"A. Tosi\" Codogno Interpello A051, 3 posti, supplenza breve",
+      "title": "I.T.A.S. \"A. Tosi\" Codogno",
+      "subtitle": "Interpello A051, 3 posti, supplenza breve",
+      "publicationDate": "28 settembre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-t-a-s-a-tosi-codogno-7",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-t-a-s-a-tosi-codogno-7",
+      "httpStatus": 200,
+      "text": "Link pagina interpelli",
+      "pages": [
+        {
+          "label": "Link pagina interpelli",
+          "url": "https://web.spaggiari.eu/sdg2/AlboOnline/LOIT0004?idCategoria=10001&stato=pubblicati",
+          "finalUrl": "https://web.spaggiari.eu/sdg2/AlboOnline/LOIT0004?idCategoria=10001&stato=pubblicati",
+          "httpStatus": 200,
+          "title": "Albo Online",
+          "subtitle": "",
+          "text": "Albo Online ISTITUTO TECNICO STATALE AGRARIO \"A. TOSI\" Cerca Numero totale documenti: 19 Categorie Tutte (19) Avvisi (1) Organi Collegiali Graduatorie (3) Nomine personale Contabilità Bandi di gara Convenzioni Incarichi e consulenze Libri di testo Sicurezza Contratti Regolamenti Esami Altro Albo Altre PA Scrutini Import Pubblicazioni (15) Avvisi Documenti Mostra: Tutti In pubblicazione Annullati Tipo documento Interpello 9 2026 Interpello Protocollo: 9466/2026 del 28/09/2026 Categoria: Avvisi Pubblicato il: 28/09/2026 Valido fino: 28/12/2026 È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+        }
+      ],
+      "attachments": [
+        {
+          "text": "Visualizza documento",
+          "href": "https://web.spaggiari.eu/sdg2/Documenti/LOIT0004/211599208",
+          "title": "Visualizza documento",
+          "context": "92026InterpelloProtocollo: 9466/2026 del 28/09/2026Categoria: AvvisiPubblicato il: 28/09/2026Valido fino: 28/12/2026",
+          "status": 200,
+          "contentType": "application/pdf",
+          "bytes": 146273,
+          "file": "items/02-I.T.A.S.-A.-Tosi-Codogno/01-211599208.pdf",
+          "extractedText": "IT TOSI_Protocollo 0009466/2026 del 28/09/2026\n\n\n                                                       Ministero dell’Istruzione e del Merito\n\n\n                          Istituto Tecnico Agrario Statale “A. TOSI”\n                                         Sede: Viale Marconi, 60 - 26845 CODOGNO (LO) Tel. 0377/32250\n\n                          codice fiscale 8250188015-codice Fatturazione Elettronica: UFM60Y‒codice IPA: istsc_LOTA01000L\n                                        e-mail: LOTA01000L@istruzione.it ‒ PEC: LOTA01000L@pec.istruzione.it\n                                                      sito internet: http://www.agrariotosi.edu.it\n\n\n                                                                                                                             AI DOCENTI INTERESSATI\n                                                                                                                                   ALL’ALBO ONLINE\n                                                                                                                                      ALL’UST DI LODI\n   OGGETTO: Pubblicazione procedure di interpello per selezione personale Docente A051\n                                                          IL DIRIGENTE SCOLASTICO\n   VISTA       l’O.M. n.88 del 16.05.2024 “Procedure di Aggiornamento delle Graduatorie provinciali e di istituto”, in particolare\n               l’art. 13, c. 23;\n   VISTA       la nota MIM n. 157048 del 09.07.2025, “Anno scolastico 2025/2026 -Istruzioni e indicazioni operative in materia di\n               supplenze al personale docente, educativo ed A.T.A.”;\n   VISTA       la nota prot.n.4696 del 24.09.2024 dell’UST di Lodi “Ordinanza Ministeriale n.88 del 16 maggio 2024 – avvisi finalizzati al\n               reclutamento di docenti forniti dell’abilitazione – trasmissione tempestiva link di pubblicazione sito I.S.”\n   VISTA       l’assegnazione dell’organico di diritto e di fatto di codesta istituzione scolastica;\n   CONSIDERATO che risultano esaurite le GPS, le graduatorie dello scrivente Istituto e degli Istituti viciniori, per questa tipologia di posto;\n   RILEVATA    la necessità di provvedere a formulare specifico avviso finalizzato al reclutamento di docenti forniti dell’abilitazione\n               o, in subordine, del titolo di studio;\n   RITENUTO    di dover procedere a proporre interpello;\n   EMETTE      avviso per l’individuazione ed il reclutamento di personale docente per il conferimento delle supplenze di quanto di\n               seguito riportato:\n\n   SUPPLENZA 1:        01 posto su Classe di Concorso A051 – SCIENZE, TECNOLOGIE E TECNICHE AGRARIE\n                                     per n. 18 ore settimanali- n. 1 CATTEDRA, fino al 16/11/2026\n\n\n   SUPPLENZA 2:        01 posto su Classe di Concorso A051 – SCIENZE, TECNOLOGIE E TECNICHE AGRARIE\n                                     per n. 18 ore settimanali- n. 1 CATTEDRA, fino al 01/01/2027\n\n\n   SUPPLENZA 3:        01 posto su Classe di Concorso A051 – SCIENZE, TECNOLOGIE E TECNICHE AGRARIE\n                                     per n. 18 ore settimanali- n. 1 CATTEDRA, fino al 20/01/2027\n\n   La presentazione della propria istanza alla presente procedura di interpello dovrà avvenire unicamente attraverso l’invio del\n   modulo allegato all’indirizzo di posta elettronica istituzionale (LOTA01000L@ISTRUZIONE.IT):\n   - entro e non oltre le ore 10.00 del giorno 30.09.2026;\n   - Indicando, nell’oggetto dell’e-mail, “Risposta interpello A051, 18ore, SUPPLENZA N.[n.], [COGNOME Nome]”\n\n   La domanda dovrà essere corredata della seguente documentazione, e di ogni altro dato utile, pena l’esclusione dalla procedura:\n   - C.V. in formato Europass, completo di votazioni per ogni titolo conseguito;\n   - copia dei documenti di identità (Carta d’identità e CF oppure CIE).\n\n   (N.B. non è consentito inviare per il medesimo interpello più domande da parte dello stesso aspirante; in caso di mancata o incompleta\n   documentazione allegata, la domanda sarà scartata).\n   Se non si viene ricontattati significa che la supplenza è stata assegnata ad altra persona.\n   Diversamente, subito dopo la scadenza dell’interpello, si verrà ricontattati dalla segreteria per definire modi e tempi\n   dell’assunzione in servizio, che deve comunque avvenire entro e non oltre 24 ore dalla chiamata di conferma.\n   Si richiama il rispetto di quanto riportato nell’art. 14 dell’O.M. 88 del 16/05/2024 come pure l’accettazione del trattamento dei\n   propri dati personali ai fini del GDPR 679/2016.\n                                                                                       IL DIRIGENTE SCOLASTICO\n                                                                                         Prof.ssa Sara Battista\n                                                                                      Firma autografa sostituita a mezzo stampa\n                                                                                       ai sensi dell’art.3, c.2 del D.lgs. n. 39/93\n\f                                                                                        Al Dirigente scolastico\n                                                                                        Istituto Tecnico Agrario Statale\n                                                                                        ITAS “A. Tosi” di Codogno\n\n\n\nOggetto: Presentazione candidatura in risposta all’Avviso prot. n. ______________del ____________\n\n\nIl/La sottoscritto/a ___________________________________________, C.F._____________________________________,\n\nnato a ___________________________ il______________, residente a __________________________________________\n\nin Via _____________________________________________________, n.__________________________\n\nTelefono cellulare_________________________ E-mail ____________________________________________________\n\nconsapevole delle sanzioni penali in caso di dichiarazione non veritiere, richiamate dall'art. 76 del D.P.R. 445 del 28/12/2000\ncosì come modificato e integrato dell'art. 15 della Legge 16/1/2003 n.3,\n\n                                                             COMUNICA\n\nDi essere interessato al conferimento della supplenza oggetto dell’Avviso specificato in intestazione\nA tal fine dichiara in autocertificazione, ai sensi del D.P.R. n. 445/2000, quanto segue:\nDi avere cittadinanza ________________________________\n• Di godere di diritti civili e politici\n• Di non aver riportato condanne penali e di non essere destinatario di provvedimenti che riguardano l'applicazione di\n     misure di prevenzione, di decisioni civili e di provvedimenti amministrativi iscritti nel casellario giudiziale ai sensi della\n     normativa vigente;\n• Di non essere stato dispensato dal servizio per incapacità didattica o per mancato superamento del periodo di prova;\n• Di non essere stato licenziato dall’impiego presso una Pubblica Amministrazione o dichiarato decaduto dall’impiego statale\n• Di non essere sottoposto a procedimenti penali;\n• Di non essere già stato individuato quale destinatario di contratto a tempo determinato o delle assegnazioni di cui\n     all’art. 4, commi 3 e 8, del Decreto ministeriale 6 giugno 2024, n. 111\n•    Di essere incluso nella GPS di seconda fascia, scuola _________________________, provincia di _______________, per\n     la classe di Concorso _________________ con il punteggio di ______________\n•    Di essere in possesso del seguente titolo di studio: ______________________________________________________\n     conseguito il ____________________ presso ___________________________________ con votazione ___________\n•    Di essere in possesso dei seguenti ulteriori requisiti indicati nell’Avviso:\n\n     ________________________________________________________________________________________________\n     ________________________________________________________________________________________________\n•    Di aver svolto il/i seguente/i servizio/i sul sostegno e/o Classe di Concorso (ultimo triennio in assenza di sanzioni disciplinari):\n\n     ________________________________________________________________________________________________\n     ________________________________________________________________________________________________\n•    Di essere disponibile alla stipula del contratto a tempo determinato di cui all’Avviso\n•    Di essere a conoscenza delle sanzioni previste dall’art. 14 dell’OM 88/2024\n•    A conoscenza del trattamento dei dati personali, come indicato nell’Avviso, esprime il consenso al trattamento dei dati\n     personali ai sensi del D.lgs. n. 196 del 30/06/2003 e successive modifiche ed integrazioni.\n\nInoltre il sottoscritto dichiara:\n_____________________________________________________________________________________________________\n_____________________________________________________________________________________________________\nAllega:\n     • Documento d’identità\n     • Curriculum vitae aggiornato, in formato europass, completo di votazioni per ogni titolo conseguito\n\n\nData ______________                                               Firma ___________________________\n\f"
+        },
+        {
+          "text": "Scarica documento",
+          "href": "https://web.spaggiari.eu/sdg2/Documenti/LOIT0004/211599208?download=1",
+          "title": "Scarica documento",
+          "context": "92026InterpelloProtocollo: 9466/2026 del 28/09/2026Categoria: AvvisiPubblicato il: 28/09/2026Valido fino: 28/12/2026",
+          "status": 200,
+          "contentType": "application/pdf",
+          "bytes": 146273,
+          "file": "items/02-I.T.A.S.-A.-Tosi-Codogno/02-INTERPELLO_A051_18ore_3_posti_Breve_LOTA01000L.pdf",
+          "extractedText": "IT TOSI_Protocollo 0009466/2026 del 28/09/2026\n\n\n                                                       Ministero dell’Istruzione e del Merito\n\n\n                          Istituto Tecnico Agrario Statale “A. TOSI”\n                                         Sede: Viale Marconi, 60 - 26845 CODOGNO (LO) Tel. 0377/32250\n\n                          codice fiscale 8250188015-codice Fatturazione Elettronica: UFM60Y‒codice IPA: istsc_LOTA01000L\n                                        e-mail: LOTA01000L@istruzione.it ‒ PEC: LOTA01000L@pec.istruzione.it\n                                                      sito internet: http://www.agrariotosi.edu.it\n\n\n                                                                                                                             AI DOCENTI INTERESSATI\n                                                                                                                                   ALL’ALBO ONLINE\n                                                                                                                                      ALL’UST DI LODI\n   OGGETTO: Pubblicazione procedure di interpello per selezione personale Docente A051\n                                                          IL DIRIGENTE SCOLASTICO\n   VISTA       l’O.M. n.88 del 16.05.2024 “Procedure di Aggiornamento delle Graduatorie provinciali e di istituto”, in particolare\n               l’art. 13, c. 23;\n   VISTA       la nota MIM n. 157048 del 09.07.2025, “Anno scolastico 2025/2026 -Istruzioni e indicazioni operative in materia di\n               supplenze al personale docente, educativo ed A.T.A.”;\n   VISTA       la nota prot.n.4696 del 24.09.2024 dell’UST di Lodi “Ordinanza Ministeriale n.88 del 16 maggio 2024 – avvisi finalizzati al\n               reclutamento di docenti forniti dell’abilitazione – trasmissione tempestiva link di pubblicazione sito I.S.”\n   VISTA       l’assegnazione dell’organico di diritto e di fatto di codesta istituzione scolastica;\n   CONSIDERATO che risultano esaurite le GPS, le graduatorie dello scrivente Istituto e degli Istituti viciniori, per questa tipologia di posto;\n   RILEVATA    la necessità di provvedere a formulare specifico avviso finalizzato al reclutamento di docenti forniti dell’abilitazione\n               o, in subordine, del titolo di studio;\n   RITENUTO    di dover procedere a proporre interpello;\n   EMETTE      avviso per l’individuazione ed il reclutamento di personale docente per il conferimento delle supplenze di quanto di\n               seguito riportato:\n\n   SUPPLENZA 1:        01 posto su Classe di Concorso A051 – SCIENZE, TECNOLOGIE E TECNICHE AGRARIE\n                                     per n. 18 ore settimanali- n. 1 CATTEDRA, fino al 16/11/2026\n\n\n   SUPPLENZA 2:        01 posto su Classe di Concorso A051 – SCIENZE, TECNOLOGIE E TECNICHE AGRARIE\n                                     per n. 18 ore settimanali- n. 1 CATTEDRA, fino al 01/01/2027\n\n\n   SUPPLENZA 3:        01 posto su Classe di Concorso A051 – SCIENZE, TECNOLOGIE E TECNICHE AGRARIE\n                                     per n. 18 ore settimanali- n. 1 CATTEDRA, fino al 20/01/2027\n\n   La presentazione della propria istanza alla presente procedura di interpello dovrà avvenire unicamente attraverso l’invio del\n   modulo allegato all’indirizzo di posta elettronica istituzionale (LOTA01000L@ISTRUZIONE.IT):\n   - entro e non oltre le ore 10.00 del giorno 30.09.2026;\n   - Indicando, nell’oggetto dell’e-mail, “Risposta interpello A051, 18ore, SUPPLENZA N.[n.], [COGNOME Nome]”\n\n   La domanda dovrà essere corredata della seguente documentazione, e di ogni altro dato utile, pena l’esclusione dalla procedura:\n   - C.V. in formato Europass, completo di votazioni per ogni titolo conseguito;\n   - copia dei documenti di identità (Carta d’identità e CF oppure CIE).\n\n   (N.B. non è consentito inviare per il medesimo interpello più domande da parte dello stesso aspirante; in caso di mancata o incompleta\n   documentazione allegata, la domanda sarà scartata).\n   Se non si viene ricontattati significa che la supplenza è stata assegnata ad altra persona.\n   Diversamente, subito dopo la scadenza dell’interpello, si verrà ricontattati dalla segreteria per definire modi e tempi\n   dell’assunzione in servizio, che deve comunque avvenire entro e non oltre 24 ore dalla chiamata di conferma.\n   Si richiama il rispetto di quanto riportato nell’art. 14 dell’O.M. 88 del 16/05/2024 come pure l’accettazione del trattamento dei\n   propri dati personali ai fini del GDPR 679/2016.\n                                                                                       IL DIRIGENTE SCOLASTICO\n                                                                                         Prof.ssa Sara Battista\n                                                                                      Firma autografa sostituita a mezzo stampa\n                                                                                       ai sensi dell’art.3, c.2 del D.lgs. n. 39/93\n\f                                                                                        Al Dirigente scolastico\n                                                                                        Istituto Tecnico Agrario Statale\n                                                                                        ITAS “A. Tosi” di Codogno\n\n\n\nOggetto: Presentazione candidatura in risposta all’Avviso prot. n. ______________del ____________\n\n\nIl/La sottoscritto/a ___________________________________________, C.F._____________________________________,\n\nnato a ___________________________ il______________, residente a __________________________________________\n\nin Via _____________________________________________________, n.__________________________\n\nTelefono cellulare_________________________ E-mail ____________________________________________________\n\nconsapevole delle sanzioni penali in caso di dichiarazione non veritiere, richiamate dall'art. 76 del D.P.R. 445 del 28/12/2000\ncosì come modificato e integrato dell'art. 15 della Legge 16/1/2003 n.3,\n\n                                                             COMUNICA\n\nDi essere interessato al conferimento della supplenza oggetto dell’Avviso specificato in intestazione\nA tal fine dichiara in autocertificazione, ai sensi del D.P.R. n. 445/2000, quanto segue:\nDi avere cittadinanza ________________________________\n• Di godere di diritti civili e politici\n• Di non aver riportato condanne penali e di non essere destinatario di provvedimenti che riguardano l'applicazione di\n     misure di prevenzione, di decisioni civili e di provvedimenti amministrativi iscritti nel casellario giudiziale ai sensi della\n     normativa vigente;\n• Di non essere stato dispensato dal servizio per incapacità didattica o per mancato superamento del periodo di prova;\n• Di non essere stato licenziato dall’impiego presso una Pubblica Amministrazione o dichiarato decaduto dall’impiego statale\n• Di non essere sottoposto a procedimenti penali;\n• Di non essere già stato individuato quale destinatario di contratto a tempo determinato o delle assegnazioni di cui\n     all’art. 4, commi 3 e 8, del Decreto ministeriale 6 giugno 2024, n. 111\n•    Di essere incluso nella GPS di seconda fascia, scuola _________________________, provincia di _______________, per\n     la classe di Concorso _________________ con il punteggio di ______________\n•    Di essere in possesso del seguente titolo di studio: ______________________________________________________\n     conseguito il ____________________ presso ___________________________________ con votazione ___________\n•    Di essere in possesso dei seguenti ulteriori requisiti indicati nell’Avviso:\n\n     ________________________________________________________________________________________________\n     ________________________________________________________________________________________________\n•    Di aver svolto il/i seguente/i servizio/i sul sostegno e/o Classe di Concorso (ultimo triennio in assenza di sanzioni disciplinari):\n\n     ________________________________________________________________________________________________\n     ________________________________________________________________________________________________\n•    Di essere disponibile alla stipula del contratto a tempo determinato di cui all’Avviso\n•    Di essere a conoscenza delle sanzioni previste dall’art. 14 dell’OM 88/2024\n•    A conoscenza del trattamento dei dati personali, come indicato nell’Avviso, esprime il consenso al trattamento dei dati\n     personali ai sensi del D.lgs. n. 196 del 30/06/2003 e successive modifiche ed integrazioni.\n\nInoltre il sottoscritto dichiara:\n_____________________________________________________________________________________________________\n_____________________________________________________________________________________________________\nAllega:\n     • Documento d’identità\n     • Curriculum vitae aggiornato, in formato europass, completo di votazioni per ogni titolo conseguito\n\n\nData ______________                                               Firma ___________________________\n\f"
+        }
+      ]
+    },
+    {
+      "id": "4f70f456c1aa5a01",
+      "position": 3,
+      "collectionReason": "new",
+      "listLabel": "I.C. Lodi I",
+      "listContext": "28 settembre 2026 Interpelli ricerca supplenti I.C. Lodi I Interpello EE su posto inglese fino al 04/03/27",
+      "title": "I.C. Lodi I",
+      "subtitle": "Interpello EE su posto inglese fino al 04/03/27",
+      "publicationDate": "28 settembre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-31",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-31",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://www.portaleargo.it/albopretorio/online/",
+          "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
+          "httpStatus": 200,
+          "title": "Albo Pretorio",
+          "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
+          "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "81fb8a46d6eb0241",
+      "position": 4,
+      "collectionReason": "refresh",
       "listLabel": "I.C. Mulazzano",
       "listContext": "28 settembre 2026 Interpelli ricerca supplenti I.C. Mulazzano Interpello per 9 ore AJ56 PIANOFORTE Scuola Secondaria 1° grado",
       "title": "I.C. Mulazzano",
@@ -3032,7 +3252,7 @@
           "status": 200,
           "contentType": "application/pdf",
           "bytes": 259752,
-          "file": "items/01-I.C.-Mulazzano/01-sett-2026-CANDIDATURA-interpello-10659.pdf",
+          "file": "items/04-I.C.-Mulazzano/01-sett-2026-CANDIDATURA-interpello-10659.pdf",
           "extractedText": "                          M i n i s t e r o d e l l ’ Is t r u z i o n e e d e l M e r i to\n                                 Istituto Comprensivo “A. GRAMSCI”\n                             Via Ada Negri, 44 - 26837 Mulazzano Tel: 02 989137\n                            www.icmulazzano.edu.it C.F. 92537730159\n                      e-mail loic80200p@istruzione.it PEC loic80200p@pec.istruzione.it\n\n          DOMANDA - Dichiarazione dell’interessato e autocertificazione titoli\n\nIl/la sottoscritt_ ____________________________________, nato a ___________\n_____________il _______________ codice fiscale ______________________,\n\nresidente a ________________________________________________________(prov.____),\ndomiciliato a_______________________________________________________(prov.____),\nrecapito telefonico ______________, indirizzo mail ____________________________,\n\n   •   dichiara di essere interessato al seguente posto: -\n       codice____________________________________________________,\n\n   •   come da interpello prot. N° 10659 del 25.09.2026\n\n   •   dichiara di non essere stato individuato quale destinatario di contratto a tempo\n       determinato e/o destinatario delle assegnazioni di cui all’articolo 4, commi 3 e\n       8, del Decreto ministeriale;\n\n   •   dichiara di possedere i seguenti titoli/abilitazione e il seguente servizio:\n\n   Titolo/servizio                                      Descrizione del titolo/                 Note\n                                                        servizio dell’autocertificante\n   Abilitazione per la classe di concorso\n   per l’insegnamento richiesto\n   nell’interpello\n   Specializzazione sostegno\n\n   Possesso titolo di studio necessario per\n   l’insegnamento richiesto dall’interpello\n   Possesso di altri titoli di studio\n\n   Anni/mesi di insegnamento nella stessa                                                     Numero anni,\n   tipologia di posto nell’IC Gramsci -                                                       mesi e giorni\n   Mulazzano\n   Progetti presso l’IC Gramsci -\n   Mulazzano\n   Anni/mesi di insegnamento nella stessa                                                     Numero anni,\n   tipologia di posto                                                                         mesi e giorni\n   • di essere consapevole delle conseguenze amministrative e penali per chi rilasci dichiarazioni non\n       corrispondenti a verità̀ , ai sensi del DPR 445/2000, dichiara che quanto sopra dichiarato corrisponde\n       al vero.\n   • di autorizzare al trattamento dei dati per lo scopo di cui in oggetto (trattamento privacy vedi sito)\n\n   •   Allega alla presente:\n       -       1) Curriculum vitae, debitamente sottoscritto\n       -       2) Copia del proprio documento di identità e codice fiscale\n                                                                                        Firma\n                                                             ____________________________________\n\f"
         },
         {
@@ -3043,88 +3263,10 @@
           "status": 200,
           "contentType": "application/pdf",
           "bytes": 312969,
-          "file": "items/01-I.C.-Mulazzano/02-SETT-2026-INTERPELLO-10659-piano-1-.pdf",
+          "file": "items/04-I.C.-Mulazzano/02-SETT-2026-INTERPELLO-10659-piano-1-.pdf",
           "extractedText": "                                                 M i n i s t ero d el l ’ I s t ru z i o n e e d e l M e r i to\n                                                        Istituto Comprensivo “A. GRAMSCI”\n                                                   Via Ada Negri, 44 - 26837 Mulazzano Tel: 02 989137\n                                                   www.icmulazzano.edu.it C.F. 92537730159\n                                            e-mail loic80200p@istruzione.it PEC loic80200p@pec.istruzione.it\n\n\n\n\n                            AVVISO/INTERPELLO PER LA COPERTURA DI POSTI ART. 13 C. 23 OM. 88/2024\n\n\n\n                                                            Prot. N. 10659 del 25.09.2026\n\n\n             DENOMINAZIONE SCUOLA: Istituto Comprensivo “A. Gramsci”\n\n             INDIRIZZO SCUOLA: via Ada Negri, 44 -26837 Mulazzano (LODI)\n\n             CODICE MECCANOGRAFICO SCUOLA: LOIC80200P\n\n             MAIL SCUOLA SU CUI RICEVERE LA CANDIDATURA: interpello@icmulazzano.com\n\n\n\n             OGGETTO: Interpello per 9 ore AJ56 PIANOFORTE Scuola Secondaria 1° grado\n\n\n                                                                    IL DIRIGENTE SCOLASTICO\n\n\n\n             VISTA l’O.M. 88/2024 ed in particolare l’art. 13 c. 23;\n\n             CONSIDERATO che risultano esaurite le GPS, consultate le graduatorie dello scrivente Istituto e degli Istituti\n             viciniori;\n\n             CONSIDERATA la necessità di reperire docenti per la copertura dei posti indicati in oggetto;\n\n             EMETTE avviso per l’individuazione e il reclutamento di personale docente per il conferimento delle\n             supplenze come da prospetto:\n\n               CODICE     TIPOLOGIA DI                    INIZIO                  TERMINE        ORARIO      SEDE/I DI SERVIZIO\n               POSTO      POSTO                           SUPPLENZA               SUPPLENZA      SETTIMANALE\n                          disponibile\n              10659       n. 1 posto                      Dalla presa di          30.06.2027     9 ore            Scuola Secondaria IC\n                          AJ56                            servizio                               pomeridiane      GRAMSCI -\n                          PIANOFORTE                                                                              Mulazzano\n             TITOLI DI PREFERENZA:\n\n                  1. Possesso dell’abilitazione per la classe di concorso (per il sostegno: possesso della specializzazione).\n                  2. Titolo di studio necessario per l’insegnamento richiesto dall’interpello\n                  3. Possesso dei titoli necessari per l’iscrizione nella seconda fascia delle graduatorie provinciali per le\n                     supplenze, per l’insegnamento richiesto dall’interpello.\n\n\n\nDocumento informatico firmato digitalmente ai sensi del D.Lgs 82/2005 s.m.i. e norme collegate\n\f                             M i n i s t ero d el l ’ I s t ru z i o n e e d e l M e r i to\n                                    Istituto Comprensivo “A. GRAMSCI”\n                                Via Ada Negri, 44 - 26837 Mulazzano Tel: 02 989137\n                                www.icmulazzano.edu.it C.F. 92537730159\n                         e-mail loic80200p@istruzione.it PEC loic80200p@pec.istruzione.it\n\n    4. Altri titoli di studio.\n\nA parità di ordine di priorità, la supplenza sarà conferita all’aspirante che abbia già prestato servizi di\ninsegnamento per la medesima tipologia di posto nel nostro Istituto.\n\nIl personale disponibile potrà presentare la propria manifestazione di interesse entro e non oltre le ore 14.00\ndel 29 settembre 2026, utilizzando ESCLUSIVAMENTE il modulo allegato al presente interpello, che dovrà\nessere trasmesso, in formato PDF e debitamente sottoscritto, tramite email a interpello@icmulazzano.com\n(compilare ed allegare un modulo per ogni candidatura)\n\nIl conferimento della supplenza sarà comunicato tramite mail all’indirizzo indicato dall’aspirante.\n\nLa presa di servizio dovrà avvenire entro le successive 24 ore.\n\nI riscontri agli avvisi devono contenere tutte le dichiarazioni necessarie, rese in autocertificazione ai sensi del\nD.P.R. n. 445/2000, per consentire la verifica puntuale dei suddetti requisiti da parte dei dirigenti scolastici,\nivi compresi gli estremi del conseguimento del titolo di abilitazione e/o del titolo di specializzazione (allegare\nCurriculum Vitae e copia documento di identità): non saranno prese in considerazione istanze formulate con\nmodalità difformi a quelle indicate nel presente avviso e non complete delle dichiarazioni obbligatorie.\n\n\n                                                                                         LA DIRIGENTE SCOLASTICA\n                                                                                         Prof.ssa Eleonora Tarantola\n\f"
         }
       ]
-    },
-    {
-      "id": "843f63b0f0b2d80a",
-      "position": 2,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. Lodi I",
-      "listContext": "25 settembre 2026 Interpelli ricerca supplenti I.C. Lodi I Interpello 6H ADEE fino al 30/06",
-      "title": "I.C. Lodi I",
-      "subtitle": "Interpello 6H ADEE fino al 30/06",
-      "publicationDate": "25 settembre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-30",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-30",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://www.portaleargo.it/albopretorio/online/",
-          "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
-          "httpStatus": 200,
-          "title": "Albo Pretorio",
-          "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
-          "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
-        }
-      ],
-      "attachments": []
-    },
-    {
-      "id": "6ed2487070f07b5f",
-      "position": 3,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. Tavazzano con Villavesco",
-      "listContext": "25 settembre 2026 Interpelli ricerca supplenti I.C. Tavazzano con Villavesco Interpello nazionale per reperimento docenti su tipo di posto SOSTEGNO - SCUOLA PRIMARIA n. 3 supplenze brevi",
-      "title": "I.C. Tavazzano con Villavesco",
-      "subtitle": "Interpello nazionale per reperimento docenti su tipo di posto SOSTEGNO - SCUOLA PRIMARIA n. 3 supplenze brevi",
-      "publicationDate": "25 settembre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-tavazzano-con-villavesco-4",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-tavazzano-con-villavesco-4",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0001/c09486e9-6ce9-49bb-a513-e315210b2a9c",
-          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0001/c09486e9-6ce9-49bb-a513-e315210b2a9c",
-          "httpStatus": 200,
-          "title": "Elenco interpelli",
-          "subtitle": "",
-          "text": "Interpelli ISTITUTO COMPRENSIVO \"F. FELLINI\" Cerca Elenco interpelli Nessun interpello presente È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
-        }
-      ],
-      "attachments": []
-    },
-    {
-      "id": "d903920e11f4970c",
-      "position": 4,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. Lodi I",
-      "listContext": "25 settembre 2026 Interpelli ricerca supplenti I.C. Lodi I Interpello n. 1 posto ADEE fino al 21/10",
-      "title": "I.C. Lodi I",
-      "subtitle": "Interpello n. 1 posto ADEE fino al 21/10",
-      "publicationDate": "25 settembre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-29",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-29",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://www.portaleargo.it/albopretorio/online/",
-          "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
-          "httpStatus": 200,
-          "title": "Albo Pretorio",
-          "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
-          "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
-        }
-      ],
-      "attachments": []
     }
   ],
   "errors": []
