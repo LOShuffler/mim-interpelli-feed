@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-09-29T11:05:32.227Z",
-  "completedAt": "2026-09-29T11:06:08.829Z",
+  "retrievedAt": "2026-09-29T12:05:33.664Z",
+  "completedAt": "2026-09-29T12:06:02.301Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -3532,7 +3532,7 @@
     {
       "id": "24bc8c323c4935f2",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Lodi IV",
       "listContext": "29 settembre 2026 Interpelli ricerca supplenti I.C. Lodi IV Infanzia- posto comune",
       "title": "I.C. Lodi IV",
@@ -3558,7 +3558,7 @@
     {
       "id": "f97d4afcfa668a25",
       "position": 2,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
       "listContext": "29 settembre 2026 Interpelli ricerca supplenti I.C. \"R. Morzenti\" S. Angelo Lodigiano A023 - Lingua italiana per discenti di lingua straniera(alloglotti) - fino al 31/08/2027",
       "title": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
@@ -3587,24 +3587,14 @@
       "collectionReason": "refresh",
       "listLabel": "I.C. Lodi I",
       "listContext": "29 settembre 2026 Interpelli ricerca supplenti I.C. Lodi I ADEE su fino al 05/10/2026",
-      "title": "I.C. Lodi I",
-      "subtitle": "ADEE su fino al 05/10/2026",
-      "publicationDate": "29 settembre 2026",
+      "title": "Error 503 Backend fetch failed",
+      "subtitle": "",
+      "publicationDate": "05/10/2026",
       "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-35",
       "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-35",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://www.portaleargo.it/albopretorio/online/",
-          "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
-          "httpStatus": 200,
-          "title": "Albo Pretorio",
-          "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
-          "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
-        }
-      ],
+      "httpStatus": 503,
+      "text": "Error 503 Backend fetch failed Backend fetch failed Guru Meditation: XID: 11599915 Varnish cache server",
+      "pages": [],
       "attachments": []
     },
     {
@@ -3613,24 +3603,14 @@
       "collectionReason": "refresh",
       "listLabel": "I.C. Lodi I",
       "listContext": "29 settembre 2026 Interpelli ricerca supplenti I.C. Lodi I EE su fino al 15/10/2026",
-      "title": "I.C. Lodi I",
-      "subtitle": "EE su fino al 15/10/2026",
-      "publicationDate": "29 settembre 2026",
+      "title": "Error 503 Backend fetch failed",
+      "subtitle": "",
+      "publicationDate": "15/10/2026",
       "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-34",
       "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-34",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://www.portaleargo.it/albopretorio/online/",
-          "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
-          "httpStatus": 200,
-          "title": "Albo Pretorio",
-          "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
-          "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
-        }
-      ],
+      "httpStatus": 503,
+      "text": "Error 503 Backend fetch failed Backend fetch failed Guru Meditation: XID: 1055555751 Varnish cache server",
+      "pages": [],
       "attachments": []
     }
   ],
