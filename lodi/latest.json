@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-09-29T14:05:32.528Z",
-  "completedAt": "2026-09-29T14:06:13.063Z",
+  "retrievedAt": "2026-09-29T15:05:32.484Z",
+  "completedAt": "2026-09-29T15:06:13.152Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -3650,7 +3650,7 @@
     {
       "id": "a1a3c631b2596f72",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "C.P.I.A.",
       "listContext": "29 settembre 2026 Interpelli ricerca supplenti C.P.I.A. Interpello cdc EEEE",
       "title": "C.P.I.A.",
@@ -3687,7 +3687,7 @@
     {
       "id": "bc5d615b813a1a36",
       "position": 2,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "C.P.I.A.",
       "listContext": "29 settembre 2026 Interpelli ricerca supplenti C.P.I.A. Interpello cdc A023",
       "title": "C.P.I.A.",
@@ -3724,7 +3724,7 @@
     {
       "id": "090d59d8617c9edc",
       "position": 3,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.I.S. Codogno",
       "listContext": "29 settembre 2026 Interpelli ricerca supplenti I.I.S. Codogno Link Interpelli",
       "title": "I.I.S. Codogno",
