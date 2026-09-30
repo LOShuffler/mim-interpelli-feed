@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-09-30T10:05:12.133Z",
-  "completedAt": "2026-09-30T10:05:53.436Z",
+  "retrievedAt": "2026-09-30T11:05:22.150Z",
+  "completedAt": "2026-09-30T11:06:04.073Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -3770,7 +3770,7 @@
     {
       "id": "275f352531eda4be",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. di Livraga",
       "listContext": "30 settembre 2026 Interpelli ricerca supplenti I.C. di Livraga ADMM - I Grado",
       "title": "I.C. di Livraga",
