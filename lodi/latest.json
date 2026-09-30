@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-09-30T08:05:22.702Z",
-  "completedAt": "2026-09-30T08:06:02.355Z",
+  "retrievedAt": "2026-09-30T09:05:32.390Z",
+  "completedAt": "2026-09-30T09:06:11.773Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -3727,7 +3727,7 @@
     {
       "id": "06ee1332cddf0b40",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.T.A.S. \"A. Tosi\" Codogno",
       "listContext": "30 settembre 2026 Interpelli ricerca supplenti I.T.A.S. \"A. Tosi\" Codogno A027 - 2 posti 18 e 11 ore al 30/06/2027",
       "title": "I.T.A.S. \"A. Tosi\" Codogno",
