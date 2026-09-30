@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-09-30T14:05:22.241Z",
-  "completedAt": "2026-09-30T14:06:02.938Z",
+  "retrievedAt": "2026-09-30T15:05:32.209Z",
+  "completedAt": "2026-09-30T15:06:14.852Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -3898,7 +3898,7 @@
     {
       "id": "5f46f124d7afc25f",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Maleo",
       "listContext": "30 settembre 2026 Interpelli ricerca supplenti I.C. Maleo Interpelli Scuole primarie",
       "title": "I.C. Maleo",
@@ -3974,7 +3974,7 @@
           "context": "Le carte della scuola",
           "status": 200,
           "contentType": "text/html; charset=UTF-8",
-          "bytes": 269040,
+          "bytes": 269025,
           "file": "items/02-I.I.S.-Casalpusterlengo/01-attachment"
         }
       ]
