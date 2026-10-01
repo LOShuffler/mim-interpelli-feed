@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-01T14:05:32.977Z",
-  "completedAt": "2026-10-01T14:06:12.082Z",
+  "retrievedAt": "2026-10-01T15:05:33.454Z",
+  "completedAt": "2026-10-01T15:06:05.519Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -15,7 +15,7 @@
     "textLength": 25085,
     "discoveredCount": 200,
     "safetyLimited": false,
-    "processedCount": 5
+    "processedCount": 4
   },
   "recentEvents": [
     {
@@ -4086,7 +4086,7 @@
     {
       "id": "5544f49143a95d9b",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Lodi I",
       "listContext": "01 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi I Interpello posto EEIL fino al 04/03/27",
       "title": "I.C. Lodi I",
@@ -4112,7 +4112,7 @@
     {
       "id": "b706ece6aef81637",
       "position": 2,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "Liceo \"M. Vegio\" Lodi",
       "listContext": "01 ottobre 2026 Interpelli ricerca supplenti Liceo \"M. Vegio\" Lodi Interpello A027 - MATEMATICA E FISICA - sino al 30 GIUGNO 2027",
       "title": "Liceo \"M. Vegio\" Lodi",
@@ -4134,7 +4134,7 @@
     {
       "id": "f69a7c61bffb8331",
       "position": 3,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. \"C. Collodi \" S. Angelo Lodigiano",
       "listContext": "01 ottobre 2026 Interpelli ricerca supplenti I.C. \"C. Collodi \" S. Angelo Lodigiano Interpello su cdc AI56 - PERCUSSIONI_12 ore fino al 30/06/2026",
       "title": "I.C. \"C. Collodi \" S. Angelo Lodigiano",
@@ -4152,7 +4152,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/82e5d9ef-b1a7-4198-ad29-d9a00f2e07d2\" on this server. Reference #18.8771cd17.1790863556.1387a9f2 https://errors.edgesuite.net/18.8771cd17.1790863556.1387a9f2"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/82e5d9ef-b1a7-4198-ad29-d9a00f2e07d2\" on this server. Reference #18.8771cd17.1790867156.14a5400b https://errors.edgesuite.net/18.8771cd17.1790867156.14a5400b"
         }
       ],
       "attachments": []
@@ -4160,7 +4160,7 @@
     {
       "id": "9519bc7484a0ec2d",
       "position": 4,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.I.S. Codogno",
       "listContext": "01 ottobre 2026 Interpelli ricerca supplenti I.I.S. Codogno Interpello per 1 cattedra fino al 22/12/2026, classe di concorso AB22 - inglese",
       "title": "I.I.S. Codogno",
