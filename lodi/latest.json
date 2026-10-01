@@ -6,18 +6,174 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-01T13:05:34.082Z",
-  "completedAt": "2026-10-01T13:06:13.139Z",
+  "retrievedAt": "2026-10-01T14:05:32.977Z",
+  "completedAt": "2026-10-01T14:06:12.082Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 25060,
+    "textLength": 25085,
     "discoveredCount": 200,
     "safetyLimited": false,
-    "processedCount": 4
+    "processedCount": 5
   },
   "recentEvents": [
+    {
+      "id": "c2b03ac753adac1d",
+      "type": "new",
+      "detectedAt": "2026-10-01T14:05:32.977Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-36",
+      "item": {
+        "id": "5544f49143a95d9b",
+        "position": 1,
+        "collectionReason": "new",
+        "listLabel": "I.C. Lodi I",
+        "listContext": "01 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi I Interpello posto EEIL fino al 04/03/27",
+        "title": "I.C. Lodi I",
+        "subtitle": "Interpello posto EEIL fino al 04/03/27",
+        "publicationDate": "01 ottobre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-36",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-36",
+        "httpStatus": 200,
+        "text": "Link intrpello",
+        "pages": [
+          {
+            "label": "Link intrpello",
+            "url": "https://www.portaleargo.it/albopretorio/online/",
+            "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
+            "httpStatus": 200,
+            "title": "Albo Pretorio",
+            "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
+            "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
+          }
+        ],
+        "attachments": []
+      }
+    },
+    {
+      "id": "09924ef3a8895be5",
+      "type": "new",
+      "detectedAt": "2026-10-01T14:05:32.977Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/liceo-m-vegio-lodi-1",
+      "item": {
+        "id": "b706ece6aef81637",
+        "position": 2,
+        "collectionReason": "new",
+        "listLabel": "Liceo \"M. Vegio\" Lodi",
+        "listContext": "01 ottobre 2026 Interpelli ricerca supplenti Liceo \"M. Vegio\" Lodi Interpello A027 - MATEMATICA E FISICA - sino al 30 GIUGNO 2027",
+        "title": "Liceo \"M. Vegio\" Lodi",
+        "subtitle": "Interpello A027 - MATEMATICA E FISICA - sino al 30 GIUGNO 2027",
+        "publicationDate": "01 ottobre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/liceo-m-vegio-lodi-1",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/liceo-m-vegio-lodi-1",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://nuvola.madisoft.it/file/api/public-file-preview/LOPM010008/0462aedd-6529-4fbf-b044-824d4711622e",
+            "error": "page.goto: Download is starting\nCall log:\n  - navigating to \"https://nuvola.madisoft.it/file/api/public-file-preview/LOPM010008/0462aedd-6529-4fbf-b044-824d4711622e\", waiting until \"domcontentloaded\"\n"
+          }
+        ],
+        "attachments": []
+      }
+    },
+    {
+      "id": "c673d6edb4c8d844",
+      "type": "new",
+      "detectedAt": "2026-10-01T14:05:32.977Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-32",
+      "item": {
+        "id": "f69a7c61bffb8331",
+        "position": 3,
+        "collectionReason": "new",
+        "listLabel": "I.C. \"C. Collodi \" S. Angelo Lodigiano",
+        "listContext": "01 ottobre 2026 Interpelli ricerca supplenti I.C. \"C. Collodi \" S. Angelo Lodigiano Interpello su cdc AI56 - PERCUSSIONI_12 ore fino al 30/06/2026",
+        "title": "I.C. \"C. Collodi \" S. Angelo Lodigiano",
+        "subtitle": "Interpello su cdc AI56 - PERCUSSIONI_12 ore fino al 30/06/2026",
+        "publicationDate": "01 ottobre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-32",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-32",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/82e5d9ef-b1a7-4198-ad29-d9a00f2e07d2",
+            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/82e5d9ef-b1a7-4198-ad29-d9a00f2e07d2",
+            "httpStatus": 403,
+            "title": "Access Denied",
+            "subtitle": "",
+            "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/82e5d9ef-b1a7-4198-ad29-d9a00f2e07d2\" on this server. Reference #18.8771cd17.1790863556.1387a9f2 https://errors.edgesuite.net/18.8771cd17.1790863556.1387a9f2"
+          }
+        ],
+        "attachments": []
+      }
+    },
+    {
+      "id": "366fd459c1e35dad",
+      "type": "new",
+      "detectedAt": "2026-10-01T14:05:32.977Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-8",
+      "item": {
+        "id": "9519bc7484a0ec2d",
+        "position": 4,
+        "collectionReason": "new",
+        "listLabel": "I.I.S. Codogno",
+        "listContext": "01 ottobre 2026 Interpelli ricerca supplenti I.I.S. Codogno Interpello per 1 cattedra fino al 22/12/2026, classe di concorso AB22 - inglese",
+        "title": "I.I.S. Codogno",
+        "subtitle": "Interpello per 1 cattedra fino al 22/12/2026, classe di concorso AB22 - inglese",
+        "publicationDate": "01 ottobre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-8",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-8",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://www.portaleargo.it/albopretorio/online/",
+            "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
+            "httpStatus": 200,
+            "title": "Albo Pretorio",
+            "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
+            "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
+          }
+        ],
+        "attachments": []
+      }
+    },
+    {
+      "id": "57fc099dbab1feb1",
+      "type": "new",
+      "detectedAt": "2026-10-01T14:05:32.977Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-31",
+      "item": {
+        "id": "399e421612e1e08f",
+        "position": 5,
+        "collectionReason": "new",
+        "listLabel": "I.C. \"C. Collodi \" S. Angelo Lodigiano",
+        "listContext": "01 ottobre 2026 Interpelli ricerca supplenti I.C. \"C. Collodi \" S. Angelo Lodigiano Interpello su cdc AB56 CHITARRA- 12 ore settimanali fino al 30 giugno 2027",
+        "title": "I.C. \"C. Collodi \" S. Angelo Lodigiano",
+        "subtitle": "Interpello su cdc AB56 CHITARRA- 12 ore settimanali fino al 30 giugno 2027",
+        "publicationDate": "01 ottobre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-31",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-31",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/b8be9e08-a76c-47e2-ab56-617769727b32",
+            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/b8be9e08-a76c-47e2-ab56-617769727b32",
+            "httpStatus": 403,
+            "title": "Access Denied",
+            "subtitle": "",
+            "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/b8be9e08-a76c-47e2-ab56-617769727b32\" on this server. Reference #18.8771cd17.1790863569.1388c2f8 https://errors.edgesuite.net/18.8771cd17.1790863569.1388c2f8"
+          }
+        ],
+        "attachments": []
+      }
+    },
     {
       "id": "b1467a0ac0dae4fa",
       "type": "new",
@@ -3928,137 +4084,101 @@
   ],
   "latestFour": [
     {
-      "id": "df4ffeb5dd928b3b",
+      "id": "5544f49143a95d9b",
       "position": 1,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. Zelo Buon persico",
-      "listContext": "01 ottobre 2026 Interpelli ricerca supplenti I.C. Zelo Buon persico Insegnante posto comune scuola infanzia",
-      "title": "I.C. Zelo Buon persico",
-      "subtitle": "Insegnante posto comune scuola infanzia",
+      "collectionReason": "new",
+      "listLabel": "I.C. Lodi I",
+      "listContext": "01 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi I Interpello posto EEIL fino al 04/03/27",
+      "title": "I.C. Lodi I",
+      "subtitle": "Interpello posto EEIL fino al 04/03/27",
       "publicationDate": "01 ottobre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-zelo-buon-persico-18",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-zelo-buon-persico-18",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-36",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-36",
       "httpStatus": 200,
-      "text": "Link interpello",
+      "text": "Link intrpello",
       "pages": [
         {
-          "label": "Link interpello",
-          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0003/4a643a2c-649b-4c91-95e1-b87d9805054d",
-          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0003/4a643a2c-649b-4c91-95e1-b87d9805054d",
-          "httpStatus": 403,
-          "title": "Access Denied",
-          "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0003/4a643a2c-649b-4c91-95e1-b87d9805054d\" on this server. Reference #18.1068dead.1790859945.13ee9051 https://errors.edgesuite.net/18.1068dead.1790859945.13ee9051"
+          "label": "Link intrpello",
+          "url": "https://www.portaleargo.it/albopretorio/online/",
+          "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
+          "httpStatus": 200,
+          "title": "Albo Pretorio",
+          "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
+          "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
         }
       ],
       "attachments": []
     },
     {
-      "id": "5f46f124d7afc25f",
+      "id": "b706ece6aef81637",
       "position": 2,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. Maleo",
-      "listContext": "30 settembre 2026 Interpelli ricerca supplenti I.C. Maleo Interpelli Scuole primarie",
-      "title": "I.C. Maleo",
-      "subtitle": "Interpelli Scuole primarie",
-      "publicationDate": "30 settembre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-maleo-22",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-maleo-22",
-      "httpStatus": 200,
-      "text": "Link interpelli",
-      "pages": [
-        {
-          "label": "Link interpelli",
-          "url": "https://www.iccsmaleo.edu.it/2026/09/30/interpello-per-posto-potenziamento/",
-          "finalUrl": "https://www.iccsmaleo.edu.it/2026/09/30/interpello-per-posto-potenziamento/",
-          "httpStatus": 200,
-          "title": "Documenti",
-          "subtitle": "",
-          "text": "Documenti interpello supplenza potenziamento primaria CSL + S.S. 30.06 pdf - 159 kb interpello supplenza potenziamento primaria MALEO + C.B.A. + S.S. 30.06 (3) pdf - 159 kb Pubblicato: 30.09.2026 - Revisione: 30.09.2026 Eccetto dove diversamente specificato, questo articolo è stato rilasciato sotto Licenza Creative Commons Attribuzione 4.0 Italia."
-        }
-      ],
-      "attachments": [
-        {
-          "text": "Le carte della scuola",
-          "href": "https://www.iccsmaleo.edu.it/documento/",
-          "title": "",
-          "context": "Le carte della scuola",
-          "status": 200,
-          "contentType": "text/html; charset=UTF-8",
-          "bytes": 273911,
-          "file": "items/02-I.C.-Maleo/01-attachment"
-        },
-        {
-          "text": "Albo online",
-          "href": "https://www.iccsmaleo.edu.it/tipologia-documento/albo-online/",
-          "title": "",
-          "context": "Albo online",
-          "status": 200,
-          "contentType": "text/html; charset=UTF-8",
-          "bytes": 256801,
-          "file": "items/02-I.C.-Maleo/02-attachment"
-        }
-      ]
-    },
-    {
-      "id": "91e3b45d86061cc0",
-      "position": 3,
-      "collectionReason": "refresh",
-      "listLabel": "I.I.S. Casalpusterlengo",
-      "listContext": "30 settembre 2026 Interpelli ricerca supplenti I.I.S. Casalpusterlengo Interpello su classe di concorso A020 - Fisica",
-      "title": "I.I.S. Casalpusterlengo",
-      "subtitle": "Interpello su classe di concorso A020 - Fisica",
-      "publicationDate": "30 settembre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-casalpusterlengo-5",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-i-s-casalpusterlengo-5",
-      "httpStatus": 200,
-      "text": "Link pagina interpelli",
-      "pages": [
-        {
-          "label": "Link pagina interpelli",
-          "url": "https://cesaris.edu.it/tipologia-articolo/interpelli/",
-          "finalUrl": "https://cesaris.edu.it/tipologia-articolo/interpelli/",
-          "httpStatus": 200,
-          "title": "timbro_Interpello A020 – Fisica",
-          "subtitle": "",
-          "text": "2026 30 Set timbro_Interpello A020 – Fisica timbro_Interpello A020 - Fisica"
-        }
-      ],
-      "attachments": [
-        {
-          "text": "Le carte della scuola",
-          "href": "https://cesaris.edu.it/documento/",
-          "title": "",
-          "context": "Le carte della scuola",
-          "status": 200,
-          "contentType": "text/html; charset=UTF-8",
-          "bytes": 270658,
-          "file": "items/03-I.I.S.-Casalpusterlengo/01-attachment"
-        }
-      ]
-    },
-    {
-      "id": "6e4be5b23382914b",
-      "position": 4,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. \"C. Collodi\" S. Angelo Lodigiano",
-      "listContext": "30 settembre 2026 Interpelli ricerca supplenti I.C. \"C. Collodi\" S. Angelo Lodigiano Interpello su cdc A023 fino al 31/08/2027",
-      "title": "I.C. \"C. Collodi\" S. Angelo Lodigiano",
-      "subtitle": "Interpello su cdc A023 fino al 31/08/2027",
-      "publicationDate": "30 settembre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-30",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-30",
+      "collectionReason": "new",
+      "listLabel": "Liceo \"M. Vegio\" Lodi",
+      "listContext": "01 ottobre 2026 Interpelli ricerca supplenti Liceo \"M. Vegio\" Lodi Interpello A027 - MATEMATICA E FISICA - sino al 30 GIUGNO 2027",
+      "title": "Liceo \"M. Vegio\" Lodi",
+      "subtitle": "Interpello A027 - MATEMATICA E FISICA - sino al 30 GIUGNO 2027",
+      "publicationDate": "01 ottobre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/liceo-m-vegio-lodi-1",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/liceo-m-vegio-lodi-1",
       "httpStatus": 200,
       "text": "Link interpello",
       "pages": [
         {
           "label": "Link interpello",
-          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/5376c98d-34bb-46ad-a335-58da23be495d",
-          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/5376c98d-34bb-46ad-a335-58da23be495d",
+          "url": "https://nuvola.madisoft.it/file/api/public-file-preview/LOPM010008/0462aedd-6529-4fbf-b044-824d4711622e",
+          "error": "page.goto: Download is starting\nCall log:\n  - navigating to \"https://nuvola.madisoft.it/file/api/public-file-preview/LOPM010008/0462aedd-6529-4fbf-b044-824d4711622e\", waiting until \"domcontentloaded\"\n"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "f69a7c61bffb8331",
+      "position": 3,
+      "collectionReason": "new",
+      "listLabel": "I.C. \"C. Collodi \" S. Angelo Lodigiano",
+      "listContext": "01 ottobre 2026 Interpelli ricerca supplenti I.C. \"C. Collodi \" S. Angelo Lodigiano Interpello su cdc AI56 - PERCUSSIONI_12 ore fino al 30/06/2026",
+      "title": "I.C. \"C. Collodi \" S. Angelo Lodigiano",
+      "subtitle": "Interpello su cdc AI56 - PERCUSSIONI_12 ore fino al 30/06/2026",
+      "publicationDate": "01 ottobre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-32",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-32",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/82e5d9ef-b1a7-4198-ad29-d9a00f2e07d2",
+          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/82e5d9ef-b1a7-4198-ad29-d9a00f2e07d2",
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/5376c98d-34bb-46ad-a335-58da23be495d\" on this server. Reference #18.1068dead.1790859970.13eed13c https://errors.edgesuite.net/18.1068dead.1790859970.13eed13c"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/82e5d9ef-b1a7-4198-ad29-d9a00f2e07d2\" on this server. Reference #18.8771cd17.1790863556.1387a9f2 https://errors.edgesuite.net/18.8771cd17.1790863556.1387a9f2"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "9519bc7484a0ec2d",
+      "position": 4,
+      "collectionReason": "new",
+      "listLabel": "I.I.S. Codogno",
+      "listContext": "01 ottobre 2026 Interpelli ricerca supplenti I.I.S. Codogno Interpello per 1 cattedra fino al 22/12/2026, classe di concorso AB22 - inglese",
+      "title": "I.I.S. Codogno",
+      "subtitle": "Interpello per 1 cattedra fino al 22/12/2026, classe di concorso AB22 - inglese",
+      "publicationDate": "01 ottobre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-8",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-8",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://www.portaleargo.it/albopretorio/online/",
+          "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
+          "httpStatus": 200,
+          "title": "Albo Pretorio",
+          "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
+          "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
         }
       ],
       "attachments": []
