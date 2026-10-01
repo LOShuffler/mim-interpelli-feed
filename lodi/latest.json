@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-09-30T23:05:33.991Z",
-  "completedAt": "2026-09-30T23:06:15.336Z",
+  "retrievedAt": "2026-10-01T02:06:20.570Z",
+  "completedAt": "2026-10-01T02:07:32.996Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -3974,7 +3974,7 @@
           "context": "Le carte della scuola",
           "status": 200,
           "contentType": "text/html; charset=UTF-8",
-          "bytes": 270622,
+          "bytes": 270625,
           "file": "items/02-I.I.S.-Casalpusterlengo/01-attachment"
         }
       ]
