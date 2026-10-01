@@ -6,18 +6,50 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-01T08:05:34.300Z",
-  "completedAt": "2026-10-01T08:06:19.858Z",
+  "retrievedAt": "2026-10-01T09:05:32.709Z",
+  "completedAt": "2026-10-01T09:06:13.761Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 25072,
+    "textLength": 25060,
     "discoveredCount": 200,
     "safetyLimited": false,
     "processedCount": 4
   },
   "recentEvents": [
+    {
+      "id": "b1467a0ac0dae4fa",
+      "type": "new",
+      "detectedAt": "2026-10-01T09:05:32.709Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-zelo-buon-persico-18",
+      "item": {
+        "id": "df4ffeb5dd928b3b",
+        "position": 1,
+        "collectionReason": "new",
+        "listLabel": "I.C. Zelo Buon persico",
+        "listContext": "01 ottobre 2026 Interpelli ricerca supplenti I.C. Zelo Buon persico Insegnante posto comune scuola infanzia",
+        "title": "I.C. Zelo Buon persico",
+        "subtitle": "Insegnante posto comune scuola infanzia",
+        "publicationDate": "01 ottobre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-zelo-buon-persico-18",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-zelo-buon-persico-18",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0003/4a643a2c-649b-4c91-95e1-b87d9805054d",
+            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0003/4a643a2c-649b-4c91-95e1-b87d9805054d",
+            "httpStatus": 403,
+            "title": "Access Denied",
+            "subtitle": "",
+            "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0003/4a643a2c-649b-4c91-95e1-b87d9805054d\" on this server. Reference #18.3368dead.1790845544.43ed91d https://errors.edgesuite.net/18.3368dead.1790845544.43ed91d"
+          }
+        ],
+        "attachments": []
+      }
+    },
     {
       "id": "17508ad389b2ea14",
       "type": "new",
@@ -3896,8 +3928,34 @@
   ],
   "latestFour": [
     {
-      "id": "5f46f124d7afc25f",
+      "id": "df4ffeb5dd928b3b",
       "position": 1,
+      "collectionReason": "new",
+      "listLabel": "I.C. Zelo Buon persico",
+      "listContext": "01 ottobre 2026 Interpelli ricerca supplenti I.C. Zelo Buon persico Insegnante posto comune scuola infanzia",
+      "title": "I.C. Zelo Buon persico",
+      "subtitle": "Insegnante posto comune scuola infanzia",
+      "publicationDate": "01 ottobre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-zelo-buon-persico-18",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-zelo-buon-persico-18",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0003/4a643a2c-649b-4c91-95e1-b87d9805054d",
+          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0003/4a643a2c-649b-4c91-95e1-b87d9805054d",
+          "httpStatus": 403,
+          "title": "Access Denied",
+          "subtitle": "",
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0003/4a643a2c-649b-4c91-95e1-b87d9805054d\" on this server. Reference #18.3368dead.1790845544.43ed91d https://errors.edgesuite.net/18.3368dead.1790845544.43ed91d"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "5f46f124d7afc25f",
+      "position": 2,
       "collectionReason": "refresh",
       "listLabel": "I.C. Maleo",
       "listContext": "30 settembre 2026 Interpelli ricerca supplenti I.C. Maleo Interpelli Scuole primarie",
@@ -3928,7 +3986,7 @@
           "status": 200,
           "contentType": "text/html; charset=UTF-8",
           "bytes": 273911,
-          "file": "items/01-I.C.-Maleo/01-attachment"
+          "file": "items/02-I.C.-Maleo/01-attachment"
         },
         {
           "text": "Albo online",
@@ -3938,13 +3996,13 @@
           "status": 200,
           "contentType": "text/html; charset=UTF-8",
           "bytes": 256801,
-          "file": "items/01-I.C.-Maleo/02-attachment"
+          "file": "items/02-I.C.-Maleo/02-attachment"
         }
       ]
     },
     {
       "id": "91e3b45d86061cc0",
-      "position": 2,
+      "position": 3,
       "collectionReason": "refresh",
       "listLabel": "I.I.S. Casalpusterlengo",
       "listContext": "30 settembre 2026 Interpelli ricerca supplenti I.I.S. Casalpusterlengo Interpello su classe di concorso A020 - Fisica",
@@ -3974,14 +4032,14 @@
           "context": "Le carte della scuola",
           "status": 200,
           "contentType": "text/html; charset=UTF-8",
-          "bytes": 270622,
-          "file": "items/02-I.I.S.-Casalpusterlengo/01-attachment"
+          "bytes": 270616,
+          "file": "items/03-I.I.S.-Casalpusterlengo/01-attachment"
         }
       ]
     },
     {
       "id": "6e4be5b23382914b",
-      "position": 3,
+      "position": 4,
       "collectionReason": "refresh",
       "listLabel": "I.C. \"C. Collodi\" S. Angelo Lodigiano",
       "listContext": "30 settembre 2026 Interpelli ricerca supplenti I.C. \"C. Collodi\" S. Angelo Lodigiano Interpello su cdc A023 fino al 31/08/2027",
@@ -3997,50 +4055,13 @@
           "label": "Link interpello",
           "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/5376c98d-34bb-46ad-a335-58da23be495d",
           "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/5376c98d-34bb-46ad-a335-58da23be495d",
-          "httpStatus": 200,
-          "title": "Elenco interpelli",
+          "httpStatus": 403,
+          "title": "Access Denied",
           "subtitle": "",
-          "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" CARLO COLLODI \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio Interpello su cdc A023 - scuola secondaria I grado - 18 ore settimanali fino al 31/08/2027 A023 Lingua italiana per discenti di lingua straniera(alloglotti) 02/10/2026 31/08/2027 LOMM81501T Scuola secondaria I Grado Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/5376c98d-34bb-46ad-a335-58da23be495d\" on this server. Reference #18.3368dead.1790845571.43f17df https://errors.edgesuite.net/18.3368dead.1790845571.43f17df"
         }
       ],
       "attachments": []
-    },
-    {
-      "id": "275f352531eda4be",
-      "position": 4,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. di Livraga",
-      "listContext": "30 settembre 2026 Interpelli ricerca supplenti I.C. di Livraga ADMM - I Grado",
-      "title": "I.C. di Livraga",
-      "subtitle": "ADMM - I Grado",
-      "publicationDate": "30 settembre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-di-livraga-2",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-di-livraga-2",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "http://www.iclivraga.it/interpello/",
-          "finalUrl": "https://www.iclivraga.it/interpello/",
-          "httpStatus": 200,
-          "title": "Accedi ai servizi Chiudi modale",
-          "subtitle": "Homepage del portale scolastico",
-          "text": "Stampa / Condividi Stampa / Condividi Stampa Invia Condividi Facebook WhatsApp Linkedin ANNO SCOLASTICO 2026-2027 Interpello n. 7 Interpello n.6 Interpello n.5 (CHIUSO) Interpello num 4 (CHIUSO) Interpello num 3 (CHIUSO) Interpello num 1(CHIUSO) Interpello num 2(CHIUSO) Modello domanda disponibilità ANNO SCOLASTICO 2025-2026 Interpello n.14(CHIUSO) Interpello n.13 (CHIUSO) Interpello n.12(CHIUSO) Interpello n. 10(CHIUSO) Interpello n.9(CHIUSO) Interpello n. 8 (CHIUSO) Interpello n.7(CHIUSO) Interpello n.6(CHIUSO) Interpello n.5(CHIUSO) Interpello n.4(CHIUSO) Interpello n.3(CHIUSO) Interpello n.2(CHIUSO) Interpello n.1(CHIUSO) Modello domanda disponibilità Pubblicato: 20.09.2024 - Revisione: 30.09.2026 Eccetto dove diversamente specificato, questo articolo è stato rilasciato sotto Licenza Creative Commons Attribuzione CC-BY 4.0."
-        }
-      ],
-      "attachments": [
-        {
-          "text": "Le carte della scuola",
-          "href": "https://www.iclivraga.it/documento/",
-          "title": "",
-          "context": "Le carte della scuola",
-          "status": 200,
-          "contentType": "text/html; charset=UTF-8",
-          "bytes": 388621,
-          "file": "items/04-I.C.-di-Livraga/01-attachment"
-        }
-      ]
     }
   ],
   "errors": []
