@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-01T09:05:32.709Z",
-  "completedAt": "2026-10-01T09:06:13.761Z",
+  "retrievedAt": "2026-10-01T10:05:31.747Z",
+  "completedAt": "2026-10-01T10:06:11.642Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -3930,7 +3930,7 @@
     {
       "id": "df4ffeb5dd928b3b",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Zelo Buon persico",
       "listContext": "01 ottobre 2026 Interpelli ricerca supplenti I.C. Zelo Buon persico Insegnante posto comune scuola infanzia",
       "title": "I.C. Zelo Buon persico",
@@ -3948,7 +3948,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0003/4a643a2c-649b-4c91-95e1-b87d9805054d\" on this server. Reference #18.3368dead.1790845544.43ed91d https://errors.edgesuite.net/18.3368dead.1790845544.43ed91d"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0003/4a643a2c-649b-4c91-95e1-b87d9805054d\" on this server. Reference #18.c68dead.1790849144.3a0e252 https://errors.edgesuite.net/18.c68dead.1790849144.3a0e252"
         }
       ],
       "attachments": []
@@ -4058,7 +4058,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/5376c98d-34bb-46ad-a335-58da23be495d\" on this server. Reference #18.3368dead.1790845571.43f17df https://errors.edgesuite.net/18.3368dead.1790845571.43f17df"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/5376c98d-34bb-46ad-a335-58da23be495d\" on this server. Reference #18.c68dead.1790849169.3a138b2 https://errors.edgesuite.net/18.c68dead.1790849169.3a138b2"
         }
       ],
       "attachments": []
