@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-01T11:05:32.082Z",
-  "completedAt": "2026-10-01T11:06:12.312Z",
+  "retrievedAt": "2026-10-01T12:05:31.977Z",
+  "completedAt": "2026-10-01T12:06:11.514Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -3948,7 +3948,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0003/4a643a2c-649b-4c91-95e1-b87d9805054d\" on this server. Reference #18.8771cd17.1790852743.10a68463 https://errors.edgesuite.net/18.8771cd17.1790852743.10a68463"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0003/4a643a2c-649b-4c91-95e1-b87d9805054d\" on this server. Reference #18.2d68dead.1790856343.29e1b70 https://errors.edgesuite.net/18.2d68dead.1790856343.29e1b70"
         }
       ],
       "attachments": []
@@ -4032,7 +4032,7 @@
           "context": "Le carte della scuola",
           "status": 200,
           "contentType": "text/html; charset=UTF-8",
-          "bytes": 270621,
+          "bytes": 270658,
           "file": "items/03-I.I.S.-Casalpusterlengo/01-attachment"
         }
       ]
@@ -4058,7 +4058,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/5376c98d-34bb-46ad-a335-58da23be495d\" on this server. Reference #18.8771cd17.1790852769.10a7ef2e https://errors.edgesuite.net/18.8771cd17.1790852769.10a7ef2e"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/5376c98d-34bb-46ad-a335-58da23be495d\" on this server. Reference #18.2d68dead.1790856368.29e5aaf https://errors.edgesuite.net/18.2d68dead.1790856368.29e5aaf"
         }
       ],
       "attachments": []
