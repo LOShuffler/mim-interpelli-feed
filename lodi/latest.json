@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-02T07:05:32.219Z",
-  "completedAt": "2026-10-02T07:06:04.659Z",
+  "retrievedAt": "2026-10-02T08:05:32.760Z",
+  "completedAt": "2026-10-02T08:06:05.245Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -4118,7 +4118,7 @@
     {
       "id": "540b0c492753d217",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.I.S. Codogno",
       "listContext": "02 ottobre 2026 Interpelli ricerca supplenti I.I.S. Codogno Interpello A050 scienze naturali fino al 17/11/2026 (10 ore presso IP Merli, Lodi + 7 ore presso ITAS Tosi, Codogno)",
       "title": "I.I.S. Codogno",
