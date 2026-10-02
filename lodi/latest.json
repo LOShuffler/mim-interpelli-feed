@@ -6,18 +6,50 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-02T06:05:34.195Z",
-  "completedAt": "2026-10-02T06:06:06.968Z",
+  "retrievedAt": "2026-10-02T07:05:32.219Z",
+  "completedAt": "2026-10-02T07:06:04.659Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 25085,
+    "textLength": 25161,
     "discoveredCount": 200,
     "safetyLimited": false,
     "processedCount": 4
   },
   "recentEvents": [
+    {
+      "id": "d36a2885a07f0715",
+      "type": "new",
+      "detectedAt": "2026-10-02T07:05:32.219Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-9",
+      "item": {
+        "id": "540b0c492753d217",
+        "position": 1,
+        "collectionReason": "new",
+        "listLabel": "I.I.S. Codogno",
+        "listContext": "02 ottobre 2026 Interpelli ricerca supplenti I.I.S. Codogno Interpello A050 scienze naturali fino al 17/11/2026 (10 ore presso IP Merli, Lodi + 7 ore presso ITAS Tosi, Codogno)",
+        "title": "I.I.S. Codogno",
+        "subtitle": "Interpello A050 scienze naturali fino al 17/11/2026 (10 ore presso IP Merli, Lodi + 7 ore presso ITAS Tosi, Codogno)",
+        "publicationDate": "02 ottobre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-9",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-9",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://www.portaleargo.it/albopretorio/online/",
+            "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
+            "httpStatus": 200,
+            "title": "Albo Pretorio",
+            "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
+            "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
+          }
+        ],
+        "attachments": []
+      }
+    },
     {
       "id": "c2b03ac753adac1d",
       "type": "new",
@@ -4084,8 +4116,34 @@
   ],
   "latestFour": [
     {
-      "id": "5544f49143a95d9b",
+      "id": "540b0c492753d217",
       "position": 1,
+      "collectionReason": "new",
+      "listLabel": "I.I.S. Codogno",
+      "listContext": "02 ottobre 2026 Interpelli ricerca supplenti I.I.S. Codogno Interpello A050 scienze naturali fino al 17/11/2026 (10 ore presso IP Merli, Lodi + 7 ore presso ITAS Tosi, Codogno)",
+      "title": "I.I.S. Codogno",
+      "subtitle": "Interpello A050 scienze naturali fino al 17/11/2026 (10 ore presso IP Merli, Lodi + 7 ore presso ITAS Tosi, Codogno)",
+      "publicationDate": "02 ottobre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-9",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-9",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://www.portaleargo.it/albopretorio/online/",
+          "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
+          "httpStatus": 200,
+          "title": "Albo Pretorio",
+          "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
+          "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "5544f49143a95d9b",
+      "position": 2,
       "collectionReason": "refresh",
       "listLabel": "I.C. Lodi I",
       "listContext": "01 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi I Interpello posto EEIL fino al 04/03/27",
@@ -4111,7 +4169,7 @@
     },
     {
       "id": "b706ece6aef81637",
-      "position": 2,
+      "position": 3,
       "collectionReason": "refresh",
       "listLabel": "Liceo \"M. Vegio\" Lodi",
       "listContext": "01 ottobre 2026 Interpelli ricerca supplenti Liceo \"M. Vegio\" Lodi Interpello A027 - MATEMATICA E FISICA - sino al 30 GIUGNO 2027",
@@ -4133,7 +4191,7 @@
     },
     {
       "id": "f69a7c61bffb8331",
-      "position": 3,
+      "position": 4,
       "collectionReason": "refresh",
       "listLabel": "I.C. \"C. Collodi \" S. Angelo Lodigiano",
       "listContext": "01 ottobre 2026 Interpelli ricerca supplenti I.C. \"C. Collodi \" S. Angelo Lodigiano Interpello su cdc AI56 - PERCUSSIONI_12 ore fino al 30/06/2026",
@@ -4153,32 +4211,6 @@
           "title": "Elenco interpelli",
           "subtitle": "",
           "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" CARLO COLLODI \" Cerca Elenco interpelli Nessun interpello presente È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
-        }
-      ],
-      "attachments": []
-    },
-    {
-      "id": "9519bc7484a0ec2d",
-      "position": 4,
-      "collectionReason": "refresh",
-      "listLabel": "I.I.S. Codogno",
-      "listContext": "01 ottobre 2026 Interpelli ricerca supplenti I.I.S. Codogno Interpello per 1 cattedra fino al 22/12/2026, classe di concorso AB22 - inglese",
-      "title": "I.I.S. Codogno",
-      "subtitle": "Interpello per 1 cattedra fino al 22/12/2026, classe di concorso AB22 - inglese",
-      "publicationDate": "01 ottobre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-8",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-8",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://www.portaleargo.it/albopretorio/online/",
-          "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
-          "httpStatus": 200,
-          "title": "Albo Pretorio",
-          "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
-          "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
         }
       ],
       "attachments": []
