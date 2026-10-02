@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-01T16:05:34.275Z",
-  "completedAt": "2026-10-01T16:06:06.324Z",
+  "retrievedAt": "2026-10-02T06:05:34.195Z",
+  "completedAt": "2026-10-02T06:06:06.968Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -4152,7 +4152,7 @@
           "httpStatus": 200,
           "title": "Elenco interpelli",
           "subtitle": "",
-          "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" CARLO COLLODI \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio Interpello su AI56 (PERCUSSIONI) N. 12 ore settimanali fino al 30/06/2027 AI56 Strumento musicale nella scuola secondaria di I grado (PERCUSSIONI) 05/10/2026 30/06/2027 LOMM81501T SCUOLA SECONDARIA I GRADO Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+          "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" CARLO COLLODI \" Cerca Elenco interpelli Nessun interpello presente È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
         }
       ],
       "attachments": []
