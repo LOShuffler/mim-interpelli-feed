@@ -6,18 +6,50 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-02T13:05:33.310Z",
-  "completedAt": "2026-10-02T13:06:16.166Z",
+  "retrievedAt": "2026-10-02T14:05:31.695Z",
+  "completedAt": "2026-10-02T14:06:07.127Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 25098,
+    "textLength": 25037,
     "discoveredCount": 200,
     "safetyLimited": false,
     "processedCount": 4
   },
   "recentEvents": [
+    {
+      "id": "9841cbd50fa6182f",
+      "type": "new",
+      "detectedAt": "2026-10-02T14:05:31.695Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-53",
+      "item": {
+        "id": "dfb987c963bc60ef",
+        "position": 1,
+        "collectionReason": "new",
+        "listLabel": "I.C. Lodi III",
+        "listContext": "02 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi III Interpello posto comune scuola infanzia",
+        "title": "I.C. Lodi III",
+        "subtitle": "Interpello posto comune scuola infanzia",
+        "publicationDate": "02 ottobre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-53",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-53",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/c8322175-60c6-4691-b0c8-c318f4eb8d16",
+            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/c8322175-60c6-4691-b0c8-c318f4eb8d16",
+            "httpStatus": 200,
+            "title": "Elenco interpelli",
+            "subtitle": "",
+            "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" LODI 3 \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio Insegnante posto comune scuola infanzia AAAA Insegnante posto comune scuola infanzia 05/10/2026 06/10/2026 LOIC814001 I.C. LODI III Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+          }
+        ],
+        "attachments": []
+      }
+    },
     {
       "id": "d5ced0f58fb2dd84",
       "type": "new",
@@ -4285,8 +4317,34 @@
   ],
   "latestFour": [
     {
-      "id": "dd7cf4cf8f77f42f",
+      "id": "dfb987c963bc60ef",
       "position": 1,
+      "collectionReason": "new",
+      "listLabel": "I.C. Lodi III",
+      "listContext": "02 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi III Interpello posto comune scuola infanzia",
+      "title": "I.C. Lodi III",
+      "subtitle": "Interpello posto comune scuola infanzia",
+      "publicationDate": "02 ottobre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-53",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-53",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/c8322175-60c6-4691-b0c8-c318f4eb8d16",
+          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/c8322175-60c6-4691-b0c8-c318f4eb8d16",
+          "httpStatus": 200,
+          "title": "Elenco interpelli",
+          "subtitle": "",
+          "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" LODI 3 \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio Insegnante posto comune scuola infanzia AAAA Insegnante posto comune scuola infanzia 05/10/2026 06/10/2026 LOIC814001 I.C. LODI III Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "dd7cf4cf8f77f42f",
+      "position": 2,
       "collectionReason": "refresh",
       "listLabel": "I.C. Casalpusterlengo",
       "listContext": "02 ottobre 2026 Interpelli ricerca supplenti I.C. Casalpusterlengo Interpello personale docente Scuola dell'Infanzia",
@@ -4317,14 +4375,14 @@
           "status": 200,
           "contentType": "application/pdf",
           "bytes": 69476,
-          "file": "items/01-I.C.-Casalpusterlengo/01-SEGNATURA_1790935333_firmato_1790935007_Interpello_per_posto_Scuola_Infanzia._Suppl._breve_e_saltuaria.pdf",
+          "file": "items/02-I.C.-Casalpusterlengo/01-SEGNATURA_1790935333_firmato_1790935007_Interpello_per_posto_Scuola_Infanzia._Suppl._breve_e_saltuaria.pdf",
           "extractedText": "                                           LOIC80900D - A24EECC - REGISTRO PROTOCOLLO - 0006429 - 02/10/2026 - VII - U\n\n\n\n\nFirmato digitalmente da TIRELLI BRUNELLA\n\f"
         }
       ]
     },
     {
       "id": "e073acbdd76e6f37",
-      "position": 2,
+      "position": 3,
       "collectionReason": "refresh",
       "listLabel": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
       "listContext": "02 ottobre 2026 Interpelli ricerca supplenti I.C. \"R. Morzenti\" S. Angelo Lodigiano Interpelli scuola primaria",
@@ -4350,7 +4408,7 @@
     },
     {
       "id": "66b217a45cccaf0a",
-      "position": 3,
+      "position": 4,
       "collectionReason": "refresh",
       "listLabel": "I.C. Lodi II",
       "listContext": "02 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi II Interpello cdc AM30",
@@ -4373,61 +4431,6 @@
         }
       ],
       "attachments": []
-    },
-    {
-      "id": "9879cbe9c1debabf",
-      "position": 4,
-      "collectionReason": "refresh",
-      "listLabel": "I.I.S. Volta",
-      "listContext": "02 ottobre 2026 Interpelli ricerca supplenti I.I.S. Volta Interpelli cdc A042, A040, A020 e BB02",
-      "title": "I.I.S. Volta",
-      "subtitle": "Interpelli cdc A042, A040, A020 e BB02",
-      "publicationDate": "02 ottobre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-ii-62",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-ii-62",
-      "httpStatus": 200,
-      "text": "Interpello cdc a042-3 interpello-cdc-a040-3 interpello-cdc-bb02 interpello-cdc-a020-fisica-2",
-      "pages": [
-        {
-          "label": "Interpello cdc a042-3",
-          "url": "https://www.iisvolta.edu.it/newpage/circolare/interpello-classe-di-concorso-a042-3/",
-          "finalUrl": "https://www.iisvolta.edu.it/newpage/circolare/interpello-classe-di-concorso-a042-3/",
-          "httpStatus": 200,
-          "title": "Documenti",
-          "subtitle": "",
-          "text": "Si comunica che, per esaurimento della graduatoria di istituto per l’insegnamento di A042 – Scienze e tecnologie meccaniche questa Istituzione scolastica, ai sensi dell’art. 13, comma 23 dell’O.M. n. 88/2024, deve provvedere al conferimento, fuori graduatoria, di cinqueINTERPELLO_1_A042_.pdf.pades MODULO_RISPOSTA_INTERPELLI supplenze Documenti INTERPELLO_1_A042_.pdf.pades pdf - 285 kb MODULO_RISPOSTA_INTERPELLI document - 19 kb Pubblicato: 02.10.2026 - Revisione: 02.10.2026 Eccetto dove diversamente specificato, questo articolo è stato rilasciato sotto Licenza Creative Commons Attribuzione 4.0 Italia."
-        },
-        {
-          "label": "interpello-cdc-a040-3",
-          "url": "https://www.iisvolta.edu.it/newpage/circolare/interpello-classe-di-concorso-a040-3/",
-          "finalUrl": "https://www.iisvolta.edu.it/newpage/circolare/interpello-classe-di-concorso-a040-3/",
-          "httpStatus": 200,
-          "title": "Documenti",
-          "subtitle": "",
-          "text": "Si comunica che, per esaurimento della graduatoria di istituto per l’insegnamento di A040 – SCIENZE E TECNOLOGIE ELETTRICHE ED ELETTRONICHE questa Istituzione scolastica, ai sensi dell’art. 13, comma 23 dell’O.M. n. 88/2024, deve provvedere al conferimento, fuori graduatoria, di una supplenza Documenti INTERPELLO_2_A040.pdf.pades pdf - 282 kb MODULO_RISPOSTA_INTERPELLI document - 19 kb Pubblicato: 02.10.2026 - Revisione: 02.10.2026 Eccetto dove diversamente specificato, questo articolo è stato rilasciato sotto Licenza Creative Commons Attribuzione 4.0 Italia."
-        },
-        {
-          "label": "interpello-cdc-bb02",
-          "url": "https://www.iisvolta.edu.it/newpage/circolare/interpello-classe-di-concorso-bb02/",
-          "finalUrl": "https://www.iisvolta.edu.it/newpage/circolare/interpello-classe-di-concorso-bb02/",
-          "httpStatus": 200,
-          "title": "Documenti",
-          "subtitle": "",
-          "text": "Si comunica che, per esaurimento della graduatoria di istituto per l’insegnamento di BB02 – CONVERSAZIONE IN LINGUA STRANIERA (INGLESE) questa Istituzione scolastica, ai sensi dell’art. 13, comma 23 dell’O.M. n. 88/2024, deve provvedere al conferimento, fuori graduatoria, di una supplenza Documenti INTERPELLO_4_BB02.pdf.pades pdf - 283 kb MODULO_RISPOSTA_INTERPELLI document - 19 kb Pubblicato: 02.10.2026 - Revisione: 02.10.2026 Eccetto dove diversamente specificato, questo articolo è stato rilasciato sotto Licenza Creative Commons Attribuzione 4.0 Italia."
-        }
-      ],
-      "attachments": [
-        {
-          "text": "Le carte della scuola",
-          "href": "https://www.iisvolta.edu.it/newpage/documento/",
-          "title": "",
-          "context": "Le carte della scuola",
-          "status": 200,
-          "contentType": "text/html; charset=UTF-8",
-          "bytes": 283177,
-          "file": "items/04-I.I.S.-Volta/01-attachment"
-        }
-      ]
     }
   ],
   "errors": []
