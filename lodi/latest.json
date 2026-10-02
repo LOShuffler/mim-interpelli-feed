@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-02T12:05:32.860Z",
-  "completedAt": "2026-10-02T12:06:14.906Z",
+  "retrievedAt": "2026-10-02T13:05:33.310Z",
+  "completedAt": "2026-10-02T13:06:16.166Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -4287,7 +4287,7 @@
     {
       "id": "dd7cf4cf8f77f42f",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Casalpusterlengo",
       "listContext": "02 ottobre 2026 Interpelli ricerca supplenti I.C. Casalpusterlengo Interpello personale docente Scuola dell'Infanzia",
       "title": "I.C. Casalpusterlengo",
@@ -4325,7 +4325,7 @@
     {
       "id": "e073acbdd76e6f37",
       "position": 2,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
       "listContext": "02 ottobre 2026 Interpelli ricerca supplenti I.C. \"R. Morzenti\" S. Angelo Lodigiano Interpelli scuola primaria",
       "title": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
