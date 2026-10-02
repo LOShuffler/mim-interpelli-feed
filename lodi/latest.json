@@ -6,18 +6,111 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-02T08:05:32.760Z",
-  "completedAt": "2026-10-02T08:06:05.245Z",
+  "retrievedAt": "2026-10-02T09:05:32.468Z",
+  "completedAt": "2026-10-02T09:06:15.450Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 25161,
+    "textLength": 25098,
     "discoveredCount": 200,
     "safetyLimited": false,
     "processedCount": 4
   },
   "recentEvents": [
+    {
+      "id": "f8b3a3eadeba4e03",
+      "type": "new",
+      "detectedAt": "2026-10-02T09:05:32.468Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-ii-63",
+      "item": {
+        "id": "66b217a45cccaf0a",
+        "position": 1,
+        "collectionReason": "new",
+        "listLabel": "I.C. Lodi II",
+        "listContext": "02 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi II Interpello cdc AM30",
+        "title": "I.C. Lodi II",
+        "subtitle": "Interpello cdc AM30",
+        "publicationDate": "02 ottobre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-ii-63",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-ii-63",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0014/335c8f75-8b19-4781-92ad-f4f1b413508a",
+            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0014/335c8f75-8b19-4781-92ad-f4f1b413508a",
+            "httpStatus": 200,
+            "title": "Elenco interpelli",
+            "subtitle": "",
+            "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \"LODI 2\" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio INTERPELLO PER SUPPLENZA BREVE SCUOLA SECONDARIA 1 GRADO AM30 MUSICA NELLA SCUOLA SECONDARIA DI I GRADO 05/10/2026 09/10/2026 LOMM81202B SAN MARTINO IN STRADA Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+          }
+        ],
+        "attachments": []
+      }
+    },
+    {
+      "id": "366fe65c67920b35",
+      "type": "new",
+      "detectedAt": "2026-10-02T09:05:32.468Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-ii-62",
+      "item": {
+        "id": "9879cbe9c1debabf",
+        "position": 2,
+        "collectionReason": "new",
+        "listLabel": "I.I.S. Volta",
+        "listContext": "02 ottobre 2026 Interpelli ricerca supplenti I.I.S. Volta Interpelli cdc A042, A040, A020 e BB02",
+        "title": "I.I.S. Volta",
+        "subtitle": "Interpelli cdc A042, A040, A020 e BB02",
+        "publicationDate": "02 ottobre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-ii-62",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-ii-62",
+        "httpStatus": 200,
+        "text": "Interpello cdc a042-3 interpello-cdc-a040-3 interpello-cdc-bb02 interpello-cdc-a020-fisica-2",
+        "pages": [
+          {
+            "label": "Interpello cdc a042-3",
+            "url": "https://www.iisvolta.edu.it/newpage/circolare/interpello-classe-di-concorso-a042-3/",
+            "finalUrl": "https://www.iisvolta.edu.it/newpage/circolare/interpello-classe-di-concorso-a042-3/",
+            "httpStatus": 200,
+            "title": "Documenti",
+            "subtitle": "",
+            "text": "Si comunica che, per esaurimento della graduatoria di istituto per l’insegnamento di A042 – Scienze e tecnologie meccaniche questa Istituzione scolastica, ai sensi dell’art. 13, comma 23 dell’O.M. n. 88/2024, deve provvedere al conferimento, fuori graduatoria, di cinqueINTERPELLO_1_A042_.pdf.pades MODULO_RISPOSTA_INTERPELLI supplenze Documenti INTERPELLO_1_A042_.pdf.pades pdf - 285 kb MODULO_RISPOSTA_INTERPELLI document - 19 kb Pubblicato: 02.10.2026 - Revisione: 02.10.2026 Eccetto dove diversamente specificato, questo articolo è stato rilasciato sotto Licenza Creative Commons Attribuzione 4.0 Italia."
+          },
+          {
+            "label": "interpello-cdc-a040-3",
+            "url": "https://www.iisvolta.edu.it/newpage/circolare/interpello-classe-di-concorso-a040-3/",
+            "finalUrl": "https://www.iisvolta.edu.it/newpage/circolare/interpello-classe-di-concorso-a040-3/",
+            "httpStatus": 200,
+            "title": "Documenti",
+            "subtitle": "",
+            "text": "Si comunica che, per esaurimento della graduatoria di istituto per l’insegnamento di A040 – SCIENZE E TECNOLOGIE ELETTRICHE ED ELETTRONICHE questa Istituzione scolastica, ai sensi dell’art. 13, comma 23 dell’O.M. n. 88/2024, deve provvedere al conferimento, fuori graduatoria, di una supplenza Documenti INTERPELLO_2_A040.pdf.pades pdf - 282 kb MODULO_RISPOSTA_INTERPELLI document - 19 kb Pubblicato: 02.10.2026 - Revisione: 02.10.2026 Eccetto dove diversamente specificato, questo articolo è stato rilasciato sotto Licenza Creative Commons Attribuzione 4.0 Italia."
+          },
+          {
+            "label": "interpello-cdc-bb02",
+            "url": "https://www.iisvolta.edu.it/newpage/circolare/interpello-classe-di-concorso-bb02/",
+            "finalUrl": "https://www.iisvolta.edu.it/newpage/circolare/interpello-classe-di-concorso-bb02/",
+            "httpStatus": 200,
+            "title": "Documenti",
+            "subtitle": "",
+            "text": "Si comunica che, per esaurimento della graduatoria di istituto per l’insegnamento di BB02 – CONVERSAZIONE IN LINGUA STRANIERA (INGLESE) questa Istituzione scolastica, ai sensi dell’art. 13, comma 23 dell’O.M. n. 88/2024, deve provvedere al conferimento, fuori graduatoria, di una supplenza Documenti INTERPELLO_4_BB02.pdf.pades pdf - 283 kb MODULO_RISPOSTA_INTERPELLI document - 19 kb Pubblicato: 02.10.2026 - Revisione: 02.10.2026 Eccetto dove diversamente specificato, questo articolo è stato rilasciato sotto Licenza Creative Commons Attribuzione 4.0 Italia."
+          }
+        ],
+        "attachments": [
+          {
+            "text": "Le carte della scuola",
+            "href": "https://www.iisvolta.edu.it/newpage/documento/",
+            "title": "",
+            "context": "Le carte della scuola",
+            "status": 200,
+            "contentType": "text/html; charset=UTF-8",
+            "bytes": 283177,
+            "file": "items/02-I.I.S.-Volta/01-attachment"
+          }
+        ]
+      }
+    },
     {
       "id": "d36a2885a07f0715",
       "type": "new",
@@ -4116,8 +4209,89 @@
   ],
   "latestFour": [
     {
-      "id": "540b0c492753d217",
+      "id": "66b217a45cccaf0a",
       "position": 1,
+      "collectionReason": "new",
+      "listLabel": "I.C. Lodi II",
+      "listContext": "02 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi II Interpello cdc AM30",
+      "title": "I.C. Lodi II",
+      "subtitle": "Interpello cdc AM30",
+      "publicationDate": "02 ottobre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-ii-63",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-ii-63",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0014/335c8f75-8b19-4781-92ad-f4f1b413508a",
+          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0014/335c8f75-8b19-4781-92ad-f4f1b413508a",
+          "httpStatus": 200,
+          "title": "Elenco interpelli",
+          "subtitle": "",
+          "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \"LODI 2\" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio INTERPELLO PER SUPPLENZA BREVE SCUOLA SECONDARIA 1 GRADO AM30 MUSICA NELLA SCUOLA SECONDARIA DI I GRADO 05/10/2026 09/10/2026 LOMM81202B SAN MARTINO IN STRADA Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "9879cbe9c1debabf",
+      "position": 2,
+      "collectionReason": "new",
+      "listLabel": "I.I.S. Volta",
+      "listContext": "02 ottobre 2026 Interpelli ricerca supplenti I.I.S. Volta Interpelli cdc A042, A040, A020 e BB02",
+      "title": "I.I.S. Volta",
+      "subtitle": "Interpelli cdc A042, A040, A020 e BB02",
+      "publicationDate": "02 ottobre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-ii-62",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-ii-62",
+      "httpStatus": 200,
+      "text": "Interpello cdc a042-3 interpello-cdc-a040-3 interpello-cdc-bb02 interpello-cdc-a020-fisica-2",
+      "pages": [
+        {
+          "label": "Interpello cdc a042-3",
+          "url": "https://www.iisvolta.edu.it/newpage/circolare/interpello-classe-di-concorso-a042-3/",
+          "finalUrl": "https://www.iisvolta.edu.it/newpage/circolare/interpello-classe-di-concorso-a042-3/",
+          "httpStatus": 200,
+          "title": "Documenti",
+          "subtitle": "",
+          "text": "Si comunica che, per esaurimento della graduatoria di istituto per l’insegnamento di A042 – Scienze e tecnologie meccaniche questa Istituzione scolastica, ai sensi dell’art. 13, comma 23 dell’O.M. n. 88/2024, deve provvedere al conferimento, fuori graduatoria, di cinqueINTERPELLO_1_A042_.pdf.pades MODULO_RISPOSTA_INTERPELLI supplenze Documenti INTERPELLO_1_A042_.pdf.pades pdf - 285 kb MODULO_RISPOSTA_INTERPELLI document - 19 kb Pubblicato: 02.10.2026 - Revisione: 02.10.2026 Eccetto dove diversamente specificato, questo articolo è stato rilasciato sotto Licenza Creative Commons Attribuzione 4.0 Italia."
+        },
+        {
+          "label": "interpello-cdc-a040-3",
+          "url": "https://www.iisvolta.edu.it/newpage/circolare/interpello-classe-di-concorso-a040-3/",
+          "finalUrl": "https://www.iisvolta.edu.it/newpage/circolare/interpello-classe-di-concorso-a040-3/",
+          "httpStatus": 200,
+          "title": "Documenti",
+          "subtitle": "",
+          "text": "Si comunica che, per esaurimento della graduatoria di istituto per l’insegnamento di A040 – SCIENZE E TECNOLOGIE ELETTRICHE ED ELETTRONICHE questa Istituzione scolastica, ai sensi dell’art. 13, comma 23 dell’O.M. n. 88/2024, deve provvedere al conferimento, fuori graduatoria, di una supplenza Documenti INTERPELLO_2_A040.pdf.pades pdf - 282 kb MODULO_RISPOSTA_INTERPELLI document - 19 kb Pubblicato: 02.10.2026 - Revisione: 02.10.2026 Eccetto dove diversamente specificato, questo articolo è stato rilasciato sotto Licenza Creative Commons Attribuzione 4.0 Italia."
+        },
+        {
+          "label": "interpello-cdc-bb02",
+          "url": "https://www.iisvolta.edu.it/newpage/circolare/interpello-classe-di-concorso-bb02/",
+          "finalUrl": "https://www.iisvolta.edu.it/newpage/circolare/interpello-classe-di-concorso-bb02/",
+          "httpStatus": 200,
+          "title": "Documenti",
+          "subtitle": "",
+          "text": "Si comunica che, per esaurimento della graduatoria di istituto per l’insegnamento di BB02 – CONVERSAZIONE IN LINGUA STRANIERA (INGLESE) questa Istituzione scolastica, ai sensi dell’art. 13, comma 23 dell’O.M. n. 88/2024, deve provvedere al conferimento, fuori graduatoria, di una supplenza Documenti INTERPELLO_4_BB02.pdf.pades pdf - 283 kb MODULO_RISPOSTA_INTERPELLI document - 19 kb Pubblicato: 02.10.2026 - Revisione: 02.10.2026 Eccetto dove diversamente specificato, questo articolo è stato rilasciato sotto Licenza Creative Commons Attribuzione 4.0 Italia."
+        }
+      ],
+      "attachments": [
+        {
+          "text": "Le carte della scuola",
+          "href": "https://www.iisvolta.edu.it/newpage/documento/",
+          "title": "",
+          "context": "Le carte della scuola",
+          "status": 200,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 283177,
+          "file": "items/02-I.I.S.-Volta/01-attachment"
+        }
+      ]
+    },
+    {
+      "id": "540b0c492753d217",
+      "position": 3,
       "collectionReason": "refresh",
       "listLabel": "I.I.S. Codogno",
       "listContext": "02 ottobre 2026 Interpelli ricerca supplenti I.I.S. Codogno Interpello A050 scienze naturali fino al 17/11/2026 (10 ore presso IP Merli, Lodi + 7 ore presso ITAS Tosi, Codogno)",
@@ -4143,7 +4317,7 @@
     },
     {
       "id": "5544f49143a95d9b",
-      "position": 2,
+      "position": 4,
       "collectionReason": "refresh",
       "listLabel": "I.C. Lodi I",
       "listContext": "01 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi I Interpello posto EEIL fino al 04/03/27",
@@ -4163,54 +4337,6 @@
           "title": "Albo Pretorio",
           "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
           "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
-        }
-      ],
-      "attachments": []
-    },
-    {
-      "id": "b706ece6aef81637",
-      "position": 3,
-      "collectionReason": "refresh",
-      "listLabel": "Liceo \"M. Vegio\" Lodi",
-      "listContext": "01 ottobre 2026 Interpelli ricerca supplenti Liceo \"M. Vegio\" Lodi Interpello A027 - MATEMATICA E FISICA - sino al 30 GIUGNO 2027",
-      "title": "Liceo \"M. Vegio\" Lodi",
-      "subtitle": "Interpello A027 - MATEMATICA E FISICA - sino al 30 GIUGNO 2027",
-      "publicationDate": "01 ottobre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/liceo-m-vegio-lodi-1",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/liceo-m-vegio-lodi-1",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://nuvola.madisoft.it/file/api/public-file-preview/LOPM010008/0462aedd-6529-4fbf-b044-824d4711622e",
-          "error": "page.goto: Download is starting\nCall log:\n  - navigating to \"https://nuvola.madisoft.it/file/api/public-file-preview/LOPM010008/0462aedd-6529-4fbf-b044-824d4711622e\", waiting until \"domcontentloaded\"\n"
-        }
-      ],
-      "attachments": []
-    },
-    {
-      "id": "f69a7c61bffb8331",
-      "position": 4,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. \"C. Collodi \" S. Angelo Lodigiano",
-      "listContext": "01 ottobre 2026 Interpelli ricerca supplenti I.C. \"C. Collodi \" S. Angelo Lodigiano Interpello su cdc AI56 - PERCUSSIONI_12 ore fino al 30/06/2026",
-      "title": "I.C. \"C. Collodi \" S. Angelo Lodigiano",
-      "subtitle": "Interpello su cdc AI56 - PERCUSSIONI_12 ore fino al 30/06/2026",
-      "publicationDate": "01 ottobre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-32",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-32",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/82e5d9ef-b1a7-4198-ad29-d9a00f2e07d2",
-          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/82e5d9ef-b1a7-4198-ad29-d9a00f2e07d2",
-          "httpStatus": 200,
-          "title": "Elenco interpelli",
-          "subtitle": "",
-          "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" CARLO COLLODI \" Cerca Elenco interpelli Nessun interpello presente È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
         }
       ],
       "attachments": []
