@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-02T10:05:32.030Z",
-  "completedAt": "2026-10-02T10:06:13.345Z",
+  "retrievedAt": "2026-10-02T12:05:32.860Z",
+  "completedAt": "2026-10-02T12:06:14.906Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -18,6 +18,82 @@
     "processedCount": 4
   },
   "recentEvents": [
+    {
+      "id": "d5ced0f58fb2dd84",
+      "type": "new",
+      "detectedAt": "2026-10-02T12:05:32.860Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c",
+      "item": {
+        "id": "dd7cf4cf8f77f42f",
+        "position": 1,
+        "collectionReason": "new",
+        "listLabel": "I.C. Casalpusterlengo",
+        "listContext": "02 ottobre 2026 Interpelli ricerca supplenti I.C. Casalpusterlengo Interpello personale docente Scuola dell'Infanzia",
+        "title": "I.C. Casalpusterlengo",
+        "subtitle": "Interpello personale docente Scuola dell'Infanzia",
+        "publicationDate": "02 ottobre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://nuvola.madisoft.it/interpelli/LOIC80900D/docenti",
+            "finalUrl": "https://nuvola.madisoft.it/interpelli/LOIC80900D/docenti",
+            "httpStatus": 200,
+            "title": "Interpelli per: Personale docente",
+            "subtitle": "Nuvola - Interpelli",
+            "text": "Gestione Interpelli IC Casalpusterlengo Codice meccanografico: LOIC80900D CASALPUSTERLENGO (LO) Interpelli per: Personale Docente Cambia ruolo Interpello per selezione docente Sostegno Scuola Infanzia - Supplenza breve e saltuaria Durata: 25 ore 0 minuti dal 08/10/2026 al 13/10/2026 Presentazione candidature: dal 02/10/2026 12:15 al 04/10/2026 13:00 Posti disponibili: 1 Classe di concorso: Posto comune infanzia Ordine di scuola: INFANZIA Sede di servizio: Scuola Infanzia Documento allegato: Scarica decreto di emissione interpello per Interpello per selezione docente Sostegno Scuola Infanzia - Supplenza breve e saltuaria Invia la tua candidatura"
+          }
+        ],
+        "attachments": [
+          {
+            "text": "Scarica decreto di emissione interpelloper Interpello per selezione docente Sostegno Scuola Infanzia - Supplenza breve e saltuaria",
+            "href": "https://nuvola.madisoft.it/file/api/public-download-file-from-entity/LOIC80900D/62eca173-241d-4e5b-8a19-853eb63adc2e",
+            "title": "",
+            "context": "",
+            "status": 200,
+            "contentType": "application/pdf",
+            "bytes": 69476,
+            "file": "items/01-I.C.-Casalpusterlengo/01-SEGNATURA_1790935333_firmato_1790935007_Interpello_per_posto_Scuola_Infanzia._Suppl._breve_e_saltuaria.pdf",
+            "extractedText": "                                           LOIC80900D - A24EECC - REGISTRO PROTOCOLLO - 0006429 - 02/10/2026 - VII - U\n\n\n\n\nFirmato digitalmente da TIRELLI BRUNELLA\n\f"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6676ad937b695693",
+      "type": "new",
+      "detectedAt": "2026-10-02T12:05:32.860Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-r-morzenti-s-angelo-lodigiano-18",
+      "item": {
+        "id": "e073acbdd76e6f37",
+        "position": 2,
+        "collectionReason": "new",
+        "listLabel": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
+        "listContext": "02 ottobre 2026 Interpelli ricerca supplenti I.C. \"R. Morzenti\" S. Angelo Lodigiano Interpelli scuola primaria",
+        "title": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
+        "subtitle": "Interpelli scuola primaria",
+        "publicationDate": "02 ottobre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-r-morzenti-s-angelo-lodigiano-18",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-r-morzenti-s-angelo-lodigiano-18",
+        "httpStatus": 200,
+        "text": "Link pagina interpelli",
+        "pages": [
+          {
+            "label": "Link pagina interpelli",
+            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0012",
+            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0012",
+            "httpStatus": 200,
+            "title": "Elenco interpelli",
+            "subtitle": "",
+            "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" R. MORZENTI \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio Avviso n. 7 2026/2027 EEEE Insegnante posto comune scuola primaria 06/10/2026 05/12/2026 LOEE81603R Sant'Angelo Lodigiano Iscriviti Avviso n. 6 2026/2027 EEEE Insegnante posto comune scuola primaria 06/10/2026 14/10/2026 LOEE81603R Sant'Angelo Lodigiano Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+          }
+        ],
+        "attachments": []
+      }
+    },
     {
       "id": "f8b3a3eadeba4e03",
       "type": "new",
@@ -4209,8 +4285,72 @@
   ],
   "latestFour": [
     {
-      "id": "66b217a45cccaf0a",
+      "id": "dd7cf4cf8f77f42f",
       "position": 1,
+      "collectionReason": "new",
+      "listLabel": "I.C. Casalpusterlengo",
+      "listContext": "02 ottobre 2026 Interpelli ricerca supplenti I.C. Casalpusterlengo Interpello personale docente Scuola dell'Infanzia",
+      "title": "I.C. Casalpusterlengo",
+      "subtitle": "Interpello personale docente Scuola dell'Infanzia",
+      "publicationDate": "02 ottobre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://nuvola.madisoft.it/interpelli/LOIC80900D/docenti",
+          "finalUrl": "https://nuvola.madisoft.it/interpelli/LOIC80900D/docenti",
+          "httpStatus": 200,
+          "title": "Interpelli per: Personale docente",
+          "subtitle": "Nuvola - Interpelli",
+          "text": "Gestione Interpelli IC Casalpusterlengo Codice meccanografico: LOIC80900D CASALPUSTERLENGO (LO) Interpelli per: Personale Docente Cambia ruolo Interpello per selezione docente Sostegno Scuola Infanzia - Supplenza breve e saltuaria Durata: 25 ore 0 minuti dal 08/10/2026 al 13/10/2026 Presentazione candidature: dal 02/10/2026 12:15 al 04/10/2026 13:00 Posti disponibili: 1 Classe di concorso: Posto comune infanzia Ordine di scuola: INFANZIA Sede di servizio: Scuola Infanzia Documento allegato: Scarica decreto di emissione interpello per Interpello per selezione docente Sostegno Scuola Infanzia - Supplenza breve e saltuaria Invia la tua candidatura"
+        }
+      ],
+      "attachments": [
+        {
+          "text": "Scarica decreto di emissione interpelloper Interpello per selezione docente Sostegno Scuola Infanzia - Supplenza breve e saltuaria",
+          "href": "https://nuvola.madisoft.it/file/api/public-download-file-from-entity/LOIC80900D/62eca173-241d-4e5b-8a19-853eb63adc2e",
+          "title": "",
+          "context": "",
+          "status": 200,
+          "contentType": "application/pdf",
+          "bytes": 69476,
+          "file": "items/01-I.C.-Casalpusterlengo/01-SEGNATURA_1790935333_firmato_1790935007_Interpello_per_posto_Scuola_Infanzia._Suppl._breve_e_saltuaria.pdf",
+          "extractedText": "                                           LOIC80900D - A24EECC - REGISTRO PROTOCOLLO - 0006429 - 02/10/2026 - VII - U\n\n\n\n\nFirmato digitalmente da TIRELLI BRUNELLA\n\f"
+        }
+      ]
+    },
+    {
+      "id": "e073acbdd76e6f37",
+      "position": 2,
+      "collectionReason": "new",
+      "listLabel": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
+      "listContext": "02 ottobre 2026 Interpelli ricerca supplenti I.C. \"R. Morzenti\" S. Angelo Lodigiano Interpelli scuola primaria",
+      "title": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
+      "subtitle": "Interpelli scuola primaria",
+      "publicationDate": "02 ottobre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-r-morzenti-s-angelo-lodigiano-18",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-r-morzenti-s-angelo-lodigiano-18",
+      "httpStatus": 200,
+      "text": "Link pagina interpelli",
+      "pages": [
+        {
+          "label": "Link pagina interpelli",
+          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0012",
+          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0012",
+          "httpStatus": 200,
+          "title": "Elenco interpelli",
+          "subtitle": "",
+          "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" R. MORZENTI \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio Avviso n. 7 2026/2027 EEEE Insegnante posto comune scuola primaria 06/10/2026 05/12/2026 LOEE81603R Sant'Angelo Lodigiano Iscriviti Avviso n. 6 2026/2027 EEEE Insegnante posto comune scuola primaria 06/10/2026 14/10/2026 LOEE81603R Sant'Angelo Lodigiano Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "66b217a45cccaf0a",
+      "position": 3,
       "collectionReason": "refresh",
       "listLabel": "I.C. Lodi II",
       "listContext": "02 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi II Interpello cdc AM30",
@@ -4236,7 +4376,7 @@
     },
     {
       "id": "9879cbe9c1debabf",
-      "position": 2,
+      "position": 4,
       "collectionReason": "refresh",
       "listLabel": "I.I.S. Volta",
       "listContext": "02 ottobre 2026 Interpelli ricerca supplenti I.I.S. Volta Interpelli cdc A042, A040, A020 e BB02",
@@ -4285,61 +4425,9 @@
           "status": 200,
           "contentType": "text/html; charset=UTF-8",
           "bytes": 283177,
-          "file": "items/02-I.I.S.-Volta/01-attachment"
+          "file": "items/04-I.I.S.-Volta/01-attachment"
         }
       ]
-    },
-    {
-      "id": "540b0c492753d217",
-      "position": 3,
-      "collectionReason": "refresh",
-      "listLabel": "I.I.S. Codogno",
-      "listContext": "02 ottobre 2026 Interpelli ricerca supplenti I.I.S. Codogno Interpello A050 scienze naturali fino al 17/11/2026 (10 ore presso IP Merli, Lodi + 7 ore presso ITAS Tosi, Codogno)",
-      "title": "I.I.S. Codogno",
-      "subtitle": "Interpello A050 scienze naturali fino al 17/11/2026 (10 ore presso IP Merli, Lodi + 7 ore presso ITAS Tosi, Codogno)",
-      "publicationDate": "02 ottobre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-9",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-9",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://www.portaleargo.it/albopretorio/online/",
-          "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
-          "httpStatus": 200,
-          "title": "Albo Pretorio",
-          "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
-          "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
-        }
-      ],
-      "attachments": []
-    },
-    {
-      "id": "5544f49143a95d9b",
-      "position": 4,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. Lodi I",
-      "listContext": "01 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi I Interpello posto EEIL fino al 04/03/27",
-      "title": "I.C. Lodi I",
-      "subtitle": "Interpello posto EEIL fino al 04/03/27",
-      "publicationDate": "01 ottobre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-36",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-36",
-      "httpStatus": 200,
-      "text": "Link intrpello",
-      "pages": [
-        {
-          "label": "Link intrpello",
-          "url": "https://www.portaleargo.it/albopretorio/online/",
-          "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
-          "httpStatus": 200,
-          "title": "Albo Pretorio",
-          "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
-          "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
-        }
-      ],
-      "attachments": []
     }
   ],
   "errors": []
