@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-02T09:05:32.468Z",
-  "completedAt": "2026-10-02T09:06:15.450Z",
+  "retrievedAt": "2026-10-02T10:05:32.030Z",
+  "completedAt": "2026-10-02T10:06:13.345Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -4211,7 +4211,7 @@
     {
       "id": "66b217a45cccaf0a",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Lodi II",
       "listContext": "02 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi II Interpello cdc AM30",
       "title": "I.C. Lodi II",
@@ -4237,7 +4237,7 @@
     {
       "id": "9879cbe9c1debabf",
       "position": 2,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.I.S. Volta",
       "listContext": "02 ottobre 2026 Interpelli ricerca supplenti I.I.S. Volta Interpelli cdc A042, A040, A020 e BB02",
       "title": "I.I.S. Volta",
