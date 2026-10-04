@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-03T10:05:32.885Z",
-  "completedAt": "2026-10-03T10:06:08.889Z",
+  "retrievedAt": "2026-10-04T11:05:34.132Z",
+  "completedAt": "2026-10-04T11:06:09.322Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -4363,22 +4363,10 @@
           "httpStatus": 200,
           "title": "Interpelli per: Personale docente",
           "subtitle": "Nuvola - Interpelli",
-          "text": "Gestione Interpelli IC Casalpusterlengo Codice meccanografico: LOIC80900D CASALPUSTERLENGO (LO) Interpelli per: Personale Docente Cambia ruolo Interpello per selezione docente Sostegno Scuola Infanzia - Supplenza breve e saltuaria Durata: 25 ore 0 minuti dal 08/10/2026 al 13/10/2026 Presentazione candidature: dal 02/10/2026 12:15 al 04/10/2026 13:00 Posti disponibili: 1 Classe di concorso: Posto comune infanzia Ordine di scuola: INFANZIA Sede di servizio: Scuola Infanzia Documento allegato: Scarica decreto di emissione interpello per Interpello per selezione docente Sostegno Scuola Infanzia - Supplenza breve e saltuaria Invia la tua candidatura"
+          "text": "Gestione Interpelli IC Casalpusterlengo Codice meccanografico: LOIC80900D CASALPUSTERLENGO (LO) Interpelli per: Personale Docente Cambia ruolo Nessun interpello aperto Non ci sono elementi per la categoria selezionata."
         }
       ],
-      "attachments": [
-        {
-          "text": "Scarica decreto di emissione interpelloper Interpello per selezione docente Sostegno Scuola Infanzia - Supplenza breve e saltuaria",
-          "href": "https://nuvola.madisoft.it/file/api/public-download-file-from-entity/LOIC80900D/62eca173-241d-4e5b-8a19-853eb63adc2e",
-          "title": "",
-          "context": "",
-          "status": 200,
-          "contentType": "application/pdf",
-          "bytes": 69476,
-          "file": "items/02-I.C.-Casalpusterlengo/01-SEGNATURA_1790935333_firmato_1790935007_Interpello_per_posto_Scuola_Infanzia._Suppl._breve_e_saltuaria.pdf",
-          "extractedText": "                                           LOIC80900D - A24EECC - REGISTRO PROTOCOLLO - 0006429 - 02/10/2026 - VII - U\n\n\n\n\nFirmato digitalmente da TIRELLI BRUNELLA\n\f"
-        }
-      ]
+      "attachments": []
     },
     {
       "id": "e073acbdd76e6f37",
