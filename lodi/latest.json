@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-05T05:05:32.742Z",
-  "completedAt": "2026-10-05T05:06:07.995Z",
+  "retrievedAt": "2026-10-05T08:05:32.356Z",
+  "completedAt": "2026-10-05T08:06:07.467Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -4389,7 +4389,7 @@
           "httpStatus": 200,
           "title": "Elenco interpelli",
           "subtitle": "",
-          "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" R. MORZENTI \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio Avviso n. 7 2026/2027 EEEE Insegnante posto comune scuola primaria 06/10/2026 05/12/2026 LOEE81603R Sant'Angelo Lodigiano Iscriviti Avviso n. 6 2026/2027 EEEE Insegnante posto comune scuola primaria 06/10/2026 14/10/2026 LOEE81603R Sant'Angelo Lodigiano Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+          "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" R. MORZENTI \" Cerca Elenco interpelli Nessun interpello presente È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
         }
       ],
       "attachments": []
