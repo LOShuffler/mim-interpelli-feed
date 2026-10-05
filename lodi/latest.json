@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-05T08:05:32.356Z",
-  "completedAt": "2026-10-05T08:06:07.467Z",
+  "retrievedAt": "2026-10-05T11:05:32.377Z",
+  "completedAt": "2026-10-05T11:06:08.060Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -4363,10 +4363,22 @@
           "httpStatus": 200,
           "title": "Interpelli per: Personale docente",
           "subtitle": "Nuvola - Interpelli",
-          "text": "Gestione Interpelli IC Casalpusterlengo Codice meccanografico: LOIC80900D CASALPUSTERLENGO (LO) Interpelli per: Personale Docente Cambia ruolo Nessun interpello aperto Non ci sono elementi per la categoria selezionata."
+          "text": "Gestione Interpelli IC Casalpusterlengo Codice meccanografico: LOIC80900D CASALPUSTERLENGO (LO) Interpelli per: Personale Docente Cambia ruolo Interpello per selezione docente Posto Comune Scuola Primaria - Supplenza breve e saltuaria Durata: 24 ore 0 minuti dal 08/10/2026 al 14/10/2026 Presentazione candidature: dal 05/10/2026 13:00 al 07/10/2026 13:00 Posti disponibili: 1 Classe di concorso: Posto comune primaria Ordine di scuola: PRIMARIA Sede di servizio: Scuola Primaria Documento allegato: Scarica decreto di emissione interpello per Interpello per selezione docente Posto Comune Scuola Primaria - Supplenza breve e saltuaria Invia la tua candidatura"
         }
       ],
-      "attachments": []
+      "attachments": [
+        {
+          "text": "Scarica decreto di emissione interpelloper Interpello per selezione docente Posto Comune Scuola Primaria - Supplenza breve e saltuaria",
+          "href": "https://nuvola.madisoft.it/file/api/public-download-file-from-entity/LOIC80900D/1ada9e6f-2457-4f97-9bb4-359b7111a5ef",
+          "title": "",
+          "context": "",
+          "status": 200,
+          "contentType": "application/pdf",
+          "bytes": 70187,
+          "file": "items/02-I.C.-Casalpusterlengo/01-firmato_1791195098_SEGNATURA_1791194930_Interpello_per_posto_Comune_Scuola_Primaria._Suppl._breve_e_saltuaria.pdf",
+          "extractedText": "                                           LOIC80900D - A24EECC - REGISTRO PROTOCOLLO - 0006470 - 05/10/2026 - VII - U\n\n\n\n\nFirmato digitalmente da TIRELLI BRUNELLA\n\f"
+        }
+      ]
     },
     {
       "id": "e073acbdd76e6f37",
