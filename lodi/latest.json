@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-06T16:05:32.760Z",
-  "completedAt": "2026-10-06T16:06:14.888Z",
+  "retrievedAt": "2026-10-06T17:05:32.304Z",
+  "completedAt": "2026-10-06T17:06:11.969Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -4566,7 +4566,7 @@
     {
       "id": "7410f9032214badf",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. F. Fellini Tavazzano con Villavesco",
       "listContext": "06 ottobre 2026 Interpelli ricerca supplenti I.C. F. Fellini Tavazzano con Villavesco Interpello posto sostegno- Scuola primaria",
       "title": "I.C. F. Fellini Tavazzano con Villavesco",
@@ -4592,7 +4592,7 @@
     {
       "id": "13254d6dec5bf641",
       "position": 2,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Lodi III",
       "listContext": "06 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi III Interpello posto comune scuola infanzia",
       "title": "I.C. Lodi III",
@@ -4618,7 +4618,7 @@
     {
       "id": "32ffd5d09205e363",
       "position": 3,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Lodi III",
       "listContext": "06 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi III Interpello posto sostegno scuola infanzia",
       "title": "I.C. Lodi III",
