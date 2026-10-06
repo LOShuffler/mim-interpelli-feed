@@ -6,18 +6,169 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-05T11:05:32.377Z",
-  "completedAt": "2026-10-05T11:06:08.060Z",
+  "retrievedAt": "2026-10-06T15:05:33.090Z",
+  "completedAt": "2026-10-06T15:06:12.922Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 25037,
+    "textLength": 24947,
     "discoveredCount": 200,
     "safetyLimited": false,
     "processedCount": 4
   },
   "recentEvents": [
+    {
+      "id": "c8c10abacc35afac",
+      "type": "new",
+      "detectedAt": "2026-10-06T15:05:33.090Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-livraga-9",
+      "item": {
+        "id": "d066e7b06496d3a3",
+        "position": 1,
+        "collectionReason": "new",
+        "listLabel": "I.C. Livraga",
+        "listContext": "06 ottobre 2026 Interpelli ricerca supplenti I.C. Livraga Interpelli",
+        "title": "I.C. Livraga",
+        "subtitle": "Interpelli",
+        "publicationDate": "06 ottobre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-livraga-9",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-livraga-9",
+        "httpStatus": 200,
+        "text": "Link interpello posto comune Scuola primaria Link interpello cdc A060 Scuola secondaria I grado",
+        "pages": [
+          {
+            "label": "Link interpello posto comune Scuola primaria",
+            "url": "https://www.iclivraga.it/interpello/",
+            "finalUrl": "https://www.iclivraga.it/interpello/",
+            "httpStatus": 200,
+            "title": "Accedi ai servizi Chiudi modale",
+            "subtitle": "Homepage del portale scolastico",
+            "text": "Stampa / Condividi Stampa / Condividi Stampa Invia Condividi Facebook WhatsApp Linkedin ANNO SCOLASTICO 2026-2027 Interpello n. 10 Interpello n.9 Interpello n.8 (CHIUSO) Interpello n. 7 (CHIUSO) Interpello n.6 (CHIUSO) Interpello n.5 (CHIUSO) Interpello num 4 (CHIUSO) Interpello num 3 (CHIUSO) Interpello num 1(CHIUSO) Interpello num 2(CHIUSO) Modello domanda disponibilità ANNO SCOLASTICO 2025-2026 Interpello n.14(CHIUSO) Interpello n.13 (CHIUSO) Interpello n.12(CHIUSO) Interpello n. 10(CHIUSO) Interpello n.9(CHIUSO) Interpello n. 8 (CHIUSO) Interpello n.7(CHIUSO) Interpello n.6(CHIUSO) Interpello n.5(CHIUSO) Interpello n.4(CHIUSO) Interpello n.3(CHIUSO) Interpello n.2(CHIUSO) Interpello n.1(CHIUSO) Modello domanda disponibilità Pubblicato: 20.09.2024 - Revisione: 06.10.2026 Eccetto dove diversamente specificato, questo articolo è stato rilasciato sotto Licenza Creative Commons Attribuzione CC-BY 4.0."
+          }
+        ],
+        "attachments": [
+          {
+            "text": "Le carte della scuola",
+            "href": "https://www.iclivraga.it/documento/",
+            "title": "",
+            "context": "Le carte della scuola",
+            "status": 200,
+            "contentType": "text/html; charset=UTF-8",
+            "bytes": 388621,
+            "file": "items/01-I.C.-Livraga/01-attachment"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7a8df2a43a2275ae",
+      "type": "new",
+      "detectedAt": "2026-10-06T15:05:33.090Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-34",
+      "item": {
+        "id": "31dcbc06f713af02",
+        "position": 2,
+        "collectionReason": "new",
+        "listLabel": "I.C. C. Collodi S. Angelo Lodigiano",
+        "listContext": "06 ottobre 2026 Interpelli ricerca supplenti I.C. C. Collodi S. Angelo Lodigiano Interpello su cdc AAAA Scuola Infanzia",
+        "title": "I.C. C. Collodi S. Angelo Lodigiano",
+        "subtitle": "Interpello su cdc AAAA Scuola Infanzia",
+        "publicationDate": "06 ottobre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-34",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-34",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/5724c6a3-7615-4cb0-ac3c-95a47bdedfbd",
+            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/5724c6a3-7615-4cb0-ac3c-95a47bdedfbd",
+            "httpStatus": 200,
+            "title": "Elenco interpelli",
+            "subtitle": "",
+            "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" CARLO COLLODI \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio Interpello su cdc EEEE- ALTERNATIVA IRC scuola primaria fino al 30/06/2027 EEEE Insegnante posto comune scuola primaria 08/10/2026 30/06/2027 LOEE81501V Scuola primaria Collodi - Sant'Angelo Lodigiano (LO) Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+          }
+        ],
+        "attachments": []
+      }
+    },
+    {
+      "id": "10aba30e511fd4e7",
+      "type": "new",
+      "detectedAt": "2026-10-06T15:05:33.090Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-33",
+      "item": {
+        "id": "2486ce40d7b7a7ba",
+        "position": 3,
+        "collectionReason": "new",
+        "listLabel": "I.C. C. Collodi S. Angelo Lodigiano",
+        "listContext": "06 ottobre 2026 Interpelli ricerca supplenti I.C. C. Collodi S. Angelo Lodigiano Interpello cdc EEEE- ALT IRC scuola primaria",
+        "title": "I.C. C. Collodi S. Angelo Lodigiano",
+        "subtitle": "Interpello cdc EEEE- ALT IRC scuola primaria",
+        "publicationDate": "06 ottobre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-33",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-33",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/5724c6a3-7615-4cb0-ac3c-95a47bdedfbd",
+            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/5724c6a3-7615-4cb0-ac3c-95a47bdedfbd",
+            "httpStatus": 200,
+            "title": "Elenco interpelli",
+            "subtitle": "",
+            "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" CARLO COLLODI \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio Interpello su cdc EEEE- ALTERNATIVA IRC scuola primaria fino al 30/06/2027 EEEE Insegnante posto comune scuola primaria 08/10/2026 30/06/2027 LOEE81501V Scuola primaria Collodi - Sant'Angelo Lodigiano (LO) Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+          }
+        ],
+        "attachments": []
+      }
+    },
+    {
+      "id": "82f97ac5a128d280",
+      "type": "new",
+      "detectedAt": "2026-10-06T15:05:33.090Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-casalpusterlengo-36",
+      "item": {
+        "id": "05a7c5e435fd9e11",
+        "position": 4,
+        "collectionReason": "new",
+        "listLabel": "I.C. Casalpusterlengo",
+        "listContext": "06 ottobre 2026 Interpelli ricerca supplenti I.C. Casalpusterlengo Interpello docente Scuola Primaria - Posto comune",
+        "title": "I.C. Casalpusterlengo",
+        "subtitle": "Interpello docente Scuola Primaria - Posto comune",
+        "publicationDate": "06 ottobre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-casalpusterlengo-36",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-casalpusterlengo-36",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://nuvola.madisoft.it/interpelli/LOIC80900D/docenti",
+            "finalUrl": "https://nuvola.madisoft.it/interpelli/LOIC80900D/docenti",
+            "httpStatus": 200,
+            "title": "Interpelli per: Personale docente",
+            "subtitle": "Nuvola - Interpelli",
+            "text": "Gestione Interpelli IC Casalpusterlengo Codice meccanografico: LOIC80900D CASALPUSTERLENGO (LO) Interpelli per: Personale Docente Cambia ruolo Interpello per selezione docente Posto Comune Scuola Primaria - Supplenza breve e saltuaria Durata: 24 ore 0 minuti dal 08/10/2026 al 14/10/2026 Presentazione candidature: dal 05/10/2026 13:00 al 07/10/2026 13:00 Posti disponibili: 1 Classe di concorso: Posto comune primaria Ordine di scuola: PRIMARIA Sede di servizio: Scuola Primaria Documento allegato: Scarica decreto di emissione interpello per Interpello per selezione docente Posto Comune Scuola Primaria - Supplenza breve e saltuaria Invia la tua candidatura"
+          }
+        ],
+        "attachments": [
+          {
+            "text": "Scarica decreto di emissione interpelloper Interpello per selezione docente Posto Comune Scuola Primaria - Supplenza breve e saltuaria",
+            "href": "https://nuvola.madisoft.it/file/api/public-download-file-from-entity/LOIC80900D/1ada9e6f-2457-4f97-9bb4-359b7111a5ef",
+            "title": "",
+            "context": "",
+            "status": 200,
+            "contentType": "application/pdf",
+            "bytes": 70187,
+            "file": "items/04-I.C.-Casalpusterlengo/01-firmato_1791195098_SEGNATURA_1791194930_Interpello_per_posto_Comune_Scuola_Primaria._Suppl._breve_e_saltuaria.pdf",
+            "extractedText": "                                           LOIC80900D - A24EECC - REGISTRO PROTOCOLLO - 0006470 - 05/10/2026 - VII - U\n\n\n\n\nFirmato digitalmente da TIRELLI BRUNELLA\n\f"
+          }
+        ]
+      }
+    },
     {
       "id": "9841cbd50fa6182f",
       "type": "new",
@@ -4317,42 +4468,105 @@
   ],
   "latestFour": [
     {
-      "id": "dfb987c963bc60ef",
+      "id": "d066e7b06496d3a3",
       "position": 1,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. Lodi III",
-      "listContext": "02 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi III Interpello posto comune scuola infanzia",
-      "title": "I.C. Lodi III",
-      "subtitle": "Interpello posto comune scuola infanzia",
-      "publicationDate": "02 ottobre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-53",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-53",
+      "collectionReason": "new",
+      "listLabel": "I.C. Livraga",
+      "listContext": "06 ottobre 2026 Interpelli ricerca supplenti I.C. Livraga Interpelli",
+      "title": "I.C. Livraga",
+      "subtitle": "Interpelli",
+      "publicationDate": "06 ottobre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-livraga-9",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-livraga-9",
+      "httpStatus": 200,
+      "text": "Link interpello posto comune Scuola primaria Link interpello cdc A060 Scuola secondaria I grado",
+      "pages": [
+        {
+          "label": "Link interpello posto comune Scuola primaria",
+          "url": "https://www.iclivraga.it/interpello/",
+          "finalUrl": "https://www.iclivraga.it/interpello/",
+          "httpStatus": 200,
+          "title": "Accedi ai servizi Chiudi modale",
+          "subtitle": "Homepage del portale scolastico",
+          "text": "Stampa / Condividi Stampa / Condividi Stampa Invia Condividi Facebook WhatsApp Linkedin ANNO SCOLASTICO 2026-2027 Interpello n. 10 Interpello n.9 Interpello n.8 (CHIUSO) Interpello n. 7 (CHIUSO) Interpello n.6 (CHIUSO) Interpello n.5 (CHIUSO) Interpello num 4 (CHIUSO) Interpello num 3 (CHIUSO) Interpello num 1(CHIUSO) Interpello num 2(CHIUSO) Modello domanda disponibilità ANNO SCOLASTICO 2025-2026 Interpello n.14(CHIUSO) Interpello n.13 (CHIUSO) Interpello n.12(CHIUSO) Interpello n. 10(CHIUSO) Interpello n.9(CHIUSO) Interpello n. 8 (CHIUSO) Interpello n.7(CHIUSO) Interpello n.6(CHIUSO) Interpello n.5(CHIUSO) Interpello n.4(CHIUSO) Interpello n.3(CHIUSO) Interpello n.2(CHIUSO) Interpello n.1(CHIUSO) Modello domanda disponibilità Pubblicato: 20.09.2024 - Revisione: 06.10.2026 Eccetto dove diversamente specificato, questo articolo è stato rilasciato sotto Licenza Creative Commons Attribuzione CC-BY 4.0."
+        }
+      ],
+      "attachments": [
+        {
+          "text": "Le carte della scuola",
+          "href": "https://www.iclivraga.it/documento/",
+          "title": "",
+          "context": "Le carte della scuola",
+          "status": 200,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 388621,
+          "file": "items/01-I.C.-Livraga/01-attachment"
+        }
+      ]
+    },
+    {
+      "id": "31dcbc06f713af02",
+      "position": 2,
+      "collectionReason": "new",
+      "listLabel": "I.C. C. Collodi S. Angelo Lodigiano",
+      "listContext": "06 ottobre 2026 Interpelli ricerca supplenti I.C. C. Collodi S. Angelo Lodigiano Interpello su cdc AAAA Scuola Infanzia",
+      "title": "I.C. C. Collodi S. Angelo Lodigiano",
+      "subtitle": "Interpello su cdc AAAA Scuola Infanzia",
+      "publicationDate": "06 ottobre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-34",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-34",
       "httpStatus": 200,
       "text": "Link interpello",
       "pages": [
         {
           "label": "Link interpello",
-          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/c8322175-60c6-4691-b0c8-c318f4eb8d16",
-          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/c8322175-60c6-4691-b0c8-c318f4eb8d16",
+          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/5724c6a3-7615-4cb0-ac3c-95a47bdedfbd",
+          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/5724c6a3-7615-4cb0-ac3c-95a47bdedfbd",
           "httpStatus": 200,
           "title": "Elenco interpelli",
           "subtitle": "",
-          "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" LODI 3 \" Cerca Elenco interpelli Nessun interpello presente È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+          "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" CARLO COLLODI \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio Interpello su cdc EEEE- ALTERNATIVA IRC scuola primaria fino al 30/06/2027 EEEE Insegnante posto comune scuola primaria 08/10/2026 30/06/2027 LOEE81501V Scuola primaria Collodi - Sant'Angelo Lodigiano (LO) Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
         }
       ],
       "attachments": []
     },
     {
-      "id": "dd7cf4cf8f77f42f",
-      "position": 2,
-      "collectionReason": "refresh",
+      "id": "2486ce40d7b7a7ba",
+      "position": 3,
+      "collectionReason": "new",
+      "listLabel": "I.C. C. Collodi S. Angelo Lodigiano",
+      "listContext": "06 ottobre 2026 Interpelli ricerca supplenti I.C. C. Collodi S. Angelo Lodigiano Interpello cdc EEEE- ALT IRC scuola primaria",
+      "title": "I.C. C. Collodi S. Angelo Lodigiano",
+      "subtitle": "Interpello cdc EEEE- ALT IRC scuola primaria",
+      "publicationDate": "06 ottobre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-33",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-33",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/5724c6a3-7615-4cb0-ac3c-95a47bdedfbd",
+          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/5724c6a3-7615-4cb0-ac3c-95a47bdedfbd",
+          "httpStatus": 200,
+          "title": "Elenco interpelli",
+          "subtitle": "",
+          "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" CARLO COLLODI \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio Interpello su cdc EEEE- ALTERNATIVA IRC scuola primaria fino al 30/06/2027 EEEE Insegnante posto comune scuola primaria 08/10/2026 30/06/2027 LOEE81501V Scuola primaria Collodi - Sant'Angelo Lodigiano (LO) Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "05a7c5e435fd9e11",
+      "position": 4,
+      "collectionReason": "new",
       "listLabel": "I.C. Casalpusterlengo",
-      "listContext": "02 ottobre 2026 Interpelli ricerca supplenti I.C. Casalpusterlengo Interpello personale docente Scuola dell'Infanzia",
+      "listContext": "06 ottobre 2026 Interpelli ricerca supplenti I.C. Casalpusterlengo Interpello docente Scuola Primaria - Posto comune",
       "title": "I.C. Casalpusterlengo",
-      "subtitle": "Interpello personale docente Scuola dell'Infanzia",
-      "publicationDate": "02 ottobre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c",
+      "subtitle": "Interpello docente Scuola Primaria - Posto comune",
+      "publicationDate": "06 ottobre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-casalpusterlengo-36",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-casalpusterlengo-36",
       "httpStatus": 200,
       "text": "Link interpello",
       "pages": [
@@ -4375,62 +4589,10 @@
           "status": 200,
           "contentType": "application/pdf",
           "bytes": 70187,
-          "file": "items/02-I.C.-Casalpusterlengo/01-firmato_1791195098_SEGNATURA_1791194930_Interpello_per_posto_Comune_Scuola_Primaria._Suppl._breve_e_saltuaria.pdf",
+          "file": "items/04-I.C.-Casalpusterlengo/01-firmato_1791195098_SEGNATURA_1791194930_Interpello_per_posto_Comune_Scuola_Primaria._Suppl._breve_e_saltuaria.pdf",
           "extractedText": "                                           LOIC80900D - A24EECC - REGISTRO PROTOCOLLO - 0006470 - 05/10/2026 - VII - U\n\n\n\n\nFirmato digitalmente da TIRELLI BRUNELLA\n\f"
         }
       ]
-    },
-    {
-      "id": "e073acbdd76e6f37",
-      "position": 3,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
-      "listContext": "02 ottobre 2026 Interpelli ricerca supplenti I.C. \"R. Morzenti\" S. Angelo Lodigiano Interpelli scuola primaria",
-      "title": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
-      "subtitle": "Interpelli scuola primaria",
-      "publicationDate": "02 ottobre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-r-morzenti-s-angelo-lodigiano-18",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-r-morzenti-s-angelo-lodigiano-18",
-      "httpStatus": 200,
-      "text": "Link pagina interpelli",
-      "pages": [
-        {
-          "label": "Link pagina interpelli",
-          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0012",
-          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0012",
-          "httpStatus": 200,
-          "title": "Elenco interpelli",
-          "subtitle": "",
-          "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" R. MORZENTI \" Cerca Elenco interpelli Nessun interpello presente È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
-        }
-      ],
-      "attachments": []
-    },
-    {
-      "id": "66b217a45cccaf0a",
-      "position": 4,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. Lodi II",
-      "listContext": "02 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi II Interpello cdc AM30",
-      "title": "I.C. Lodi II",
-      "subtitle": "Interpello cdc AM30",
-      "publicationDate": "02 ottobre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-ii-63",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-ii-63",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0014/335c8f75-8b19-4781-92ad-f4f1b413508a",
-          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0014/335c8f75-8b19-4781-92ad-f4f1b413508a",
-          "httpStatus": 200,
-          "title": "Elenco interpelli",
-          "subtitle": "",
-          "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \"LODI 2\" Cerca Elenco interpelli Nessun interpello presente È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
-        }
-      ],
-      "attachments": []
     }
   ],
   "errors": []
