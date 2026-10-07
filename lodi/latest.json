@@ -6,18 +6,82 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-07T12:05:22.330Z",
-  "completedAt": "2026-10-07T12:05:52.169Z",
+  "retrievedAt": "2026-10-07T13:05:32.308Z",
+  "completedAt": "2026-10-07T13:06:07.306Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 24903,
+    "textLength": 24901,
     "discoveredCount": 200,
     "safetyLimited": false,
     "processedCount": 4
   },
   "recentEvents": [
+    {
+      "id": "e0b0a55cbd82ddaf",
+      "type": "new",
+      "detectedAt": "2026-10-07T13:05:32.308Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-zelo-buon-persico-19",
+      "item": {
+        "id": "3422c2fd038086a5",
+        "position": 1,
+        "collectionReason": "new",
+        "listLabel": "I.C. Zelo Buon Persico",
+        "listContext": "07 ottobre 2026 Interpelli ricerca supplenti I.C. Zelo Buon Persico Interpello cdc EEEE posto comune scuola primaria",
+        "title": "I.C. Zelo Buon Persico",
+        "subtitle": "Interpello cdc EEEE posto comune scuola primaria",
+        "publicationDate": "07 ottobre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-zelo-buon-persico-19",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-zelo-buon-persico-19",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0003/c8bc2bf7-48c2-45e7-b538-f809bf6ede32",
+            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0003/c8bc2bf7-48c2-45e7-b538-f809bf6ede32",
+            "httpStatus": 200,
+            "title": "Elenco interpelli",
+            "subtitle": "",
+            "text": "Interpelli ISTITUTO COMPRENSIVO STATALE . Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio PRIMARIA DISPONIBILITA' 2 POSTI PT 17h e 13h - ALTERNATIVA IRC EEEE Insegnante posto comune scuola primaria 12/10/2026 08/06/2027 SCUOLA PRIMARIA IC ZELO B.P./MERLINO/COMAZZO Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+          }
+        ],
+        "attachments": []
+      }
+    },
+    {
+      "id": "7d3caa10399041ef",
+      "type": "new",
+      "detectedAt": "2026-10-07T13:05:32.308Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-tavazzano-lodivecchio",
+      "item": {
+        "id": "f8ff1e8410a49dbd",
+        "position": 2,
+        "collectionReason": "new",
+        "listLabel": "I.C. Tavazzano Lodivecchio",
+        "listContext": "07 ottobre 2026 Interpelli ricerca supplenti I.C. Tavazzano Lodivecchio Interpello Posto normale cdc AM2B inglese secondaria di primo grado",
+        "title": "I.C. Tavazzano Lodivecchio",
+        "subtitle": "Interpello Posto normale cdc AM2B inglese secondaria di primo grado",
+        "publicationDate": "07 ottobre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-tavazzano-lodivecchio",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-tavazzano-lodivecchio",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0001/6c4648f0-0743-4f9b-bffa-699444b27adb",
+            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0001/6c4648f0-0743-4f9b-bffa-699444b27adb",
+            "httpStatus": 200,
+            "title": "Elenco interpelli",
+            "subtitle": "",
+            "text": "Interpelli ISTITUTO COMPRENSIVO \"F. FELLINI\" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio Interpello nazionale per reperimento docente su tipo di posto normale classe di concorso AM2B 14h fino al 21/10/2026 AM2B LINGUA INGLESE E SECONDA LINGUA COMUNITARIA NELLA SCUOLA SECONDARIA I GRADO (INGLESE) 09/10/2026 21/10/2026 LOMM800014 Scuola Secondaria I grado - Tavazzano Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+          }
+        ],
+        "attachments": []
+      }
+    },
     {
       "id": "9ce1cffe09c76002",
       "type": "new",
@@ -4721,9 +4785,61 @@
   ],
   "latestFour": [
     {
-      "id": "21d9ff3b38260c05",
+      "id": "3422c2fd038086a5",
       "position": 1,
       "collectionReason": "new",
+      "listLabel": "I.C. Zelo Buon Persico",
+      "listContext": "07 ottobre 2026 Interpelli ricerca supplenti I.C. Zelo Buon Persico Interpello cdc EEEE posto comune scuola primaria",
+      "title": "I.C. Zelo Buon Persico",
+      "subtitle": "Interpello cdc EEEE posto comune scuola primaria",
+      "publicationDate": "07 ottobre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-zelo-buon-persico-19",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-zelo-buon-persico-19",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0003/c8bc2bf7-48c2-45e7-b538-f809bf6ede32",
+          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0003/c8bc2bf7-48c2-45e7-b538-f809bf6ede32",
+          "httpStatus": 200,
+          "title": "Elenco interpelli",
+          "subtitle": "",
+          "text": "Interpelli ISTITUTO COMPRENSIVO STATALE . Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio PRIMARIA DISPONIBILITA' 2 POSTI PT 17h e 13h - ALTERNATIVA IRC EEEE Insegnante posto comune scuola primaria 12/10/2026 08/06/2027 SCUOLA PRIMARIA IC ZELO B.P./MERLINO/COMAZZO Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "f8ff1e8410a49dbd",
+      "position": 2,
+      "collectionReason": "new",
+      "listLabel": "I.C. Tavazzano Lodivecchio",
+      "listContext": "07 ottobre 2026 Interpelli ricerca supplenti I.C. Tavazzano Lodivecchio Interpello Posto normale cdc AM2B inglese secondaria di primo grado",
+      "title": "I.C. Tavazzano Lodivecchio",
+      "subtitle": "Interpello Posto normale cdc AM2B inglese secondaria di primo grado",
+      "publicationDate": "07 ottobre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-tavazzano-lodivecchio",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-tavazzano-lodivecchio",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0001/6c4648f0-0743-4f9b-bffa-699444b27adb",
+          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0001/6c4648f0-0743-4f9b-bffa-699444b27adb",
+          "httpStatus": 200,
+          "title": "Elenco interpelli",
+          "subtitle": "",
+          "text": "Interpelli ISTITUTO COMPRENSIVO \"F. FELLINI\" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio Interpello nazionale per reperimento docente su tipo di posto normale classe di concorso AM2B 14h fino al 21/10/2026 AM2B LINGUA INGLESE E SECONDA LINGUA COMUNITARIA NELLA SCUOLA SECONDARIA I GRADO (INGLESE) 09/10/2026 21/10/2026 LOMM800014 Scuola Secondaria I grado - Tavazzano Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "21d9ff3b38260c05",
+      "position": 3,
+      "collectionReason": "refresh",
       "listLabel": "I.C. Lodi IV",
       "listContext": "07 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi IV Interpello Scuola secondaria I grado - AM12",
       "title": "I.C. Lodi IV",
@@ -4748,8 +4864,8 @@
     },
     {
       "id": "b287b3b6e984c740",
-      "position": 2,
-      "collectionReason": "new",
+      "position": 4,
+      "collectionReason": "refresh",
       "listLabel": "I.C. Lodi IV",
       "listContext": "07 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi IV Interpello Posto comune Scuola Infanzia",
       "title": "I.C. Lodi IV",
@@ -4768,55 +4884,6 @@
           "title": "Albo Pretorio",
           "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
           "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
-        }
-      ],
-      "attachments": []
-    },
-    {
-      "id": "4ab82a2d182581ce",
-      "position": 3,
-      "collectionReason": "new",
-      "listLabel": "I.C. Somaglia",
-      "listContext": "07 ottobre 2026 Interpelli ricerca supplenti I.C. Somaglia Interpello Scuola Secondaria di Primo grado A028",
-      "title": "I.C. Somaglia",
-      "subtitle": "Interpello Scuola Secondaria di Primo grado A028",
-      "publicationDate": "07 ottobre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-somaglia-12",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-somaglia-12",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://web.spaggiari.eu/sdg2/Documenti/LOME0019/ocgpvlogle",
-          "error": "page.goto: Download is starting\nCall log:\n  - navigating to \"https://web.spaggiari.eu/sdg2/Documenti/LOME0019/ocgpvlogle\", waiting until \"domcontentloaded\"\n"
-        }
-      ],
-      "attachments": []
-    },
-    {
-      "id": "9a48aea308d7297e",
-      "position": 4,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. Lodi V - \"F. Cazzulani\" - Lodi",
-      "listContext": "07 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi V - \"F. Cazzulani\" - Lodi Interpelli cdc AAAA - ADAA - EEEE - ADEE",
-      "title": "I.C. Lodi V - \"F. Cazzulani\" - Lodi",
-      "subtitle": "Interpelli cdc AAAA - ADAA - EEEE - ADEE",
-      "publicationDate": "07 ottobre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-v-f-cazzulani-lodi",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-v-f-cazzulani-lodi",
-      "httpStatus": 200,
-      "text": "Interpello primaria/infanzia interpello primaria ins. Materia Alternativa",
-      "pages": [
-        {
-          "label": "Interpello primaria/infanzia",
-          "url": "https://web.spaggiari.eu/sdg2/Documenti/LOME0004/vk0e62cli0",
-          "error": "page.goto: Download is starting\nCall log:\n  - navigating to \"https://web.spaggiari.eu/sdg2/Documenti/LOME0004/vk0e62cli0\", waiting until \"domcontentloaded\"\n"
-        },
-        {
-          "label": "interpello primaria ins. Materia Alternativa",
-          "url": "https://web.spaggiari.eu/sdg2/Documenti/LOME0004/v9qbnmck02",
-          "error": "page.goto: Download is starting\nCall log:\n  - navigating to \"https://web.spaggiari.eu/sdg2/Documenti/LOME0004/v9qbnmck02\", waiting until \"domcontentloaded\"\n"
         }
       ],
       "attachments": []
