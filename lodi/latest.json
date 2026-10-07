@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-07T14:05:12.348Z",
-  "completedAt": "2026-10-07T14:05:47.700Z",
+  "retrievedAt": "2026-10-07T19:05:32.912Z",
+  "completedAt": "2026-10-07T19:06:07.028Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -4802,10 +4802,10 @@
           "label": "Link interpello",
           "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0003/c8bc2bf7-48c2-45e7-b538-f809bf6ede32",
           "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0003/c8bc2bf7-48c2-45e7-b538-f809bf6ede32",
-          "httpStatus": 200,
-          "title": "Elenco interpelli",
+          "httpStatus": 403,
+          "title": "Access Denied",
           "subtitle": "",
-          "text": "Interpelli ISTITUTO COMPRENSIVO STATALE . Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio PRIMARIA DISPONIBILITA' 2 POSTI PT 17h e 13h - ALTERNATIVA IRC EEEE Insegnante posto comune scuola primaria 12/10/2026 08/06/2027 SCUOLA PRIMARIA IC ZELO B.P./MERLINO/COMAZZO Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0003/c8bc2bf7-48c2-45e7-b538-f809bf6ede32\" on this server. Reference #18.8a71cd17.1791399944.165afec9 https://errors.edgesuite.net/18.8a71cd17.1791399944.165afec9"
         }
       ],
       "attachments": []
@@ -4828,10 +4828,10 @@
           "label": "Link interpello",
           "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0001/6c4648f0-0743-4f9b-bffa-699444b27adb",
           "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0001/6c4648f0-0743-4f9b-bffa-699444b27adb",
-          "httpStatus": 200,
-          "title": "Elenco interpelli",
+          "httpStatus": 403,
+          "title": "Access Denied",
           "subtitle": "",
-          "text": "Interpelli ISTITUTO COMPRENSIVO \"F. FELLINI\" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio Interpello nazionale per reperimento docente su tipo di posto normale classe di concorso AM2B 14h fino al 21/10/2026 AM2B LINGUA INGLESE E SECONDA LINGUA COMUNITARIA NELLA SCUOLA SECONDARIA I GRADO (INGLESE) 09/10/2026 21/10/2026 LOMM800014 Scuola Secondaria I grado - Tavazzano Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/6c4648f0-0743-4f9b-bffa-699444b27adb\" on this server. Reference #18.8a71cd17.1791399951.165b4993 https://errors.edgesuite.net/18.8a71cd17.1791399951.165b4993"
         }
       ],
       "attachments": []
