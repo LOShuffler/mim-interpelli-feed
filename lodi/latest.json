@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-07T13:05:32.308Z",
-  "completedAt": "2026-10-07T13:06:07.306Z",
+  "retrievedAt": "2026-10-07T14:05:12.348Z",
+  "completedAt": "2026-10-07T14:05:47.700Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -4787,7 +4787,7 @@
     {
       "id": "3422c2fd038086a5",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Zelo Buon Persico",
       "listContext": "07 ottobre 2026 Interpelli ricerca supplenti I.C. Zelo Buon Persico Interpello cdc EEEE posto comune scuola primaria",
       "title": "I.C. Zelo Buon Persico",
@@ -4813,7 +4813,7 @@
     {
       "id": "f8ff1e8410a49dbd",
       "position": 2,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Tavazzano Lodivecchio",
       "listContext": "07 ottobre 2026 Interpelli ricerca supplenti I.C. Tavazzano Lodivecchio Interpello Posto normale cdc AM2B inglese secondaria di primo grado",
       "title": "I.C. Tavazzano Lodivecchio",
