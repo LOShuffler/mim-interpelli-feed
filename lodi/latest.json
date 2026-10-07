@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-07T08:05:33.497Z",
-  "completedAt": "2026-10-07T08:06:06.672Z",
+  "retrievedAt": "2026-10-07T09:05:33.195Z",
+  "completedAt": "2026-10-07T09:06:05.624Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -4631,7 +4631,7 @@
     {
       "id": "9a48aea308d7297e",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Lodi V - \"F. Cazzulani\" - Lodi",
       "listContext": "07 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi V - \"F. Cazzulani\" - Lodi Interpelli cdc AAAA - ADAA - EEEE - ADEE",
       "title": "I.C. Lodi V - \"F. Cazzulani\" - Lodi",
@@ -4658,7 +4658,7 @@
     {
       "id": "33a335efacfd8327",
       "position": 2,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.I.S. Codogno",
       "listContext": "07 ottobre 2026 Interpelli ricerca supplenti I.I.S. Codogno Interpelli A026 e A027",
       "title": "I.I.S. Codogno",
