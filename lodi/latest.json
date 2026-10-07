@@ -6,18 +6,110 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-07T09:05:33.195Z",
-  "completedAt": "2026-10-07T09:06:05.624Z",
+  "retrievedAt": "2026-10-07T12:05:22.330Z",
+  "completedAt": "2026-10-07T12:05:52.169Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 24927,
+    "textLength": 24903,
     "discoveredCount": 200,
     "safetyLimited": false,
     "processedCount": 4
   },
   "recentEvents": [
+    {
+      "id": "9ce1cffe09c76002",
+      "type": "new",
+      "detectedAt": "2026-10-07T12:05:22.330Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iv-29",
+      "item": {
+        "id": "21d9ff3b38260c05",
+        "position": 1,
+        "collectionReason": "new",
+        "listLabel": "I.C. Lodi IV",
+        "listContext": "07 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi IV Interpello Scuola secondaria I grado - AM12",
+        "title": "I.C. Lodi IV",
+        "subtitle": "Interpello Scuola secondaria I grado - AM12",
+        "publicationDate": "07 ottobre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iv-29",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iv-29",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://www.portaleargo.it/albopretorio/online/",
+            "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
+            "httpStatus": 200,
+            "title": "Albo Pretorio",
+            "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
+            "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
+          }
+        ],
+        "attachments": []
+      }
+    },
+    {
+      "id": "520a76d872985e87",
+      "type": "new",
+      "detectedAt": "2026-10-07T12:05:22.330Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iv-28",
+      "item": {
+        "id": "b287b3b6e984c740",
+        "position": 2,
+        "collectionReason": "new",
+        "listLabel": "I.C. Lodi IV",
+        "listContext": "07 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi IV Interpello Posto comune Scuola Infanzia",
+        "title": "I.C. Lodi IV",
+        "subtitle": "Interpello Posto comune Scuola Infanzia",
+        "publicationDate": "07 ottobre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iv-28",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iv-28",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://www.portaleargo.it/albopretorio/online/",
+            "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
+            "httpStatus": 200,
+            "title": "Albo Pretorio",
+            "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
+            "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
+          }
+        ],
+        "attachments": []
+      }
+    },
+    {
+      "id": "4f7ab593df97575a",
+      "type": "new",
+      "detectedAt": "2026-10-07T12:05:22.330Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-somaglia-12",
+      "item": {
+        "id": "4ab82a2d182581ce",
+        "position": 3,
+        "collectionReason": "new",
+        "listLabel": "I.C. Somaglia",
+        "listContext": "07 ottobre 2026 Interpelli ricerca supplenti I.C. Somaglia Interpello Scuola Secondaria di Primo grado A028",
+        "title": "I.C. Somaglia",
+        "subtitle": "Interpello Scuola Secondaria di Primo grado A028",
+        "publicationDate": "07 ottobre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-somaglia-12",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-somaglia-12",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://web.spaggiari.eu/sdg2/Documenti/LOME0019/ocgpvlogle",
+            "error": "page.goto: Download is starting\nCall log:\n  - navigating to \"https://web.spaggiari.eu/sdg2/Documenti/LOME0019/ocgpvlogle\", waiting until \"domcontentloaded\"\n"
+          }
+        ],
+        "attachments": []
+      }
+    },
     {
       "id": "08ad9547913fef42",
       "type": "new",
@@ -4629,8 +4721,82 @@
   ],
   "latestFour": [
     {
-      "id": "9a48aea308d7297e",
+      "id": "21d9ff3b38260c05",
       "position": 1,
+      "collectionReason": "new",
+      "listLabel": "I.C. Lodi IV",
+      "listContext": "07 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi IV Interpello Scuola secondaria I grado - AM12",
+      "title": "I.C. Lodi IV",
+      "subtitle": "Interpello Scuola secondaria I grado - AM12",
+      "publicationDate": "07 ottobre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iv-29",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iv-29",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://www.portaleargo.it/albopretorio/online/",
+          "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
+          "httpStatus": 200,
+          "title": "Albo Pretorio",
+          "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
+          "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "b287b3b6e984c740",
+      "position": 2,
+      "collectionReason": "new",
+      "listLabel": "I.C. Lodi IV",
+      "listContext": "07 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi IV Interpello Posto comune Scuola Infanzia",
+      "title": "I.C. Lodi IV",
+      "subtitle": "Interpello Posto comune Scuola Infanzia",
+      "publicationDate": "07 ottobre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iv-28",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iv-28",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://www.portaleargo.it/albopretorio/online/",
+          "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
+          "httpStatus": 200,
+          "title": "Albo Pretorio",
+          "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
+          "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "4ab82a2d182581ce",
+      "position": 3,
+      "collectionReason": "new",
+      "listLabel": "I.C. Somaglia",
+      "listContext": "07 ottobre 2026 Interpelli ricerca supplenti I.C. Somaglia Interpello Scuola Secondaria di Primo grado A028",
+      "title": "I.C. Somaglia",
+      "subtitle": "Interpello Scuola Secondaria di Primo grado A028",
+      "publicationDate": "07 ottobre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-somaglia-12",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-somaglia-12",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://web.spaggiari.eu/sdg2/Documenti/LOME0019/ocgpvlogle",
+          "error": "page.goto: Download is starting\nCall log:\n  - navigating to \"https://web.spaggiari.eu/sdg2/Documenti/LOME0019/ocgpvlogle\", waiting until \"domcontentloaded\"\n"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "9a48aea308d7297e",
+      "position": 4,
       "collectionReason": "refresh",
       "listLabel": "I.C. Lodi V - \"F. Cazzulani\" - Lodi",
       "listContext": "07 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi V - \"F. Cazzulani\" - Lodi Interpelli cdc AAAA - ADAA - EEEE - ADEE",
@@ -4651,84 +4817,6 @@
           "label": "interpello primaria ins. Materia Alternativa",
           "url": "https://web.spaggiari.eu/sdg2/Documenti/LOME0004/v9qbnmck02",
           "error": "page.goto: Download is starting\nCall log:\n  - navigating to \"https://web.spaggiari.eu/sdg2/Documenti/LOME0004/v9qbnmck02\", waiting until \"domcontentloaded\"\n"
-        }
-      ],
-      "attachments": []
-    },
-    {
-      "id": "33a335efacfd8327",
-      "position": 2,
-      "collectionReason": "refresh",
-      "listLabel": "I.I.S. Codogno",
-      "listContext": "07 ottobre 2026 Interpelli ricerca supplenti I.I.S. Codogno Interpelli A026 e A027",
-      "title": "I.I.S. Codogno",
-      "subtitle": "Interpelli A026 e A027",
-      "publicationDate": "07 ottobre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-10",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-10",
-      "httpStatus": 200,
-      "text": "Interpello A026 matematica Interpello A027 matematica e fisica",
-      "pages": [
-        {
-          "label": "Interpello A026 matematica",
-          "url": "https://www.portaleargo.it/albopretorio/online/",
-          "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
-          "httpStatus": 200,
-          "title": "Albo Pretorio",
-          "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
-          "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
-        }
-      ],
-      "attachments": []
-    },
-    {
-      "id": "7410f9032214badf",
-      "position": 3,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. F. Fellini Tavazzano con Villavesco",
-      "listContext": "06 ottobre 2026 Interpelli ricerca supplenti I.C. F. Fellini Tavazzano con Villavesco Interpello posto sostegno- Scuola primaria",
-      "title": "I.C. F. Fellini Tavazzano con Villavesco",
-      "subtitle": "Interpello posto sostegno- Scuola primaria",
-      "publicationDate": "06 ottobre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-f-fellini-tavazzano-con-villavesco-1",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-f-fellini-tavazzano-con-villavesco-1",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0001/e0354b1e-0eb2-4d2f-902a-4554f58a0bf7",
-          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0001/e0354b1e-0eb2-4d2f-902a-4554f58a0bf7",
-          "httpStatus": 200,
-          "title": "Elenco interpelli",
-          "subtitle": "",
-          "text": "Interpelli ISTITUTO COMPRENSIVO \"F. FELLINI\" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio Interpello nazionale per reperimento n. 1 docente su tipo di posto SOSTEGNO - SCUOLA PRIMARIA fino al 30/06/2027 ADEE Sostegno scuola primaria 08/10/2026 30/06/2027 LOEE800015 Scuola Primaria di Sordio Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
-        }
-      ],
-      "attachments": []
-    },
-    {
-      "id": "13254d6dec5bf641",
-      "position": 4,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. Lodi III",
-      "listContext": "06 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi III Interpello posto comune scuola infanzia",
-      "title": "I.C. Lodi III",
-      "subtitle": "Interpello posto comune scuola infanzia",
-      "publicationDate": "06 ottobre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-55",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-55",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013",
-          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013",
-          "httpStatus": 200,
-          "title": "Elenco interpelli",
-          "subtitle": "",
-          "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" LODI 3 \" Cerca Elenco interpelli Nessun interpello presente È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
         }
       ],
       "attachments": []
