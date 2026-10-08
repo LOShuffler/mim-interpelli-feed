@@ -6,18 +6,50 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-08T12:05:33.156Z",
-  "completedAt": "2026-10-08T12:06:07.631Z",
+  "retrievedAt": "2026-10-08T13:05:32.843Z",
+  "completedAt": "2026-10-08T13:06:07.101Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 24901,
+    "textLength": 24888,
     "discoveredCount": 200,
     "safetyLimited": false,
     "processedCount": 4
   },
   "recentEvents": [
+    {
+      "id": "dc3723bcf5553a56",
+      "type": "new",
+      "detectedAt": "2026-10-08T13:05:32.843Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-t-a-s-a-tosi-codogno-9",
+      "item": {
+        "id": "4954a4734d05da17",
+        "position": 1,
+        "collectionReason": "new",
+        "listLabel": "I.T.A.S. \"A. Tosi\" Codogno",
+        "listContext": "08 ottobre 2026 Interpelli ricerca supplenti I.T.A.S. \"A. Tosi\" Codogno Interpello cdc A052",
+        "title": "I.T.A.S. \"A. Tosi\" Codogno",
+        "subtitle": "Interpello cdc A052",
+        "publicationDate": "08 ottobre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-t-a-s-a-tosi-codogno-9",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-t-a-s-a-tosi-codogno-9",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://web.spaggiari.eu/sdg2/AlboOnline/LOIT0004?idCategoria=10001&stato=pubblicati",
+            "finalUrl": "https://web.spaggiari.eu/sdg2/AlboOnline/LOIT0004?idCategoria=10001&stato=pubblicati",
+            "httpStatus": 403,
+            "title": "Access Denied",
+            "subtitle": "",
+            "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/AlboOnline/LOIT0004?\" on this server. Reference #18.8a71cd17.1791464744.1bee6552 https://errors.edgesuite.net/18.8a71cd17.1791464744.1bee6552"
+          }
+        ],
+        "attachments": []
+      }
+    },
     {
       "id": "e0b0a55cbd82ddaf",
       "type": "new",
@@ -4785,8 +4817,34 @@
   ],
   "latestFour": [
     {
-      "id": "3422c2fd038086a5",
+      "id": "4954a4734d05da17",
       "position": 1,
+      "collectionReason": "new",
+      "listLabel": "I.T.A.S. \"A. Tosi\" Codogno",
+      "listContext": "08 ottobre 2026 Interpelli ricerca supplenti I.T.A.S. \"A. Tosi\" Codogno Interpello cdc A052",
+      "title": "I.T.A.S. \"A. Tosi\" Codogno",
+      "subtitle": "Interpello cdc A052",
+      "publicationDate": "08 ottobre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-t-a-s-a-tosi-codogno-9",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-t-a-s-a-tosi-codogno-9",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://web.spaggiari.eu/sdg2/AlboOnline/LOIT0004?idCategoria=10001&stato=pubblicati",
+          "finalUrl": "https://web.spaggiari.eu/sdg2/AlboOnline/LOIT0004?idCategoria=10001&stato=pubblicati",
+          "httpStatus": 403,
+          "title": "Access Denied",
+          "subtitle": "",
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/AlboOnline/LOIT0004?\" on this server. Reference #18.8a71cd17.1791464744.1bee6552 https://errors.edgesuite.net/18.8a71cd17.1791464744.1bee6552"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "3422c2fd038086a5",
+      "position": 2,
       "collectionReason": "refresh",
       "listLabel": "I.C. Zelo Buon Persico",
       "listContext": "07 ottobre 2026 Interpelli ricerca supplenti I.C. Zelo Buon Persico Interpello cdc EEEE posto comune scuola primaria",
@@ -4805,14 +4863,14 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0003/c8bc2bf7-48c2-45e7-b538-f809bf6ede32\" on this server. Reference #18.8a71cd17.1791461145.1ae9d54f https://errors.edgesuite.net/18.8a71cd17.1791461145.1ae9d54f"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0003/c8bc2bf7-48c2-45e7-b538-f809bf6ede32\" on this server. Reference #18.8a71cd17.1791464751.1beee909 https://errors.edgesuite.net/18.8a71cd17.1791464751.1beee909"
         }
       ],
       "attachments": []
     },
     {
       "id": "f8ff1e8410a49dbd",
-      "position": 2,
+      "position": 3,
       "collectionReason": "refresh",
       "listLabel": "I.C. Tavazzano Lodivecchio",
       "listContext": "07 ottobre 2026 Interpelli ricerca supplenti I.C. Tavazzano Lodivecchio Interpello Posto normale cdc AM2B inglese secondaria di primo grado",
@@ -4831,14 +4889,14 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/6c4648f0-0743-4f9b-bffa-699444b27adb\" on this server. Reference #18.8a71cd17.1791461151.1aea272f https://errors.edgesuite.net/18.8a71cd17.1791461151.1aea272f"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/6c4648f0-0743-4f9b-bffa-699444b27adb\" on this server. Reference #18.8a71cd17.1791464751.1bef853b https://errors.edgesuite.net/18.8a71cd17.1791464751.1bef853b"
         }
       ],
       "attachments": []
     },
     {
       "id": "21d9ff3b38260c05",
-      "position": 3,
+      "position": 4,
       "collectionReason": "refresh",
       "listLabel": "I.C. Lodi IV",
       "listContext": "07 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi IV Interpello Scuola secondaria I grado - AM12",
@@ -4847,32 +4905,6 @@
       "publicationDate": "07 ottobre 2026",
       "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iv-29",
       "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iv-29",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://www.portaleargo.it/albopretorio/online/",
-          "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
-          "httpStatus": 200,
-          "title": "Albo Pretorio",
-          "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
-          "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
-        }
-      ],
-      "attachments": []
-    },
-    {
-      "id": "b287b3b6e984c740",
-      "position": 4,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. Lodi IV",
-      "listContext": "07 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi IV Interpello Posto comune Scuola Infanzia",
-      "title": "I.C. Lodi IV",
-      "subtitle": "Interpello Posto comune Scuola Infanzia",
-      "publicationDate": "07 ottobre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iv-28",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iv-28",
       "httpStatus": 200,
       "text": "Link interpello",
       "pages": [
