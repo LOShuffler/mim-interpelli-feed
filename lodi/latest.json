@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-08T17:05:32.648Z",
-  "completedAt": "2026-10-08T17:06:07.492Z",
+  "retrievedAt": "2026-10-08T18:05:34.311Z",
+  "completedAt": "2026-10-08T18:06:08.803Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -4837,7 +4837,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/AlboOnline/LOIT0004?\" on this server. Reference #18.8f71cd17.1791479144.623e9f9c https://errors.edgesuite.net/18.8f71cd17.1791479144.623e9f9c"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/AlboOnline/LOIT0004?\" on this server. Reference #18.9671cd17.1791482746.7aacc19c https://errors.edgesuite.net/18.9671cd17.1791482746.7aacc19c"
         }
       ],
       "attachments": []
@@ -4863,7 +4863,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0003/c8bc2bf7-48c2-45e7-b538-f809bf6ede32\" on this server. Reference #18.8f71cd17.1791479151.623f7f72 https://errors.edgesuite.net/18.8f71cd17.1791479151.623f7f72"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0003/c8bc2bf7-48c2-45e7-b538-f809bf6ede32\" on this server. Reference #18.9671cd17.1791482752.7aada28c https://errors.edgesuite.net/18.9671cd17.1791482752.7aada28c"
         }
       ],
       "attachments": []
@@ -4889,7 +4889,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/6c4648f0-0743-4f9b-bffa-699444b27adb\" on this server. Reference #18.9371cd17.1791479151.5e2bc122 https://errors.edgesuite.net/18.9371cd17.1791479151.5e2bc122"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/6c4648f0-0743-4f9b-bffa-699444b27adb\" on this server. Reference #18.8f71cd17.1791482752.641077a5 https://errors.edgesuite.net/18.8f71cd17.1791482752.641077a5"
         }
       ],
       "attachments": []
