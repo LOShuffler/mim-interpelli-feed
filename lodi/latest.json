@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-09T12:05:34.161Z",
-  "completedAt": "2026-10-09T12:06:10.883Z",
+  "retrievedAt": "2026-10-09T13:05:32.585Z",
+  "completedAt": "2026-10-09T13:06:09.439Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -4904,7 +4904,7 @@
     {
       "id": "88c2d2ea0b2aee68",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Lodi I",
       "listContext": "09 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi I Interpello n.2 posti ADEE fino al 30/06",
       "title": "I.C. Lodi I",
@@ -4995,7 +4995,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/AlboOnline/LOIT0004?\" on this server. Reference #18.a7e81602.1791547561.5ec5246 https://errors.edgesuite.net/18.a7e81602.1791547561.5ec5246"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/AlboOnline/LOIT0004?\" on this server. Reference #18.8a71cd17.1791551160.2c16626e https://errors.edgesuite.net/18.8a71cd17.1791551160.2c16626e"
         }
       ],
       "attachments": []
@@ -5021,7 +5021,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0003/c8bc2bf7-48c2-45e7-b538-f809bf6ede32\" on this server. Reference #18.a7e81602.1791547568.5ec612b https://errors.edgesuite.net/18.a7e81602.1791547568.5ec612b"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0003/c8bc2bf7-48c2-45e7-b538-f809bf6ede32\" on this server. Reference #18.8a71cd17.1791551166.2c16ad94 https://errors.edgesuite.net/18.8a71cd17.1791551166.2c16ad94"
         }
       ],
       "attachments": []
