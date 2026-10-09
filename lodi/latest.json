@@ -6,18 +6,71 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-09T08:05:34.283Z",
-  "completedAt": "2026-10-09T08:06:08.713Z",
+  "retrievedAt": "2026-10-09T09:05:33.335Z",
+  "completedAt": "2026-10-09T09:06:10.033Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 24888,
+    "textLength": 24860,
     "discoveredCount": 200,
     "safetyLimited": false,
     "processedCount": 4
   },
   "recentEvents": [
+    {
+      "id": "2c5f30c82ce57c12",
+      "type": "new",
+      "detectedAt": "2026-10-09T09:05:33.335Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-maleo-23",
+      "item": {
+        "id": "1d1618346a90c295",
+        "position": 1,
+        "collectionReason": "new",
+        "listLabel": "I.C. Maleo",
+        "listContext": "09 ottobre 2026 Interpelli ricerca supplenti I.C. Maleo Interpelli supplenze al 30/06/2027 scuole primarie",
+        "title": "I.C. Maleo",
+        "subtitle": "Interpelli supplenze al 30/06/2027 scuole primarie",
+        "publicationDate": "09 ottobre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-maleo-23",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-maleo-23",
+        "httpStatus": 200,
+        "text": "Link pagina interpelli",
+        "pages": [
+          {
+            "label": "Link pagina interpelli",
+            "url": "https://www.iccsmaleo.edu.it/tipologia-articolo/interpello/",
+            "finalUrl": "https://www.iccsmaleo.edu.it/tipologia-articolo/interpello/",
+            "httpStatus": 200,
+            "title": "Interpelli alternativa scuola primaria",
+            "subtitle": "",
+            "text": "2026 09 Ott Interpelli alternativa scuola primaria Interpelli alternativa scuola primaria"
+          }
+        ],
+        "attachments": [
+          {
+            "text": "Le carte della scuola",
+            "href": "https://www.iccsmaleo.edu.it/documento/",
+            "title": "",
+            "context": "Le carte della scuola",
+            "status": 200,
+            "contentType": "text/html; charset=UTF-8",
+            "bytes": 273911,
+            "file": "items/01-I.C.-Maleo/01-attachment"
+          },
+          {
+            "text": "Albo online",
+            "href": "https://www.iccsmaleo.edu.it/tipologia-documento/albo-online/",
+            "title": "",
+            "context": "Albo online",
+            "status": 200,
+            "contentType": "text/html; charset=UTF-8",
+            "bytes": 256801,
+            "file": "items/01-I.C.-Maleo/02-attachment"
+          }
+        ]
+      }
+    },
     {
       "id": "dc3723bcf5553a56",
       "type": "new",
@@ -4817,8 +4870,55 @@
   ],
   "latestFour": [
     {
-      "id": "4954a4734d05da17",
+      "id": "1d1618346a90c295",
       "position": 1,
+      "collectionReason": "new",
+      "listLabel": "I.C. Maleo",
+      "listContext": "09 ottobre 2026 Interpelli ricerca supplenti I.C. Maleo Interpelli supplenze al 30/06/2027 scuole primarie",
+      "title": "I.C. Maleo",
+      "subtitle": "Interpelli supplenze al 30/06/2027 scuole primarie",
+      "publicationDate": "09 ottobre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-maleo-23",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-maleo-23",
+      "httpStatus": 200,
+      "text": "Link pagina interpelli",
+      "pages": [
+        {
+          "label": "Link pagina interpelli",
+          "url": "https://www.iccsmaleo.edu.it/tipologia-articolo/interpello/",
+          "finalUrl": "https://www.iccsmaleo.edu.it/tipologia-articolo/interpello/",
+          "httpStatus": 200,
+          "title": "Interpelli alternativa scuola primaria",
+          "subtitle": "",
+          "text": "2026 09 Ott Interpelli alternativa scuola primaria Interpelli alternativa scuola primaria"
+        }
+      ],
+      "attachments": [
+        {
+          "text": "Le carte della scuola",
+          "href": "https://www.iccsmaleo.edu.it/documento/",
+          "title": "",
+          "context": "Le carte della scuola",
+          "status": 200,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 273911,
+          "file": "items/01-I.C.-Maleo/01-attachment"
+        },
+        {
+          "text": "Albo online",
+          "href": "https://www.iccsmaleo.edu.it/tipologia-documento/albo-online/",
+          "title": "",
+          "context": "Albo online",
+          "status": 200,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 256801,
+          "file": "items/01-I.C.-Maleo/02-attachment"
+        }
+      ]
+    },
+    {
+      "id": "4954a4734d05da17",
+      "position": 2,
       "collectionReason": "refresh",
       "listLabel": "I.T.A.S. \"A. Tosi\" Codogno",
       "listContext": "08 ottobre 2026 Interpelli ricerca supplenti I.T.A.S. \"A. Tosi\" Codogno Interpello cdc A052",
@@ -4837,14 +4937,14 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/AlboOnline/LOIT0004?\" on this server. Reference #18.1568dead.1791533146.1a1c7e4c https://errors.edgesuite.net/18.1568dead.1791533146.1a1c7e4c"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/AlboOnline/LOIT0004?\" on this server. Reference #18.2868dead.1791536754.117e0e8d https://errors.edgesuite.net/18.2868dead.1791536754.117e0e8d"
         }
       ],
       "attachments": []
     },
     {
       "id": "3422c2fd038086a5",
-      "position": 2,
+      "position": 3,
       "collectionReason": "refresh",
       "listLabel": "I.C. Zelo Buon Persico",
       "listContext": "07 ottobre 2026 Interpelli ricerca supplenti I.C. Zelo Buon Persico Interpello cdc EEEE posto comune scuola primaria",
@@ -4863,14 +4963,14 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0003/c8bc2bf7-48c2-45e7-b538-f809bf6ede32\" on this server. Reference #18.1568dead.1791533152.1a1c9280 https://errors.edgesuite.net/18.1568dead.1791533152.1a1c9280"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0003/c8bc2bf7-48c2-45e7-b538-f809bf6ede32\" on this server. Reference #18.2868dead.1791536760.117e1c6e https://errors.edgesuite.net/18.2868dead.1791536760.117e1c6e"
         }
       ],
       "attachments": []
     },
     {
       "id": "f8ff1e8410a49dbd",
-      "position": 3,
+      "position": 4,
       "collectionReason": "refresh",
       "listLabel": "I.C. Tavazzano Lodivecchio",
       "listContext": "07 ottobre 2026 Interpelli ricerca supplenti I.C. Tavazzano Lodivecchio Interpello Posto normale cdc AM2B inglese secondaria di primo grado",
@@ -4889,33 +4989,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/6c4648f0-0743-4f9b-bffa-699444b27adb\" on this server. Reference #18.4168dead.1791533152.2c71ad1a https://errors.edgesuite.net/18.4168dead.1791533152.2c71ad1a"
-        }
-      ],
-      "attachments": []
-    },
-    {
-      "id": "21d9ff3b38260c05",
-      "position": 4,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. Lodi IV",
-      "listContext": "07 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi IV Interpello Scuola secondaria I grado - AM12",
-      "title": "I.C. Lodi IV",
-      "subtitle": "Interpello Scuola secondaria I grado - AM12",
-      "publicationDate": "07 ottobre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iv-29",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iv-29",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://www.portaleargo.it/albopretorio/online/",
-          "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
-          "httpStatus": 200,
-          "title": "Albo Pretorio",
-          "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
-          "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/6c4648f0-0743-4f9b-bffa-699444b27adb\" on this server. Reference #18.868dead.1791536760.23e666af https://errors.edgesuite.net/18.868dead.1791536760.23e666af"
         }
       ],
       "attachments": []
