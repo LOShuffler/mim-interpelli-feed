@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-10T11:05:32.419Z",
-  "completedAt": "2026-10-10T11:06:09.887Z",
+  "retrievedAt": "2026-10-10T12:05:22.155Z",
+  "completedAt": "2026-10-10T12:05:59.396Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -4845,59 +4845,6 @@
         "pages": [],
         "attachments": []
       }
-    },
-    {
-      "id": "dc3fe5e59f67fdbf",
-      "type": "new",
-      "detectedAt": "2026-09-10T12:05:17.020Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/interpello-infanzia-caselle",
-      "item": {
-        "id": "97b5b6bf6231fca0",
-        "position": 1,
-        "collectionReason": "new",
-        "listLabel": "I.C. Maleo",
-        "listContext": "10 settembre 2026 Interpelli ricerca supplenti I.C. Maleo Interpello Scuola Infanzia Caselle",
-        "title": "I.C. Maleo",
-        "subtitle": "Interpello Scuola Infanzia Caselle",
-        "publicationDate": "10 settembre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/interpello-infanzia-caselle",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/interpello-infanzia-caselle",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://www.iccsmaleo.edu.it/tipologia-articolo/interpello/",
-            "finalUrl": "https://www.iccsmaleo.edu.it/tipologia-articolo/interpello/",
-            "httpStatus": 200,
-            "title": "Interpello infanzia Caselle",
-            "subtitle": "",
-            "text": "2026 10 Set Interpello infanzia Caselle Si pubblica interpello relativo ad un posto comune fino al 2-10."
-          }
-        ],
-        "attachments": [
-          {
-            "text": "Le carte della scuola",
-            "href": "https://www.iccsmaleo.edu.it/documento/",
-            "title": "",
-            "context": "Le carte della scuola",
-            "status": 200,
-            "contentType": "text/html; charset=UTF-8",
-            "bytes": 273836,
-            "file": "items/01-I.C.-Maleo/01-attachment"
-          },
-          {
-            "text": "Albo online",
-            "href": "https://www.iccsmaleo.edu.it/tipologia-documento/albo-online/",
-            "title": "",
-            "context": "Albo online",
-            "status": 200,
-            "contentType": "text/html; charset=UTF-8",
-            "bytes": 256755,
-            "file": "items/01-I.C.-Maleo/02-attachment"
-          }
-        ]
-      }
     }
   ],
   "latestFour": [
@@ -4995,7 +4942,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/AlboOnline/LOIT0004?\" on this server. Reference #18.1b7e19b8.1791630360.649becaa https://errors.edgesuite.net/18.1b7e19b8.1791630360.649becaa"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/AlboOnline/LOIT0004?\" on this server. Reference #18.9fe81602.1791633949.6dca9d5 https://errors.edgesuite.net/18.9fe81602.1791633949.6dca9d5"
         }
       ],
       "attachments": []
@@ -5021,7 +4968,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0003/c8bc2bf7-48c2-45e7-b538-f809bf6ede32\" on this server. Reference #18.1b7e19b8.1791630367.649c6332 https://errors.edgesuite.net/18.1b7e19b8.1791630367.649c6332"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0003/c8bc2bf7-48c2-45e7-b538-f809bf6ede32\" on this server. Reference #18.9fe81602.1791633956.6dcc3b7 https://errors.edgesuite.net/18.9fe81602.1791633956.6dcc3b7"
         }
       ],
       "attachments": []
