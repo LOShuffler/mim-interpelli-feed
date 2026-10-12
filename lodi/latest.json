@@ -6,18 +6,169 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-12T07:05:32.362Z",
-  "completedAt": "2026-10-12T07:06:09.265Z",
+  "retrievedAt": "2026-10-12T08:05:32.228Z",
+  "completedAt": "2026-10-12T08:06:08.548Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 24818,
+    "textLength": 24655,
     "discoveredCount": 200,
     "safetyLimited": false,
     "processedCount": 4
   },
   "recentEvents": [
+    {
+      "id": "f6b30a9e2ed9d9d4",
+      "type": "new",
+      "detectedAt": "2026-10-12T08:05:32.228Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-13",
+      "item": {
+        "id": "a20618db610a81be",
+        "position": 1,
+        "collectionReason": "new",
+        "listLabel": "I.I.S. Codogno",
+        "listContext": "12 ottobre 2026 Interpelli ricerca supplenti I.I.S. Codogno Interpello A040 elettronica",
+        "title": "I.I.S. Codogno",
+        "subtitle": "Interpello A040 elettronica",
+        "publicationDate": "12 ottobre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-13",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-13",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://www.portaleargo.it/albopretorio/online/",
+            "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
+            "httpStatus": 200,
+            "title": "Albo Pretorio",
+            "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
+            "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
+          }
+        ],
+        "attachments": []
+      }
+    },
+    {
+      "id": "918e08431ea55e2e",
+      "type": "new",
+      "detectedAt": "2026-10-12T08:05:32.228Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-12",
+      "item": {
+        "id": "6f855172217a495b",
+        "position": 2,
+        "collectionReason": "new",
+        "listLabel": "I.I.S. Codogno",
+        "listContext": "12 ottobre 2026 Interpelli ricerca supplenti I.I.S. Codogno Interpello A041 informatica",
+        "title": "I.I.S. Codogno",
+        "subtitle": "Interpello A041 informatica",
+        "publicationDate": "12 ottobre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-12",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-12",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://www.portaleargo.it/albopretorio/online/",
+            "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
+            "httpStatus": 200,
+            "title": "Albo Pretorio",
+            "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
+            "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
+          }
+        ],
+        "attachments": []
+      }
+    },
+    {
+      "id": "64ce6ccafc22ed95",
+      "type": "new",
+      "detectedAt": "2026-10-12T08:05:32.228Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-11",
+      "item": {
+        "id": "9e6855a5506e25a7",
+        "position": 3,
+        "collectionReason": "new",
+        "listLabel": "I.I.S. Codogno",
+        "listContext": "12 ottobre 2026 Interpelli ricerca supplenti I.I.S. Codogno Interpello AS12 lettere",
+        "title": "I.I.S. Codogno",
+        "subtitle": "Interpello AS12 lettere",
+        "publicationDate": "12 ottobre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-11",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-11",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://www.portaleargo.it/albopretorio/online/",
+            "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
+            "httpStatus": 200,
+            "title": "Albo Pretorio",
+            "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
+            "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
+          }
+        ],
+        "attachments": []
+      }
+    },
+    {
+      "id": "e28f8f1e4331a0d9",
+      "type": "new",
+      "detectedAt": "2026-10-12T08:05:32.228Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-mulazzano-9",
+      "item": {
+        "id": "e9e4ccb4284f0035",
+        "position": 4,
+        "collectionReason": "new",
+        "listLabel": "I.C. Mulazzano",
+        "listContext": "12 ottobre 2026 Interpelli ricerca supplenti I.C. Mulazzano Interpello posti SOSTEGNO Scuola Primaria",
+        "title": "I.C. Mulazzano",
+        "subtitle": "Interpello posti SOSTEGNO Scuola Primaria",
+        "publicationDate": "12 ottobre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-mulazzano-9",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-mulazzano-9",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://www.icmulazzano.edu.it/index.php/notizie/notizie-per-il-personale/circolari-e-comunicazioni/9385-interpello-11032-09-10-26",
+            "finalUrl": "https://www.icmulazzano.edu.it/index.php/notizie/notizie-per-il-personale/circolari-e-comunicazioni/9385-interpello-11032-09-10-26",
+            "httpStatus": 200,
+            "title": "INTERPELLO 11032 09.10.26",
+            "subtitle": "Istituto Comprensivo A. Gramsci di Mulazzano",
+            "text": "Stampa Condividi Facebook Twitter Whatsapp Telegram Email INTERPELLO 11032 09.10.26 Si veda LINK Attachments: interpello[candidatura]253 kB interpello[interpello ]312 kB Docenti"
+          }
+        ],
+        "attachments": [
+          {
+            "text": "Download this file (ott 2026 CANDIDATURA-interpello 11032.pdf)",
+            "href": "https://www.icmulazzano.edu.it/attachments/article/9385/ott%202026%20CANDIDATURA-interpello%2011032.pdf",
+            "title": "Download this file (ott 2026 CANDIDATURA-interpello 11032.pdf)",
+            "context": "Stampa Condividi Facebook Twitter Whatsapp Telegram Email INTERPELLO 11032 09.10.26 Si veda LINK Attachments: interpello[candidatura]253 kB interpello[interpello ]312 kB Docenti",
+            "status": 200,
+            "contentType": "application/pdf",
+            "bytes": 259778,
+            "file": "items/04-I.C.-Mulazzano/01-ott-2026-CANDIDATURA-interpello-11032.pdf",
+            "extractedText": "                          M i n i s t e r o d e l l ’ Is t r u z i o n e e d e l M e r i to\n                                 Istituto Comprensivo “A. GRAMSCI”\n                             Via Ada Negri, 44 - 26837 Mulazzano Tel: 02 989137\n                            www.icmulazzano.edu.it C.F. 92537730159\n                      e-mail loic80200p@istruzione.it PEC loic80200p@pec.istruzione.it\n\n          DOMANDA - Dichiarazione dell’interessato e autocertificazione titoli\n\nIl/la sottoscritt_ ____________________________________, nato a ___________\n_____________il _______________ codice fiscale ______________________,\n\nresidente a ________________________________________________________(prov.____),\ndomiciliato a_______________________________________________________(prov.____),\nrecapito telefonico ______________, indirizzo mail ____________________________,\n\n   •   dichiara di essere interessato al seguente posto: -\n       codice____________________________________________________,\n\n   •   come da interpello prot. N° 11032 del 09.10.2026\n\n   •   dichiara di non essere stato individuato quale destinatario di contratto a tempo\n       determinato e/o destinatario delle assegnazioni di cui all’articolo 4, commi 3 e\n       8, del Decreto ministeriale;\n\n   •   dichiara di possedere i seguenti titoli/abilitazione e il seguente servizio:\n\n   Titolo/servizio                                     Descrizione del titolo/                  Note\n                                                       servizio dell’autocertificante\n   Abilitazione per la classe di concorso\n   per l’insegnamento richiesto\n   nell’interpello\n   Specializzazione sostegno\n\n   Possesso titolo di studio necessario per\n   l’insegnamento richiesto dall’interpello\n   Possesso di altri titoli di studio\n\n   Anni/mesi di insegnamento nella stessa                                                     Numero anni,\n   tipologia di posto nell’IC Gramsci -                                                       mesi e giorni\n   Mulazzano\n   Progetti presso l’IC Gramsci -\n   Mulazzano\n   Anni/mesi di insegnamento nella stessa                                                     Numero anni,\n   tipologia di posto                                                                         mesi e giorni\n   • di essere consapevole delle conseguenze amministrative e penali per chi rilasci dichiarazioni non\n       corrispondenti a verità̀ , ai sensi del DPR 445/2000, dichiara che quanto sopra dichiarato corrisponde\n       al vero.\n   • di autorizzare al trattamento dei dati per lo scopo di cui in oggetto (trattamento privacy vedi sito)\n\n   •   Allega alla presente:\n       -       1) Curriculum vitae, debitamente sottoscritto\n       -       2) Copia del proprio documento di identità e codice fiscale\n                                                                                        Firma\n                                                             ____________________________________\n\f"
+          },
+          {
+            "text": "Download this file (OTT 2026 INTERPELLO 11032_primaria (1).pdf)",
+            "href": "https://www.icmulazzano.edu.it/attachments/article/9385/OTT%202026%20INTERPELLO%2011032_primaria%20(1).pdf",
+            "title": "Download this file (OTT 2026 INTERPELLO 11032_primaria (1).pdf)",
+            "context": "Stampa Condividi Facebook Twitter Whatsapp Telegram Email INTERPELLO 11032 09.10.26 Si veda LINK Attachments: interpello[candidatura]253 kB interpello[interpello ]312 kB Docenti",
+            "status": 200,
+            "contentType": "application/pdf",
+            "bytes": 319793,
+            "file": "items/04-I.C.-Mulazzano/02-OTT-2026-INTERPELLO-11032_primaria-1-.pdf",
+            "extractedText": "                                                 M i n i s t ero d el l ’ I s t ru z i o n e e d e l M e r i to\n                                                        Istituto Comprensivo “A. GRAMSCI”\n                                                   Via Ada Negri, 44 - 26837 Mulazzano Tel: 02 989137\n                                                   www.icmulazzano.edu.it C.F. 92537730159\n                                            e-mail loic80200p@istruzione.it PEC loic80200p@pec.istruzione.it\n\n\n\n\n                            AVVISO/INTERPELLO PER LA COPERTURA DI POSTI ART. 13 C. 23 OM. 88/2024\n\n\n\n                                                            Prot. N. 11032 del 09.10.2026\n\n\n             DENOMINAZIONE SCUOLA: Istituto Comprensivo “A. Gramsci”\n\n             INDIRIZZO SCUOLA: via Ada Negri, 44 -26837 Mulazzano (LODI)\n\n             CODICE MECCANOGRAFICO SCUOLA: LOIC80200P\n\n             MAIL SCUOLA SU CUI RICEVERE LA CANDIDATURA: interpello@icmulazzano.com\n\n\n\n             OGGETTO: Interpello per posti SOSTEGNO SCUOLA PRIMARIA seconda deroga\n\n\n                                                                    IL DIRIGENTE SCOLASTICO\n\n\n\n             VISTA l’O.M. 88/2024 ed in particolare l’art. 13 c. 23;\n\n             CONSIDERATO che risultano esaurite le GPS, consultate le graduatorie dello scrivente Istituto e degli Istituti\n             viciniori;\n\n             CONSIDERATA la necessità di reperire docenti per la copertura dei posti indicati in oggetto;\n\n             EMETTE avviso per l’individuazione e il reclutamento di personale docente per il conferimento delle\n             supplenze come da prospetto:\n\n               CODICE          TIPOLOGIA DI               INIZIO                  TERMINE        ORARIO      SEDE/I DI SERVIZIO\n               POSTO           POSTO                      SUPPLENZA               SUPPLENZA      SETTIMANALE\n                               disponibile\n               11032-A         n. 2 posti -               Dalla presa di          30.06.2027     24 ore           Primaria\n                               SOSTEGNO                   servizio                                                    • Mulazzano\n                               SCUOLA                                                                                 • Casalmaiocco\n                               PRIMARIA                                                                               • Cervignano\n               11032-B         n. 1 posto -               Dalla presa di          30.06.2027     6 ore            Primaria\n                               SOSTEGNO                   servizio                                                    • Mulazzano\n                               SCUOLA                                                                                 • Casalmaiocco\n                               PRIMARIA                                                                               • Cervignano\n\n\n\n\nDocumento informatico firmato digitalmente ai sensi del D.Lgs 82/2005 s.m.i. e norme collegate\n\f                            M i n i s t ero d el l ’ I s t ru z i o n e e d e l M e r i to\n                                   Istituto Comprensivo “A. GRAMSCI”\n                               Via Ada Negri, 44 - 26837 Mulazzano Tel: 02 989137\n                               www.icmulazzano.edu.it C.F. 92537730159\n                        e-mail loic80200p@istruzione.it PEC loic80200p@pec.istruzione.it\n\nTITOLI DI PREFERENZA:\n\n    1. Possesso dell’abilitazione per la classe di concorso (per il sostegno: possesso della specializzazione).\n    2. Titolo di studio necessario per l’insegnamento richiesto dall’interpello\n    3. Possesso dei titoli necessari per l’iscrizione nella seconda fascia delle graduatorie provinciali per le\n       supplenze, per l’insegnamento richiesto dall’interpello.\n    4. Altri titoli di studio.\n\nA parità di ordine di priorità, la supplenza sarà conferita all’aspirante che abbia già prestato servizi di\ninsegnamento per la medesima tipologia di posto nel nostro Istituto.\n\nIl personale disponibile potrà presentare la propria manifestazione di interesse entro e non oltre le ore 11.00\ndel 13 ottobre 2026, utilizzando ESCLUSIVAMENTE il modulo allegato al presente interpello, che dovrà essere\ntrasmesso, in formato PDF e debitamente sottoscritto, tramite email a interpello@icmulazzano.com\n(compilare ed allegare un modulo per ogni candidatura)\n\nIl conferimento della supplenza sarà comunicato tramite mail all’indirizzo indicato dall’aspirante.\n\nLa presa di servizio dovrà avvenire entro le successive 24 ore.\n\nI riscontri agli avvisi devono contenere tutte le dichiarazioni necessarie, rese in autocertificazione ai sensi del\nD.P.R. n. 445/2000, per consentire la verifica puntuale dei suddetti requisiti da parte dei dirigenti scolastici,\nivi compresi gli estremi del conseguimento del titolo di abilitazione e/o del titolo di specializzazione (allegare\nCurriculum Vitae e copia documento di identità): non saranno prese in considerazione istanze formulate con\nmodalità difformi a quelle indicate nel presente avviso e non complete delle dichiarazioni obbligatorie.\n\n\n                                                                                        LA DIRIGENTE SCOLASTICA\n                                                                                        Prof.ssa Eleonora Tarantola\n\f"
+          }
+        ]
+      }
+    },
     {
       "id": "ffa55fe4dc6d20b6",
       "type": "new",
@@ -4849,16 +5000,16 @@
   ],
   "latestFour": [
     {
-      "id": "88c2d2ea0b2aee68",
+      "id": "a20618db610a81be",
       "position": 1,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. Lodi I",
-      "listContext": "09 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi I Interpello n.2 posti ADEE fino al 30/06",
-      "title": "I.C. Lodi I",
-      "subtitle": "Interpello n.2 posti ADEE fino al 30/06",
-      "publicationDate": "09 ottobre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-37",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-37",
+      "collectionReason": "new",
+      "listLabel": "I.I.S. Codogno",
+      "listContext": "12 ottobre 2026 Interpelli ricerca supplenti I.I.S. Codogno Interpello A040 elettronica",
+      "title": "I.I.S. Codogno",
+      "subtitle": "Interpello A040 elettronica",
+      "publicationDate": "12 ottobre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-13",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-13",
       "httpStatus": 200,
       "text": "Link interpello",
       "pages": [
@@ -4875,103 +5026,105 @@
       "attachments": []
     },
     {
-      "id": "1d1618346a90c295",
+      "id": "6f855172217a495b",
       "position": 2,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. Maleo",
-      "listContext": "09 ottobre 2026 Interpelli ricerca supplenti I.C. Maleo Interpelli supplenze al 30/06/2027 scuole primarie",
-      "title": "I.C. Maleo",
-      "subtitle": "Interpelli supplenze al 30/06/2027 scuole primarie",
-      "publicationDate": "09 ottobre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-maleo-23",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-maleo-23",
+      "collectionReason": "new",
+      "listLabel": "I.I.S. Codogno",
+      "listContext": "12 ottobre 2026 Interpelli ricerca supplenti I.I.S. Codogno Interpello A041 informatica",
+      "title": "I.I.S. Codogno",
+      "subtitle": "Interpello A041 informatica",
+      "publicationDate": "12 ottobre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-12",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-12",
       "httpStatus": 200,
-      "text": "Link pagina interpelli",
+      "text": "Link interpello",
       "pages": [
         {
-          "label": "Link pagina interpelli",
-          "url": "https://www.iccsmaleo.edu.it/tipologia-articolo/interpello/",
-          "finalUrl": "https://www.iccsmaleo.edu.it/tipologia-articolo/interpello/",
+          "label": "Link interpello",
+          "url": "https://www.portaleargo.it/albopretorio/online/",
+          "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
           "httpStatus": 200,
-          "title": "Interpelli alternativa scuola primaria",
-          "subtitle": "",
-          "text": "2026 09 Ott Interpelli alternativa scuola primaria Interpelli alternativa scuola primaria"
+          "title": "Albo Pretorio",
+          "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
+          "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "9e6855a5506e25a7",
+      "position": 3,
+      "collectionReason": "new",
+      "listLabel": "I.I.S. Codogno",
+      "listContext": "12 ottobre 2026 Interpelli ricerca supplenti I.I.S. Codogno Interpello AS12 lettere",
+      "title": "I.I.S. Codogno",
+      "subtitle": "Interpello AS12 lettere",
+      "publicationDate": "12 ottobre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-11",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-11",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://www.portaleargo.it/albopretorio/online/",
+          "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
+          "httpStatus": 200,
+          "title": "Albo Pretorio",
+          "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
+          "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "e9e4ccb4284f0035",
+      "position": 4,
+      "collectionReason": "new",
+      "listLabel": "I.C. Mulazzano",
+      "listContext": "12 ottobre 2026 Interpelli ricerca supplenti I.C. Mulazzano Interpello posti SOSTEGNO Scuola Primaria",
+      "title": "I.C. Mulazzano",
+      "subtitle": "Interpello posti SOSTEGNO Scuola Primaria",
+      "publicationDate": "12 ottobre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-mulazzano-9",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-mulazzano-9",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://www.icmulazzano.edu.it/index.php/notizie/notizie-per-il-personale/circolari-e-comunicazioni/9385-interpello-11032-09-10-26",
+          "finalUrl": "https://www.icmulazzano.edu.it/index.php/notizie/notizie-per-il-personale/circolari-e-comunicazioni/9385-interpello-11032-09-10-26",
+          "httpStatus": 200,
+          "title": "INTERPELLO 11032 09.10.26",
+          "subtitle": "Istituto Comprensivo A. Gramsci di Mulazzano",
+          "text": "Stampa Condividi Facebook Twitter Whatsapp Telegram Email INTERPELLO 11032 09.10.26 Si veda LINK Attachments: interpello[candidatura]253 kB interpello[interpello ]312 kB Docenti"
         }
       ],
       "attachments": [
         {
-          "text": "Le carte della scuola",
-          "href": "https://www.iccsmaleo.edu.it/documento/",
-          "title": "",
-          "context": "Le carte della scuola",
+          "text": "Download this file (ott 2026 CANDIDATURA-interpello 11032.pdf)",
+          "href": "https://www.icmulazzano.edu.it/attachments/article/9385/ott%202026%20CANDIDATURA-interpello%2011032.pdf",
+          "title": "Download this file (ott 2026 CANDIDATURA-interpello 11032.pdf)",
+          "context": "Stampa Condividi Facebook Twitter Whatsapp Telegram Email INTERPELLO 11032 09.10.26 Si veda LINK Attachments: interpello[candidatura]253 kB interpello[interpello ]312 kB Docenti",
           "status": 200,
-          "contentType": "text/html; charset=UTF-8",
-          "bytes": 273911,
-          "file": "items/02-I.C.-Maleo/01-attachment"
+          "contentType": "application/pdf",
+          "bytes": 259778,
+          "file": "items/04-I.C.-Mulazzano/01-ott-2026-CANDIDATURA-interpello-11032.pdf",
+          "extractedText": "                          M i n i s t e r o d e l l ’ Is t r u z i o n e e d e l M e r i to\n                                 Istituto Comprensivo “A. GRAMSCI”\n                             Via Ada Negri, 44 - 26837 Mulazzano Tel: 02 989137\n                            www.icmulazzano.edu.it C.F. 92537730159\n                      e-mail loic80200p@istruzione.it PEC loic80200p@pec.istruzione.it\n\n          DOMANDA - Dichiarazione dell’interessato e autocertificazione titoli\n\nIl/la sottoscritt_ ____________________________________, nato a ___________\n_____________il _______________ codice fiscale ______________________,\n\nresidente a ________________________________________________________(prov.____),\ndomiciliato a_______________________________________________________(prov.____),\nrecapito telefonico ______________, indirizzo mail ____________________________,\n\n   •   dichiara di essere interessato al seguente posto: -\n       codice____________________________________________________,\n\n   •   come da interpello prot. N° 11032 del 09.10.2026\n\n   •   dichiara di non essere stato individuato quale destinatario di contratto a tempo\n       determinato e/o destinatario delle assegnazioni di cui all’articolo 4, commi 3 e\n       8, del Decreto ministeriale;\n\n   •   dichiara di possedere i seguenti titoli/abilitazione e il seguente servizio:\n\n   Titolo/servizio                                     Descrizione del titolo/                  Note\n                                                       servizio dell’autocertificante\n   Abilitazione per la classe di concorso\n   per l’insegnamento richiesto\n   nell’interpello\n   Specializzazione sostegno\n\n   Possesso titolo di studio necessario per\n   l’insegnamento richiesto dall’interpello\n   Possesso di altri titoli di studio\n\n   Anni/mesi di insegnamento nella stessa                                                     Numero anni,\n   tipologia di posto nell’IC Gramsci -                                                       mesi e giorni\n   Mulazzano\n   Progetti presso l’IC Gramsci -\n   Mulazzano\n   Anni/mesi di insegnamento nella stessa                                                     Numero anni,\n   tipologia di posto                                                                         mesi e giorni\n   • di essere consapevole delle conseguenze amministrative e penali per chi rilasci dichiarazioni non\n       corrispondenti a verità̀ , ai sensi del DPR 445/2000, dichiara che quanto sopra dichiarato corrisponde\n       al vero.\n   • di autorizzare al trattamento dei dati per lo scopo di cui in oggetto (trattamento privacy vedi sito)\n\n   •   Allega alla presente:\n       -       1) Curriculum vitae, debitamente sottoscritto\n       -       2) Copia del proprio documento di identità e codice fiscale\n                                                                                        Firma\n                                                             ____________________________________\n\f"
         },
         {
-          "text": "Albo online",
-          "href": "https://www.iccsmaleo.edu.it/tipologia-documento/albo-online/",
-          "title": "",
-          "context": "Albo online",
+          "text": "Download this file (OTT 2026 INTERPELLO 11032_primaria (1).pdf)",
+          "href": "https://www.icmulazzano.edu.it/attachments/article/9385/OTT%202026%20INTERPELLO%2011032_primaria%20(1).pdf",
+          "title": "Download this file (OTT 2026 INTERPELLO 11032_primaria (1).pdf)",
+          "context": "Stampa Condividi Facebook Twitter Whatsapp Telegram Email INTERPELLO 11032 09.10.26 Si veda LINK Attachments: interpello[candidatura]253 kB interpello[interpello ]312 kB Docenti",
           "status": 200,
-          "contentType": "text/html; charset=UTF-8",
-          "bytes": 256801,
-          "file": "items/02-I.C.-Maleo/02-attachment"
+          "contentType": "application/pdf",
+          "bytes": 319793,
+          "file": "items/04-I.C.-Mulazzano/02-OTT-2026-INTERPELLO-11032_primaria-1-.pdf",
+          "extractedText": "                                                 M i n i s t ero d el l ’ I s t ru z i o n e e d e l M e r i to\n                                                        Istituto Comprensivo “A. GRAMSCI”\n                                                   Via Ada Negri, 44 - 26837 Mulazzano Tel: 02 989137\n                                                   www.icmulazzano.edu.it C.F. 92537730159\n                                            e-mail loic80200p@istruzione.it PEC loic80200p@pec.istruzione.it\n\n\n\n\n                            AVVISO/INTERPELLO PER LA COPERTURA DI POSTI ART. 13 C. 23 OM. 88/2024\n\n\n\n                                                            Prot. N. 11032 del 09.10.2026\n\n\n             DENOMINAZIONE SCUOLA: Istituto Comprensivo “A. Gramsci”\n\n             INDIRIZZO SCUOLA: via Ada Negri, 44 -26837 Mulazzano (LODI)\n\n             CODICE MECCANOGRAFICO SCUOLA: LOIC80200P\n\n             MAIL SCUOLA SU CUI RICEVERE LA CANDIDATURA: interpello@icmulazzano.com\n\n\n\n             OGGETTO: Interpello per posti SOSTEGNO SCUOLA PRIMARIA seconda deroga\n\n\n                                                                    IL DIRIGENTE SCOLASTICO\n\n\n\n             VISTA l’O.M. 88/2024 ed in particolare l’art. 13 c. 23;\n\n             CONSIDERATO che risultano esaurite le GPS, consultate le graduatorie dello scrivente Istituto e degli Istituti\n             viciniori;\n\n             CONSIDERATA la necessità di reperire docenti per la copertura dei posti indicati in oggetto;\n\n             EMETTE avviso per l’individuazione e il reclutamento di personale docente per il conferimento delle\n             supplenze come da prospetto:\n\n               CODICE          TIPOLOGIA DI               INIZIO                  TERMINE        ORARIO      SEDE/I DI SERVIZIO\n               POSTO           POSTO                      SUPPLENZA               SUPPLENZA      SETTIMANALE\n                               disponibile\n               11032-A         n. 2 posti -               Dalla presa di          30.06.2027     24 ore           Primaria\n                               SOSTEGNO                   servizio                                                    • Mulazzano\n                               SCUOLA                                                                                 • Casalmaiocco\n                               PRIMARIA                                                                               • Cervignano\n               11032-B         n. 1 posto -               Dalla presa di          30.06.2027     6 ore            Primaria\n                               SOSTEGNO                   servizio                                                    • Mulazzano\n                               SCUOLA                                                                                 • Casalmaiocco\n                               PRIMARIA                                                                               • Cervignano\n\n\n\n\nDocumento informatico firmato digitalmente ai sensi del D.Lgs 82/2005 s.m.i. e norme collegate\n\f                            M i n i s t ero d el l ’ I s t ru z i o n e e d e l M e r i to\n                                   Istituto Comprensivo “A. GRAMSCI”\n                               Via Ada Negri, 44 - 26837 Mulazzano Tel: 02 989137\n                               www.icmulazzano.edu.it C.F. 92537730159\n                        e-mail loic80200p@istruzione.it PEC loic80200p@pec.istruzione.it\n\nTITOLI DI PREFERENZA:\n\n    1. Possesso dell’abilitazione per la classe di concorso (per il sostegno: possesso della specializzazione).\n    2. Titolo di studio necessario per l’insegnamento richiesto dall’interpello\n    3. Possesso dei titoli necessari per l’iscrizione nella seconda fascia delle graduatorie provinciali per le\n       supplenze, per l’insegnamento richiesto dall’interpello.\n    4. Altri titoli di studio.\n\nA parità di ordine di priorità, la supplenza sarà conferita all’aspirante che abbia già prestato servizi di\ninsegnamento per la medesima tipologia di posto nel nostro Istituto.\n\nIl personale disponibile potrà presentare la propria manifestazione di interesse entro e non oltre le ore 11.00\ndel 13 ottobre 2026, utilizzando ESCLUSIVAMENTE il modulo allegato al presente interpello, che dovrà essere\ntrasmesso, in formato PDF e debitamente sottoscritto, tramite email a interpello@icmulazzano.com\n(compilare ed allegare un modulo per ogni candidatura)\n\nIl conferimento della supplenza sarà comunicato tramite mail all’indirizzo indicato dall’aspirante.\n\nLa presa di servizio dovrà avvenire entro le successive 24 ore.\n\nI riscontri agli avvisi devono contenere tutte le dichiarazioni necessarie, rese in autocertificazione ai sensi del\nD.P.R. n. 445/2000, per consentire la verifica puntuale dei suddetti requisiti da parte dei dirigenti scolastici,\nivi compresi gli estremi del conseguimento del titolo di abilitazione e/o del titolo di specializzazione (allegare\nCurriculum Vitae e copia documento di identità): non saranno prese in considerazione istanze formulate con\nmodalità difformi a quelle indicate nel presente avviso e non complete delle dichiarazioni obbligatorie.\n\n\n                                                                                        LA DIRIGENTE SCOLASTICA\n                                                                                        Prof.ssa Eleonora Tarantola\n\f"
         }
       ]
-    },
-    {
-      "id": "4954a4734d05da17",
-      "position": 3,
-      "collectionReason": "refresh",
-      "listLabel": "I.T.A.S. \"A. Tosi\" Codogno",
-      "listContext": "08 ottobre 2026 Interpelli ricerca supplenti I.T.A.S. \"A. Tosi\" Codogno Interpello cdc A052",
-      "title": "I.T.A.S. \"A. Tosi\" Codogno",
-      "subtitle": "Interpello cdc A052",
-      "publicationDate": "08 ottobre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-t-a-s-a-tosi-codogno-9",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-t-a-s-a-tosi-codogno-9",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://web.spaggiari.eu/sdg2/AlboOnline/LOIT0004?idCategoria=10001&stato=pubblicati",
-          "finalUrl": "https://web.spaggiari.eu/sdg2/AlboOnline/LOIT0004?idCategoria=10001&stato=pubblicati",
-          "httpStatus": 403,
-          "title": "Access Denied",
-          "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/AlboOnline/LOIT0004?\" on this server. Reference #18.8771cd17.1791788759.b0389a74 https://errors.edgesuite.net/18.8771cd17.1791788759.b0389a74"
-        }
-      ],
-      "attachments": []
-    },
-    {
-      "id": "3422c2fd038086a5",
-      "position": 4,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. Zelo Buon Persico",
-      "listContext": "07 ottobre 2026 Interpelli ricerca supplenti I.C. Zelo Buon Persico Interpello cdc EEEE posto comune scuola primaria",
-      "title": "I.C. Zelo Buon Persico",
-      "subtitle": "Interpello cdc EEEE posto comune scuola primaria",
-      "publicationDate": "07 ottobre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-zelo-buon-persico-19",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-zelo-buon-persico-19",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0003/c8bc2bf7-48c2-45e7-b538-f809bf6ede32",
-          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0003/c8bc2bf7-48c2-45e7-b538-f809bf6ede32",
-          "httpStatus": 403,
-          "title": "Access Denied",
-          "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0003/c8bc2bf7-48c2-45e7-b538-f809bf6ede32\" on this server. Reference #18.8771cd17.1791788766.b039147f https://errors.edgesuite.net/18.8771cd17.1791788766.b039147f"
-        }
-      ],
-      "attachments": []
     }
   ],
   "errors": []
