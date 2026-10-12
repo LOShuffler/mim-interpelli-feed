@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-12T14:05:32.302Z",
-  "completedAt": "2026-10-12T14:06:13.247Z",
+  "retrievedAt": "2026-10-12T15:05:33.441Z",
+  "completedAt": "2026-10-12T15:06:13.453Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -5231,7 +5231,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/AlboOnline/LOIT0001\" on this server. Reference #18.9071cd17.1791813944.d6d194b9 https://errors.edgesuite.net/18.9071cd17.1791813944.d6d194b9"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/AlboOnline/LOIT0001\" on this server. Reference #18.9271cd17.1791817545.652b7c5 https://errors.edgesuite.net/18.9271cd17.1791817545.652b7c5"
         }
       ],
       "attachments": []
@@ -5262,24 +5262,14 @@
       ],
       "attachments": [
         {
-          "text": "Gestisci opzioni",
-          "href": "https://cesaris.edu.it/documento/piano-annuale-per-linclusione-pai-a-s-2026-2027/",
-          "title": "",
-          "context": "Gestisci opzioni",
-          "status": 200,
-          "contentType": "text/html; charset=UTF-8",
-          "bytes": 231351,
-          "file": "items/02-I.I.S.-Casalpusterlengo/01-attachment"
-        },
-        {
           "text": "Le carte della scuola",
           "href": "https://cesaris.edu.it/documento/",
           "title": "",
           "context": "Le carte della scuola",
           "status": 200,
           "contentType": "text/html; charset=UTF-8",
-          "bytes": 270636,
-          "file": "items/02-I.I.S.-Casalpusterlengo/02-attachment"
+          "bytes": 270602,
+          "file": "items/02-I.I.S.-Casalpusterlengo/01-attachment"
         }
       ]
     },
@@ -5304,7 +5294,7 @@
           "httpStatus": 200,
           "title": "Albo Online",
           "subtitle": "Sito web istituzionale Istituto Comprensivo Castiglione D'Adda - Via Alcide De Gasperi, 30 – 26823 Castiglione d’Adda (LO)",
-          "text": "Salta al contenuto Accedi Istituto Comprensivo di Castiglione d'Adda (LO) Scuola Servizi Novità Didattica Privacy Home > Novità > Albo Online Albo Online Categorie Avvisi 5 Organi Collegiali 16 Graduatorie 2 Nomine personale 25 Contabilità 2 Bandi di gara 9 Convenzioni Incarichi e consulenze Libri di testo Sicurezza 1 Contratti 7 Regolamenti Esami Altro Albo Altre PA Scrutini Tutte le tipologie Avvisi Organi Collegiali Graduatorie Nomine personale Contabilità Bandi di gara Convenzioni Incarichi e consulenze Libri di testo Sicurezza Contratti Regolamenti Esami Altro Albo Altre PA Scrutini Avvisi 479 2026 Protocollo 8684/2026 del 12/10/2026 Procedura di interpello per selezione personale docente SCUOLA PRIMARIA Pubblicato il: 12/10/2026 Tipologia: Avvisi 478 2026 Protocollo 8683/2026 del 12/10/2026 Procedura di interpello per selezione personale docente SCUOLA INFANZIA-IC Castiglione d'Adda Pubblicato il: 12/10/2026 Tipologia: Avvisi 475 2026 Protocollo 8569/2026 del 07/10/2026 DM 176 - 3° AVVISO RICERCA FIGURE PROFESSIONALI PER RUOLO DI ATA (COLLABORATORE SCOLASTICO) Pubblicato il: 07/10/2026 Tipologia: Avvisi Allegati: allegati 3° avviso.zip 438 2026 Protocollo 8296/2026 del 30/09/2026 Decreto istituzione classe prima scuola primaria Turano Lodigiano Pubblicato il: 30/09/2026 Tipologia: Avvisi 271 2026 Protocollo 6812/2026 del 08/07/2026 Disseminazione D.M. 38 Formazione prot. 95165 Pubblicato il: 08/07/2026 Tipologia: Avvisi Questo sito o gli strumenti terzi da questo utilizzati si avvalgono di cookie necessari al funzionamento ed utili alle finalità illustrate nella COOKIE POLICY. PERSONALIZZA RIFIUTA TUTTI I COOKIES ACCETTA TUTTI I COOKIES Istituto Comprensivo Castiglione D'Adda CONTATTI Istituto Comprensivo Castiglione D'Adda Via Alcide De Gasperi, 30 – 26823 Castiglione d’Adda (LO) Tel: +39 0377 900482 Email: loic80800n@istruzione.it Link per inviare una mail PEC: loic80800n@pec.istruzione.it Link per inviare una mail C.F.: 82503260158 SEZIONE LINK UTILI Cookie policy Note legali Informativa Privacy Ufficio Relazioni con il Pubblico Dichiarazione di accessibilità Obiettivi di accessibilità Whistleblowing Gestione consensi cookie Amministrazione trasparente Pagina visualizzata 216171 volte Sezione Copyright Copyright 2026 | Engineered and powered by Gruppo Spaggiari Parma S.p.A. | Divisione Publishing & New Social Media Disclaimer trattamento dati personali"
+          "text": "Salta al contenuto Accedi Istituto Comprensivo di Castiglione d'Adda (LO) Scuola Servizi Novità Didattica Privacy Home > Novità > Albo Online Albo Online Categorie Avvisi 5 Organi Collegiali 16 Graduatorie 2 Nomine personale 25 Contabilità 2 Bandi di gara 9 Convenzioni Incarichi e consulenze Libri di testo Sicurezza 1 Contratti 7 Regolamenti Esami Altro Albo Altre PA Scrutini Tutte le tipologie Avvisi Organi Collegiali Graduatorie Nomine personale Contabilità Bandi di gara Convenzioni Incarichi e consulenze Libri di testo Sicurezza Contratti Regolamenti Esami Altro Albo Altre PA Scrutini Avvisi 479 2026 Protocollo 8684/2026 del 12/10/2026 Procedura di interpello per selezione personale docente SCUOLA PRIMARIA Pubblicato il: 12/10/2026 Tipologia: Avvisi 478 2026 Protocollo 8683/2026 del 12/10/2026 Procedura di interpello per selezione personale docente SCUOLA INFANZIA-IC Castiglione d'Adda Pubblicato il: 12/10/2026 Tipologia: Avvisi 475 2026 Protocollo 8569/2026 del 07/10/2026 DM 176 - 3° AVVISO RICERCA FIGURE PROFESSIONALI PER RUOLO DI ATA (COLLABORATORE SCOLASTICO) Pubblicato il: 07/10/2026 Tipologia: Avvisi Allegati: allegati 3° avviso.zip 438 2026 Protocollo 8296/2026 del 30/09/2026 Decreto istituzione classe prima scuola primaria Turano Lodigiano Pubblicato il: 30/09/2026 Tipologia: Avvisi 271 2026 Protocollo 6812/2026 del 08/07/2026 Disseminazione D.M. 38 Formazione prot. 95165 Pubblicato il: 08/07/2026 Tipologia: Avvisi Questo sito o gli strumenti terzi da questo utilizzati si avvalgono di cookie necessari al funzionamento ed utili alle finalità illustrate nella COOKIE POLICY. PERSONALIZZA RIFIUTA TUTTI I COOKIES ACCETTA TUTTI I COOKIES Istituto Comprensivo Castiglione D'Adda CONTATTI Istituto Comprensivo Castiglione D'Adda Via Alcide De Gasperi, 30 – 26823 Castiglione d’Adda (LO) Tel: +39 0377 900482 Email: loic80800n@istruzione.it Link per inviare una mail PEC: loic80800n@pec.istruzione.it Link per inviare una mail C.F.: 82503260158 SEZIONE LINK UTILI Cookie policy Note legali Informativa Privacy Ufficio Relazioni con il Pubblico Dichiarazione di accessibilità Obiettivi di accessibilità Whistleblowing Gestione consensi cookie Amministrazione trasparente Pagina visualizzata 216200 volte Sezione Copyright Copyright 2026 | Engineered and powered by Gruppo Spaggiari Parma S.p.A. | Divisione Publishing & New Social Media Disclaimer trattamento dati personali"
         }
       ],
       "attachments": [
