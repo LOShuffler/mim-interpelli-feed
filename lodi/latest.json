@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-16T12:05:34.948Z",
-  "completedAt": "2026-10-16T12:06:11.083Z",
+  "retrievedAt": "2026-10-16T13:05:33.897Z",
+  "completedAt": "2026-10-16T13:06:10.867Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -6036,7 +6036,7 @@
     {
       "id": "799c09bbe612b8b7",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. \"C. Collodi\" S. Angelo Lodigiano",
       "listContext": "16 ottobre 2026 Interpelli ricerca supplenti I.C. \"C. Collodi\" S. Angelo Lodigiano Interpello su cdc EEEE- 24 h fino al 5 febbraio 2027",
       "title": "I.C. \"C. Collodi\" S. Angelo Lodigiano",
@@ -6054,7 +6054,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/23cd821e-7860-4680-a2f9-9875069a58e3\" on this server. Reference #18.6aa61702.1792152346.ba2abf9 https://errors.edgesuite.net/18.6aa61702.1792152346.ba2abf9"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/23cd821e-7860-4680-a2f9-9875069a58e3\" on this server. Reference #18.45a61702.1792155945.5300843 https://errors.edgesuite.net/18.45a61702.1792155945.5300843"
         }
       ],
       "attachments": []
@@ -6062,7 +6062,7 @@
     {
       "id": "243a375dfdc7fb05",
       "position": 2,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "CPIA Lodi",
       "listContext": "16 ottobre 2026 Interpelli ricerca supplenti CPIA Lodi Interpello A028 Lodi e Casa Circondariale di Lodi",
       "title": "CPIA Lodi",
@@ -6099,7 +6099,7 @@
     {
       "id": "417bef8586231fc6",
       "position": 3,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
       "listContext": "16 ottobre 2026 Interpelli ricerca supplenti I.C. \"R. Morzenti\" S. Angelo Lodigiano Interpello A028 Matematica e scienze fino al 19/11/2026",
       "title": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
@@ -6117,7 +6117,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/63eb3488-7f88-4858-a816-a93ad1e63a26\" on this server. Reference #18.6aa61702.1792152361.ba2d0bd https://errors.edgesuite.net/18.6aa61702.1792152361.ba2d0bd"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/63eb3488-7f88-4858-a816-a93ad1e63a26\" on this server. Reference #18.45a61702.1792155961.5302211 https://errors.edgesuite.net/18.45a61702.1792155961.5302211"
         }
       ],
       "attachments": []
@@ -6125,7 +6125,7 @@
     {
       "id": "e8c415cde3aa1f23",
       "position": 4,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
       "listContext": "16 ottobre 2026 Interpelli ricerca supplenti I.C. \"R. Morzenti\" S. Angelo Lodigiano Interpello Sostegno scuola primaria 12 ore",
       "title": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
@@ -6143,7 +6143,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/16d49be1-7fad-417f-aeb8-647a8ac1a156\" on this server. Reference #18.4ea61702.1792152361.2444e7f https://errors.edgesuite.net/18.4ea61702.1792152361.2444e7f"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/16d49be1-7fad-417f-aeb8-647a8ac1a156\" on this server. Reference #18.78a61702.1792155961.49693c4 https://errors.edgesuite.net/18.78a61702.1792155961.49693c4"
         }
       ],
       "attachments": []
