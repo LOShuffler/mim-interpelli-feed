@@ -6,18 +6,157 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-16T11:05:22.879Z",
-  "completedAt": "2026-10-16T11:05:55.641Z",
+  "retrievedAt": "2026-10-16T12:05:34.948Z",
+  "completedAt": "2026-10-16T12:06:11.083Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 24988,
+    "textLength": 24926,
     "discoveredCount": 200,
     "safetyLimited": false,
     "processedCount": 4
   },
   "recentEvents": [
+    {
+      "id": "57b86e1a7bee8440",
+      "type": "new",
+      "detectedAt": "2026-10-16T12:05:34.948Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-36",
+      "item": {
+        "id": "799c09bbe612b8b7",
+        "position": 1,
+        "collectionReason": "new",
+        "listLabel": "I.C. \"C. Collodi\" S. Angelo Lodigiano",
+        "listContext": "16 ottobre 2026 Interpelli ricerca supplenti I.C. \"C. Collodi\" S. Angelo Lodigiano Interpello su cdc EEEE- 24 h fino al 5 febbraio 2027",
+        "title": "I.C. \"C. Collodi\" S. Angelo Lodigiano",
+        "subtitle": "Interpello su cdc EEEE- 24 h fino al 5 febbraio 2027",
+        "publicationDate": "16 ottobre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-36",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-36",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/23cd821e-7860-4680-a2f9-9875069a58e3",
+            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/23cd821e-7860-4680-a2f9-9875069a58e3",
+            "httpStatus": 403,
+            "title": "Access Denied",
+            "subtitle": "",
+            "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/23cd821e-7860-4680-a2f9-9875069a58e3\" on this server. Reference #18.6aa61702.1792152346.ba2abf9 https://errors.edgesuite.net/18.6aa61702.1792152346.ba2abf9"
+          }
+        ],
+        "attachments": []
+      }
+    },
+    {
+      "id": "6404af235ead16e7",
+      "type": "new",
+      "detectedAt": "2026-10-16T12:05:34.948Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/cpia-lodi-6",
+      "item": {
+        "id": "243a375dfdc7fb05",
+        "position": 2,
+        "collectionReason": "new",
+        "listLabel": "CPIA Lodi",
+        "listContext": "16 ottobre 2026 Interpelli ricerca supplenti CPIA Lodi Interpello A028 Lodi e Casa Circondariale di Lodi",
+        "title": "CPIA Lodi",
+        "subtitle": "Interpello A028 Lodi e Casa Circondariale di Lodi",
+        "publicationDate": "16 ottobre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/cpia-lodi-6",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/cpia-lodi-6",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://www.cpialodi.edu.it/circolare/interpello-classe-di-concorso-a028/",
+            "finalUrl": "https://www.cpialodi.edu.it/circolare/interpello-classe-di-concorso-a028/",
+            "httpStatus": 200,
+            "title": "Documenti",
+            "subtitle": "",
+            "text": "AVVISO Si comunica che, rilevata la necessità di provvedere a formulare specifico avviso finalizzato al reclutamento di un docente per l’insegnamento di Matematica/Scienze nella scuola secondaria di I grado (classe di concorso A028), questa Istituzione scolastica, ai sensi dell’art. 13, comma 23 dell’O.M. n. 88/2024, deve procedere a proporre interpello, che sarà valutato solo se la Convocazione da Graduatoria di Istituto non avrà esito positivo. La supplenza ha le seguenti caratteristiche: a) Inizio 19/10/2026 e termine 30/06/2027 b) Orario settimanale 18 ore NON MODIFICABILE: lunedì dalle 12:00 alle 15:00 martedì dalle 13:30 alle 17:30 mercoledì dalle 09:30 alle 12:30 e dalle 13:00 alle 15:00 giovedì dalle 10:30 alle 14:30 venerdì dalle 09:00 alle 11:00 c) Sede di servizio LODI e CASA CIRCONDARIALE di Lodi Tutti gli interessati sono tenuti a presentare entro e non oltre le ore 13.00 del 18/10/2026 la propria disponibilità al conferimento della supplenza, inviando all’indirizzo lomm022001@istruzione.it il modello allegato al presente avviso, unitamente al proprio curriculum e a una copia di un documento di identità. La supplenza sarà conferita agli aspiranti che avranno presentato domanda nei termini indicati, secondo il seguente ordine di priorità: 1. Possesso dell’abilitazione per la classe di concorso 2. Possesso dei titoli necessari per l’iscrizione nella seconda fascia delle graduatorie provinciali per le supplenze 3. Possesso di titoli di studio affini a quelli previsti al precedente punto 2 La supplenza sarà conferita all’aspirante che avrà presentato domanda nei termini indicati. Il destinatario dell’incarico di supplenza sarà avvisato telefonicamente o per e-mail. Dovrà fornire risposta immediata di accettazione e assumere servizio entro 24 ore dall’accettazione. Nel caso in cui non sia possibile l’immediato contatto telefonico o la ricezione della risposta all’email non sia effettuata entro due ore dall’inoltro da parte degli uffici, l’Amministrazione si riserva di procedere alla chiamata di altri aspiranti. Si applicano, in caso di mancata accettazione e/o presa di servizio, le sanzioni di cui all’art. 14 dell’O.M. n. 88/2024. L’informativa sul trattamento dei dati https://www.cpialodi.edu.it/2024/09/19/interpello-docenti/ Documenti SEGNATURA_1792147412_Interpello_A028_Lodi_e_Casa_Circondariale_di_Lodi pdf - 156 kb INFORMATIVA PRIVACY INTERPELLO pdf - 172 kb Pubblicato: 16.10.2026 - Revisione: 16.10.2026 Eccetto dove diversamente specificato, questo articolo è stato rilasciato sotto Licenza Creative Commons Attribuzione 4.0 Italia."
+          }
+        ],
+        "attachments": [
+          {
+            "text": "Le carte della scuola",
+            "href": "https://www.cpialodi.edu.it/documento/",
+            "title": "",
+            "context": "Le carte della scuola",
+            "status": 200,
+            "contentType": "text/html; charset=UTF-8",
+            "bytes": 297873,
+            "file": "items/02-CPIA-Lodi/01-attachment"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5537a05533ae4cef",
+      "type": "new",
+      "detectedAt": "2026-10-16T12:05:34.948Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-r-morzenti-s-angelo-lodigiano-25",
+      "item": {
+        "id": "417bef8586231fc6",
+        "position": 3,
+        "collectionReason": "new",
+        "listLabel": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
+        "listContext": "16 ottobre 2026 Interpelli ricerca supplenti I.C. \"R. Morzenti\" S. Angelo Lodigiano Interpello A028 Matematica e scienze fino al 19/11/2026",
+        "title": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
+        "subtitle": "Interpello A028 Matematica e scienze fino al 19/11/2026",
+        "publicationDate": "16 ottobre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-r-morzenti-s-angelo-lodigiano-25",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-r-morzenti-s-angelo-lodigiano-25",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0012/63eb3488-7f88-4858-a816-a93ad1e63a26",
+            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0012/63eb3488-7f88-4858-a816-a93ad1e63a26",
+            "httpStatus": 403,
+            "title": "Access Denied",
+            "subtitle": "",
+            "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/63eb3488-7f88-4858-a816-a93ad1e63a26\" on this server. Reference #18.6aa61702.1792152361.ba2d0bd https://errors.edgesuite.net/18.6aa61702.1792152361.ba2d0bd"
+          }
+        ],
+        "attachments": []
+      }
+    },
+    {
+      "id": "1677aa2c3535c34b",
+      "type": "new",
+      "detectedAt": "2026-10-16T12:05:34.948Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-r-morzenti-s-angelo-lodigiano-24",
+      "item": {
+        "id": "e8c415cde3aa1f23",
+        "position": 4,
+        "collectionReason": "new",
+        "listLabel": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
+        "listContext": "16 ottobre 2026 Interpelli ricerca supplenti I.C. \"R. Morzenti\" S. Angelo Lodigiano Interpello Sostegno scuola primaria 12 ore",
+        "title": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
+        "subtitle": "Interpello Sostegno scuola primaria 12 ore",
+        "publicationDate": "16 ottobre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-r-morzenti-s-angelo-lodigiano-24",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-r-morzenti-s-angelo-lodigiano-24",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0012/16d49be1-7fad-417f-aeb8-647a8ac1a156",
+            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0012/16d49be1-7fad-417f-aeb8-647a8ac1a156",
+            "httpStatus": 403,
+            "title": "Access Denied",
+            "subtitle": "",
+            "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/16d49be1-7fad-417f-aeb8-647a8ac1a156\" on this server. Reference #18.4ea61702.1792152361.2444e7f https://errors.edgesuite.net/18.4ea61702.1792152361.2444e7f"
+          }
+        ],
+        "attachments": []
+      }
+    },
     {
       "id": "77efa1d5669008c4",
       "type": "new",
@@ -5891,261 +6030,123 @@
           }
         ]
       }
-    },
-    {
-      "id": "2086b5952794b395",
-      "type": "new",
-      "detectedAt": "2026-09-16T12:05:33.092Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-47",
-      "item": {
-        "id": "3c2db2f7b4445432",
-        "position": 1,
-        "collectionReason": "new",
-        "listLabel": "I.C. Lodi III",
-        "listContext": "16 settembre 2026 Interpelli ricerca supplenti I.C. Lodi III Posto comune A028 matematica e scienze",
-        "title": "I.C. Lodi III",
-        "subtitle": "Posto comune A028 matematica e scienze",
-        "publicationDate": "16 settembre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-47",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-47",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/8e93420f-d2b3-46df-a851-f1f9b34a3873",
-            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/8e93420f-d2b3-46df-a851-f1f9b34a3873",
-            "httpStatus": 200,
-            "title": "Elenco interpelli",
-            "subtitle": "",
-            "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" LODI 3 \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio docente matematica e scienze A028 Matematica e scienze 17/09/2026 14/10/2026 LOIC814001 I.C. LODI III Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
-          }
-        ],
-        "attachments": []
-      }
-    },
-    {
-      "id": "767bc42d93ff20a1",
-      "type": "new",
-      "detectedAt": "2026-09-16T12:05:33.092Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-46",
-      "item": {
-        "id": "c7f26a0404cd44ee",
-        "position": 2,
-        "collectionReason": "new",
-        "listLabel": "I.C. Lodi III",
-        "listContext": "16 settembre 2026 Interpelli ricerca supplenti I.C. Lodi III ARTE E IMMAGINE NELLA SCUOLA SECONDARIA DI I GRADO",
-        "title": "I.C. Lodi III",
-        "subtitle": "ARTE E IMMAGINE NELLA SCUOLA SECONDARIA DI I GRADO",
-        "publicationDate": "16 settembre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-46",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-46",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/2c9ae597-696c-4c80-8a7b-e153c6e2b1d3",
-            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/2c9ae597-696c-4c80-8a7b-e153c6e2b1d3",
-            "httpStatus": 200,
-            "title": "Elenco interpelli",
-            "subtitle": "",
-            "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" LODI 3 \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio ARTE E IMMAGINE NELLA SCUOLA SECONDARIA DI I GRADO AM01 ARTE E IMMAGINE NELLA SCUOLA SECONDARIA DI I GRADO 17/09/2026 02/02/2027 LOIC814001 IC LODI TERZO Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
-          }
-        ],
-        "attachments": []
-      }
-    },
-    {
-      "id": "501547aeec383457",
-      "type": "new",
-      "detectedAt": "2026-09-16T12:05:33.092Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-fellini-di-tavazzano",
-      "item": {
-        "id": "20775c8cd381a952",
-        "position": 3,
-        "collectionReason": "new",
-        "listLabel": "I.C. \"Fellini\" di Tavazzano",
-        "listContext": "16 settembre 2026 Interpelli ricerca supplenti I.C. \"Fellini\" di Tavazzano Posto SOSTEGNO - SCUOLA INFANZIA fino al 30/06/2027",
-        "title": "I.C. \"Fellini\" di Tavazzano",
-        "subtitle": "Posto SOSTEGNO - SCUOLA INFANZIA fino al 30/06/2027",
-        "publicationDate": "16 settembre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-fellini-di-tavazzano",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-fellini-di-tavazzano",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0001/dd82ddad-5a7a-4c0b-8466-abbf159093dc",
-            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0001/dd82ddad-5a7a-4c0b-8466-abbf159093dc",
-            "httpStatus": 200,
-            "title": "Elenco interpelli",
-            "subtitle": "",
-            "text": "Interpelli ISTITUTO COMPRENSIVO \"F. FELLINI\" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio Interpello nazionale per reperimento docenti su tipo di posto SOSTEGNO - SCUOLA INFANZIA fino al 30/06/2027 ADAA Sostegno scuola dell'infanzia 21/09/2026 30/06/2027 LOAA80000V Scuola Infanzia di Tavazzano e Sordio Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
-          }
-        ],
-        "attachments": []
-      }
     }
   ],
   "latestFour": [
     {
-      "id": "fa584b4d0f28e39e",
+      "id": "799c09bbe612b8b7",
       "position": 1,
-      "collectionReason": "refresh",
+      "collectionReason": "new",
       "listLabel": "I.C. \"C. Collodi\" S. Angelo Lodigiano",
-      "listContext": "16 ottobre 2026 Interpelli ricerca supplenti I.C. \"C. Collodi\" S. Angelo Lodigiano Interpello insegnante posto comune scuola primaria",
+      "listContext": "16 ottobre 2026 Interpelli ricerca supplenti I.C. \"C. Collodi\" S. Angelo Lodigiano Interpello su cdc EEEE- 24 h fino al 5 febbraio 2027",
       "title": "I.C. \"C. Collodi\" S. Angelo Lodigiano",
-      "subtitle": "Interpello insegnante posto comune scuola primaria",
+      "subtitle": "Interpello su cdc EEEE- 24 h fino al 5 febbraio 2027",
       "publicationDate": "16 ottobre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-35",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-35",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-36",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-36",
       "httpStatus": 200,
       "text": "Link interpello",
       "pages": [
         {
           "label": "Link interpello",
-          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/217cc58c-6c7f-46e9-8acd-b0b4b494e2f0",
-          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/217cc58c-6c7f-46e9-8acd-b0b4b494e2f0",
+          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/23cd821e-7860-4680-a2f9-9875069a58e3",
+          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/23cd821e-7860-4680-a2f9-9875069a58e3",
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/217cc58c-6c7f-46e9-8acd-b0b4b494e2f0\" on this server. Reference #18.3a68dead.1792148734.83bc519 https://errors.edgesuite.net/18.3a68dead.1792148734.83bc519"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/23cd821e-7860-4680-a2f9-9875069a58e3\" on this server. Reference #18.6aa61702.1792152346.ba2abf9 https://errors.edgesuite.net/18.6aa61702.1792152346.ba2abf9"
         }
       ],
       "attachments": []
     },
     {
-      "id": "eb6769a319c99aa3",
+      "id": "243a375dfdc7fb05",
       "position": 2,
-      "collectionReason": "refresh",
-      "listLabel": "Liceo \"M. Vegio\" Lodi",
-      "listContext": "16 ottobre 2026 Interpelli ricerca supplenti Liceo \"M. Vegio\" Lodi INTERPELLO AS2A - LINGUE E CULTURE STRANIERE NELL'ISTRUZIONE SECONDARIA DI II GRADO (FRANCESE) - FINO AL 15 NOVEMBRE 2026",
-      "title": "Liceo \"M. Vegio\" Lodi",
-      "subtitle": "INTERPELLO AS2A - LINGUE E CULTURE STRANIERE NELL'ISTRUZIONE SECONDARIA DI II GRADO (FRANCESE) - FINO AL 15 NOVEMBRE 2026",
+      "collectionReason": "new",
+      "listLabel": "CPIA Lodi",
+      "listContext": "16 ottobre 2026 Interpelli ricerca supplenti CPIA Lodi Interpello A028 Lodi e Casa Circondariale di Lodi",
+      "title": "CPIA Lodi",
+      "subtitle": "Interpello A028 Lodi e Casa Circondariale di Lodi",
       "publicationDate": "16 ottobre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/liceo-m-vegio-lodi-2",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/liceo-m-vegio-lodi-2",
-      "httpStatus": 200,
-      "text": "Link intepello",
-      "pages": [
-        {
-          "label": "Link intepello",
-          "url": "https://nuvola.madisoft.it/file/api/public-file-preview/LOPM010008/487596c7-c07e-4b3a-bc8d-3a86000db608",
-          "error": "page.goto: Download is starting\nCall log:\n  - navigating to \"https://nuvola.madisoft.it/file/api/public-file-preview/LOPM010008/487596c7-c07e-4b3a-bc8d-3a86000db608\", waiting until \"domcontentloaded\"\n"
-        }
-      ],
-      "attachments": []
-    },
-    {
-      "id": "764c2efe088fcbdc",
-      "position": 3,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. Lodi III",
-      "listContext": "16 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi III Interpello docenti A028 Matematica e scienze",
-      "title": "I.C. Lodi III",
-      "subtitle": "Interpello docenti A028 Matematica e scienze",
-      "publicationDate": "16 ottobre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-59",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-59",
+      "url": "https://www.mim.gov.it/web/lodi/-/cpia-lodi-6",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/cpia-lodi-6",
       "httpStatus": 200,
       "text": "Link interpello",
       "pages": [
         {
           "label": "Link interpello",
-          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/4f99838f-2528-4522-aa3d-6e2815ea5e75",
-          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/4f99838f-2528-4522-aa3d-6e2815ea5e75",
-          "httpStatus": 403,
-          "title": "Access Denied",
-          "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0013/4f99838f-2528-4522-aa3d-6e2815ea5e75\" on this server. Reference #18.3a68dead.1792148745.83bdee3 https://errors.edgesuite.net/18.3a68dead.1792148745.83bdee3"
-        }
-      ],
-      "attachments": []
-    },
-    {
-      "id": "0e86642ef044c23f",
-      "position": 4,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. Castiglione d'Adda",
-      "listContext": "16 ottobre 2026 Interpelli ricerca supplenti I.C. Castiglione d'Adda Interpello scuola primaria",
-      "title": "I.C. Castiglione d'Adda",
-      "subtitle": "Interpello scuola primaria",
-      "publicationDate": "16 ottobre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-castiglione-d-adda-24",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-castiglione-d-adda-24",
-      "httpStatus": 200,
-      "text": "Link pagina interpelli",
-      "pages": [
-        {
-          "label": "Link pagina interpelli",
-          "url": "https://www.iccastiglione.edu.it/albo-online?categoria=10001&cerca=&storico=&aoo=",
-          "finalUrl": "https://www.iccastiglione.edu.it/albo-online?categoria=10001&cerca=&storico=&aoo=",
+          "url": "https://www.cpialodi.edu.it/circolare/interpello-classe-di-concorso-a028/",
+          "finalUrl": "https://www.cpialodi.edu.it/circolare/interpello-classe-di-concorso-a028/",
           "httpStatus": 200,
-          "title": "Albo Online",
-          "subtitle": "Sito web istituzionale Istituto Comprensivo Castiglione D'Adda - Via Alcide De Gasperi, 30 – 26823 Castiglione d’Adda (LO)",
-          "text": "Salta al contenuto Accedi Istituto Comprensivo di Castiglione d'Adda (LO) Scuola Servizi Novità Didattica Privacy Home > Novità > Albo Online Albo Online Categorie Avvisi 6 Organi Collegiali 16 Graduatorie 2 Nomine personale 28 Contabilità 3 Bandi di gara 12 Convenzioni Incarichi e consulenze Libri di testo Sicurezza Contratti 9 Regolamenti Esami Altro Albo Altre PA Scrutini Tutte le tipologie Avvisi Organi Collegiali Graduatorie Nomine personale Contabilità Bandi di gara Convenzioni Incarichi e consulenze Libri di testo Sicurezza Contratti Regolamenti Esami Altro Albo Altre PA Scrutini Avvisi 495 2026 Protocollo 8851/2026 del 15/10/2026 Procedura di interpello per selezione personale docente SCUOLA PRIMARIA Pubblicato il: 15/10/2026 Tipologia: Avvisi 492 2026 Protocollo 8815/2026 del 15/10/2026 Procedura di interpello per selezione personale docente SCUOLA SECONDARIA I GRADO – A028 (MATEMATICA) Pubblicato il: 15/10/2026 Tipologia: Avvisi 479 2026 Protocollo 8684/2026 del 12/10/2026 Procedura di interpello per selezione personale docente SCUOLA PRIMARIA Pubblicato il: 12/10/2026 Tipologia: Avvisi 478 2026 Protocollo 8683/2026 del 12/10/2026 Procedura di interpello per selezione personale docente SCUOLA INFANZIA-IC Castiglione d'Adda Pubblicato il: 12/10/2026 Tipologia: Avvisi 475 2026 Protocollo 8569/2026 del 07/10/2026 DM 176 - 3° AVVISO RICERCA FIGURE PROFESSIONALI PER RUOLO DI ATA (COLLABORATORE SCOLASTICO) Pubblicato il: 07/10/2026 Tipologia: Avvisi Allegati: allegati 3° avviso.zip 271 2026 Protocollo 6812/2026 del 08/07/2026 Disseminazione D.M. 38 Formazione prot. 95165 Pubblicato il: 08/07/2026 Tipologia: Avvisi Questo sito o gli strumenti terzi da questo utilizzati si avvalgono di cookie necessari al funzionamento ed utili alle finalità illustrate nella COOKIE POLICY. PERSONALIZZA RIFIUTA TUTTI I COOKIES ACCETTA TUTTI I COOKIES Istituto Comprensivo Castiglione D'Adda CONTATTI Istituto Comprensivo Castiglione D'Adda Via Alcide De Gasperi, 30 – 26823 Castiglione d’Adda (LO) Tel: +39 0377 900482 Email: loic80800n@istruzione.it Link per inviare una mail PEC: loic80800n@pec.istruzione.it Link per inviare una mail C.F.: 82503260158 SEZIONE LINK UTILI Cookie policy Note legali Informativa Privacy Ufficio Relazioni con il Pubblico Dichiarazione di accessibilità Obiettivi di accessibilità Whistleblowing Gestione consensi cookie Amministrazione trasparente Pagina visualizzata 217066 volte Sezione Copyright Copyright 2026 | Engineered and powered by Gruppo Spaggiari Parma S.p.A. | Divisione Publishing & New Social Media Disclaimer trattamento dati personali"
+          "title": "Documenti",
+          "subtitle": "",
+          "text": "AVVISO Si comunica che, rilevata la necessità di provvedere a formulare specifico avviso finalizzato al reclutamento di un docente per l’insegnamento di Matematica/Scienze nella scuola secondaria di I grado (classe di concorso A028), questa Istituzione scolastica, ai sensi dell’art. 13, comma 23 dell’O.M. n. 88/2024, deve procedere a proporre interpello, che sarà valutato solo se la Convocazione da Graduatoria di Istituto non avrà esito positivo. La supplenza ha le seguenti caratteristiche: a) Inizio 19/10/2026 e termine 30/06/2027 b) Orario settimanale 18 ore NON MODIFICABILE: lunedì dalle 12:00 alle 15:00 martedì dalle 13:30 alle 17:30 mercoledì dalle 09:30 alle 12:30 e dalle 13:00 alle 15:00 giovedì dalle 10:30 alle 14:30 venerdì dalle 09:00 alle 11:00 c) Sede di servizio LODI e CASA CIRCONDARIALE di Lodi Tutti gli interessati sono tenuti a presentare entro e non oltre le ore 13.00 del 18/10/2026 la propria disponibilità al conferimento della supplenza, inviando all’indirizzo lomm022001@istruzione.it il modello allegato al presente avviso, unitamente al proprio curriculum e a una copia di un documento di identità. La supplenza sarà conferita agli aspiranti che avranno presentato domanda nei termini indicati, secondo il seguente ordine di priorità: 1. Possesso dell’abilitazione per la classe di concorso 2. Possesso dei titoli necessari per l’iscrizione nella seconda fascia delle graduatorie provinciali per le supplenze 3. Possesso di titoli di studio affini a quelli previsti al precedente punto 2 La supplenza sarà conferita all’aspirante che avrà presentato domanda nei termini indicati. Il destinatario dell’incarico di supplenza sarà avvisato telefonicamente o per e-mail. Dovrà fornire risposta immediata di accettazione e assumere servizio entro 24 ore dall’accettazione. Nel caso in cui non sia possibile l’immediato contatto telefonico o la ricezione della risposta all’email non sia effettuata entro due ore dall’inoltro da parte degli uffici, l’Amministrazione si riserva di procedere alla chiamata di altri aspiranti. Si applicano, in caso di mancata accettazione e/o presa di servizio, le sanzioni di cui all’art. 14 dell’O.M. n. 88/2024. L’informativa sul trattamento dei dati https://www.cpialodi.edu.it/2024/09/19/interpello-docenti/ Documenti SEGNATURA_1792147412_Interpello_A028_Lodi_e_Casa_Circondariale_di_Lodi pdf - 156 kb INFORMATIVA PRIVACY INTERPELLO pdf - 172 kb Pubblicato: 16.10.2026 - Revisione: 16.10.2026 Eccetto dove diversamente specificato, questo articolo è stato rilasciato sotto Licenza Creative Commons Attribuzione 4.0 Italia."
         }
       ],
       "attachments": [
         {
-          "text": "",
-          "href": "https://web.spaggiari.eu/sdg2/Documenti/LOME0007/g7etp5ugfq?download=1",
+          "text": "Le carte della scuola",
+          "href": "https://www.cpialodi.edu.it/documento/",
           "title": "",
-          "context": "",
-          "status": 403,
-          "error": "HTTP 403"
-        },
-        {
-          "text": "",
-          "href": "https://web.spaggiari.eu/sdg2/Documenti/LOME0007/82tndvqp9p?download=1",
-          "title": "",
-          "context": "",
-          "status": 403,
-          "error": "HTTP 403"
-        },
-        {
-          "text": "",
-          "href": "https://web.spaggiari.eu/sdg2/Documenti/LOME0007/m79llck251?download=1",
-          "title": "",
-          "context": "",
-          "status": 403,
-          "error": "HTTP 403"
-        },
-        {
-          "text": "",
-          "href": "https://web.spaggiari.eu/sdg2/Documenti/LOME0007/55mao798ei?download=1",
-          "title": "",
-          "context": "",
-          "status": 403,
-          "error": "HTTP 403"
-        },
-        {
-          "text": "",
-          "href": "https://web.spaggiari.eu/sdg2/Documenti/LOME0007/unbl0tscid?download=1",
-          "title": "",
-          "context": "allegati 3° avviso.zip",
-          "status": 403,
-          "error": "HTTP 403"
-        },
-        {
-          "text": "",
-          "href": "https://web.spaggiari.eu/sdg2/Documenti/LOME0007/podkjeos1d?download=1",
-          "title": "",
-          "context": "",
-          "status": 403,
-          "error": "HTTP 403"
-        },
-        {
-          "text": "",
-          "href": "https://web.spaggiari.eu/sdg2/Documenti/LOME0007/il4rhan97o?download=1",
-          "title": "",
-          "context": "",
-          "status": 403,
-          "error": "HTTP 403"
+          "context": "Le carte della scuola",
+          "status": 200,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 297873,
+          "file": "items/02-CPIA-Lodi/01-attachment"
         }
       ]
+    },
+    {
+      "id": "417bef8586231fc6",
+      "position": 3,
+      "collectionReason": "new",
+      "listLabel": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
+      "listContext": "16 ottobre 2026 Interpelli ricerca supplenti I.C. \"R. Morzenti\" S. Angelo Lodigiano Interpello A028 Matematica e scienze fino al 19/11/2026",
+      "title": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
+      "subtitle": "Interpello A028 Matematica e scienze fino al 19/11/2026",
+      "publicationDate": "16 ottobre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-r-morzenti-s-angelo-lodigiano-25",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-r-morzenti-s-angelo-lodigiano-25",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0012/63eb3488-7f88-4858-a816-a93ad1e63a26",
+          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0012/63eb3488-7f88-4858-a816-a93ad1e63a26",
+          "httpStatus": 403,
+          "title": "Access Denied",
+          "subtitle": "",
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/63eb3488-7f88-4858-a816-a93ad1e63a26\" on this server. Reference #18.6aa61702.1792152361.ba2d0bd https://errors.edgesuite.net/18.6aa61702.1792152361.ba2d0bd"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "e8c415cde3aa1f23",
+      "position": 4,
+      "collectionReason": "new",
+      "listLabel": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
+      "listContext": "16 ottobre 2026 Interpelli ricerca supplenti I.C. \"R. Morzenti\" S. Angelo Lodigiano Interpello Sostegno scuola primaria 12 ore",
+      "title": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
+      "subtitle": "Interpello Sostegno scuola primaria 12 ore",
+      "publicationDate": "16 ottobre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-r-morzenti-s-angelo-lodigiano-24",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-r-morzenti-s-angelo-lodigiano-24",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0012/16d49be1-7fad-417f-aeb8-647a8ac1a156",
+          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0012/16d49be1-7fad-417f-aeb8-647a8ac1a156",
+          "httpStatus": 403,
+          "title": "Access Denied",
+          "subtitle": "",
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/16d49be1-7fad-417f-aeb8-647a8ac1a156\" on this server. Reference #18.4ea61702.1792152361.2444e7f https://errors.edgesuite.net/18.4ea61702.1792152361.2444e7f"
+        }
+      ],
+      "attachments": []
     }
   ],
   "errors": []
