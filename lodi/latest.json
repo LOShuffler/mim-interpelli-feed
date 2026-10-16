@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-16T10:05:32.242Z",
-  "completedAt": "2026-10-16T10:06:06.332Z",
+  "retrievedAt": "2026-10-16T11:05:22.879Z",
+  "completedAt": "2026-10-16T11:05:55.641Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -5987,45 +5987,13 @@
         ],
         "attachments": []
       }
-    },
-    {
-      "id": "988da7e6e9dfa20c",
-      "type": "new",
-      "detectedAt": "2026-09-16T11:05:33.012Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-borghetto-lodigiano-9",
-      "item": {
-        "id": "4c1ef23467c1b95c",
-        "position": 1,
-        "collectionReason": "new",
-        "listLabel": "I.C. Borghetto Lodigiano",
-        "listContext": "16 settembre 2026 Interpelli ricerca supplenti I.C. Borghetto Lodigiano SELEZIONE PERSONALE DOCENTE SOSTEGNO SCUOLA PRIMARIA",
-        "title": "I.C. Borghetto Lodigiano",
-        "subtitle": "SELEZIONE PERSONALE DOCENTE SOSTEGNO SCUOLA PRIMARIA",
-        "publicationDate": "16 settembre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-borghetto-lodigiano-9",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-borghetto-lodigiano-9",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://nuvola.madisoft.it/interpelli/LOIC80400A/docenti/5cd4d115-45bd-4556-bde7-6386e3640e8f/candidatura",
-            "finalUrl": "https://nuvola.madisoft.it/interpelli/LOIC80400A/docenti/5cd4d115-45bd-4556-bde7-6386e3640e8f/candidatura",
-            "httpStatus": 200,
-            "title": "INTERPELLO PER SELEZIONE PERSONALE DOCENTE SOSTEGNO SCUOLA PRIMARIA",
-            "subtitle": "Nuvola - Interpelli",
-            "text": "nuvola Gestione Interpelli Torna agli interpelli aperti STEP 1 Dati anagrafici Generalità e contatti STEP 2 Titoli e certificazioni Studio e lingue STEP 3 Abilitazioni Abilitazione all'insegnamento e servizio prestato STEP 4 Esperienze di servizio Incarichi svolti e periodi di servizio STEP 5 Allegati e dichiarazioni Curriculum, altri allegati e dichiarazioni finali STEP 6 Riepilogo Controlla i dati inseriti INTERPELLO PER SELEZIONE PERSONALE DOCENTE SOSTEGNO SCUOLA PRIMARIA Durata: 24 ore 0 minuti dal 18/09/2026 al 06/10/2026 Presentazione candidature: dal 16/09/2026 11:00 al 17/09/2026 11:00 Posti disponibili: 1 Annotazioni: A parità di ordine di priorità, la supplenza sarà conferita all'aspirante che abbia già prestato servizio di insegnamento presso questa istituzione scolastica, preferibilmente per la medesima tipologia di posto. Classe di concorso: ADEE Sostegno nella scuola Primaria Ordine di scuola: PRIMARIA Sede di servizio: IC BORGHETTO LODIGIANO STEP 1 DI 6 Dati anagrafici Generalità e contatti Generalità Generalità Nome Cognome Sesso Codice fiscale Data di nascita Comune di nascita Stato di nascita Residenza Residenza Indirizzo di residenza Comune di residenza CAP di residenza Contatti Contatti Email PEC Cellulare Cittadinanza Cittadinanza Cittadino Italiano Cittadino di uno Stato membro UE Cittadino non comunitario con diritto di soggiorno o soggiorno permanente Avanti"
-          }
-        ],
-        "attachments": []
-      }
     }
   ],
   "latestFour": [
     {
       "id": "fa584b4d0f28e39e",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. \"C. Collodi\" S. Angelo Lodigiano",
       "listContext": "16 ottobre 2026 Interpelli ricerca supplenti I.C. \"C. Collodi\" S. Angelo Lodigiano Interpello insegnante posto comune scuola primaria",
       "title": "I.C. \"C. Collodi\" S. Angelo Lodigiano",
@@ -6043,7 +6011,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/217cc58c-6c7f-46e9-8acd-b0b4b494e2f0\" on this server. Reference #18.3468dead.1792145144.5475cb3 https://errors.edgesuite.net/18.3468dead.1792145144.5475cb3"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/217cc58c-6c7f-46e9-8acd-b0b4b494e2f0\" on this server. Reference #18.3a68dead.1792148734.83bc519 https://errors.edgesuite.net/18.3a68dead.1792148734.83bc519"
         }
       ],
       "attachments": []
@@ -6091,7 +6059,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0013/4f99838f-2528-4522-aa3d-6e2815ea5e75\" on this server. Reference #18.3468dead.1792145155.5477613 https://errors.edgesuite.net/18.3468dead.1792145155.5477613"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0013/4f99838f-2528-4522-aa3d-6e2815ea5e75\" on this server. Reference #18.3a68dead.1792148745.83bdee3 https://errors.edgesuite.net/18.3a68dead.1792148745.83bdee3"
         }
       ],
       "attachments": []
@@ -6117,7 +6085,7 @@
           "httpStatus": 200,
           "title": "Albo Online",
           "subtitle": "Sito web istituzionale Istituto Comprensivo Castiglione D'Adda - Via Alcide De Gasperi, 30 – 26823 Castiglione d’Adda (LO)",
-          "text": "Salta al contenuto Accedi Istituto Comprensivo di Castiglione d'Adda (LO) Scuola Servizi Novità Didattica Privacy Home > Novità > Albo Online Albo Online Categorie Avvisi 6 Organi Collegiali 16 Graduatorie 2 Nomine personale 28 Contabilità 3 Bandi di gara 12 Convenzioni Incarichi e consulenze Libri di testo Sicurezza Contratti 9 Regolamenti Esami Altro Albo Altre PA Scrutini Tutte le tipologie Avvisi Organi Collegiali Graduatorie Nomine personale Contabilità Bandi di gara Convenzioni Incarichi e consulenze Libri di testo Sicurezza Contratti Regolamenti Esami Altro Albo Altre PA Scrutini Avvisi 495 2026 Protocollo 8851/2026 del 15/10/2026 Procedura di interpello per selezione personale docente SCUOLA PRIMARIA Pubblicato il: 15/10/2026 Tipologia: Avvisi 492 2026 Protocollo 8815/2026 del 15/10/2026 Procedura di interpello per selezione personale docente SCUOLA SECONDARIA I GRADO – A028 (MATEMATICA) Pubblicato il: 15/10/2026 Tipologia: Avvisi 479 2026 Protocollo 8684/2026 del 12/10/2026 Procedura di interpello per selezione personale docente SCUOLA PRIMARIA Pubblicato il: 12/10/2026 Tipologia: Avvisi 478 2026 Protocollo 8683/2026 del 12/10/2026 Procedura di interpello per selezione personale docente SCUOLA INFANZIA-IC Castiglione d'Adda Pubblicato il: 12/10/2026 Tipologia: Avvisi 475 2026 Protocollo 8569/2026 del 07/10/2026 DM 176 - 3° AVVISO RICERCA FIGURE PROFESSIONALI PER RUOLO DI ATA (COLLABORATORE SCOLASTICO) Pubblicato il: 07/10/2026 Tipologia: Avvisi Allegati: allegati 3° avviso.zip 271 2026 Protocollo 6812/2026 del 08/07/2026 Disseminazione D.M. 38 Formazione prot. 95165 Pubblicato il: 08/07/2026 Tipologia: Avvisi Questo sito o gli strumenti terzi da questo utilizzati si avvalgono di cookie necessari al funzionamento ed utili alle finalità illustrate nella COOKIE POLICY. PERSONALIZZA RIFIUTA TUTTI I COOKIES ACCETTA TUTTI I COOKIES Istituto Comprensivo Castiglione D'Adda CONTATTI Istituto Comprensivo Castiglione D'Adda Via Alcide De Gasperi, 30 – 26823 Castiglione d’Adda (LO) Tel: +39 0377 900482 Email: loic80800n@istruzione.it Link per inviare una mail PEC: loic80800n@pec.istruzione.it Link per inviare una mail C.F.: 82503260158 SEZIONE LINK UTILI Cookie policy Note legali Informativa Privacy Ufficio Relazioni con il Pubblico Dichiarazione di accessibilità Obiettivi di accessibilità Whistleblowing Gestione consensi cookie Amministrazione trasparente Pagina visualizzata 217044 volte Sezione Copyright Copyright 2026 | Engineered and powered by Gruppo Spaggiari Parma S.p.A. | Divisione Publishing & New Social Media Disclaimer trattamento dati personali"
+          "text": "Salta al contenuto Accedi Istituto Comprensivo di Castiglione d'Adda (LO) Scuola Servizi Novità Didattica Privacy Home > Novità > Albo Online Albo Online Categorie Avvisi 6 Organi Collegiali 16 Graduatorie 2 Nomine personale 28 Contabilità 3 Bandi di gara 12 Convenzioni Incarichi e consulenze Libri di testo Sicurezza Contratti 9 Regolamenti Esami Altro Albo Altre PA Scrutini Tutte le tipologie Avvisi Organi Collegiali Graduatorie Nomine personale Contabilità Bandi di gara Convenzioni Incarichi e consulenze Libri di testo Sicurezza Contratti Regolamenti Esami Altro Albo Altre PA Scrutini Avvisi 495 2026 Protocollo 8851/2026 del 15/10/2026 Procedura di interpello per selezione personale docente SCUOLA PRIMARIA Pubblicato il: 15/10/2026 Tipologia: Avvisi 492 2026 Protocollo 8815/2026 del 15/10/2026 Procedura di interpello per selezione personale docente SCUOLA SECONDARIA I GRADO – A028 (MATEMATICA) Pubblicato il: 15/10/2026 Tipologia: Avvisi 479 2026 Protocollo 8684/2026 del 12/10/2026 Procedura di interpello per selezione personale docente SCUOLA PRIMARIA Pubblicato il: 12/10/2026 Tipologia: Avvisi 478 2026 Protocollo 8683/2026 del 12/10/2026 Procedura di interpello per selezione personale docente SCUOLA INFANZIA-IC Castiglione d'Adda Pubblicato il: 12/10/2026 Tipologia: Avvisi 475 2026 Protocollo 8569/2026 del 07/10/2026 DM 176 - 3° AVVISO RICERCA FIGURE PROFESSIONALI PER RUOLO DI ATA (COLLABORATORE SCOLASTICO) Pubblicato il: 07/10/2026 Tipologia: Avvisi Allegati: allegati 3° avviso.zip 271 2026 Protocollo 6812/2026 del 08/07/2026 Disseminazione D.M. 38 Formazione prot. 95165 Pubblicato il: 08/07/2026 Tipologia: Avvisi Questo sito o gli strumenti terzi da questo utilizzati si avvalgono di cookie necessari al funzionamento ed utili alle finalità illustrate nella COOKIE POLICY. PERSONALIZZA RIFIUTA TUTTI I COOKIES ACCETTA TUTTI I COOKIES Istituto Comprensivo Castiglione D'Adda CONTATTI Istituto Comprensivo Castiglione D'Adda Via Alcide De Gasperi, 30 – 26823 Castiglione d’Adda (LO) Tel: +39 0377 900482 Email: loic80800n@istruzione.it Link per inviare una mail PEC: loic80800n@pec.istruzione.it Link per inviare una mail C.F.: 82503260158 SEZIONE LINK UTILI Cookie policy Note legali Informativa Privacy Ufficio Relazioni con il Pubblico Dichiarazione di accessibilità Obiettivi di accessibilità Whistleblowing Gestione consensi cookie Amministrazione trasparente Pagina visualizzata 217066 volte Sezione Copyright Copyright 2026 | Engineered and powered by Gruppo Spaggiari Parma S.p.A. | Divisione Publishing & New Social Media Disclaimer trattamento dati personali"
         }
       ],
       "attachments": [
