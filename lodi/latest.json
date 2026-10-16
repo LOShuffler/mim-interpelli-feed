@@ -6,18 +6,78 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-16T08:05:32.207Z",
-  "completedAt": "2026-10-16T08:06:07.584Z",
+  "retrievedAt": "2026-10-16T09:05:32.821Z",
+  "completedAt": "2026-10-16T09:06:05.709Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 24927,
+    "textLength": 24981,
     "discoveredCount": 200,
     "safetyLimited": false,
     "processedCount": 4
   },
   "recentEvents": [
+    {
+      "id": "3a709c12565e480b",
+      "type": "new",
+      "detectedAt": "2026-10-16T09:05:32.821Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/liceo-m-vegio-lodi-2",
+      "item": {
+        "id": "eb6769a319c99aa3",
+        "position": 1,
+        "collectionReason": "new",
+        "listLabel": "Liceo \"M. Vegio\" Lodi",
+        "listContext": "16 ottobre 2026 Interpelli ricerca supplenti Liceo \"M. Vegio\" Lodi INTERPELLO AS2A - LINGUE E CULTURE STRANIERE NELL'ISTRUZIONE SECONDARIA DI II GRADO (FRANCESE) - FINO AL 15 NOVEMBRE 2026",
+        "title": "Liceo \"M. Vegio\" Lodi",
+        "subtitle": "INTERPELLO AS2A - LINGUE E CULTURE STRANIERE NELL'ISTRUZIONE SECONDARIA DI II GRADO (FRANCESE) - FINO AL 15 NOVEMBRE 2026",
+        "publicationDate": "16 ottobre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/liceo-m-vegio-lodi-2",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/liceo-m-vegio-lodi-2",
+        "httpStatus": 200,
+        "text": "Link intepello",
+        "pages": [
+          {
+            "label": "Link intepello",
+            "url": "https://nuvola.madisoft.it/file/api/public-file-preview/LOPM010008/487596c7-c07e-4b3a-bc8d-3a86000db608",
+            "error": "page.goto: Download is starting\nCall log:\n  - navigating to \"https://nuvola.madisoft.it/file/api/public-file-preview/LOPM010008/487596c7-c07e-4b3a-bc8d-3a86000db608\", waiting until \"domcontentloaded\"\n"
+          }
+        ],
+        "attachments": []
+      }
+    },
+    {
+      "id": "72c4c77a7abaa3a5",
+      "type": "new",
+      "detectedAt": "2026-10-16T09:05:32.821Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-59",
+      "item": {
+        "id": "764c2efe088fcbdc",
+        "position": 2,
+        "collectionReason": "new",
+        "listLabel": "I.C. Lodi III",
+        "listContext": "16 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi III Interpello docenti A028 Matematica e scienze",
+        "title": "I.C. Lodi III",
+        "subtitle": "Interpello docenti A028 Matematica e scienze",
+        "publicationDate": "16 ottobre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-59",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-59",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/4f99838f-2528-4522-aa3d-6e2815ea5e75",
+            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/4f99838f-2528-4522-aa3d-6e2815ea5e75",
+            "httpStatus": 403,
+            "title": "Access Denied",
+            "subtitle": "",
+            "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0013/4f99838f-2528-4522-aa3d-6e2815ea5e75\" on this server. Reference #18.e1b62417.1792141549.520a6a0 https://errors.edgesuite.net/18.e1b62417.1792141549.520a6a0"
+          }
+        ],
+        "attachments": []
+      }
+    },
     {
       "id": "69339e82852d6d4a",
       "type": "new",
@@ -5995,9 +6055,57 @@
   ],
   "latestFour": [
     {
-      "id": "0e86642ef044c23f",
+      "id": "eb6769a319c99aa3",
       "position": 1,
       "collectionReason": "new",
+      "listLabel": "Liceo \"M. Vegio\" Lodi",
+      "listContext": "16 ottobre 2026 Interpelli ricerca supplenti Liceo \"M. Vegio\" Lodi INTERPELLO AS2A - LINGUE E CULTURE STRANIERE NELL'ISTRUZIONE SECONDARIA DI II GRADO (FRANCESE) - FINO AL 15 NOVEMBRE 2026",
+      "title": "Liceo \"M. Vegio\" Lodi",
+      "subtitle": "INTERPELLO AS2A - LINGUE E CULTURE STRANIERE NELL'ISTRUZIONE SECONDARIA DI II GRADO (FRANCESE) - FINO AL 15 NOVEMBRE 2026",
+      "publicationDate": "16 ottobre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/liceo-m-vegio-lodi-2",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/liceo-m-vegio-lodi-2",
+      "httpStatus": 200,
+      "text": "Link intepello",
+      "pages": [
+        {
+          "label": "Link intepello",
+          "url": "https://nuvola.madisoft.it/file/api/public-file-preview/LOPM010008/487596c7-c07e-4b3a-bc8d-3a86000db608",
+          "error": "page.goto: Download is starting\nCall log:\n  - navigating to \"https://nuvola.madisoft.it/file/api/public-file-preview/LOPM010008/487596c7-c07e-4b3a-bc8d-3a86000db608\", waiting until \"domcontentloaded\"\n"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "764c2efe088fcbdc",
+      "position": 2,
+      "collectionReason": "new",
+      "listLabel": "I.C. Lodi III",
+      "listContext": "16 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi III Interpello docenti A028 Matematica e scienze",
+      "title": "I.C. Lodi III",
+      "subtitle": "Interpello docenti A028 Matematica e scienze",
+      "publicationDate": "16 ottobre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-59",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-59",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/4f99838f-2528-4522-aa3d-6e2815ea5e75",
+          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/4f99838f-2528-4522-aa3d-6e2815ea5e75",
+          "httpStatus": 403,
+          "title": "Access Denied",
+          "subtitle": "",
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0013/4f99838f-2528-4522-aa3d-6e2815ea5e75\" on this server. Reference #18.e1b62417.1792141549.520a6a0 https://errors.edgesuite.net/18.e1b62417.1792141549.520a6a0"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "0e86642ef044c23f",
+      "position": 3,
+      "collectionReason": "refresh",
       "listLabel": "I.C. Castiglione d'Adda",
       "listContext": "16 ottobre 2026 Interpelli ricerca supplenti I.C. Castiglione d'Adda Interpello scuola primaria",
       "title": "I.C. Castiglione d'Adda",
@@ -6015,7 +6123,7 @@
           "httpStatus": 200,
           "title": "Albo Online",
           "subtitle": "Sito web istituzionale Istituto Comprensivo Castiglione D'Adda - Via Alcide De Gasperi, 30 – 26823 Castiglione d’Adda (LO)",
-          "text": "Salta al contenuto Accedi Istituto Comprensivo di Castiglione d'Adda (LO) Scuola Servizi Novità Didattica Privacy Home > Novità > Albo Online Albo Online Categorie Avvisi 6 Organi Collegiali 16 Graduatorie 2 Nomine personale 28 Contabilità 3 Bandi di gara 12 Convenzioni Incarichi e consulenze Libri di testo Sicurezza Contratti 8 Regolamenti Esami Altro Albo Altre PA Scrutini Tutte le tipologie Avvisi Organi Collegiali Graduatorie Nomine personale Contabilità Bandi di gara Convenzioni Incarichi e consulenze Libri di testo Sicurezza Contratti Regolamenti Esami Altro Albo Altre PA Scrutini Avvisi 495 2026 Protocollo 8851/2026 del 15/10/2026 Procedura di interpello per selezione personale docente SCUOLA PRIMARIA Pubblicato il: 15/10/2026 Tipologia: Avvisi 492 2026 Protocollo 8815/2026 del 15/10/2026 Procedura di interpello per selezione personale docente SCUOLA SECONDARIA I GRADO – A028 (MATEMATICA) Pubblicato il: 15/10/2026 Tipologia: Avvisi 479 2026 Protocollo 8684/2026 del 12/10/2026 Procedura di interpello per selezione personale docente SCUOLA PRIMARIA Pubblicato il: 12/10/2026 Tipologia: Avvisi 478 2026 Protocollo 8683/2026 del 12/10/2026 Procedura di interpello per selezione personale docente SCUOLA INFANZIA-IC Castiglione d'Adda Pubblicato il: 12/10/2026 Tipologia: Avvisi 475 2026 Protocollo 8569/2026 del 07/10/2026 DM 176 - 3° AVVISO RICERCA FIGURE PROFESSIONALI PER RUOLO DI ATA (COLLABORATORE SCOLASTICO) Pubblicato il: 07/10/2026 Tipologia: Avvisi Allegati: allegati 3° avviso.zip 271 2026 Protocollo 6812/2026 del 08/07/2026 Disseminazione D.M. 38 Formazione prot. 95165 Pubblicato il: 08/07/2026 Tipologia: Avvisi Questo sito o gli strumenti terzi da questo utilizzati si avvalgono di cookie necessari al funzionamento ed utili alle finalità illustrate nella COOKIE POLICY. PERSONALIZZA RIFIUTA TUTTI I COOKIES ACCETTA TUTTI I COOKIES Istituto Comprensivo Castiglione D'Adda CONTATTI Istituto Comprensivo Castiglione D'Adda Via Alcide De Gasperi, 30 – 26823 Castiglione d’Adda (LO) Tel: +39 0377 900482 Email: loic80800n@istruzione.it Link per inviare una mail PEC: loic80800n@pec.istruzione.it Link per inviare una mail C.F.: 82503260158 SEZIONE LINK UTILI Cookie policy Note legali Informativa Privacy Ufficio Relazioni con il Pubblico Dichiarazione di accessibilità Obiettivi di accessibilità Whistleblowing Gestione consensi cookie Amministrazione trasparente Pagina visualizzata 216964 volte Sezione Copyright Copyright 2026 | Engineered and powered by Gruppo Spaggiari Parma S.p.A. | Divisione Publishing & New Social Media Disclaimer trattamento dati personali"
+          "text": "Salta al contenuto Accedi Istituto Comprensivo di Castiglione d'Adda (LO) Scuola Servizi Novità Didattica Privacy Home > Novità > Albo Online Albo Online Categorie Avvisi 6 Organi Collegiali 16 Graduatorie 2 Nomine personale 28 Contabilità 3 Bandi di gara 12 Convenzioni Incarichi e consulenze Libri di testo Sicurezza Contratti 8 Regolamenti Esami Altro Albo Altre PA Scrutini Tutte le tipologie Avvisi Organi Collegiali Graduatorie Nomine personale Contabilità Bandi di gara Convenzioni Incarichi e consulenze Libri di testo Sicurezza Contratti Regolamenti Esami Altro Albo Altre PA Scrutini Avvisi 495 2026 Protocollo 8851/2026 del 15/10/2026 Procedura di interpello per selezione personale docente SCUOLA PRIMARIA Pubblicato il: 15/10/2026 Tipologia: Avvisi 492 2026 Protocollo 8815/2026 del 15/10/2026 Procedura di interpello per selezione personale docente SCUOLA SECONDARIA I GRADO – A028 (MATEMATICA) Pubblicato il: 15/10/2026 Tipologia: Avvisi 479 2026 Protocollo 8684/2026 del 12/10/2026 Procedura di interpello per selezione personale docente SCUOLA PRIMARIA Pubblicato il: 12/10/2026 Tipologia: Avvisi 478 2026 Protocollo 8683/2026 del 12/10/2026 Procedura di interpello per selezione personale docente SCUOLA INFANZIA-IC Castiglione d'Adda Pubblicato il: 12/10/2026 Tipologia: Avvisi 475 2026 Protocollo 8569/2026 del 07/10/2026 DM 176 - 3° AVVISO RICERCA FIGURE PROFESSIONALI PER RUOLO DI ATA (COLLABORATORE SCOLASTICO) Pubblicato il: 07/10/2026 Tipologia: Avvisi Allegati: allegati 3° avviso.zip 271 2026 Protocollo 6812/2026 del 08/07/2026 Disseminazione D.M. 38 Formazione prot. 95165 Pubblicato il: 08/07/2026 Tipologia: Avvisi Questo sito o gli strumenti terzi da questo utilizzati si avvalgono di cookie necessari al funzionamento ed utili alle finalità illustrate nella COOKIE POLICY. PERSONALIZZA RIFIUTA TUTTI I COOKIES ACCETTA TUTTI I COOKIES Istituto Comprensivo Castiglione D'Adda CONTATTI Istituto Comprensivo Castiglione D'Adda Via Alcide De Gasperi, 30 – 26823 Castiglione d’Adda (LO) Tel: +39 0377 900482 Email: loic80800n@istruzione.it Link per inviare una mail PEC: loic80800n@pec.istruzione.it Link per inviare una mail C.F.: 82503260158 SEZIONE LINK UTILI Cookie policy Note legali Informativa Privacy Ufficio Relazioni con il Pubblico Dichiarazione di accessibilità Obiettivi di accessibilità Whistleblowing Gestione consensi cookie Amministrazione trasparente Pagina visualizzata 217011 volte Sezione Copyright Copyright 2026 | Engineered and powered by Gruppo Spaggiari Parma S.p.A. | Divisione Publishing & New Social Media Disclaimer trattamento dati personali"
         }
       ],
       "attachments": [
@@ -6079,8 +6187,8 @@
     },
     {
       "id": "9c82f144280faf32",
-      "position": 2,
-      "collectionReason": "new",
+      "position": 4,
+      "collectionReason": "refresh",
       "listLabel": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
       "listContext": "16 ottobre 2026 Interpelli ricerca supplenti I.C. \"R. Morzenti\" S. Angelo Lodigiano Interpello insegnante posto comune scuola primaria",
       "title": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
@@ -6098,59 +6206,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/377bb75a-37eb-4706-93ab-584b703e5a69\" on this server. Reference #18.46a61702.1792137951.42f0867 https://errors.edgesuite.net/18.46a61702.1792137951.42f0867"
-        }
-      ],
-      "attachments": []
-    },
-    {
-      "id": "507a13e0893db7c9",
-      "position": 3,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
-      "listContext": "15 ottobre 2026 Interpelli ricerca supplenti I.C. \"R. Morzenti\" S. Angelo Lodigiano Interpello classe di concorso A028 Matematica e scienze",
-      "title": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
-      "subtitle": "Interpello classe di concorso A028 Matematica e scienze",
-      "publicationDate": "15 ottobre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-r-morzenti-s-angelo-lodigiano-22",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-r-morzenti-s-angelo-lodigiano-22",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0012/3d731bea-157f-4bed-9505-f0e5f01ff549",
-          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0012/3d731bea-157f-4bed-9505-f0e5f01ff549",
-          "httpStatus": 403,
-          "title": "Access Denied",
-          "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/3d731bea-157f-4bed-9505-f0e5f01ff549\" on this server. Reference #18.46a61702.1792137958.42f14d6 https://errors.edgesuite.net/18.46a61702.1792137958.42f14d6"
-        }
-      ],
-      "attachments": []
-    },
-    {
-      "id": "461026424ce87645",
-      "position": 4,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
-      "listContext": "15 ottobre 2026 Interpelli ricerca supplenti I.C. \"R. Morzenti\" S. Angelo Lodigiano Avviso n. 10 2026/2027 - SOSTEGNO SEC. I GRADO SUPPL. BREVE",
-      "title": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
-      "subtitle": "Avviso n. 10 2026/2027 - SOSTEGNO SEC. I GRADO SUPPL. BREVE",
-      "publicationDate": "15 ottobre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-r-morzenti-s-angelo-lodigiano-21",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-r-morzenti-s-angelo-lodigiano-21",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0012/746eb9ec-0d1c-4ddc-a333-36b761bce19f",
-          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0012/746eb9ec-0d1c-4ddc-a333-36b761bce19f",
-          "httpStatus": 403,
-          "title": "Access Denied",
-          "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/746eb9ec-0d1c-4ddc-a333-36b761bce19f\" on this server. Reference #18.67a61702.1792137958.478acf5 https://errors.edgesuite.net/18.67a61702.1792137958.478acf5"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/377bb75a-37eb-4706-93ab-584b703e5a69\" on this server. Reference #18.e1b62417.1792141563.520c455 https://errors.edgesuite.net/18.e1b62417.1792141563.520c455"
         }
       ],
       "attachments": []
