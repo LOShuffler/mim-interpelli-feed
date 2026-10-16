@@ -6,18 +6,139 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-16T07:05:33.535Z",
-  "completedAt": "2026-10-16T07:06:09.098Z",
+  "retrievedAt": "2026-10-16T08:05:32.207Z",
+  "completedAt": "2026-10-16T08:06:07.584Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 24884,
+    "textLength": 24927,
     "discoveredCount": 200,
     "safetyLimited": false,
     "processedCount": 4
   },
   "recentEvents": [
+    {
+      "id": "69339e82852d6d4a",
+      "type": "new",
+      "detectedAt": "2026-10-16T08:05:32.207Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-castiglione-d-adda-24",
+      "item": {
+        "id": "0e86642ef044c23f",
+        "position": 1,
+        "collectionReason": "new",
+        "listLabel": "I.C. Castiglione d'Adda",
+        "listContext": "16 ottobre 2026 Interpelli ricerca supplenti I.C. Castiglione d'Adda Interpello scuola primaria",
+        "title": "I.C. Castiglione d'Adda",
+        "subtitle": "Interpello scuola primaria",
+        "publicationDate": "16 ottobre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-castiglione-d-adda-24",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-castiglione-d-adda-24",
+        "httpStatus": 200,
+        "text": "Link pagina interpelli",
+        "pages": [
+          {
+            "label": "Link pagina interpelli",
+            "url": "https://www.iccastiglione.edu.it/albo-online?categoria=10001&cerca=&storico=&aoo=",
+            "finalUrl": "https://www.iccastiglione.edu.it/albo-online?categoria=10001&cerca=&storico=&aoo=",
+            "httpStatus": 200,
+            "title": "Albo Online",
+            "subtitle": "Sito web istituzionale Istituto Comprensivo Castiglione D'Adda - Via Alcide De Gasperi, 30 – 26823 Castiglione d’Adda (LO)",
+            "text": "Salta al contenuto Accedi Istituto Comprensivo di Castiglione d'Adda (LO) Scuola Servizi Novità Didattica Privacy Home > Novità > Albo Online Albo Online Categorie Avvisi 6 Organi Collegiali 16 Graduatorie 2 Nomine personale 28 Contabilità 3 Bandi di gara 12 Convenzioni Incarichi e consulenze Libri di testo Sicurezza Contratti 8 Regolamenti Esami Altro Albo Altre PA Scrutini Tutte le tipologie Avvisi Organi Collegiali Graduatorie Nomine personale Contabilità Bandi di gara Convenzioni Incarichi e consulenze Libri di testo Sicurezza Contratti Regolamenti Esami Altro Albo Altre PA Scrutini Avvisi 495 2026 Protocollo 8851/2026 del 15/10/2026 Procedura di interpello per selezione personale docente SCUOLA PRIMARIA Pubblicato il: 15/10/2026 Tipologia: Avvisi 492 2026 Protocollo 8815/2026 del 15/10/2026 Procedura di interpello per selezione personale docente SCUOLA SECONDARIA I GRADO – A028 (MATEMATICA) Pubblicato il: 15/10/2026 Tipologia: Avvisi 479 2026 Protocollo 8684/2026 del 12/10/2026 Procedura di interpello per selezione personale docente SCUOLA PRIMARIA Pubblicato il: 12/10/2026 Tipologia: Avvisi 478 2026 Protocollo 8683/2026 del 12/10/2026 Procedura di interpello per selezione personale docente SCUOLA INFANZIA-IC Castiglione d'Adda Pubblicato il: 12/10/2026 Tipologia: Avvisi 475 2026 Protocollo 8569/2026 del 07/10/2026 DM 176 - 3° AVVISO RICERCA FIGURE PROFESSIONALI PER RUOLO DI ATA (COLLABORATORE SCOLASTICO) Pubblicato il: 07/10/2026 Tipologia: Avvisi Allegati: allegati 3° avviso.zip 271 2026 Protocollo 6812/2026 del 08/07/2026 Disseminazione D.M. 38 Formazione prot. 95165 Pubblicato il: 08/07/2026 Tipologia: Avvisi Questo sito o gli strumenti terzi da questo utilizzati si avvalgono di cookie necessari al funzionamento ed utili alle finalità illustrate nella COOKIE POLICY. PERSONALIZZA RIFIUTA TUTTI I COOKIES ACCETTA TUTTI I COOKIES Istituto Comprensivo Castiglione D'Adda CONTATTI Istituto Comprensivo Castiglione D'Adda Via Alcide De Gasperi, 30 – 26823 Castiglione d’Adda (LO) Tel: +39 0377 900482 Email: loic80800n@istruzione.it Link per inviare una mail PEC: loic80800n@pec.istruzione.it Link per inviare una mail C.F.: 82503260158 SEZIONE LINK UTILI Cookie policy Note legali Informativa Privacy Ufficio Relazioni con il Pubblico Dichiarazione di accessibilità Obiettivi di accessibilità Whistleblowing Gestione consensi cookie Amministrazione trasparente Pagina visualizzata 216964 volte Sezione Copyright Copyright 2026 | Engineered and powered by Gruppo Spaggiari Parma S.p.A. | Divisione Publishing & New Social Media Disclaimer trattamento dati personali"
+          }
+        ],
+        "attachments": [
+          {
+            "text": "",
+            "href": "https://web.spaggiari.eu/sdg2/Documenti/LOME0007/g7etp5ugfq?download=1",
+            "title": "",
+            "context": "",
+            "status": 403,
+            "error": "HTTP 403"
+          },
+          {
+            "text": "",
+            "href": "https://web.spaggiari.eu/sdg2/Documenti/LOME0007/82tndvqp9p?download=1",
+            "title": "",
+            "context": "",
+            "status": 403,
+            "error": "HTTP 403"
+          },
+          {
+            "text": "",
+            "href": "https://web.spaggiari.eu/sdg2/Documenti/LOME0007/m79llck251?download=1",
+            "title": "",
+            "context": "",
+            "status": 403,
+            "error": "HTTP 403"
+          },
+          {
+            "text": "",
+            "href": "https://web.spaggiari.eu/sdg2/Documenti/LOME0007/55mao798ei?download=1",
+            "title": "",
+            "context": "",
+            "status": 403,
+            "error": "HTTP 403"
+          },
+          {
+            "text": "",
+            "href": "https://web.spaggiari.eu/sdg2/Documenti/LOME0007/unbl0tscid?download=1",
+            "title": "",
+            "context": "allegati 3° avviso.zip",
+            "status": 403,
+            "error": "HTTP 403"
+          },
+          {
+            "text": "",
+            "href": "https://web.spaggiari.eu/sdg2/Documenti/LOME0007/podkjeos1d?download=1",
+            "title": "",
+            "context": "",
+            "status": 403,
+            "error": "HTTP 403"
+          },
+          {
+            "text": "",
+            "href": "https://web.spaggiari.eu/sdg2/Documenti/LOME0007/il4rhan97o?download=1",
+            "title": "",
+            "context": "",
+            "status": 403,
+            "error": "HTTP 403"
+          }
+        ]
+      }
+    },
+    {
+      "id": "24c1547d0ffb8802",
+      "type": "new",
+      "detectedAt": "2026-10-16T08:05:32.207Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-r-morzenti-s-angelo-lodigiano-23",
+      "item": {
+        "id": "9c82f144280faf32",
+        "position": 2,
+        "collectionReason": "new",
+        "listLabel": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
+        "listContext": "16 ottobre 2026 Interpelli ricerca supplenti I.C. \"R. Morzenti\" S. Angelo Lodigiano Interpello insegnante posto comune scuola primaria",
+        "title": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
+        "subtitle": "Interpello insegnante posto comune scuola primaria",
+        "publicationDate": "16 ottobre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-r-morzenti-s-angelo-lodigiano-23",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-r-morzenti-s-angelo-lodigiano-23",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0012/377bb75a-37eb-4706-93ab-584b703e5a69",
+            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0012/377bb75a-37eb-4706-93ab-584b703e5a69",
+            "httpStatus": 403,
+            "title": "Access Denied",
+            "subtitle": "",
+            "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/377bb75a-37eb-4706-93ab-584b703e5a69\" on this server. Reference #18.46a61702.1792137951.42f0867 https://errors.edgesuite.net/18.46a61702.1792137951.42f0867"
+          }
+        ],
+        "attachments": []
+      }
+    },
     {
       "id": "8100c1a950e0e6d6",
       "type": "new",
@@ -5874,8 +5995,117 @@
   ],
   "latestFour": [
     {
-      "id": "507a13e0893db7c9",
+      "id": "0e86642ef044c23f",
       "position": 1,
+      "collectionReason": "new",
+      "listLabel": "I.C. Castiglione d'Adda",
+      "listContext": "16 ottobre 2026 Interpelli ricerca supplenti I.C. Castiglione d'Adda Interpello scuola primaria",
+      "title": "I.C. Castiglione d'Adda",
+      "subtitle": "Interpello scuola primaria",
+      "publicationDate": "16 ottobre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-castiglione-d-adda-24",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-castiglione-d-adda-24",
+      "httpStatus": 200,
+      "text": "Link pagina interpelli",
+      "pages": [
+        {
+          "label": "Link pagina interpelli",
+          "url": "https://www.iccastiglione.edu.it/albo-online?categoria=10001&cerca=&storico=&aoo=",
+          "finalUrl": "https://www.iccastiglione.edu.it/albo-online?categoria=10001&cerca=&storico=&aoo=",
+          "httpStatus": 200,
+          "title": "Albo Online",
+          "subtitle": "Sito web istituzionale Istituto Comprensivo Castiglione D'Adda - Via Alcide De Gasperi, 30 – 26823 Castiglione d’Adda (LO)",
+          "text": "Salta al contenuto Accedi Istituto Comprensivo di Castiglione d'Adda (LO) Scuola Servizi Novità Didattica Privacy Home > Novità > Albo Online Albo Online Categorie Avvisi 6 Organi Collegiali 16 Graduatorie 2 Nomine personale 28 Contabilità 3 Bandi di gara 12 Convenzioni Incarichi e consulenze Libri di testo Sicurezza Contratti 8 Regolamenti Esami Altro Albo Altre PA Scrutini Tutte le tipologie Avvisi Organi Collegiali Graduatorie Nomine personale Contabilità Bandi di gara Convenzioni Incarichi e consulenze Libri di testo Sicurezza Contratti Regolamenti Esami Altro Albo Altre PA Scrutini Avvisi 495 2026 Protocollo 8851/2026 del 15/10/2026 Procedura di interpello per selezione personale docente SCUOLA PRIMARIA Pubblicato il: 15/10/2026 Tipologia: Avvisi 492 2026 Protocollo 8815/2026 del 15/10/2026 Procedura di interpello per selezione personale docente SCUOLA SECONDARIA I GRADO – A028 (MATEMATICA) Pubblicato il: 15/10/2026 Tipologia: Avvisi 479 2026 Protocollo 8684/2026 del 12/10/2026 Procedura di interpello per selezione personale docente SCUOLA PRIMARIA Pubblicato il: 12/10/2026 Tipologia: Avvisi 478 2026 Protocollo 8683/2026 del 12/10/2026 Procedura di interpello per selezione personale docente SCUOLA INFANZIA-IC Castiglione d'Adda Pubblicato il: 12/10/2026 Tipologia: Avvisi 475 2026 Protocollo 8569/2026 del 07/10/2026 DM 176 - 3° AVVISO RICERCA FIGURE PROFESSIONALI PER RUOLO DI ATA (COLLABORATORE SCOLASTICO) Pubblicato il: 07/10/2026 Tipologia: Avvisi Allegati: allegati 3° avviso.zip 271 2026 Protocollo 6812/2026 del 08/07/2026 Disseminazione D.M. 38 Formazione prot. 95165 Pubblicato il: 08/07/2026 Tipologia: Avvisi Questo sito o gli strumenti terzi da questo utilizzati si avvalgono di cookie necessari al funzionamento ed utili alle finalità illustrate nella COOKIE POLICY. PERSONALIZZA RIFIUTA TUTTI I COOKIES ACCETTA TUTTI I COOKIES Istituto Comprensivo Castiglione D'Adda CONTATTI Istituto Comprensivo Castiglione D'Adda Via Alcide De Gasperi, 30 – 26823 Castiglione d’Adda (LO) Tel: +39 0377 900482 Email: loic80800n@istruzione.it Link per inviare una mail PEC: loic80800n@pec.istruzione.it Link per inviare una mail C.F.: 82503260158 SEZIONE LINK UTILI Cookie policy Note legali Informativa Privacy Ufficio Relazioni con il Pubblico Dichiarazione di accessibilità Obiettivi di accessibilità Whistleblowing Gestione consensi cookie Amministrazione trasparente Pagina visualizzata 216964 volte Sezione Copyright Copyright 2026 | Engineered and powered by Gruppo Spaggiari Parma S.p.A. | Divisione Publishing & New Social Media Disclaimer trattamento dati personali"
+        }
+      ],
+      "attachments": [
+        {
+          "text": "",
+          "href": "https://web.spaggiari.eu/sdg2/Documenti/LOME0007/g7etp5ugfq?download=1",
+          "title": "",
+          "context": "",
+          "status": 403,
+          "error": "HTTP 403"
+        },
+        {
+          "text": "",
+          "href": "https://web.spaggiari.eu/sdg2/Documenti/LOME0007/82tndvqp9p?download=1",
+          "title": "",
+          "context": "",
+          "status": 403,
+          "error": "HTTP 403"
+        },
+        {
+          "text": "",
+          "href": "https://web.spaggiari.eu/sdg2/Documenti/LOME0007/m79llck251?download=1",
+          "title": "",
+          "context": "",
+          "status": 403,
+          "error": "HTTP 403"
+        },
+        {
+          "text": "",
+          "href": "https://web.spaggiari.eu/sdg2/Documenti/LOME0007/55mao798ei?download=1",
+          "title": "",
+          "context": "",
+          "status": 403,
+          "error": "HTTP 403"
+        },
+        {
+          "text": "",
+          "href": "https://web.spaggiari.eu/sdg2/Documenti/LOME0007/unbl0tscid?download=1",
+          "title": "",
+          "context": "allegati 3° avviso.zip",
+          "status": 403,
+          "error": "HTTP 403"
+        },
+        {
+          "text": "",
+          "href": "https://web.spaggiari.eu/sdg2/Documenti/LOME0007/podkjeos1d?download=1",
+          "title": "",
+          "context": "",
+          "status": 403,
+          "error": "HTTP 403"
+        },
+        {
+          "text": "",
+          "href": "https://web.spaggiari.eu/sdg2/Documenti/LOME0007/il4rhan97o?download=1",
+          "title": "",
+          "context": "",
+          "status": 403,
+          "error": "HTTP 403"
+        }
+      ]
+    },
+    {
+      "id": "9c82f144280faf32",
+      "position": 2,
+      "collectionReason": "new",
+      "listLabel": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
+      "listContext": "16 ottobre 2026 Interpelli ricerca supplenti I.C. \"R. Morzenti\" S. Angelo Lodigiano Interpello insegnante posto comune scuola primaria",
+      "title": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
+      "subtitle": "Interpello insegnante posto comune scuola primaria",
+      "publicationDate": "16 ottobre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-r-morzenti-s-angelo-lodigiano-23",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-r-morzenti-s-angelo-lodigiano-23",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0012/377bb75a-37eb-4706-93ab-584b703e5a69",
+          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0012/377bb75a-37eb-4706-93ab-584b703e5a69",
+          "httpStatus": 403,
+          "title": "Access Denied",
+          "subtitle": "",
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/377bb75a-37eb-4706-93ab-584b703e5a69\" on this server. Reference #18.46a61702.1792137951.42f0867 https://errors.edgesuite.net/18.46a61702.1792137951.42f0867"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "507a13e0893db7c9",
+      "position": 3,
       "collectionReason": "refresh",
       "listLabel": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
       "listContext": "15 ottobre 2026 Interpelli ricerca supplenti I.C. \"R. Morzenti\" S. Angelo Lodigiano Interpello classe di concorso A028 Matematica e scienze",
@@ -5894,14 +6124,14 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/3d731bea-157f-4bed-9505-f0e5f01ff549\" on this server. Reference #18.7e1da17.1792134345.41edbb63 https://errors.edgesuite.net/18.7e1da17.1792134345.41edbb63"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/3d731bea-157f-4bed-9505-f0e5f01ff549\" on this server. Reference #18.46a61702.1792137958.42f14d6 https://errors.edgesuite.net/18.46a61702.1792137958.42f14d6"
         }
       ],
       "attachments": []
     },
     {
       "id": "461026424ce87645",
-      "position": 2,
+      "position": 4,
       "collectionReason": "refresh",
       "listLabel": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
       "listContext": "15 ottobre 2026 Interpelli ricerca supplenti I.C. \"R. Morzenti\" S. Angelo Lodigiano Avviso n. 10 2026/2027 - SOSTEGNO SEC. I GRADO SUPPL. BREVE",
@@ -5920,71 +6150,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/746eb9ec-0d1c-4ddc-a333-36b761bce19f\" on this server. Reference #18.7e1da17.1792134352.41ede3f8 https://errors.edgesuite.net/18.7e1da17.1792134352.41ede3f8"
-        }
-      ],
-      "attachments": []
-    },
-    {
-      "id": "97cd203e2b0217b7",
-      "position": 3,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. Casalpusterlengo",
-      "listContext": "15 ottobre 2026 Interpelli ricerca supplenti I.C. Casalpusterlengo Interpello per selezione docente Disegno e storia dell'arte Scuola Secondaria di I grado - Supplenza breve e saltuaria",
-      "title": "I.C. Casalpusterlengo",
-      "subtitle": "Interpello per selezione docente Disegno e storia dell'arte Scuola Secondaria di I grado - Supplenza breve e saltuaria",
-      "publicationDate": "15 ottobre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-casalpusterlengo-38",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-casalpusterlengo-38",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://nuvola.madisoft.it/interpelli/LOIC80900D/docenti",
-          "finalUrl": "https://nuvola.madisoft.it/interpelli/LOIC80900D/docenti",
-          "httpStatus": 200,
-          "title": "Interpelli per: Personale docente",
-          "subtitle": "Nuvola - Interpelli",
-          "text": "Gestione Interpelli IC Casalpusterlengo Codice meccanografico: LOIC80900D CASALPUSTERLENGO (LO) Interpelli per: Personale Docente Cambia ruolo Interpello per selezione docente Disegno e storia dell'arte Scuola Secondaria di I grado - Supplenza breve e saltuaria Durata: 18 ore 0 minuti dal 20/10/2026 al 30/10/2026 Presentazione candidature: dal 15/10/2026 09:15 al 17/10/2026 09:15 Posti disponibili: 1 Classe di concorso: A-01 Disegno e storia dell'arte nell'istruzione secondaria di I e di II grado Ordine di scuola: SECONDARIA I GRADO Sede di servizio: Scuola Secondaria di I grado Documento allegato: Scarica decreto di emissione interpello per Interpello per selezione docente Disegno e storia dell'arte Scuola Secondaria di I grado - Supplenza breve e saltuaria Invia la tua candidatura"
-        }
-      ],
-      "attachments": [
-        {
-          "text": "Scarica decreto di emissione interpelloper Interpello per selezione docente Disegno e storia dell'arte Scuola Secondaria di I grado - Supplenza breve e saltuaria",
-          "href": "https://nuvola.madisoft.it/file/api/public-download-file-from-entity/LOIC80900D/f367156f-2a13-42a8-9df6-aa3e5a1f1f6c",
-          "title": "",
-          "context": "",
-          "status": 200,
-          "contentType": "application/pdf",
-          "bytes": 494317,
-          "file": "items/03-I.C.-Casalpusterlengo/01-SEGNATURA_1792047885_firmato_1792047882_Interpello_per_selezione_docente_Arte_sec._di_I_grado.pdf",
-          "extractedText": "                                                                                                              Ministero dell’Istruzione e del Merito\n                                                                                                   Istituto Comprensivo di Casalpusterlengo ad Indirizzo Musicale\n                                                                                                              Via Olimpo, 6 - 26841 CASALPUSTERLENGO (LO)\n                                                                                      Codice Meccanografico LOIC80900D - Codice Fiscale 90518620159 – Codice Univoco Ufficio UFTH6W\n                                                                                                      Tel. 037781940 – 037784379 - E-Mail: loic80900d@istruzione.it\n                                                                                                     PEC loic80900d@pec.istruzione.it – www.iccasalpusterlengo.edu.it\n\n\n\n                                                                              Oggetto: interpello per selezione personale docente.\n\n                                                                                                             IL DIRIGENTE SCOLASTICO\nLOIC80900D - A24EECC - REGISTRO PROTOCOLLO - 0006843 - 15/10/2026 - VII - U\n\n\n\n\n                                                                              VISTO l’articolo 13 comma 23 DELL’OM 88/2024\n                                                                              VISTO il CCNL SCUOLA VIGENTE;\n                                                                              RILEVATA la necessità di provvedere a formulare specifico avviso finalizzato al\n                                                                              reclutamento di docenti forniti dell’abilitazione o, in subordine, del titolo di studio, che\n                                                                              saranno valutati solo se la Convocazione da Graduatoria di Istituto non avrà esito\n                                                                              positivo.\n                                                                              RITENUTO di dover procedere a proporre interpello;\n\n                                                                                                                       INTERPELLA\n\n                                                                              Il personale interessato per le seguenti supplenze:\n\n                                                                              - n. 1 posti, profilo docente Scuola Secondaria di I grado – DISEGNO E STORIA DELL’ARTE –\n                                                                                AM01\n                                                                              - supplenza breve e saltuaria\n                                                                              - numero di ore settimanali: 18,00\n                                                                              - durata della supplenza: dal 20/10/2026 al 30/10/2026\n\n\n                                                                              1   Il candidato/la candidata dovrà possedere i seguenti titoli di studio: abilitazione e,\n                                                                                  in     subordine, titoli di studio che danno accesso alla seconda fascia delle GPS;\n                                                                              2   Ai fini della tutela e della garanzia dell’offerta formativa e nel rispetto delle norme\n                                                                                  di prevenzione e protezione dei rischi, qualora non pervenissero candidature di\n                                                                                  aspiranti in possesso dei titoli richiamati al punto 1, si prenderanno in\n                                                                                  considerazione le eventuali candidature degli aspiranti in possesso di titoli affini a\n                                                                                  quelli previsti al punto 1.\n                                                                              3   La selezione avverrà sulla base dei titoli o dei servizi presentati dai candidati\n                                                                                  secondo i criteri pubblicati all’Albo dell’Istituto e visionabili al seguente link\n                                                                              4   la candidatura dovrà pervenire, a pena di esclusione, unicamente attraverso la\n                                                                                  compilazione del form presente sulla pagina dell’Istituto entro le ore 09.15 del\n                                                                                  17/10/2026 allegando C.V. in formato Europass e copia della Carta d’Identità;\n                                                                              5   la presa di servizio avverrà al termine della valutazione delle candidature\n                                                                                  pervenute,a seguito di comunicazione da parte della segreteria del nostro istituto.\n                                                                              6   si ricorda ai sensi dell’OM 88/2024 l’applicazione dell’articolo 14;\n                                                                              7   aderendo alla procedura in oggetto si autorizza al trattamento dei dati personali\n                                                                                  conformemente al Regolamento (UE) 2016/679 del Parlamento Europeo e del\n                                                                                  Consiglio del 27 aprile 2016 relativo alla protezione delle persone fisiche nonché\n                                                                                  alla libera circolazione di tali dati e che abroga la direttiva 95/46CE e del D.lgs. n.\n                                                                                  196/2003, come modificato dal D.lgs. n. 101/2018 e ss.mm.ii per le finalità proprie\n                                                                                  dell’interpello. Il titolare del trattamento dei dati personali è l’Istituto Comprensivo\n                                                                                  di Casalpusterlengo.\n\n                                                                                                                                                Il Dirigente Scolastico\n                                                                                                                                                Brunella Tirelli\n                                                                                                                                                Documento firmato digitalmente\n\n\n\n\n                                                                                                        Firmato digitalmente da TIRELLI BRUNELLA\n\f"
-        }
-      ]
-    },
-    {
-      "id": "bf535513272c7e42",
-      "position": 4,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. Tavazzano",
-      "listContext": "15 ottobre 2026 Interpelli ricerca supplenti I.C. Tavazzano Interpello nazionale per reperimento docente 12h SOSTEGNO - SCUOLA PRIMARIA +2h programmazione fino al 30/06/2027",
-      "title": "I.C. Tavazzano",
-      "subtitle": "Interpello nazionale per reperimento docente 12h SOSTEGNO - SCUOLA PRIMARIA +2h programmazione fino al 30/06/2027",
-      "publicationDate": "15 ottobre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-tavazzano-lodivecchio-2",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-tavazzano-lodivecchio-2",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0001/8920d15b-a4eb-459f-9bcc-8fe51f145ce0",
-          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0001/8920d15b-a4eb-459f-9bcc-8fe51f145ce0",
-          "httpStatus": 403,
-          "title": "Access Denied",
-          "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/8920d15b-a4eb-459f-9bcc-8fe51f145ce0\" on this server. Reference #18.7e1da17.1792134352.41ee3aee https://errors.edgesuite.net/18.7e1da17.1792134352.41ee3aee"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/746eb9ec-0d1c-4ddc-a333-36b761bce19f\" on this server. Reference #18.67a61702.1792137958.478acf5 https://errors.edgesuite.net/18.67a61702.1792137958.478acf5"
         }
       ],
       "attachments": []
