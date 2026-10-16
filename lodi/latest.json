@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-16T06:05:33.374Z",
-  "completedAt": "2026-10-16T06:08:07.368Z",
+  "retrievedAt": "2026-10-16T07:05:33.535Z",
+  "completedAt": "2026-10-16T07:06:09.098Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -15,7 +15,7 @@
     "textLength": 24884,
     "discoveredCount": 200,
     "safetyLimited": false,
-    "processedCount": 21
+    "processedCount": 4
   },
   "recentEvents": [
     {
@@ -5876,7 +5876,7 @@
     {
       "id": "507a13e0893db7c9",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
       "listContext": "15 ottobre 2026 Interpelli ricerca supplenti I.C. \"R. Morzenti\" S. Angelo Lodigiano Interpello classe di concorso A028 Matematica e scienze",
       "title": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
@@ -5894,7 +5894,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/3d731bea-157f-4bed-9505-f0e5f01ff549\" on this server. Reference #18.6e1da17.1792130746.b71ab50 https://errors.edgesuite.net/18.6e1da17.1792130746.b71ab50"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/3d731bea-157f-4bed-9505-f0e5f01ff549\" on this server. Reference #18.7e1da17.1792134345.41edbb63 https://errors.edgesuite.net/18.7e1da17.1792134345.41edbb63"
         }
       ],
       "attachments": []
@@ -5902,7 +5902,7 @@
     {
       "id": "461026424ce87645",
       "position": 2,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
       "listContext": "15 ottobre 2026 Interpelli ricerca supplenti I.C. \"R. Morzenti\" S. Angelo Lodigiano Avviso n. 10 2026/2027 - SOSTEGNO SEC. I GRADO SUPPL. BREVE",
       "title": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
@@ -5920,7 +5920,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/746eb9ec-0d1c-4ddc-a333-36b761bce19f\" on this server. Reference #18.6e1da17.1792130752.b71d864 https://errors.edgesuite.net/18.6e1da17.1792130752.b71d864"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/746eb9ec-0d1c-4ddc-a333-36b761bce19f\" on this server. Reference #18.7e1da17.1792134352.41ede3f8 https://errors.edgesuite.net/18.7e1da17.1792134352.41ede3f8"
         }
       ],
       "attachments": []
@@ -5928,7 +5928,7 @@
     {
       "id": "97cd203e2b0217b7",
       "position": 3,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Casalpusterlengo",
       "listContext": "15 ottobre 2026 Interpelli ricerca supplenti I.C. Casalpusterlengo Interpello per selezione docente Disegno e storia dell'arte Scuola Secondaria di I grado - Supplenza breve e saltuaria",
       "title": "I.C. Casalpusterlengo",
@@ -5966,7 +5966,7 @@
     {
       "id": "bf535513272c7e42",
       "position": 4,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Tavazzano",
       "listContext": "15 ottobre 2026 Interpelli ricerca supplenti I.C. Tavazzano Interpello nazionale per reperimento docente 12h SOSTEGNO - SCUOLA PRIMARIA +2h programmazione fino al 30/06/2027",
       "title": "I.C. Tavazzano",
@@ -5984,7 +5984,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/8920d15b-a4eb-459f-9bcc-8fe51f145ce0\" on this server. Reference #18.ce1da17.1792130752.2450c00d https://errors.edgesuite.net/18.ce1da17.1792130752.2450c00d"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/8920d15b-a4eb-459f-9bcc-8fe51f145ce0\" on this server. Reference #18.7e1da17.1792134352.41ee3aee https://errors.edgesuite.net/18.7e1da17.1792134352.41ee3aee"
         }
       ],
       "attachments": []
