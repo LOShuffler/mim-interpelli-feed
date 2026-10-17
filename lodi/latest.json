@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-17T07:05:33.595Z",
-  "completedAt": "2026-10-17T07:06:09.722Z",
+  "retrievedAt": "2026-10-17T08:05:32.726Z",
+  "completedAt": "2026-10-17T08:06:08.364Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -5493,70 +5493,6 @@
           }
         ]
       }
-    },
-    {
-      "id": "af6bbc2dadfe0388",
-      "type": "new",
-      "detectedAt": "2026-09-17T08:05:33.391Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-49",
-      "item": {
-        "id": "0005876a643fbf26",
-        "position": 1,
-        "collectionReason": "new",
-        "listLabel": "I.C. Lodi III",
-        "listContext": "17 settembre 2026 Interpelli ricerca supplenti I.C. Lodi III Posto sostegno scuola infanzia",
-        "title": "I.C. Lodi III",
-        "subtitle": "Posto sostegno scuola infanzia",
-        "publicationDate": "17 settembre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-49",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-49",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/2edd7f58-0dbb-46ff-820c-ab3dc4e895ea",
-            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/2edd7f58-0dbb-46ff-820c-ab3dc4e895ea",
-            "httpStatus": 200,
-            "title": "Elenco interpelli",
-            "subtitle": "",
-            "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" LODI 3 \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio Insegnante posto sostegno scuola infanzia ADAA Sostegno scuola dell'infanzia 18/09/2026 30/06/2027 LOIC814001 I.C. LODI III Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
-          }
-        ],
-        "attachments": []
-      }
-    },
-    {
-      "id": "4725962077fd5d88",
-      "type": "new",
-      "detectedAt": "2026-09-17T08:05:33.391Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-di-zelo-buon-persico-1",
-      "item": {
-        "id": "de0251637cb19d71",
-        "position": 2,
-        "collectionReason": "new",
-        "listLabel": "I.C. di Zelo Buon Persico",
-        "listContext": "17 settembre 2026 Interpelli ricerca supplenti I.C. di Zelo Buon Persico PRIMARIA EEEE - PRIMARIA ADEE SOSTEGNO",
-        "title": "I.C. di Zelo Buon Persico",
-        "subtitle": "PRIMARIA EEEE - PRIMARIA ADEE SOSTEGNO",
-        "publicationDate": "17 settembre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-di-zelo-buon-persico-1",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-di-zelo-buon-persico-1",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0003/e5925a77-ae00-4ae6-9f6c-f5a2af0782c1",
-            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0003/e5925a77-ae00-4ae6-9f6c-f5a2af0782c1",
-            "httpStatus": 200,
-            "title": "Elenco interpelli",
-            "subtitle": "",
-            "text": "Interpelli ISTITUTO COMPRENSIVO STATALE . Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio PRIMARIA POSTO COMUNE (EEEE) + SOSTEGNO (ADEE) EEEE Insegnante posto comune scuola primaria 21/09/2026 30/06/2027 SCUOLA PRIMARIA IC ZELO B.P./MERLINO/COMAZZO Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
-          }
-        ],
-        "attachments": []
-      }
     }
   ],
   "latestFour": [
@@ -5581,7 +5517,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/23cd821e-7860-4680-a2f9-9875069a58e3\" on this server. Reference #18.49a61702.1792220745.1c8c8fa2 https://errors.edgesuite.net/18.49a61702.1792220745.1c8c8fa2"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/23cd821e-7860-4680-a2f9-9875069a58e3\" on this server. Reference #18.47a61702.1792224344.6a26a5e https://errors.edgesuite.net/18.47a61702.1792224344.6a26a5e"
         }
       ],
       "attachments": []
@@ -5644,7 +5580,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/63eb3488-7f88-4858-a816-a93ad1e63a26\" on this server. Reference #18.49a61702.1792220760.1c8cd022 https://errors.edgesuite.net/18.49a61702.1792220760.1c8cd022"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/63eb3488-7f88-4858-a816-a93ad1e63a26\" on this server. Reference #18.47a61702.1792224359.6a29119 https://errors.edgesuite.net/18.47a61702.1792224359.6a29119"
         }
       ],
       "attachments": []
@@ -5670,7 +5606,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/16d49be1-7fad-417f-aeb8-647a8ac1a156\" on this server. Reference #18.67a61702.1792220760.722899c https://errors.edgesuite.net/18.67a61702.1792220760.722899c"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/16d49be1-7fad-417f-aeb8-647a8ac1a156\" on this server. Reference #18.5aa61702.1792224359.db7ce39 https://errors.edgesuite.net/18.5aa61702.1792224359.db7ce39"
         }
       ],
       "attachments": []
