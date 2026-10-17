@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-17T14:05:32.744Z",
-  "completedAt": "2026-10-17T14:06:08.903Z",
+  "retrievedAt": "2026-10-17T15:05:32.674Z",
+  "completedAt": "2026-10-17T15:06:09.007Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -5187,88 +5187,6 @@
         ],
         "attachments": []
       }
-    },
-    {
-      "id": "3bd8b5a46e919095",
-      "type": "new",
-      "detectedAt": "2026-09-17T15:05:33.099Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-ii-59",
-      "item": {
-        "id": "cbe3b06294a5b7cf",
-        "position": 1,
-        "collectionReason": "new",
-        "listLabel": "I.C. Lodi II",
-        "listContext": "17 settembre 2026 Interpelli ricerca supplenti I.C. Lodi II Link Interpelli Scuola Primaria",
-        "title": "I.C. Lodi II",
-        "subtitle": "Link Interpelli Scuola Primaria",
-        "publicationDate": "17 settembre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-ii-59",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-ii-59",
-        "httpStatus": 200,
-        "text": "Link interpello ADAA Sostegno scuola dell'infanzia Link interpello ADAA Sostegno scuola dell'infanzia Link interpello EEEE Insegnante posto comune scuola primaria Link interpello EEIL Lingua inglese – scuola primaria (posto comune) Link interpello AD0J Sostegno Scuola Elementare: area comune",
-        "pages": [
-          {
-            "label": "Link interpello ADAA Sostegno scuola dell'infanzia",
-            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0014/fc883646-43ee-4062-af8b-e99bf93c3bcf",
-            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0014/fc883646-43ee-4062-af8b-e99bf93c3bcf",
-            "httpStatus": 200,
-            "title": "Elenco interpelli",
-            "subtitle": "",
-            "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \"LODI 2\" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio INTERPELLO PER SUPPLENZA SOSTEGNO SCUOLA INFANZIA FINO AL 31/8 ADAA Sostegno scuola dell'infanzia 21/09/2026 31/08/2027 OSSAGO LODIGIANO Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
-          },
-          {
-            "label": "Link interpello ADAA Sostegno scuola dell'infanzia",
-            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0014/5eb1ca48-4bd9-4291-9b24-63dd8746dce3",
-            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0014/5eb1ca48-4bd9-4291-9b24-63dd8746dce3",
-            "httpStatus": 200,
-            "title": "Elenco interpelli",
-            "subtitle": "",
-            "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \"LODI 2\" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio INTERPELLO PER SUPPLENZA SOSTEGNO SCUOLA INFANZIA FINO AL 31/8 ADAA Sostegno scuola dell'infanzia 21/09/2026 31/08/2027 MAIRAGO Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
-          },
-          {
-            "label": "Link interpello EEEE Insegnante posto comune scuola primaria",
-            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0014/766443ee-989b-42bf-b9b2-74e2f8ed6592",
-            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0014/766443ee-989b-42bf-b9b2-74e2f8ed6592",
-            "httpStatus": 200,
-            "title": "Elenco interpelli",
-            "subtitle": "",
-            "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \"LODI 2\" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio INTERPELLO PER SUPPLENZA -Scuola Primaria posto comune su “POTENZIAMENTO” fino al 30/06 EEEE Insegnante posto comune scuola primaria 21/09/2026 30/06/2027 LOEE81201B LODI G.PASCOLI Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
-          }
-        ],
-        "attachments": []
-      }
-    },
-    {
-      "id": "0a9eb4b3fdb23ef6",
-      "type": "new",
-      "detectedAt": "2026-09-17T15:05:33.099Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-collodi-3",
-      "item": {
-        "id": "8a79fe863b49a1d2",
-        "position": 2,
-        "collectionReason": "new",
-        "listLabel": "I.C. Collodi",
-        "listContext": "17 settembre 2026 Interpelli ricerca supplenti I.C. Collodi Interpello ADEE 24 ore",
-        "title": "I.C. Collodi",
-        "subtitle": "Interpello ADEE 24 ore",
-        "publicationDate": "17 settembre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-collodi-3",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-collodi-3",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/277e9b22-cb29-4a8a-86da-9821311e9e26",
-            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/277e9b22-cb29-4a8a-86da-9821311e9e26",
-            "httpStatus": 200,
-            "title": "Elenco interpelli",
-            "subtitle": "",
-            "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" CARLO COLLODI \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio INTERPELLO su cdc ADEE - sostegno scuola primaria fino al 4 ottobre 2026 - plesso Mairano ADEE Sostegno scuola primaria 21/09/2026 LOEE815042 Scuola primaria di Mairano Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
-          }
-        ],
-        "attachments": []
-      }
     }
   ],
   "latestFour": [
@@ -5293,7 +5211,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/23cd821e-7860-4680-a2f9-9875069a58e3\" on this server. Reference #18.8771cd17.1792245944.2be9267e https://errors.edgesuite.net/18.8771cd17.1792245944.2be9267e"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/23cd821e-7860-4680-a2f9-9875069a58e3\" on this server. Reference #18.1468dead.1792249544.8d946a6 https://errors.edgesuite.net/18.1468dead.1792249544.8d946a6"
         }
       ],
       "attachments": []
@@ -5356,7 +5274,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/63eb3488-7f88-4858-a816-a93ad1e63a26\" on this server. Reference #18.8771cd17.1792245959.2bea505c https://errors.edgesuite.net/18.8771cd17.1792245959.2bea505c"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/63eb3488-7f88-4858-a816-a93ad1e63a26\" on this server. Reference #18.1468dead.1792249559.8d96a07 https://errors.edgesuite.net/18.1468dead.1792249559.8d96a07"
         }
       ],
       "attachments": []
@@ -5382,7 +5300,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/16d49be1-7fad-417f-aeb8-647a8ac1a156\" on this server. Reference #18.8a71cd17.1792245959.3f393c5 https://errors.edgesuite.net/18.8a71cd17.1792245959.3f393c5"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/16d49be1-7fad-417f-aeb8-647a8ac1a156\" on this server. Reference #18.868dead.1792249559.c50af4d https://errors.edgesuite.net/18.868dead.1792249559.c50af4d"
         }
       ],
       "attachments": []
