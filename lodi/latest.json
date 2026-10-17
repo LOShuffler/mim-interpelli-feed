@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-17T12:05:32.265Z",
-  "completedAt": "2026-10-17T12:06:08.591Z",
+  "retrievedAt": "2026-10-17T13:05:32.973Z",
+  "completedAt": "2026-10-17T13:06:09.355Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -5269,59 +5269,6 @@
         ],
         "attachments": []
       }
-    },
-    {
-      "id": "f056ec020e4d589c",
-      "type": "new",
-      "detectedAt": "2026-09-17T13:05:33.453Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-maleo-18",
-      "item": {
-        "id": "38ba4407383dafeb",
-        "position": 1,
-        "collectionReason": "new",
-        "listLabel": "I.C. Maleo",
-        "listContext": "17 settembre 2026 Interpelli ricerca supplenti I.C. Maleo Posti sostegno Scuola infanzia",
-        "title": "I.C. Maleo",
-        "subtitle": "Posti sostegno Scuola infanzia",
-        "publicationDate": "17 settembre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-maleo-18",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-maleo-18",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://www.iccsmaleo.edu.it/2026/09/16/interpelli-sc-infanzia/",
-            "finalUrl": "https://www.iccsmaleo.edu.it/2026/09/16/interpelli-sc-infanzia/",
-            "httpStatus": 200,
-            "title": "Documenti",
-            "subtitle": "",
-            "text": "Documenti interpello sostegno infanzia Maleo 30.06 pdf - 111 kb interpello sostegno infanzia Maleo Caselle 30.06 pdf - 111 kb Pubblicato: 16.09.2026 - Revisione: 16.09.2026 Eccetto dove diversamente specificato, questo articolo è stato rilasciato sotto Licenza Creative Commons Attribuzione 4.0 Italia."
-          }
-        ],
-        "attachments": [
-          {
-            "text": "Le carte della scuola",
-            "href": "https://www.iccsmaleo.edu.it/documento/",
-            "title": "",
-            "context": "Le carte della scuola",
-            "status": 200,
-            "contentType": "text/html; charset=UTF-8",
-            "bytes": 273836,
-            "file": "items/01-I.C.-Maleo/01-attachment"
-          },
-          {
-            "text": "Albo online",
-            "href": "https://www.iccsmaleo.edu.it/tipologia-documento/albo-online/",
-            "title": "",
-            "context": "Albo online",
-            "status": 200,
-            "contentType": "text/html; charset=UTF-8",
-            "bytes": 256755,
-            "file": "items/01-I.C.-Maleo/02-attachment"
-          }
-        ]
-      }
     }
   ],
   "latestFour": [
@@ -5346,7 +5293,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/23cd821e-7860-4680-a2f9-9875069a58e3\" on this server. Reference #18.8771cd17.1792238744.297544fb https://errors.edgesuite.net/18.8771cd17.1792238744.297544fb"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/23cd821e-7860-4680-a2f9-9875069a58e3\" on this server. Reference #18.7e1da17.1792242345.4cc55404 https://errors.edgesuite.net/18.7e1da17.1792242345.4cc55404"
         }
       ],
       "attachments": []
@@ -5409,7 +5356,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/63eb3488-7f88-4858-a816-a93ad1e63a26\" on this server. Reference #18.8771cd17.1792238759.297684e4 https://errors.edgesuite.net/18.8771cd17.1792238759.297684e4"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/63eb3488-7f88-4858-a816-a93ad1e63a26\" on this server. Reference #18.7e1da17.1792242360.4cc5b032 https://errors.edgesuite.net/18.7e1da17.1792242360.4cc5b032"
         }
       ],
       "attachments": []
@@ -5435,7 +5382,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/16d49be1-7fad-417f-aeb8-647a8ac1a156\" on this server. Reference #18.8a71cd17.1792238759.1b01f91 https://errors.edgesuite.net/18.8a71cd17.1792238759.1b01f91"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/16d49be1-7fad-417f-aeb8-647a8ac1a156\" on this server. Reference #18.7e1da17.1792242360.4cc5d961 https://errors.edgesuite.net/18.7e1da17.1792242360.4cc5d961"
         }
       ],
       "attachments": []
