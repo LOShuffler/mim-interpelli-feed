@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-18T06:05:34.498Z",
-  "completedAt": "2026-10-18T06:06:11.599Z",
+  "retrievedAt": "2026-10-18T07:05:22.335Z",
+  "completedAt": "2026-10-18T07:05:59.182Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -5091,102 +5091,6 @@
           }
         ]
       }
-    },
-    {
-      "id": "92dece7aa9b26b6f",
-      "type": "new",
-      "detectedAt": "2026-09-18T07:05:32.476Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-borghetto-lodigiano-11",
-      "item": {
-        "id": "8f9561749ed8f1a7",
-        "position": 1,
-        "collectionReason": "new",
-        "listLabel": "I.C. Borghetto Lodigiano",
-        "listContext": "18 settembre 2026 Interpelli ricerca supplenti I.C. Borghetto Lodigiano ADAA Sostegno nella scuola dell’Infanzia",
-        "title": "I.C. Borghetto Lodigiano",
-        "subtitle": "ADAA Sostegno nella scuola dell’Infanzia",
-        "publicationDate": "18 settembre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-borghetto-lodigiano-11",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-borghetto-lodigiano-11",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://nuvola.madisoft.it/interpelli/LOIC80400A/docenti/119a00a1-a6c7-4df0-95b5-86709d94326a/candidatura",
-            "finalUrl": "https://nuvola.madisoft.it/interpelli/LOIC80400A/docenti/119a00a1-a6c7-4df0-95b5-86709d94326a/candidatura",
-            "httpStatus": 200,
-            "title": "INTERPELLO PER SELEZIONE PERSONALE DOCENTE SOSTEGNO SCUOLA INFANZIA",
-            "subtitle": "Nuvola - Interpelli",
-            "text": "nuvola Gestione Interpelli Torna agli interpelli aperti STEP 1 Dati anagrafici Generalità e contatti STEP 2 Titoli e certificazioni Studio e lingue STEP 3 Abilitazioni Abilitazione all'insegnamento e servizio prestato STEP 4 Esperienze di servizio Incarichi svolti e periodi di servizio STEP 5 Allegati e dichiarazioni Curriculum, altri allegati e dichiarazioni finali STEP 6 Riepilogo Controlla i dati inseriti INTERPELLO PER SELEZIONE PERSONALE DOCENTE SOSTEGNO SCUOLA INFANZIA Durata: 25 ore 0 minuti dal 21/09/2026 al 30/06/2027 Presentazione candidature: dal 17/09/2026 16:00 al 19/09/2026 16:00 Posti disponibili: 2 Annotazioni: A parità di ordine di priorità, la supplenza sarà conferita all'aspirante che abbia già prestato servizio di insegnamento presso questa istituzione scolastica, preferibilmente per la medesima tipologia di posto. Classe di concorso: ADAA Sostegno nella scuola dell’Infanzia Ordine di scuola: INFANZIA Sede di servizio: IC BORGHETTO LODIGIANO Leggi il testo sul trattamento dei dati STEP 1 DI 6 Dati anagrafici Generalità e contatti Generalità Generalità Nome Cognome Sesso Codice fiscale Data di nascita Comune di nascita Stato di nascita Residenza Residenza Indirizzo di residenza Comune di residenza CAP di residenza Contatti Contatti Email PEC Cellulare Cittadinanza Cittadinanza Cittadino Italiano Cittadino di uno Stato membro UE Cittadino non comunitario con diritto di soggiorno o soggiorno permanente Avanti"
-          }
-        ],
-        "attachments": []
-      }
-    },
-    {
-      "id": "6b5d2440dd2a25d6",
-      "type": "new",
-      "detectedAt": "2026-09-18T07:05:32.476Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-borghetto-lodigiano-10",
-      "item": {
-        "id": "a72e3213f63f4b25",
-        "position": 2,
-        "collectionReason": "new",
-        "listLabel": "I.C. Borghetto Lodigiano",
-        "listContext": "18 settembre 2026 Interpelli ricerca supplenti I.C. Borghetto Lodigiano ADEE Sostegno nella scuola Primaria",
-        "title": "I.C. Borghetto Lodigiano",
-        "subtitle": "ADEE Sostegno nella scuola Primaria",
-        "publicationDate": "18 settembre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-borghetto-lodigiano-10",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-borghetto-lodigiano-10",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://nuvola.madisoft.it/interpelli/LOIC80400A/docenti/2035430e-fce1-431b-bd1c-0b0c95ef80f4/candidatura",
-            "finalUrl": "https://nuvola.madisoft.it/interpelli/LOIC80400A/docenti/2035430e-fce1-431b-bd1c-0b0c95ef80f4/candidatura",
-            "httpStatus": 200,
-            "title": "INTERPELLO PER SELEZIONE PERSONALE DOCENTE SOSTEGNO SCUOLA PRIMARIA",
-            "subtitle": "Nuvola - Interpelli",
-            "text": "nuvola Gestione Interpelli Torna agli interpelli aperti STEP 1 Dati anagrafici Generalità e contatti STEP 2 Titoli e certificazioni Studio e lingue STEP 3 Abilitazioni Abilitazione all'insegnamento e servizio prestato STEP 4 Esperienze di servizio Incarichi svolti e periodi di servizio STEP 5 Allegati e dichiarazioni Curriculum, altri allegati e dichiarazioni finali STEP 6 Riepilogo Controlla i dati inseriti INTERPELLO PER SELEZIONE PERSONALE DOCENTE SOSTEGNO SCUOLA PRIMARIA Durata: 24 ore 0 minuti dal 22/09/2026 al 30/06/2027 Presentazione candidature: dal 17/09/2026 16:00 al 19/09/2026 16:00 Posti disponibili: 10 Annotazioni: A parità di ordine di priorità, la supplenza sarà conferita all'aspirante che abbia già prestato servizio di insegnamento presso questa istituzione scolastica, preferibilmente per la medesima tipologia di posto. Classe di concorso: ADEE Sostegno nella scuola Primaria Ordine di scuola: PRIMARIA Sede di servizio: IC BORGHETTO LODIGIANO Leggi il testo sul trattamento dei dati STEP 1 DI 6 Dati anagrafici Generalità e contatti Generalità Generalità Nome Cognome Sesso Codice fiscale Data di nascita Comune di nascita Stato di nascita Residenza Residenza Indirizzo di residenza Comune di residenza CAP di residenza Contatti Contatti Email PEC Cellulare Cittadinanza Cittadinanza Cittadino Italiano Cittadino di uno Stato membro UE Cittadino non comunitario con diritto di soggiorno o soggiorno permanente Avanti"
-          }
-        ],
-        "attachments": []
-      }
-    },
-    {
-      "id": "cda7e6c4bfb316a6",
-      "type": "new",
-      "detectedAt": "2026-09-18T07:05:32.476Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-50",
-      "item": {
-        "id": "d0d12775598ef654",
-        "position": 3,
-        "collectionReason": "new",
-        "listLabel": "I.C. Lodi III",
-        "listContext": "18 settembre 2026 Interpelli ricerca supplenti I.C. Lodi III Interpelli scuola primaria sostegno e posto comune",
-        "title": "I.C. Lodi III",
-        "subtitle": "Interpelli scuola primaria sostegno e posto comune",
-        "publicationDate": "18 settembre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-50",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-50",
-        "httpStatus": 200,
-        "text": "Link pagina interpelli",
-        "pages": [
-          {
-            "label": "Link pagina interpelli",
-            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013",
-            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013",
-            "httpStatus": 200,
-            "title": "Elenco interpelli",
-            "subtitle": "",
-            "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" LODI 3 \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio INTERPELLO POSTO COMUNE SCUOLA PRIMARIA EEEE Insegnante posto comune scuola primaria 21/09/2026 28/11/2026 LOIC814001 IC LODI TERZO Iscriviti INTERPELLO SOSTEGNO SCUOLA PRIMARIA ADEE Sostegno scuola primaria 21/09/2026 15/12/2026 LOIC814001 I.C. LODI III Iscriviti INTERPELLO SOSTEGNO SCUOLA PRIMARIA ADEE Sostegno scuola primaria 21/09/2026 30/06/2027 LOIC814001 I.C. LODI III Iscriviti INTERPELLO POSTO COMUNE SCUOLA PRIMARIA EEEE Insegnante posto comune scuola primaria 21/09/2026 16/01/2027 LOIC814001 I.C. LODI III Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
-          }
-        ],
-        "attachments": []
-      }
     }
   ],
   "latestFour": [
@@ -5211,7 +5115,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/23cd821e-7860-4680-a2f9-9875069a58e3\" on this server. Reference #18.ee1da17.1792303546.30762221 https://errors.edgesuite.net/18.ee1da17.1792303546.30762221"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/23cd821e-7860-4680-a2f9-9875069a58e3\" on this server. Reference #18.ee1da17.1792307134.30c2d443 https://errors.edgesuite.net/18.ee1da17.1792307134.30c2d443"
         }
       ],
       "attachments": []
@@ -5274,7 +5178,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/63eb3488-7f88-4858-a816-a93ad1e63a26\" on this server. Reference #18.ee1da17.1792303562.30768bc6 https://errors.edgesuite.net/18.ee1da17.1792303562.30768bc6"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/63eb3488-7f88-4858-a816-a93ad1e63a26\" on this server. Reference #18.ee1da17.1792307149.30c32018 https://errors.edgesuite.net/18.ee1da17.1792307149.30c32018"
         }
       ],
       "attachments": []
@@ -5300,7 +5204,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/16d49be1-7fad-417f-aeb8-647a8ac1a156\" on this server. Reference #18.7e1da17.1792303562.526b052b https://errors.edgesuite.net/18.7e1da17.1792303562.526b052b"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/16d49be1-7fad-417f-aeb8-647a8ac1a156\" on this server. Reference #18.ee1da17.1792307149.30c33fcc https://errors.edgesuite.net/18.ee1da17.1792307149.30c33fcc"
         }
       ],
       "attachments": []
