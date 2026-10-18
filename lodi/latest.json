@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-18T10:05:32.696Z",
-  "completedAt": "2026-10-18T10:06:09.332Z",
+  "retrievedAt": "2026-10-18T11:05:32.318Z",
+  "completedAt": "2026-10-18T11:06:09.114Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -4737,166 +4737,6 @@
           }
         ]
       }
-    },
-    {
-      "id": "6031289cb8fdc053",
-      "type": "new",
-      "detectedAt": "2026-09-18T11:05:33.493Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-tavazzano-9",
-      "item": {
-        "id": "f90be28e2355747a",
-        "position": 1,
-        "collectionReason": "new",
-        "listLabel": "I.C. Tavazzano",
-        "listContext": "18 settembre 2026 Interpelli ricerca supplenti I.C. Tavazzano Interpello nazionale per reperimento docenti su tipo di posto COMUNE - SCUOLA PRIMARIA fino al 30/06/2027",
-        "title": "I.C. Tavazzano",
-        "subtitle": "Interpello nazionale per reperimento docenti su tipo di posto COMUNE - SCUOLA PRIMARIA fino al 30/06/2027",
-        "publicationDate": "18 settembre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-tavazzano-9",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-tavazzano-9",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0001/9fbe5e41-ca79-46ec-9a57-f6810675b67e",
-            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0001/9fbe5e41-ca79-46ec-9a57-f6810675b67e",
-            "httpStatus": 200,
-            "title": "Elenco interpelli",
-            "subtitle": "",
-            "text": "Interpelli ISTITUTO COMPRENSIVO \"F. FELLINI\" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio Interpello nazionale per reperimento docenti su tipo di posto COMUNE - SCUOLA PRIMARIA fino al 30/06/2027 EEEE Insegnante posto comune scuola primaria 22/09/2026 30/06/2027 LOEE800015 Scuola Primaria di Tavazzano e Sordio Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
-          }
-        ],
-        "attachments": []
-      }
-    },
-    {
-      "id": "5373059f4ce95629",
-      "type": "new",
-      "detectedAt": "2026-09-18T11:05:33.493Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-tavazzano-8",
-      "item": {
-        "id": "418d734eac594a69",
-        "position": 2,
-        "collectionReason": "new",
-        "listLabel": "I.C. Tavazzano",
-        "listContext": "18 settembre 2026 Interpelli ricerca supplenti I.C. Tavazzano Interpello nazionale per reperimento docenti su tipo di posto SOSTEGNO - SCUOLA PRIMARIA fino al 30/06/2027",
-        "title": "I.C. Tavazzano",
-        "subtitle": "Interpello nazionale per reperimento docenti su tipo di posto SOSTEGNO - SCUOLA PRIMARIA fino al 30/06/2027",
-        "publicationDate": "18 settembre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-tavazzano-8",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-tavazzano-8",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0001/3187f6be-61fc-4c65-9bd2-05125f48bb2e",
-            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0001/3187f6be-61fc-4c65-9bd2-05125f48bb2e",
-            "httpStatus": 200,
-            "title": "Elenco interpelli",
-            "subtitle": "",
-            "text": "Interpelli ISTITUTO COMPRENSIVO \"F. FELLINI\" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio Interpello nazionale per reperimento docenti su tipo di posto SOSTEGNO - SCUOLA PRIMARIA fino al 30/06/2027 ADEE Sostegno scuola primaria 22/09/2026 30/06/2027 LOEE800015 Scuola Primaria di Tavazzano e Sordio Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
-          }
-        ],
-        "attachments": []
-      }
-    },
-    {
-      "id": "1b16725325e032f9",
-      "type": "new",
-      "detectedAt": "2026-09-18T11:05:33.493Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-tavazzano-7",
-      "item": {
-        "id": "8de41838201a9148",
-        "position": 3,
-        "collectionReason": "new",
-        "listLabel": "I.C. Tavazzano",
-        "listContext": "18 settembre 2026 Interpelli ricerca supplenti I.C. Tavazzano Interpello nazionale per reperimento docenti su tipo di posto COMUNE - SCUOLA PRIMARIA fino 8/06/2027",
-        "title": "I.C. Tavazzano",
-        "subtitle": "Interpello nazionale per reperimento docenti su tipo di posto COMUNE - SCUOLA PRIMARIA fino 8/06/2027",
-        "publicationDate": "18 settembre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-tavazzano-7",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-tavazzano-7",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0001/f335fe7d-be34-471b-9ab9-75e5d6dbb46a",
-            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0001/f335fe7d-be34-471b-9ab9-75e5d6dbb46a",
-            "httpStatus": 200,
-            "title": "Elenco interpelli",
-            "subtitle": "",
-            "text": "Interpelli ISTITUTO COMPRENSIVO \"F. FELLINI\" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio Interpello nazionale per reperimento docenti su tipo di posto COMUNE - SCUOLA PRIMARIA fino 8/06/2027 EEEE Insegnante posto comune scuola primaria 22/09/2026 08/06/2027 LOEE800015 Scuola Primaria di Tavazzano e Sordio Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
-          }
-        ],
-        "attachments": []
-      }
-    },
-    {
-      "id": "f0c972ce9cdb5bef",
-      "type": "new",
-      "detectedAt": "2026-09-18T11:05:33.493Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iv-24",
-      "item": {
-        "id": "72b39e02884f9f39",
-        "position": 4,
-        "collectionReason": "new",
-        "listLabel": "I.C. Lodi IV",
-        "listContext": "18 settembre 2026 Interpelli ricerca supplenti I.C. Lodi IV Interpello per il reclutamento di N. 1 docente POSTO COMUNE Scuola Primaria EEEE 24 H SETT. supplenza breve presumibilmente fino al 30/10/26",
-        "title": "I.C. Lodi IV",
-        "subtitle": "Interpello per il reclutamento di N. 1 docente POSTO COMUNE Scuola Primaria EEEE 24 H SETT. supplenza breve presumibilmente fino al 30/10/26",
-        "publicationDate": "18 settembre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iv-24",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iv-24",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://www.portaleargo.it/albopretorio/online/",
-            "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
-            "httpStatus": 200,
-            "title": "Albo Pretorio",
-            "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
-            "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
-          }
-        ],
-        "attachments": []
-      }
-    },
-    {
-      "id": "39756a9a1787dc37",
-      "type": "new",
-      "detectedAt": "2026-09-18T11:05:33.493Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iv-23",
-      "item": {
-        "id": "d345b3aefecad44a",
-        "position": 5,
-        "collectionReason": "new",
-        "listLabel": "I.C. Lodi IV",
-        "listContext": "18 settembre 2026 Interpelli ricerca supplenti I.C. Lodi IV Interpello per il reclutamento di N. 1 docente POSTO COMUNE Scuola Primaria EEEE 24 H SETT. supplenza breve presumibilmente fino al 17/12/26",
-        "title": "I.C. Lodi IV",
-        "subtitle": "Interpello per il reclutamento di N. 1 docente POSTO COMUNE Scuola Primaria EEEE 24 H SETT. supplenza breve presumibilmente fino al 17/12/26",
-        "publicationDate": "18 settembre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iv-23",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iv-23",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://www.portaleargo.it/albopretorio/online/",
-            "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
-            "httpStatus": 200,
-            "title": "Albo Pretorio",
-            "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
-            "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
-          }
-        ],
-        "attachments": []
-      }
     }
   ],
   "latestFour": [
@@ -4921,7 +4761,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/23cd821e-7860-4680-a2f9-9875069a58e3\" on this server. Reference #18.43a61702.1792317944.c1b34d5 https://errors.edgesuite.net/18.43a61702.1792317944.c1b34d5"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/23cd821e-7860-4680-a2f9-9875069a58e3\" on this server. Reference #18.8771cd17.1792321544.38ad8290 https://errors.edgesuite.net/18.8771cd17.1792321544.38ad8290"
         }
       ],
       "attachments": []
@@ -4984,7 +4824,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/63eb3488-7f88-4858-a816-a93ad1e63a26\" on this server. Reference #18.43a61702.1792317960.c1b51a4 https://errors.edgesuite.net/18.43a61702.1792317960.c1b51a4"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/63eb3488-7f88-4858-a816-a93ad1e63a26\" on this server. Reference #18.8771cd17.1792321559.38aebd9f https://errors.edgesuite.net/18.8771cd17.1792321559.38aebd9f"
         }
       ],
       "attachments": []
@@ -5010,7 +4850,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/16d49be1-7fad-417f-aeb8-647a8ac1a156\" on this server. Reference #18.78a61702.1792317960.a12d714 https://errors.edgesuite.net/18.78a61702.1792317960.a12d714"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/16d49be1-7fad-417f-aeb8-647a8ac1a156\" on this server. Reference #18.8771cd17.1792321559.38af4235 https://errors.edgesuite.net/18.8771cd17.1792321559.38af4235"
         }
       ],
       "attachments": []
