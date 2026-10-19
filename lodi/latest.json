@@ -6,18 +6,50 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-19T12:05:34.304Z",
-  "completedAt": "2026-10-19T12:06:10.873Z",
+  "retrievedAt": "2026-10-19T13:05:13.498Z",
+  "completedAt": "2026-10-19T13:05:49.679Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 24978,
+    "textLength": 24975,
     "discoveredCount": 200,
     "safetyLimited": false,
     "processedCount": 4
   },
   "recentEvents": [
+    {
+      "id": "fa7b66afa1be8274",
+      "type": "new",
+      "detectedAt": "2026-10-19T13:05:13.498Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-zelo-buon-persico-21",
+      "item": {
+        "id": "9a01288dbc7de019",
+        "position": 1,
+        "collectionReason": "new",
+        "listLabel": "I.C. Zelo Buon Persico",
+        "listContext": "19 ottobre 2026 Interpelli ricerca supplenti I.C. Zelo Buon Persico Interpello Sostegno scuola primaria",
+        "title": "I.C. Zelo Buon Persico",
+        "subtitle": "Interpello Sostegno scuola primaria",
+        "publicationDate": "19 ottobre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-zelo-buon-persico-21",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-zelo-buon-persico-21",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0003/9a4866ec-58cb-474e-afa0-ffaa72f54afc",
+            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0003/9a4866ec-58cb-474e-afa0-ffaa72f54afc",
+            "httpStatus": 403,
+            "title": "Access Denied",
+            "subtitle": "",
+            "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0003/9a4866ec-58cb-474e-afa0-ffaa72f54afc\" on this server. Reference #18.43a61702.1792415125.eaba657 https://errors.edgesuite.net/18.43a61702.1792415125.eaba657"
+          }
+        ],
+        "attachments": []
+      }
+    },
     {
       "id": "585bd0cb537adcdc",
       "type": "new",
@@ -4630,9 +4662,35 @@
   ],
   "latestFour": [
     {
-      "id": "1716b7043c4b1a23",
+      "id": "9a01288dbc7de019",
       "position": 1,
       "collectionReason": "new",
+      "listLabel": "I.C. Zelo Buon Persico",
+      "listContext": "19 ottobre 2026 Interpelli ricerca supplenti I.C. Zelo Buon Persico Interpello Sostegno scuola primaria",
+      "title": "I.C. Zelo Buon Persico",
+      "subtitle": "Interpello Sostegno scuola primaria",
+      "publicationDate": "19 ottobre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-zelo-buon-persico-21",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-zelo-buon-persico-21",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0003/9a4866ec-58cb-474e-afa0-ffaa72f54afc",
+          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0003/9a4866ec-58cb-474e-afa0-ffaa72f54afc",
+          "httpStatus": 403,
+          "title": "Access Denied",
+          "subtitle": "",
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0003/9a4866ec-58cb-474e-afa0-ffaa72f54afc\" on this server. Reference #18.43a61702.1792415125.eaba657 https://errors.edgesuite.net/18.43a61702.1792415125.eaba657"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "1716b7043c4b1a23",
+      "position": 2,
+      "collectionReason": "refresh",
       "listLabel": "I.C. Lodi IV",
       "listContext": "19 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi IV Reclutamento di N. 1 docente DI SOSTEGNO SCUOLA INFANZIA - 12,5 H SETT. fino al 30/06/27",
       "title": "I.C. Lodi IV",
@@ -4657,7 +4715,7 @@
     },
     {
       "id": "799c09bbe612b8b7",
-      "position": 2,
+      "position": 3,
       "collectionReason": "refresh",
       "listLabel": "I.C. \"C. Collodi\" S. Angelo Lodigiano",
       "listContext": "16 ottobre 2026 Interpelli ricerca supplenti I.C. \"C. Collodi\" S. Angelo Lodigiano Interpello su cdc EEEE- 24 h fino al 5 febbraio 2027",
@@ -4676,14 +4734,14 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/23cd821e-7860-4680-a2f9-9875069a58e3\" on this server. Reference #18.1868dead.1792411553.d58b780 https://errors.edgesuite.net/18.1868dead.1792411553.d58b780"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/23cd821e-7860-4680-a2f9-9875069a58e3\" on this server. Reference #18.43a61702.1792415138.eabbf2c https://errors.edgesuite.net/18.43a61702.1792415138.eabbf2c"
         }
       ],
       "attachments": []
     },
     {
       "id": "243a375dfdc7fb05",
-      "position": 3,
+      "position": 4,
       "collectionReason": "refresh",
       "listLabel": "CPIA Lodi",
       "listContext": "16 ottobre 2026 Interpelli ricerca supplenti CPIA Lodi Interpello A028 Lodi e Casa Circondariale di Lodi",
@@ -4714,35 +4772,9 @@
           "status": 200,
           "contentType": "text/html; charset=UTF-8",
           "bytes": 297873,
-          "file": "items/03-CPIA-Lodi/01-attachment"
+          "file": "items/04-CPIA-Lodi/01-attachment"
         }
       ]
-    },
-    {
-      "id": "417bef8586231fc6",
-      "position": 4,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
-      "listContext": "16 ottobre 2026 Interpelli ricerca supplenti I.C. \"R. Morzenti\" S. Angelo Lodigiano Interpello A028 Matematica e scienze fino al 19/11/2026",
-      "title": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
-      "subtitle": "Interpello A028 Matematica e scienze fino al 19/11/2026",
-      "publicationDate": "16 ottobre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-r-morzenti-s-angelo-lodigiano-25",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-r-morzenti-s-angelo-lodigiano-25",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0012/63eb3488-7f88-4858-a816-a93ad1e63a26",
-          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0012/63eb3488-7f88-4858-a816-a93ad1e63a26",
-          "httpStatus": 403,
-          "title": "Access Denied",
-          "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/63eb3488-7f88-4858-a816-a93ad1e63a26\" on this server. Reference #18.1868dead.1792411568.d58d2b2 https://errors.edgesuite.net/18.1868dead.1792411568.d58d2b2"
-        }
-      ],
-      "attachments": []
     }
   ],
   "errors": []
