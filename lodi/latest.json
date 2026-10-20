@@ -6,18 +6,82 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-20T07:05:32.512Z",
-  "completedAt": "2026-10-20T07:06:08.562Z",
+  "retrievedAt": "2026-10-20T08:05:32.414Z",
+  "completedAt": "2026-10-20T08:06:07.145Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 24975,
+    "textLength": 24894,
     "discoveredCount": 200,
     "safetyLimited": false,
     "processedCount": 4
   },
   "recentEvents": [
+    {
+      "id": "1196f833ac6af2b5",
+      "type": "new",
+      "detectedAt": "2026-10-20T08:05:32.414Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-15",
+      "item": {
+        "id": "c6d710e9c320784b",
+        "position": 1,
+        "collectionReason": "new",
+        "listLabel": "I.I.S. Codogno",
+        "listContext": "20 ottobre 2026 Interpelli ricerca supplenti I.I.S. Codogno Interpello Classe di concorso AS12",
+        "title": "I.I.S. Codogno",
+        "subtitle": "Interpello Classe di concorso AS12",
+        "publicationDate": "20 ottobre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-15",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-15",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://www.portaleargo.it/albopretorio/online/",
+            "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
+            "httpStatus": 200,
+            "title": "Albo Pretorio",
+            "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
+            "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accessibilità Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
+          }
+        ],
+        "attachments": []
+      }
+    },
+    {
+      "id": "f2dd158c7df74287",
+      "type": "new",
+      "detectedAt": "2026-10-20T08:05:32.414Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-14",
+      "item": {
+        "id": "8c1d7c024633266c",
+        "position": 2,
+        "collectionReason": "new",
+        "listLabel": "I.I.S. Codogno",
+        "listContext": "20 ottobre 2026 Interpelli ricerca supplenti I.I.S. Codogno Interpello Classe di concorso A041",
+        "title": "I.I.S. Codogno",
+        "subtitle": "Interpello Classe di concorso A041",
+        "publicationDate": "20 ottobre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-14",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-14",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://www.portaleargo.it/albopretorio/online/",
+            "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
+            "httpStatus": 200,
+            "title": "Albo Pretorio",
+            "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
+            "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accessibilità Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
+          }
+        ],
+        "attachments": []
+      }
+    },
     {
       "id": "fa7b66afa1be8274",
       "type": "new",
@@ -4662,8 +4726,60 @@
   ],
   "latestFour": [
     {
-      "id": "9a01288dbc7de019",
+      "id": "c6d710e9c320784b",
       "position": 1,
+      "collectionReason": "new",
+      "listLabel": "I.I.S. Codogno",
+      "listContext": "20 ottobre 2026 Interpelli ricerca supplenti I.I.S. Codogno Interpello Classe di concorso AS12",
+      "title": "I.I.S. Codogno",
+      "subtitle": "Interpello Classe di concorso AS12",
+      "publicationDate": "20 ottobre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-15",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-15",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://www.portaleargo.it/albopretorio/online/",
+          "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
+          "httpStatus": 200,
+          "title": "Albo Pretorio",
+          "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
+          "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accessibilità Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "8c1d7c024633266c",
+      "position": 2,
+      "collectionReason": "new",
+      "listLabel": "I.I.S. Codogno",
+      "listContext": "20 ottobre 2026 Interpelli ricerca supplenti I.I.S. Codogno Interpello Classe di concorso A041",
+      "title": "I.I.S. Codogno",
+      "subtitle": "Interpello Classe di concorso A041",
+      "publicationDate": "20 ottobre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-14",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-14",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://www.portaleargo.it/albopretorio/online/",
+          "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
+          "httpStatus": 200,
+          "title": "Albo Pretorio",
+          "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
+          "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accessibilità Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "9a01288dbc7de019",
+      "position": 3,
       "collectionReason": "refresh",
       "listLabel": "I.C. Zelo Buon Persico",
       "listContext": "19 ottobre 2026 Interpelli ricerca supplenti I.C. Zelo Buon Persico Interpello Sostegno scuola primaria",
@@ -4682,14 +4798,14 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0003/9a4866ec-58cb-474e-afa0-ffaa72f54afc\" on this server. Reference #18.c9b62417.1792479944.10648f9f https://errors.edgesuite.net/18.c9b62417.1792479944.10648f9f"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0003/9a4866ec-58cb-474e-afa0-ffaa72f54afc\" on this server. Reference #18.43a61702.1792483557.107417f9 https://errors.edgesuite.net/18.43a61702.1792483557.107417f9"
         }
       ],
       "attachments": []
     },
     {
       "id": "1716b7043c4b1a23",
-      "position": 2,
+      "position": 4,
       "collectionReason": "refresh",
       "listLabel": "I.C. Lodi IV",
       "listContext": "19 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi IV Reclutamento di N. 1 docente DI SOSTEGNO SCUOLA INFANZIA - 12,5 H SETT. fino al 30/06/27",
@@ -4712,69 +4828,6 @@
         }
       ],
       "attachments": []
-    },
-    {
-      "id": "799c09bbe612b8b7",
-      "position": 3,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. \"C. Collodi\" S. Angelo Lodigiano",
-      "listContext": "16 ottobre 2026 Interpelli ricerca supplenti I.C. \"C. Collodi\" S. Angelo Lodigiano Interpello su cdc EEEE- 24 h fino al 5 febbraio 2027",
-      "title": "I.C. \"C. Collodi\" S. Angelo Lodigiano",
-      "subtitle": "Interpello su cdc EEEE- 24 h fino al 5 febbraio 2027",
-      "publicationDate": "16 ottobre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-36",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-36",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/23cd821e-7860-4680-a2f9-9875069a58e3",
-          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/23cd821e-7860-4680-a2f9-9875069a58e3",
-          "httpStatus": 403,
-          "title": "Access Denied",
-          "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/23cd821e-7860-4680-a2f9-9875069a58e3\" on this server. Reference #18.c9b62417.1792479957.1064ae5e https://errors.edgesuite.net/18.c9b62417.1792479957.1064ae5e"
-        }
-      ],
-      "attachments": []
-    },
-    {
-      "id": "243a375dfdc7fb05",
-      "position": 4,
-      "collectionReason": "refresh",
-      "listLabel": "CPIA Lodi",
-      "listContext": "16 ottobre 2026 Interpelli ricerca supplenti CPIA Lodi Interpello A028 Lodi e Casa Circondariale di Lodi",
-      "title": "CPIA Lodi",
-      "subtitle": "Interpello A028 Lodi e Casa Circondariale di Lodi",
-      "publicationDate": "16 ottobre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/cpia-lodi-6",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/cpia-lodi-6",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://www.cpialodi.edu.it/circolare/interpello-classe-di-concorso-a028/",
-          "finalUrl": "https://www.cpialodi.edu.it/circolare/interpello-classe-di-concorso-a028/",
-          "httpStatus": 200,
-          "title": "Documenti",
-          "subtitle": "",
-          "text": "AVVISO Si comunica che, rilevata la necessità di provvedere a formulare specifico avviso finalizzato al reclutamento di un docente per l’insegnamento di Matematica/Scienze nella scuola secondaria di I grado (classe di concorso A028), questa Istituzione scolastica, ai sensi dell’art. 13, comma 23 dell’O.M. n. 88/2024, deve procedere a proporre interpello, che sarà valutato solo se la Convocazione da Graduatoria di Istituto non avrà esito positivo. La supplenza ha le seguenti caratteristiche: a) Inizio 19/10/2026 e termine 30/06/2027 b) Orario settimanale 18 ore NON MODIFICABILE: lunedì dalle 12:00 alle 15:00 martedì dalle 13:30 alle 17:30 mercoledì dalle 09:30 alle 12:30 e dalle 13:00 alle 15:00 giovedì dalle 10:30 alle 14:30 venerdì dalle 09:00 alle 11:00 c) Sede di servizio LODI e CASA CIRCONDARIALE di Lodi Tutti gli interessati sono tenuti a presentare entro e non oltre le ore 13.00 del 18/10/2026 la propria disponibilità al conferimento della supplenza, inviando all’indirizzo lomm022001@istruzione.it il modello allegato al presente avviso, unitamente al proprio curriculum e a una copia di un documento di identità. La supplenza sarà conferita agli aspiranti che avranno presentato domanda nei termini indicati, secondo il seguente ordine di priorità: 1. Possesso dell’abilitazione per la classe di concorso 2. Possesso dei titoli necessari per l’iscrizione nella seconda fascia delle graduatorie provinciali per le supplenze 3. Possesso di titoli di studio affini a quelli previsti al precedente punto 2 La supplenza sarà conferita all’aspirante che avrà presentato domanda nei termini indicati. Il destinatario dell’incarico di supplenza sarà avvisato telefonicamente o per e-mail. Dovrà fornire risposta immediata di accettazione e assumere servizio entro 24 ore dall’accettazione. Nel caso in cui non sia possibile l’immediato contatto telefonico o la ricezione della risposta all’email non sia effettuata entro due ore dall’inoltro da parte degli uffici, l’Amministrazione si riserva di procedere alla chiamata di altri aspiranti. Si applicano, in caso di mancata accettazione e/o presa di servizio, le sanzioni di cui all’art. 14 dell’O.M. n. 88/2024. L’informativa sul trattamento dei dati https://www.cpialodi.edu.it/2024/09/19/interpello-docenti/ Documenti SEGNATURA_1792147412_Interpello_A028_Lodi_e_Casa_Circondariale_di_Lodi pdf - 156 kb INFORMATIVA PRIVACY INTERPELLO pdf - 172 kb Pubblicato: 16.10.2026 - Revisione: 16.10.2026 Eccetto dove diversamente specificato, questo articolo è stato rilasciato sotto Licenza Creative Commons Attribuzione 4.0 Italia."
-        }
-      ],
-      "attachments": [
-        {
-          "text": "Le carte della scuola",
-          "href": "https://www.cpialodi.edu.it/documento/",
-          "title": "",
-          "context": "Le carte della scuola",
-          "status": 200,
-          "contentType": "text/html; charset=UTF-8",
-          "bytes": 297873,
-          "file": "items/04-CPIA-Lodi/01-attachment"
-        }
-      ]
     }
   ],
   "errors": []
