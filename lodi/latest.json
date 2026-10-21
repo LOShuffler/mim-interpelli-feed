@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-21T06:05:23.234Z",
-  "completedAt": "2026-10-21T06:05:58.346Z",
+  "retrievedAt": "2026-10-21T07:05:32.928Z",
+  "completedAt": "2026-10-21T07:06:07.762Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -4648,112 +4648,6 @@
           }
         ]
       }
-    },
-    {
-      "id": "948f8deca7ee94b1",
-      "type": "new",
-      "detectedAt": "2026-09-21T07:05:33.357Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-maleo-20",
-      "item": {
-        "id": "2ab530dd26f392ca",
-        "position": 1,
-        "collectionReason": "new",
-        "listLabel": "I.C. Maleo",
-        "listContext": "21 settembre 2026 Interpelli ricerca supplenti I.C. Maleo Interpello supplenza al 30/06/27 sc. primaria h. 21 su più plessi",
-        "title": "I.C. Maleo",
-        "subtitle": "Interpello supplenza al 30/06/27 sc. primaria h. 21 su più plessi",
-        "publicationDate": "21 settembre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-maleo-20",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-maleo-20",
-        "httpStatus": 200,
-        "text": "Link pagina interpello",
-        "pages": [
-          {
-            "label": "Link pagina interpello",
-            "url": "https://www.iccsmaleo.edu.it/tipologia-articolo/interpello/",
-            "finalUrl": "https://www.iccsmaleo.edu.it/tipologia-articolo/interpello/",
-            "httpStatus": 200,
-            "title": "Interpello part time scuola primaria",
-            "subtitle": "",
-            "text": "2026 18 Set Interpello part time scuola primaria Interpello part time scuola primaria"
-          }
-        ],
-        "attachments": [
-          {
-            "text": "Le carte della scuola",
-            "href": "https://www.iccsmaleo.edu.it/documento/",
-            "title": "",
-            "context": "Le carte della scuola",
-            "status": 200,
-            "contentType": "text/html; charset=UTF-8",
-            "bytes": 273882,
-            "file": "items/01-I.C.-Maleo/01-attachment"
-          },
-          {
-            "text": "Albo online",
-            "href": "https://www.iccsmaleo.edu.it/tipologia-documento/albo-online/",
-            "title": "",
-            "context": "Albo online",
-            "status": 200,
-            "contentType": "text/html; charset=UTF-8",
-            "bytes": 256801,
-            "file": "items/01-I.C.-Maleo/02-attachment"
-          }
-        ]
-      }
-    },
-    {
-      "id": "23350ae80f023850",
-      "type": "new",
-      "detectedAt": "2026-09-21T07:05:33.357Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-s-angelo-lodigiano-12",
-      "item": {
-        "id": "7c82041747062c62",
-        "position": 2,
-        "collectionReason": "new",
-        "listLabel": "I.I.S. S. Angelo Lodigiano",
-        "listContext": "21 settembre 2026 Interpelli ricerca supplenti I.I.S. S. Angelo Lodigiano Interpelli classe di concorso A020 - A027 - A041",
-        "title": "I.I.S. S. Angelo Lodigiano",
-        "subtitle": "Interpelli classe di concorso A020 - A027 - A041",
-        "publicationDate": "21 settembre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-s-angelo-lodigiano-12",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-i-s-s-angelo-lodigiano-12",
-        "httpStatus": 200,
-        "text": "Link pagina interpelli",
-        "pages": [
-          {
-            "label": "Link pagina interpelli",
-            "url": "https://www.iispandinipiazza.edu.it/procedura-di-interpello/",
-            "finalUrl": "https://www.iispandinipiazza.edu.it/procedura-di-interpello/",
-            "httpStatus": 200,
-            "title": "ANNO SCOLASTICO 2026 – 27",
-            "subtitle": "",
-            "text": "Stampa / Condividi Stampa Invia Condividi Facebook Twitter Linkedin L’Ordinanza Ministeriale n. 88/2024 introduce una novità importante: gli interpelli. Si tratta di avvisi pubblici che le scuole sono tenute a pubblicare nel caso in cui non riescano a reperire supplenti tramite le graduatorie. ANNO SCOLASTICO 2026 – 27 INTERPELLI ATTIVI Interpello A020 Interpello A027 Interpello A041 INTERPELLI SCADUTI ANNUALITA’ PRECEDENTI ANNO SCOLASTICO 2025 – 26 INTERPELLO ADSS INTERPELLO A041 INTERPELLO B003 INTERPELLO A021 INTERPELLO ADSS interpello AS48 Interpello AS12 INTERPELLO A018 nuovo INTERPELLO AS2A INTERPELLO AS2A 12 ORE INTERPELLO ADSS – 1 INTERPELLO ADSS – 2 INTERPELLO AS2A INTERPELLO ADSS INTERPELLO A050 INTERPELLO A045 INTERPELLO ADSS INTERPELLO AS12 INTERPELLO A026 INTERPELLO AS12 INTERPELLO AS48 SCIENZE MOTORIE E SPORTIVE A040 SCIENZE E TECNOLOGIE ELETTRICHE ED ELETTRONICHE A033 SCIENZE E TECNOLOGIE AERONAUTICHE A042 SCIENZE E TECNOLOGIE MECCANICHE A026 INTERPELLO MATEMATICA A027 INTERPELLO MATEMATICA E FISICA A036 INTERPELLO SCIENZE E TECNOLOGIE DELLA LOGISTICA A041 INTERPELLO SCIENZE E TECNOLOGIE INFORMATICHE A050 INTERPELLO SCIENZE NATURALI BIOLOGICHE E CHIMICHE B005 INTERPELLO LABORATORIO DI LOGISTICA B009 INTERPELLO LABORATORIO DI SCIENZE E TECNOLOGIE AERONAUTICHE ANNO SCOLASTICO 2024 – 25 A026 Interpello 9 ore fino al 08.06.2025 A012 INTERPELLO PER 14 ORE IIS PANDINI AB24 LINGUA E CIVILTA’ STRANIERA (INGLESE) CATTEDRA DI 18 ORE SEDE DI SERVIZIO IIS “RAIMONDO PANDINI A040 9 ORE INTERPELLO supplenza breve A050 INTERPELLO PER CATTEDRA INTERNA IIS PANDINI B015 ORE 6 INTERPELLO A014 Interpello per cattedra interna L.A.S. Piazza A020 Interpello per 14 ore I.I.S. Pandini A020 Interpello per cattedra interna I.I.S. Pandini A027 Interpello per 10 ore L.A.S. Piazza A033 Interpello per 9 ore I.I.S. Pandini A036 Interpello per 16 ore I.I.S. Pandini A040 Interpello per 9 ore I.I.S. Pandini A041 Interpello per 9 ore I.I.S. Pandini A041 Interpello per cattedra interna I.I.S. Pandini A042 Interpello per 9 ore I.I.S. Pandini B009 LAB. AEREONAUTICHE 6 ORE INTERPELLO presso I.I.S Pandini di Sant’Angelo Lodigiano B005 LAB. LOGISTICA 8 ORE INTERPELLO presso I.I.S. Pandini di Sant’Angelo Lodigiano A050: INTERPELLO PER SUPPLENZA SU CLASSE DI CONCORSO A-50 (18 ORE) FINO ALL’AVENTE DIRITTO- SEDE DI SERVIZIO LAS “CALLISTO PIAZZA” Pubblicato: 18.09.2024 - Revisione: 18.09.2026 Eccetto dove diversamente specificato, questo articolo è stato rilasciato sotto Licenza Creative Commons Attribuzione 4.0 Italia."
-          }
-        ],
-        "attachments": [
-          {
-            "text": "Le carte della scuola",
-            "href": "https://www.iispandinipiazza.edu.it/documento/",
-            "title": "",
-            "context": "Le carte della scuola",
-            "status": 200,
-            "contentType": "text/html; charset=UTF-8",
-            "bytes": 375002,
-            "file": "items/02-I.I.S.-S.-Angelo-Lodigiano/01-attachment"
-          },
-          {
-            "text": "PNRR",
-            "href": "https://www.iispandinipiazza.edu.it/tipologia-documento/PNRR/",
-            "title": "",
-            "context": "PNRR",
-            "status": 200,
-            "contentType": "text/html; charset=UTF-8",
-            "bytes": 368699,
-            "file": "items/02-I.I.S.-S.-Angelo-Lodigiano/02-attachment"
-          }
-        ]
-      }
     }
   ],
   "latestFour": [
@@ -4778,7 +4672,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0014/2794a583-2981-4853-b36a-6ecd41bda47d\" on this server. Reference #18.7e1da17.1792562735.6c51dea7 https://errors.edgesuite.net/18.7e1da17.1792562735.6c51dea7"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0014/2794a583-2981-4853-b36a-6ecd41bda47d\" on this server. Reference #18.6ea61702.1792566345.15bd0033 https://errors.edgesuite.net/18.6ea61702.1792566345.15bd0033"
         }
       ],
       "attachments": []
@@ -4856,7 +4750,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0003/9a4866ec-58cb-474e-afa0-ffaa72f54afc\" on this server. Reference #18.7e1da17.1792562755.6c527b7a https://errors.edgesuite.net/18.7e1da17.1792562755.6c527b7a"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0003/9a4866ec-58cb-474e-afa0-ffaa72f54afc\" on this server. Reference #18.6ea61702.1792566365.15bd3132 https://errors.edgesuite.net/18.6ea61702.1792566365.15bd3132"
         }
       ],
       "attachments": []
