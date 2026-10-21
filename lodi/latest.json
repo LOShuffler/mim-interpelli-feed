@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-21T12:05:23.698Z",
-  "completedAt": "2026-10-21T12:05:58.006Z",
+  "retrievedAt": "2026-10-21T13:05:32.423Z",
+  "completedAt": "2026-10-21T13:06:06.767Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -4231,251 +4231,6 @@
           }
         ]
       }
-    },
-    {
-      "id": "4dfcf00210e1fe22",
-      "type": "new",
-      "detectedAt": "2026-09-21T13:05:33.661Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-maleo-21",
-      "item": {
-        "id": "dd9ea9d5fefa3370",
-        "position": 1,
-        "collectionReason": "new",
-        "listLabel": "I.C. Maleo",
-        "listContext": "21 settembre 2026 Interpelli ricerca supplenti I.C. Maleo Interpelli Scuola Primaria",
-        "title": "I.C. Maleo",
-        "subtitle": "Interpelli Scuola Primaria",
-        "publicationDate": "21 settembre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-maleo-21",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-maleo-21",
-        "httpStatus": 200,
-        "text": "Link interpelli",
-        "pages": [
-          {
-            "label": "Link interpelli",
-            "url": "https://www.iccsmaleo.edu.it/tipologia-articolo/notizie/",
-            "finalUrl": "https://www.iccsmaleo.edu.it/tipologia-articolo/notizie/",
-            "httpStatus": 200,
-            "title": "Interpello supplenza primaria fino al 30-10",
-            "subtitle": "",
-            "text": "2026 21 Set Interpello supplenza primaria fino al 30-10 Interpello supplenza primaria fino al 30-10"
-          }
-        ],
-        "attachments": [
-          {
-            "text": "Le carte della scuola",
-            "href": "https://www.iccsmaleo.edu.it/documento/",
-            "title": "",
-            "context": "Le carte della scuola",
-            "status": 200,
-            "contentType": "text/html; charset=UTF-8",
-            "bytes": 273882,
-            "file": "items/01-I.C.-Maleo/01-attachment"
-          },
-          {
-            "text": "Albo online",
-            "href": "https://www.iccsmaleo.edu.it/tipologia-documento/albo-online/",
-            "title": "",
-            "context": "Albo online",
-            "status": 200,
-            "contentType": "text/html; charset=UTF-8",
-            "bytes": 256801,
-            "file": "items/01-I.C.-Maleo/02-attachment"
-          }
-        ]
-      }
-    },
-    {
-      "id": "c87e145e3080fe4a",
-      "type": "new",
-      "detectedAt": "2026-09-21T13:05:33.661Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iv-26",
-      "item": {
-        "id": "45101e0e417dd39e",
-        "position": 2,
-        "collectionReason": "new",
-        "listLabel": "I.C. Lodi IV",
-        "listContext": "21 settembre 2026 Interpelli ricerca supplenti I.C. Lodi IV Interpello per il reclutamento di N. 6 docenti di sostegno Scuola Primaria 24 h sett. fino al 30/06/2027",
-        "title": "I.C. Lodi IV",
-        "subtitle": "Interpello per il reclutamento di N. 6 docenti di sostegno Scuola Primaria 24 h sett. fino al 30/06/2027",
-        "publicationDate": "21 settembre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iv-26",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iv-26",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://www.portaleargo.it/albopretorio/online/",
-            "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
-            "httpStatus": 200,
-            "title": "Albo Pretorio",
-            "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
-            "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
-          }
-        ],
-        "attachments": []
-      }
-    },
-    {
-      "id": "658fddf63e26e84c",
-      "type": "new",
-      "detectedAt": "2026-09-21T13:05:33.661Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iv-25",
-      "item": {
-        "id": "ca134cd067d400c5",
-        "position": 3,
-        "collectionReason": "new",
-        "listLabel": "I.C. Lodi IV",
-        "listContext": "21 settembre 2026 Interpelli ricerca supplenti I.C. Lodi IV Interpello per il reclutamento di N. 1 docente Scuola Primaria posto comune 24 h sett. fino al 30/06/2027",
-        "title": "I.C. Lodi IV",
-        "subtitle": "Interpello per il reclutamento di N. 1 docente Scuola Primaria posto comune 24 h sett. fino al 30/06/2027",
-        "publicationDate": "21 settembre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iv-25",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iv-25",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://www.portaleargo.it/albopretorio/online/",
-            "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
-            "httpStatus": 200,
-            "title": "Albo Pretorio",
-            "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
-            "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
-          }
-        ],
-        "attachments": []
-      }
-    },
-    {
-      "id": "c7fa83fc14e9976c",
-      "type": "new",
-      "detectedAt": "2026-09-21T13:05:33.661Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-ii-60",
-      "item": {
-        "id": "845327effa4e95fc",
-        "position": 4,
-        "collectionReason": "new",
-        "listLabel": "I.C. Lodi II",
-        "listContext": "21 settembre 2026 Interpelli ricerca supplenti I.C. Lodi II Interpelli scuola primaria posto comune, lingua inglese, sostegno e AM12",
-        "title": "I.C. Lodi II",
-        "subtitle": "Interpelli scuola primaria posto comune, lingua inglese, sostegno e AM12",
-        "publicationDate": "21 settembre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-ii-60",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-ii-60",
-        "httpStatus": 200,
-        "text": "Link pagina interpelli",
-        "pages": [
-          {
-            "label": "Link pagina interpelli",
-            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0014",
-            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0014",
-            "httpStatus": 200,
-            "title": "Elenco interpelli",
-            "subtitle": "",
-            "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \"LODI 2\" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio INTERPELLO PER N.1 POSTO FINO AL 30/6 PER SCUOLA PRIMARIA SOSTEGNO ADEE Sostegno scuola primaria 23/09/2026 30/06/2027 LOEE81201B LODI G.PASCOLI Iscriviti INTERPELLO PER SUPPLENZA FINO AL 30/6 SCUOLA PRIMARIA LINGUA INGLESE EEIL Lingua inglese – scuola primaria (posto comune) 23/09/2026 30/06/2027 LOEE81201B LODI G.PASCOLI Iscriviti INTERPELLO PER SUPPLENZA BREVE SCUOLA PRIMARIA EEEE Insegnante posto comune scuola primaria 23/09/2026 02/10/2026 LOEE81201B LODI G.PASCOLI Iscriviti INTERPELLO PER SUPPLENZA BREVE SCUOLA PRIMARIA EEEE Insegnante posto comune scuola primaria 23/09/2026 06/10/2026 LOEE81202C SAN MARTINO IN STRADA Iscriviti INTERPELLO PER SUPPLENZA BREVE AM12 --POTENZIAMENTO AM12 ITALIANO, STORIA, GEOGRAFIA NELLA SCUOLA SECONDARIA DI I GRADO 23/09/2026 08/06/2027 LOMM81203C LODI VIA SPEZZAFERRI Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
-          }
-        ],
-        "attachments": []
-      }
-    },
-    {
-      "id": "4099b4cd0d8ccda6",
-      "type": "new",
-      "detectedAt": "2026-09-21T13:05:33.661Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-28",
-      "item": {
-        "id": "ec755de989b8962f",
-        "position": 5,
-        "collectionReason": "new",
-        "listLabel": "I.C. \"C. Collodi\" S. Angelo Lodigiano",
-        "listContext": "21 settembre 2026 Interpelli ricerca supplenti I.C. \"C. Collodi\" S. Angelo Lodigiano Interpello su cdc EEEE - 24 ore settimanali fino al 4 ottobre 2026",
-        "title": "I.C. \"C. Collodi\" S. Angelo Lodigiano",
-        "subtitle": "Interpello su cdc EEEE - 24 ore settimanali fino al 4 ottobre 2026",
-        "publicationDate": "21 settembre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-28",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-28",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/367593dd-5b77-489b-9ef8-b55def813b87",
-            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/367593dd-5b77-489b-9ef8-b55def813b87",
-            "httpStatus": 200,
-            "title": "Elenco interpelli",
-            "subtitle": "",
-            "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" CARLO COLLODI \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio Interpello su cdc EEEE - posto comune primaria EEEE Insegnante posto comune scuola primaria 23/09/2026 04/10/2026 LOEE815031 Scuola primaria Valera Fratta Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
-          }
-        ],
-        "attachments": []
-      }
-    },
-    {
-      "id": "e3d3a5de879c13a1",
-      "type": "new",
-      "detectedAt": "2026-09-21T13:05:33.661Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-27",
-      "item": {
-        "id": "fc534a8a70ed15eb",
-        "position": 6,
-        "collectionReason": "new",
-        "listLabel": "I.C. \"C. Collodi\" S. Angelo Lodigiano",
-        "listContext": "21 settembre 2026 Interpelli ricerca supplenti I.C. \"C. Collodi\" S. Angelo Lodigiano Interpello su cdc EEEE fino al 21 dicembre 2026",
-        "title": "I.C. \"C. Collodi\" S. Angelo Lodigiano",
-        "subtitle": "Interpello su cdc EEEE fino al 21 dicembre 2026",
-        "publicationDate": "21 settembre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-27",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-27",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/bb8c022d-2d92-4f6b-9353-00e24e636d70",
-            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/bb8c022d-2d92-4f6b-9353-00e24e636d70",
-            "httpStatus": 200,
-            "title": "Elenco interpelli",
-            "subtitle": "",
-            "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" CARLO COLLODI \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio Interpello su cdc EEEE- 24h settimanali -scuola primaria di Valera Fratta EEEE Insegnante posto comune scuola primaria 23/09/2026 21/12/2026 LOEE815031 Scuola primaria di Valera Fratta Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
-          }
-        ],
-        "attachments": []
-      }
-    },
-    {
-      "id": "2c137a7be75f6102",
-      "type": "new",
-      "detectedAt": "2026-09-21T13:05:33.661Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-26",
-      "item": {
-        "id": "f6897d84ba2981b0",
-        "position": 7,
-        "collectionReason": "new",
-        "listLabel": "I.C. \"C. Collodi\" S. Angelo Lodigiano",
-        "listContext": "21 settembre 2026 Interpelli ricerca supplenti I.C. \"C. Collodi\" S. Angelo Lodigiano Interpello su cdc ADEE - 24 ore settimanali fino al 21/11/2026",
-        "title": "I.C. \"C. Collodi\" S. Angelo Lodigiano",
-        "subtitle": "Interpello su cdc ADEE - 24 ore settimanali fino al 21/11/2026",
-        "publicationDate": "21 settembre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-26",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-26",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/d02c92f7-44a4-4b88-86cb-68dacce4e6c0",
-            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/d02c92f7-44a4-4b88-86cb-68dacce4e6c0",
-            "httpStatus": 200,
-            "title": "Elenco interpelli",
-            "subtitle": "",
-            "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" CARLO COLLODI \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio Interpello su cdc ADEE - sostegno scuola primaria - 24 ore settimanali fino al 21/11/2026 ADEE Sostegno scuola primaria 23/09/2026 21/11/2026 LOEE815031 scuola primaria di Valera Fratta Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
-          }
-        ],
-        "attachments": []
-      }
     }
   ],
   "latestFour": [
@@ -4500,7 +4255,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/AlboOnline/LOIT0001\" on this server. Reference #18.3868dead.1792584335.1885dd77 https://errors.edgesuite.net/18.3868dead.1792584335.1885dd77"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/AlboOnline/LOIT0001\" on this server. Reference #18.67a61702.1792587944.137f2b94 https://errors.edgesuite.net/18.67a61702.1792587944.137f2b94"
         }
       ],
       "attachments": []
@@ -4526,7 +4281,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0014/2794a583-2981-4853-b36a-6ecd41bda47d\" on this server. Reference #18.3868dead.1792584342.1885ecfd https://errors.edgesuite.net/18.3868dead.1792584342.1885ecfd"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0014/2794a583-2981-4853-b36a-6ecd41bda47d\" on this server. Reference #18.67a61702.1792587950.137f3d28 https://errors.edgesuite.net/18.67a61702.1792587950.137f3d28"
         }
       ],
       "attachments": []
