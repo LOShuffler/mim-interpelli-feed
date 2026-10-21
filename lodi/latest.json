@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-21T10:05:32.929Z",
-  "completedAt": "2026-10-21T10:06:07.453Z",
+  "retrievedAt": "2026-10-21T11:05:32.064Z",
+  "completedAt": "2026-10-21T11:06:06.533Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -4476,45 +4476,13 @@
         ],
         "attachments": []
       }
-    },
-    {
-      "id": "7768b007a70f02c7",
-      "type": "new",
-      "detectedAt": "2026-09-21T11:05:33.086Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-r-morzenti-s-angelo-lodigiano-14",
-      "item": {
-        "id": "d7d52cb7993834e8",
-        "position": 1,
-        "collectionReason": "new",
-        "listLabel": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
-        "listContext": "21 settembre 2026 Interpelli ricerca supplenti I.C. \"R. Morzenti\" S. Angelo Lodigiano Interpello ADEE Sostegno scuola primaria",
-        "title": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
-        "subtitle": "Interpello ADEE Sostegno scuola primaria",
-        "publicationDate": "21 settembre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-r-morzenti-s-angelo-lodigiano-14",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-r-morzenti-s-angelo-lodigiano-14",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0012/38e17671-32f4-4e80-a015-23627ccf9efa",
-            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0012/38e17671-32f4-4e80-a015-23627ccf9efa",
-            "httpStatus": 200,
-            "title": "Elenco interpelli",
-            "subtitle": "",
-            "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" R. MORZENTI \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio Avviso n. 2 2026/2027 ADEE Sostegno scuola primaria 23/09/2026 30/06/2027 loic81600l Istituto Comprensivo Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
-          }
-        ],
-        "attachments": []
-      }
     }
   ],
   "latestFour": [
     {
       "id": "141740c0de9939d4",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.T.C.G. \"A. Bassi\" Lodi",
       "listContext": "21 ottobre 2026 Interpelli ricerca supplenti I.T.C.G. \"A. Bassi\" Lodi",
       "title": "I.T.C.G. \"A. Bassi\" Lodi",
@@ -4532,7 +4500,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/AlboOnline/LOIT0001\" on this server. Reference #18.2368dead.1792577144.130d3c6a https://errors.edgesuite.net/18.2368dead.1792577144.130d3c6a"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/AlboOnline/LOIT0001\" on this server. Reference #18.e68dead.1792580744.f71608b https://errors.edgesuite.net/18.e68dead.1792580744.f71608b"
         }
       ],
       "attachments": []
@@ -4558,7 +4526,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0014/2794a583-2981-4853-b36a-6ecd41bda47d\" on this server. Reference #18.2368dead.1792577151.130d4758 https://errors.edgesuite.net/18.2368dead.1792577151.130d4758"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0014/2794a583-2981-4853-b36a-6ecd41bda47d\" on this server. Reference #18.e68dead.1792580750.f717176 https://errors.edgesuite.net/18.e68dead.1792580750.f717176"
         }
       ],
       "attachments": []
