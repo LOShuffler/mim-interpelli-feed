@@ -6,18 +6,50 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-21T09:05:22.190Z",
-  "completedAt": "2026-10-21T09:05:57.012Z",
+  "retrievedAt": "2026-10-21T10:05:32.929Z",
+  "completedAt": "2026-10-21T10:06:07.453Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 24887,
+    "textLength": 24847,
     "discoveredCount": 200,
     "safetyLimited": false,
     "processedCount": 4
   },
   "recentEvents": [
+    {
+      "id": "21af87dea42a740a",
+      "type": "new",
+      "detectedAt": "2026-10-21T10:05:32.929Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-t-c-g-a-bassi-lodi-10",
+      "item": {
+        "id": "141740c0de9939d4",
+        "position": 1,
+        "collectionReason": "new",
+        "listLabel": "I.T.C.G. \"A. Bassi\" Lodi",
+        "listContext": "21 ottobre 2026 Interpelli ricerca supplenti I.T.C.G. \"A. Bassi\" Lodi",
+        "title": "I.T.C.G. \"A. Bassi\" Lodi",
+        "subtitle": "",
+        "publicationDate": "21 ottobre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-t-c-g-a-bassi-lodi-10",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-t-c-g-a-bassi-lodi-10",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://web.spaggiari.eu/sdg2/AlboOnline/LOIT0001",
+            "finalUrl": "https://web.spaggiari.eu/sdg2/AlboOnline/LOIT0001",
+            "httpStatus": 403,
+            "title": "Access Denied",
+            "subtitle": "",
+            "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/AlboOnline/LOIT0001\" on this server. Reference #18.2368dead.1792577144.130d3c6a https://errors.edgesuite.net/18.2368dead.1792577144.130d3c6a"
+          }
+        ],
+        "attachments": []
+      }
+    },
     {
       "id": "73f8bcca41f9621e",
       "type": "new",
@@ -4476,44 +4508,38 @@
         ],
         "attachments": []
       }
-    },
-    {
-      "id": "c6575fa95d88cc1c",
-      "type": "new",
-      "detectedAt": "2026-09-21T10:05:32.554Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-r-morzenti-s-angelo-lodigiano-13",
-      "item": {
-        "id": "010e78ce237e9514",
-        "position": 1,
-        "collectionReason": "new",
-        "listLabel": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
-        "listContext": "21 settembre 2026 Interpelli ricerca supplenti I.C. \"R. Morzenti\" S. Angelo Lodigiano Interpello posto comune scuola primaria",
-        "title": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
-        "subtitle": "Interpello posto comune scuola primaria",
-        "publicationDate": "21 settembre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-r-morzenti-s-angelo-lodigiano-13",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-r-morzenti-s-angelo-lodigiano-13",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0012/36479759-6f80-41ef-a0e9-305f7360f53c",
-            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0012/36479759-6f80-41ef-a0e9-305f7360f53c",
-            "httpStatus": 200,
-            "title": "Elenco interpelli",
-            "subtitle": "",
-            "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" R. MORZENTI \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio Avviso n. 1 2026/2027 EEEE Insegnante posto comune scuola primaria 23/09/2026 30/06/2027 loic81603r Scuola primaria Morzenti Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
-          }
-        ],
-        "attachments": []
-      }
     }
   ],
   "latestFour": [
     {
-      "id": "e664d1ad54867d67",
+      "id": "141740c0de9939d4",
       "position": 1,
+      "collectionReason": "new",
+      "listLabel": "I.T.C.G. \"A. Bassi\" Lodi",
+      "listContext": "21 ottobre 2026 Interpelli ricerca supplenti I.T.C.G. \"A. Bassi\" Lodi",
+      "title": "I.T.C.G. \"A. Bassi\" Lodi",
+      "subtitle": "",
+      "publicationDate": "21 ottobre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-t-c-g-a-bassi-lodi-10",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-t-c-g-a-bassi-lodi-10",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://web.spaggiari.eu/sdg2/AlboOnline/LOIT0001",
+          "finalUrl": "https://web.spaggiari.eu/sdg2/AlboOnline/LOIT0001",
+          "httpStatus": 403,
+          "title": "Access Denied",
+          "subtitle": "",
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/AlboOnline/LOIT0001\" on this server. Reference #18.2368dead.1792577144.130d3c6a https://errors.edgesuite.net/18.2368dead.1792577144.130d3c6a"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "e664d1ad54867d67",
+      "position": 2,
       "collectionReason": "refresh",
       "listLabel": "I.C. Lodi II",
       "listContext": "20 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi II 1 posto classe di concorso A028",
@@ -4532,14 +4558,14 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0014/2794a583-2981-4853-b36a-6ecd41bda47d\" on this server. Reference #18.43a61702.1792573534.4d2add https://errors.edgesuite.net/18.43a61702.1792573534.4d2add"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0014/2794a583-2981-4853-b36a-6ecd41bda47d\" on this server. Reference #18.2368dead.1792577151.130d4758 https://errors.edgesuite.net/18.2368dead.1792577151.130d4758"
         }
       ],
       "attachments": []
     },
     {
       "id": "c6d710e9c320784b",
-      "position": 2,
+      "position": 3,
       "collectionReason": "refresh",
       "listLabel": "I.I.S. Codogno",
       "listContext": "20 ottobre 2026 Interpelli ricerca supplenti I.I.S. Codogno Interpello Classe di concorso AS12",
@@ -4565,7 +4591,7 @@
     },
     {
       "id": "8c1d7c024633266c",
-      "position": 3,
+      "position": 4,
       "collectionReason": "refresh",
       "listLabel": "I.I.S. Codogno",
       "listContext": "20 ottobre 2026 Interpelli ricerca supplenti I.I.S. Codogno Interpello Classe di concorso A041",
@@ -4585,32 +4611,6 @@
           "title": "Albo Pretorio",
           "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
           "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accessibilità Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
-        }
-      ],
-      "attachments": []
-    },
-    {
-      "id": "9a01288dbc7de019",
-      "position": 4,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. Zelo Buon Persico",
-      "listContext": "19 ottobre 2026 Interpelli ricerca supplenti I.C. Zelo Buon Persico Interpello Sostegno scuola primaria",
-      "title": "I.C. Zelo Buon Persico",
-      "subtitle": "Interpello Sostegno scuola primaria",
-      "publicationDate": "19 ottobre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-zelo-buon-persico-21",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-zelo-buon-persico-21",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0003/9a4866ec-58cb-474e-afa0-ffaa72f54afc",
-          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0003/9a4866ec-58cb-474e-afa0-ffaa72f54afc",
-          "httpStatus": 403,
-          "title": "Access Denied",
-          "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0003/9a4866ec-58cb-474e-afa0-ffaa72f54afc\" on this server. Reference #18.43a61702.1792573554.4d49fa https://errors.edgesuite.net/18.43a61702.1792573554.4d49fa"
         }
       ],
       "attachments": []
