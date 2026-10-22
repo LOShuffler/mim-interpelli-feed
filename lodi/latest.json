@@ -6,18 +6,82 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-22T12:05:24.123Z",
-  "completedAt": "2026-10-22T12:06:00.367Z",
+  "retrievedAt": "2026-10-22T13:05:34.829Z",
+  "completedAt": "2026-10-22T13:06:12.730Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 24851,
+    "textLength": 24775,
     "discoveredCount": 200,
     "safetyLimited": false,
     "processedCount": 4
   },
   "recentEvents": [
+    {
+      "id": "72b23f13cf007026",
+      "type": "new",
+      "detectedAt": "2026-10-22T13:05:34.829Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-38",
+      "item": {
+        "id": "d0d2e70a833343f0",
+        "position": 1,
+        "collectionReason": "new",
+        "listLabel": "I.C. Lodi I",
+        "listContext": "22 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi I Avviso di interpello per i posti EE,ADEE,AA,ADAA",
+        "title": "I.C. Lodi I",
+        "subtitle": "Avviso di interpello per i posti EE,ADEE,AA,ADAA",
+        "publicationDate": "22 ottobre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-38",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-38",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://www.portaleargo.it/albopretorio/online/",
+            "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
+            "httpStatus": 200,
+            "title": "Albo Pretorio",
+            "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
+            "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accessibilità Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
+          }
+        ],
+        "attachments": []
+      }
+    },
+    {
+      "id": "22516e1b9028ca64",
+      "type": "new",
+      "detectedAt": "2026-10-22T13:05:34.829Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-tavazzano-10",
+      "item": {
+        "id": "915dce9602f77008",
+        "position": 2,
+        "collectionReason": "new",
+        "listLabel": "I.C. Tavazzano",
+        "listContext": "22 ottobre 2026 Interpelli ricerca supplenti I.C. Tavazzano Interpello nazionale per reperimento docente su tipo di posto normale classe di concorso AM2B 14h fino al 05/11/2026",
+        "title": "I.C. Tavazzano",
+        "subtitle": "Interpello nazionale per reperimento docente su tipo di posto normale classe di concorso AM2B 14h fino al 05/11/2026",
+        "publicationDate": "22 ottobre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-tavazzano-10",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-tavazzano-10",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0001/1c1e1262-e2aa-4f40-9a43-179990f6bcdf",
+            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0001/1c1e1262-e2aa-4f40-9a43-179990f6bcdf",
+            "httpStatus": 403,
+            "title": "Access Denied",
+            "subtitle": "",
+            "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/1c1e1262-e2aa-4f40-9a43-179990f6bcdf\" on this server. Reference #18.2a68dead.1792674353.1debedc9 https://errors.edgesuite.net/18.2a68dead.1792674353.1debedc9"
+          }
+        ],
+        "attachments": []
+      }
+    },
     {
       "id": "26de973ff9b49feb",
       "type": "new",
@@ -4223,8 +4287,60 @@
   ],
   "latestFour": [
     {
-      "id": "661d76226409d2eb",
+      "id": "d0d2e70a833343f0",
       "position": 1,
+      "collectionReason": "new",
+      "listLabel": "I.C. Lodi I",
+      "listContext": "22 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi I Avviso di interpello per i posti EE,ADEE,AA,ADAA",
+      "title": "I.C. Lodi I",
+      "subtitle": "Avviso di interpello per i posti EE,ADEE,AA,ADAA",
+      "publicationDate": "22 ottobre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-38",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-38",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://www.portaleargo.it/albopretorio/online/",
+          "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
+          "httpStatus": 200,
+          "title": "Albo Pretorio",
+          "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
+          "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accessibilità Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "915dce9602f77008",
+      "position": 2,
+      "collectionReason": "new",
+      "listLabel": "I.C. Tavazzano",
+      "listContext": "22 ottobre 2026 Interpelli ricerca supplenti I.C. Tavazzano Interpello nazionale per reperimento docente su tipo di posto normale classe di concorso AM2B 14h fino al 05/11/2026",
+      "title": "I.C. Tavazzano",
+      "subtitle": "Interpello nazionale per reperimento docente su tipo di posto normale classe di concorso AM2B 14h fino al 05/11/2026",
+      "publicationDate": "22 ottobre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-tavazzano-10",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-tavazzano-10",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0001/1c1e1262-e2aa-4f40-9a43-179990f6bcdf",
+          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0001/1c1e1262-e2aa-4f40-9a43-179990f6bcdf",
+          "httpStatus": 403,
+          "title": "Access Denied",
+          "subtitle": "",
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/1c1e1262-e2aa-4f40-9a43-179990f6bcdf\" on this server. Reference #18.2a68dead.1792674353.1debedc9 https://errors.edgesuite.net/18.2a68dead.1792674353.1debedc9"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "661d76226409d2eb",
+      "position": 3,
       "collectionReason": "refresh",
       "listLabel": "I.I.S. Casalpusterlengo",
       "listContext": "22 ottobre 2026 Interpelli ricerca supplenti I.I.S. Casalpusterlengo Classe di concorso A034 - IIS A. Cesaris",
@@ -4255,13 +4371,13 @@
           "status": 200,
           "contentType": "text/html; charset=UTF-8",
           "bytes": 270638,
-          "file": "items/01-I.I.S.-Casalpusterlengo/01-attachment"
+          "file": "items/03-I.I.S.-Casalpusterlengo/01-attachment"
         }
       ]
     },
     {
       "id": "3d31977c381774f8",
-      "position": 2,
+      "position": 4,
       "collectionReason": "refresh",
       "listLabel": "I.C. Borghetto Lodigiano",
       "listContext": "22 ottobre 2026 Interpelli ricerca supplenti I.C. Borghetto Lodigiano 1 POSTO INSEGNAMENTO AM12 DISCIPLINE LETTERARIE NELLA SCUOLA SECONDARIA DI I GRADO (ALFABETIZZAZIONE)",
@@ -4281,58 +4397,6 @@
           "title": "N. 1 POSTO INSEGNAMENTO DISCIPLINE LETTERARIE NELLA SCUOLA SECONDARIA DI I GR. (ALFABETIZZAZIONE)",
           "subtitle": "Nuvola - Interpelli",
           "text": "Gestione Interpelli Torna agli interpelli aperti STEP 1 Dati anagrafici Generalità e contatti STEP 2 Titoli e certificazioni Studio e lingue STEP 3 Abilitazioni Abilitazione all'insegnamento e servizio prestato STEP 4 Esperienze di servizio Incarichi svolti e periodi di servizio STEP 5 Allegati e dichiarazioni Curriculum, altri allegati e dichiarazioni finali STEP 6 Riepilogo Controlla i dati inseriti N. 1 POSTO INSEGNAMENTO DISCIPLINE LETTERARIE NELLA SCUOLA SECONDARIA DI I GR. (ALFABETIZZAZIONE) Durata: 18 ore 0 minuti dal 26/10/2026 al 06/11/2026 Presentazione candidature: dal 22/10/2026 07:42 al 23/10/2026 08:00 Posti disponibili: 1 Annotazioni: Criterio prioritario nell'assegnazione dell'incarico è il possesso di laurea magistrale/specialistica in discipline letterarie. Classe di concorso: A-12 Discipline letterarie nell'istruzione secondaria di I grado e di II grado Ordine di scuola: SECONDARIA I GRADO Leggi il testo sul trattamento dei dati STEP 1 DI 6 Dati anagrafici Generalità e contatti Generalità Generalità Nome Cognome Sesso Codice fiscale Data di nascita Comune di nascita Stato di nascita Residenza Residenza Indirizzo di residenza Comune di residenza CAP di residenza Contatti Contatti Email PEC Cellulare Cittadinanza Cittadinanza Cittadino Italiano Cittadino di uno Stato membro UE Cittadino non comunitario con diritto di soggiorno o soggiorno permanente Avanti"
-        }
-      ],
-      "attachments": []
-    },
-    {
-      "id": "141740c0de9939d4",
-      "position": 3,
-      "collectionReason": "refresh",
-      "listLabel": "I.T.C.G. \"A. Bassi\" Lodi",
-      "listContext": "21 ottobre 2026 Interpelli ricerca supplenti I.T.C.G. \"A. Bassi\" Lodi",
-      "title": "I.T.C.G. \"A. Bassi\" Lodi",
-      "subtitle": "",
-      "publicationDate": "21 ottobre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-t-c-g-a-bassi-lodi-10",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-t-c-g-a-bassi-lodi-10",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://web.spaggiari.eu/sdg2/AlboOnline/LOIT0001",
-          "finalUrl": "https://web.spaggiari.eu/sdg2/AlboOnline/LOIT0001",
-          "httpStatus": 403,
-          "title": "Access Denied",
-          "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/AlboOnline/LOIT0001\" on this server. Reference #18.468dead.1792670751.d2a2620 https://errors.edgesuite.net/18.468dead.1792670751.d2a2620"
-        }
-      ],
-      "attachments": []
-    },
-    {
-      "id": "e664d1ad54867d67",
-      "position": 4,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. Lodi II",
-      "listContext": "20 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi II 1 posto classe di concorso A028",
-      "title": "I.C. Lodi II",
-      "subtitle": "1 posto classe di concorso A028",
-      "publicationDate": "20 ottobre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-ii-66",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-ii-66",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0014/2794a583-2981-4853-b36a-6ecd41bda47d",
-          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0014/2794a583-2981-4853-b36a-6ecd41bda47d",
-          "httpStatus": 403,
-          "title": "Access Denied",
-          "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0014/2794a583-2981-4853-b36a-6ecd41bda47d\" on this server. Reference #18.468dead.1792670757.d2a3326 https://errors.edgesuite.net/18.468dead.1792670757.d2a3326"
         }
       ],
       "attachments": []
