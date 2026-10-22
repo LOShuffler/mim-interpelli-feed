@@ -6,18 +6,50 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-22T06:06:07.765Z",
-  "completedAt": "2026-10-22T06:06:42.738Z",
+  "retrievedAt": "2026-10-22T07:06:25.535Z",
+  "completedAt": "2026-10-22T07:07:05.204Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 24847,
+    "textLength": 24910,
     "discoveredCount": 200,
     "safetyLimited": false,
     "processedCount": 4
   },
   "recentEvents": [
+    {
+      "id": "46365e137054df29",
+      "type": "new",
+      "detectedAt": "2026-10-22T07:06:25.535Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-borghetto-lodigiano-12",
+      "item": {
+        "id": "3d31977c381774f8",
+        "position": 1,
+        "collectionReason": "new",
+        "listLabel": "I.C. Borghetto Lodigiano",
+        "listContext": "22 ottobre 2026 Interpelli ricerca supplenti I.C. Borghetto Lodigiano 1 POSTO INSEGNAMENTO AM12 DISCIPLINE LETTERARIE NELLA SCUOLA SECONDARIA DI I GRADO (ALFABETIZZAZIONE)",
+        "title": "I.C. Borghetto Lodigiano",
+        "subtitle": "1 POSTO INSEGNAMENTO AM12 DISCIPLINE LETTERARIE NELLA SCUOLA SECONDARIA DI I GRADO (ALFABETIZZAZIONE)",
+        "publicationDate": "22 ottobre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-borghetto-lodigiano-12",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-borghetto-lodigiano-12",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://nuvola.madisoft.it/interpelli/LOIC80400A/docenti/0323cac2-6a4b-4c8b-ba25-f2b929d98ad1/candidatura",
+            "finalUrl": "https://nuvola.madisoft.it/interpelli/LOIC80400A/docenti/0323cac2-6a4b-4c8b-ba25-f2b929d98ad1/candidatura",
+            "httpStatus": 200,
+            "title": "Nuvola - Interpelli",
+            "subtitle": "Nuvola - Interpelli",
+            "text": ""
+          }
+        ],
+        "attachments": []
+      }
+    },
     {
       "id": "21af87dea42a740a",
       "type": "new",
@@ -4148,8 +4180,34 @@
   ],
   "latestFour": [
     {
-      "id": "141740c0de9939d4",
+      "id": "3d31977c381774f8",
       "position": 1,
+      "collectionReason": "new",
+      "listLabel": "I.C. Borghetto Lodigiano",
+      "listContext": "22 ottobre 2026 Interpelli ricerca supplenti I.C. Borghetto Lodigiano 1 POSTO INSEGNAMENTO AM12 DISCIPLINE LETTERARIE NELLA SCUOLA SECONDARIA DI I GRADO (ALFABETIZZAZIONE)",
+      "title": "I.C. Borghetto Lodigiano",
+      "subtitle": "1 POSTO INSEGNAMENTO AM12 DISCIPLINE LETTERARIE NELLA SCUOLA SECONDARIA DI I GRADO (ALFABETIZZAZIONE)",
+      "publicationDate": "22 ottobre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-borghetto-lodigiano-12",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-borghetto-lodigiano-12",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://nuvola.madisoft.it/interpelli/LOIC80400A/docenti/0323cac2-6a4b-4c8b-ba25-f2b929d98ad1/candidatura",
+          "finalUrl": "https://nuvola.madisoft.it/interpelli/LOIC80400A/docenti/0323cac2-6a4b-4c8b-ba25-f2b929d98ad1/candidatura",
+          "httpStatus": 200,
+          "title": "Nuvola - Interpelli",
+          "subtitle": "Nuvola - Interpelli",
+          "text": ""
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "141740c0de9939d4",
+      "position": 2,
       "collectionReason": "refresh",
       "listLabel": "I.T.C.G. \"A. Bassi\" Lodi",
       "listContext": "21 ottobre 2026 Interpelli ricerca supplenti I.T.C.G. \"A. Bassi\" Lodi",
@@ -4168,14 +4226,14 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/AlboOnline/LOIT0001\" on this server. Reference #18.62a61702.1792649180.10e4842 https://errors.edgesuite.net/18.62a61702.1792649180.10e4842"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/AlboOnline/LOIT0001\" on this server. Reference #18.deb62417.1792652809.1c74e08a https://errors.edgesuite.net/18.deb62417.1792652809.1c74e08a"
         }
       ],
       "attachments": []
     },
     {
       "id": "e664d1ad54867d67",
-      "position": 2,
+      "position": 3,
       "collectionReason": "refresh",
       "listLabel": "I.C. Lodi II",
       "listContext": "20 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi II 1 posto classe di concorso A028",
@@ -4194,14 +4252,14 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0014/2794a583-2981-4853-b36a-6ecd41bda47d\" on this server. Reference #18.62a61702.1792649186.10e544f https://errors.edgesuite.net/18.62a61702.1792649186.10e544f"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0014/2794a583-2981-4853-b36a-6ecd41bda47d\" on this server. Reference #18.deb62417.1792652815.1c74ed57 https://errors.edgesuite.net/18.deb62417.1792652815.1c74ed57"
         }
       ],
       "attachments": []
     },
     {
       "id": "c6d710e9c320784b",
-      "position": 3,
+      "position": 4,
       "collectionReason": "refresh",
       "listLabel": "I.I.S. Codogno",
       "listContext": "20 ottobre 2026 Interpelli ricerca supplenti I.I.S. Codogno Interpello Classe di concorso AS12",
@@ -4210,32 +4268,6 @@
       "publicationDate": "20 ottobre 2026",
       "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-15",
       "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-15",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://www.portaleargo.it/albopretorio/online/",
-          "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
-          "httpStatus": 200,
-          "title": "Albo Pretorio",
-          "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
-          "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accessibilità Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
-        }
-      ],
-      "attachments": []
-    },
-    {
-      "id": "8c1d7c024633266c",
-      "position": 4,
-      "collectionReason": "refresh",
-      "listLabel": "I.I.S. Codogno",
-      "listContext": "20 ottobre 2026 Interpelli ricerca supplenti I.I.S. Codogno Interpello Classe di concorso A041",
-      "title": "I.I.S. Codogno",
-      "subtitle": "Interpello Classe di concorso A041",
-      "publicationDate": "20 ottobre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-14",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-14",
       "httpStatus": 200,
       "text": "Link interpello",
       "pages": [
