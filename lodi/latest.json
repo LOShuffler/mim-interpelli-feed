@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-22T07:06:25.535Z",
-  "completedAt": "2026-10-22T07:07:05.204Z",
+  "retrievedAt": "2026-10-22T08:05:44.348Z",
+  "completedAt": "2026-10-22T08:06:19.821Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -4182,7 +4182,7 @@
     {
       "id": "3d31977c381774f8",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Borghetto Lodigiano",
       "listContext": "22 ottobre 2026 Interpelli ricerca supplenti I.C. Borghetto Lodigiano 1 POSTO INSEGNAMENTO AM12 DISCIPLINE LETTERARIE NELLA SCUOLA SECONDARIA DI I GRADO (ALFABETIZZAZIONE)",
       "title": "I.C. Borghetto Lodigiano",
@@ -4198,9 +4198,9 @@
           "url": "https://nuvola.madisoft.it/interpelli/LOIC80400A/docenti/0323cac2-6a4b-4c8b-ba25-f2b929d98ad1/candidatura",
           "finalUrl": "https://nuvola.madisoft.it/interpelli/LOIC80400A/docenti/0323cac2-6a4b-4c8b-ba25-f2b929d98ad1/candidatura",
           "httpStatus": 200,
-          "title": "Nuvola - Interpelli",
+          "title": "N. 1 POSTO INSEGNAMENTO DISCIPLINE LETTERARIE NELLA SCUOLA SECONDARIA DI I GR. (ALFABETIZZAZIONE)",
           "subtitle": "Nuvola - Interpelli",
-          "text": ""
+          "text": "Gestione Interpelli Torna agli interpelli aperti STEP 1 Dati anagrafici Generalità e contatti STEP 2 Titoli e certificazioni Studio e lingue STEP 3 Abilitazioni Abilitazione all'insegnamento e servizio prestato STEP 4 Esperienze di servizio Incarichi svolti e periodi di servizio STEP 5 Allegati e dichiarazioni Curriculum, altri allegati e dichiarazioni finali STEP 6 Riepilogo Controlla i dati inseriti N. 1 POSTO INSEGNAMENTO DISCIPLINE LETTERARIE NELLA SCUOLA SECONDARIA DI I GR. (ALFABETIZZAZIONE) Durata: 18 ore 0 minuti dal 26/10/2026 al 06/11/2026 Presentazione candidature: dal 22/10/2026 07:42 al 23/10/2026 08:00 Posti disponibili: 1 Annotazioni: Criterio prioritario nell'assegnazione dell'incarico è il possesso di laurea magistrale/specialistica in discipline letterarie. Classe di concorso: A-12 Discipline letterarie nell'istruzione secondaria di I grado e di II grado Ordine di scuola: SECONDARIA I GRADO Leggi il testo sul trattamento dei dati STEP 1 DI 6 Dati anagrafici Generalità e contatti Generalità Generalità Nome Cognome Sesso Codice fiscale Data di nascita Comune di nascita Stato di nascita Residenza Residenza Indirizzo di residenza Comune di residenza CAP di residenza Contatti Contatti Email PEC Cellulare Cittadinanza Cittadinanza Cittadino Italiano Cittadino di uno Stato membro UE Cittadino non comunitario con diritto di soggiorno o soggiorno permanente Avanti"
         }
       ],
       "attachments": []
@@ -4226,7 +4226,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/AlboOnline/LOIT0001\" on this server. Reference #18.deb62417.1792652809.1c74e08a https://errors.edgesuite.net/18.deb62417.1792652809.1c74e08a"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/AlboOnline/LOIT0001\" on this server. Reference #18.d7b62417.1792656363.25c6cdbe https://errors.edgesuite.net/18.d7b62417.1792656363.25c6cdbe"
         }
       ],
       "attachments": []
@@ -4252,7 +4252,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0014/2794a583-2981-4853-b36a-6ecd41bda47d\" on this server. Reference #18.deb62417.1792652815.1c74ed57 https://errors.edgesuite.net/18.deb62417.1792652815.1c74ed57"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0014/2794a583-2981-4853-b36a-6ecd41bda47d\" on this server. Reference #18.d7b62417.1792656370.25c6e668 https://errors.edgesuite.net/18.d7b62417.1792656370.25c6e668"
         }
       ],
       "attachments": []
