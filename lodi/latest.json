@@ -6,18 +6,61 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-22T10:06:04.992Z",
-  "completedAt": "2026-10-22T10:06:43.481Z",
+  "retrievedAt": "2026-10-22T11:05:12.638Z",
+  "completedAt": "2026-10-22T11:05:49.062Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 24910,
+    "textLength": 24851,
     "discoveredCount": 200,
     "safetyLimited": false,
     "processedCount": 4
   },
   "recentEvents": [
+    {
+      "id": "26de973ff9b49feb",
+      "type": "new",
+      "detectedAt": "2026-10-22T11:05:12.638Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-casalpusterlengo-7",
+      "item": {
+        "id": "661d76226409d2eb",
+        "position": 1,
+        "collectionReason": "new",
+        "listLabel": "I.I.S. Casalpusterlengo",
+        "listContext": "22 ottobre 2026 Interpelli ricerca supplenti I.I.S. Casalpusterlengo Classe di concorso A034 - IIS A. Cesaris",
+        "title": "I.I.S. Casalpusterlengo",
+        "subtitle": "Classe di concorso A034 - IIS A. Cesaris",
+        "publicationDate": "22 ottobre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-casalpusterlengo-7",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-i-s-casalpusterlengo-7",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://cesaris.edu.it/tipologia-articolo/interpelli/",
+            "finalUrl": "https://cesaris.edu.it/tipologia-articolo/interpelli/",
+            "httpStatus": 200,
+            "title": "Interpello A034 scienze e tecnologie chimiche – IIS A. Cesaris",
+            "subtitle": "",
+            "text": "2026 22 Ott Interpello A034 scienze e tecnologie chimiche – IIS A. Cesaris Interpello A034 scienze e tecnologie chimiche - IIS A. Cesaris"
+          }
+        ],
+        "attachments": [
+          {
+            "text": "Le carte della scuola",
+            "href": "https://cesaris.edu.it/documento/",
+            "title": "",
+            "context": "Le carte della scuola",
+            "status": 200,
+            "contentType": "text/html; charset=UTF-8",
+            "bytes": 270618,
+            "file": "items/01-I.I.S.-Casalpusterlengo/01-attachment"
+          }
+        ]
+      }
+    },
     {
       "id": "46365e137054df29",
       "type": "new",
@@ -4180,8 +4223,45 @@
   ],
   "latestFour": [
     {
-      "id": "3d31977c381774f8",
+      "id": "661d76226409d2eb",
       "position": 1,
+      "collectionReason": "new",
+      "listLabel": "I.I.S. Casalpusterlengo",
+      "listContext": "22 ottobre 2026 Interpelli ricerca supplenti I.I.S. Casalpusterlengo Classe di concorso A034 - IIS A. Cesaris",
+      "title": "I.I.S. Casalpusterlengo",
+      "subtitle": "Classe di concorso A034 - IIS A. Cesaris",
+      "publicationDate": "22 ottobre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-casalpusterlengo-7",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-i-s-casalpusterlengo-7",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://cesaris.edu.it/tipologia-articolo/interpelli/",
+          "finalUrl": "https://cesaris.edu.it/tipologia-articolo/interpelli/",
+          "httpStatus": 200,
+          "title": "Interpello A034 scienze e tecnologie chimiche – IIS A. Cesaris",
+          "subtitle": "",
+          "text": "2026 22 Ott Interpello A034 scienze e tecnologie chimiche – IIS A. Cesaris Interpello A034 scienze e tecnologie chimiche - IIS A. Cesaris"
+        }
+      ],
+      "attachments": [
+        {
+          "text": "Le carte della scuola",
+          "href": "https://cesaris.edu.it/documento/",
+          "title": "",
+          "context": "Le carte della scuola",
+          "status": 200,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 270618,
+          "file": "items/01-I.I.S.-Casalpusterlengo/01-attachment"
+        }
+      ]
+    },
+    {
+      "id": "3d31977c381774f8",
+      "position": 2,
       "collectionReason": "refresh",
       "listLabel": "I.C. Borghetto Lodigiano",
       "listContext": "22 ottobre 2026 Interpelli ricerca supplenti I.C. Borghetto Lodigiano 1 POSTO INSEGNAMENTO AM12 DISCIPLINE LETTERARIE NELLA SCUOLA SECONDARIA DI I GRADO (ALFABETIZZAZIONE)",
@@ -4207,7 +4287,7 @@
     },
     {
       "id": "141740c0de9939d4",
-      "position": 2,
+      "position": 3,
       "collectionReason": "refresh",
       "listLabel": "I.T.C.G. \"A. Bassi\" Lodi",
       "listContext": "21 ottobre 2026 Interpelli ricerca supplenti I.T.C.G. \"A. Bassi\" Lodi",
@@ -4226,14 +4306,14 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/AlboOnline/LOIT0001\" on this server. Reference #18.d7b62417.1792663587.26248c7a https://errors.edgesuite.net/18.d7b62417.1792663587.26248c7a"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/AlboOnline/LOIT0001\" on this server. Reference #18.d1b62417.1792667139.175b9a11 https://errors.edgesuite.net/18.d1b62417.1792667139.175b9a11"
         }
       ],
       "attachments": []
     },
     {
       "id": "e664d1ad54867d67",
-      "position": 3,
+      "position": 4,
       "collectionReason": "refresh",
       "listLabel": "I.C. Lodi II",
       "listContext": "20 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi II 1 posto classe di concorso A028",
@@ -4252,33 +4332,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0014/2794a583-2981-4853-b36a-6ecd41bda47d\" on this server. Reference #18.d7b62417.1792663594.2624a606 https://errors.edgesuite.net/18.d7b62417.1792663594.2624a606"
-        }
-      ],
-      "attachments": []
-    },
-    {
-      "id": "c6d710e9c320784b",
-      "position": 4,
-      "collectionReason": "refresh",
-      "listLabel": "I.I.S. Codogno",
-      "listContext": "20 ottobre 2026 Interpelli ricerca supplenti I.I.S. Codogno Interpello Classe di concorso AS12",
-      "title": "I.I.S. Codogno",
-      "subtitle": "Interpello Classe di concorso AS12",
-      "publicationDate": "20 ottobre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-15",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-15",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://www.portaleargo.it/albopretorio/online/",
-          "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
-          "httpStatus": 200,
-          "title": "Albo Pretorio",
-          "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
-          "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accessibilità Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0014/2794a583-2981-4853-b36a-6ecd41bda47d\" on this server. Reference #18.d1b62417.1792667146.175ba62b https://errors.edgesuite.net/18.d1b62417.1792667146.175ba62b"
         }
       ],
       "attachments": []
