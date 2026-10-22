@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-22T11:05:12.638Z",
-  "completedAt": "2026-10-22T11:05:49.062Z",
+  "retrievedAt": "2026-10-22T12:05:24.123Z",
+  "completedAt": "2026-10-22T12:06:00.367Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -4225,7 +4225,7 @@
     {
       "id": "661d76226409d2eb",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.I.S. Casalpusterlengo",
       "listContext": "22 ottobre 2026 Interpelli ricerca supplenti I.I.S. Casalpusterlengo Classe di concorso A034 - IIS A. Cesaris",
       "title": "I.I.S. Casalpusterlengo",
@@ -4254,7 +4254,7 @@
           "context": "Le carte della scuola",
           "status": 200,
           "contentType": "text/html; charset=UTF-8",
-          "bytes": 270618,
+          "bytes": 270638,
           "file": "items/01-I.I.S.-Casalpusterlengo/01-attachment"
         }
       ]
@@ -4306,7 +4306,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/AlboOnline/LOIT0001\" on this server. Reference #18.d1b62417.1792667139.175b9a11 https://errors.edgesuite.net/18.d1b62417.1792667139.175b9a11"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/AlboOnline/LOIT0001\" on this server. Reference #18.468dead.1792670751.d2a2620 https://errors.edgesuite.net/18.468dead.1792670751.d2a2620"
         }
       ],
       "attachments": []
@@ -4332,7 +4332,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0014/2794a583-2981-4853-b36a-6ecd41bda47d\" on this server. Reference #18.d1b62417.1792667146.175ba62b https://errors.edgesuite.net/18.d1b62417.1792667146.175ba62b"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0014/2794a583-2981-4853-b36a-6ecd41bda47d\" on this server. Reference #18.468dead.1792670757.d2a3326 https://errors.edgesuite.net/18.468dead.1792670757.d2a3326"
         }
       ],
       "attachments": []
