@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-22T13:05:34.829Z",
-  "completedAt": "2026-10-22T13:06:12.730Z",
+  "retrievedAt": "2026-10-22T14:05:12.386Z",
+  "completedAt": "2026-10-22T14:05:50.009Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -4240,56 +4240,13 @@
         ],
         "attachments": []
       }
-    },
-    {
-      "id": "6c5eca480d5c6f60",
-      "type": "new",
-      "detectedAt": "2026-09-22T14:05:33.000Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-casalpusterlengo-4",
-      "item": {
-        "id": "6e308e8404ea67a4",
-        "position": 1,
-        "collectionReason": "new",
-        "listLabel": "I.I.S. Casalpusterlengo",
-        "listContext": "22 settembre 2026 Interpelli ricerca supplenti I.I.S. Casalpusterlengo Interpello su classi di concorso A041 - A040 - BB02",
-        "title": "I.I.S. Casalpusterlengo",
-        "subtitle": "Interpello su classi di concorso A041 - A040 - BB02",
-        "publicationDate": "22 settembre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-casalpusterlengo-4",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-i-s-casalpusterlengo-4",
-        "httpStatus": 200,
-        "text": "Link pagina interpelli",
-        "pages": [
-          {
-            "label": "Link pagina interpelli",
-            "url": "https://cesaris.edu.it/tipologia-articolo/interpelli/",
-            "finalUrl": "https://cesaris.edu.it/tipologia-articolo/interpelli/",
-            "httpStatus": 200,
-            "title": "Interpello A041 – Scienze e tecnologie informatiche",
-            "subtitle": "",
-            "text": "2026 22 Set Interpello A041 – Scienze e tecnologie informatiche Classe di concorso: A041 Scienze e tecnologie informatiche Periodo : veri Numero ore: vari Posti 4 Domanda: entro ore 18:00 del 24.09.2026"
-          }
-        ],
-        "attachments": [
-          {
-            "text": "Le carte della scuola",
-            "href": "https://cesaris.edu.it/documento/",
-            "title": "",
-            "context": "Le carte della scuola",
-            "status": 200,
-            "contentType": "text/html; charset=UTF-8",
-            "bytes": 269147,
-            "file": "items/01-I.I.S.-Casalpusterlengo/01-attachment"
-          }
-        ]
-      }
     }
   ],
   "latestFour": [
     {
       "id": "d0d2e70a833343f0",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Lodi I",
       "listContext": "22 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi I Avviso di interpello per i posti EE,ADEE,AA,ADAA",
       "title": "I.C. Lodi I",
@@ -4315,7 +4272,7 @@
     {
       "id": "915dce9602f77008",
       "position": 2,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Tavazzano",
       "listContext": "22 ottobre 2026 Interpelli ricerca supplenti I.C. Tavazzano Interpello nazionale per reperimento docente su tipo di posto normale classe di concorso AM2B 14h fino al 05/11/2026",
       "title": "I.C. Tavazzano",
@@ -4333,7 +4290,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/1c1e1262-e2aa-4f40-9a43-179990f6bcdf\" on this server. Reference #18.2a68dead.1792674353.1debedc9 https://errors.edgesuite.net/18.2a68dead.1792674353.1debedc9"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/1c1e1262-e2aa-4f40-9a43-179990f6bcdf\" on this server. Reference #18.4ea61702.1792677931.1c0aa2e https://errors.edgesuite.net/18.4ea61702.1792677931.1c0aa2e"
         }
       ],
       "attachments": []
