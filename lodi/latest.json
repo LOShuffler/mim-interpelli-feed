@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-23T16:05:32.936Z",
-  "completedAt": "2026-10-23T16:06:08.026Z",
+  "retrievedAt": "2026-10-23T17:05:33.032Z",
+  "completedAt": "2026-10-23T17:06:08.901Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -4212,7 +4212,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Documenti/LOME0004/qa75quv0lq\" on this server. Reference #18.868dead.1792771544.4469e13 https://errors.edgesuite.net/18.868dead.1792771544.4469e13"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Documenti/LOME0004/qa75quv0lq\" on this server. Reference #18.3668dead.1792775145.15fc664a https://errors.edgesuite.net/18.3668dead.1792775145.15fc664a"
         }
       ],
       "attachments": []
@@ -4276,7 +4276,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Documenti/LOME0004/aofn6p0qe1\" on this server. Reference #18.868dead.1792771558.446be46 https://errors.edgesuite.net/18.868dead.1792771558.446be46"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Documenti/LOME0004/aofn6p0qe1\" on this server. Reference #18.3668dead.1792775159.15fc8aaf https://errors.edgesuite.net/18.3668dead.1792775159.15fc8aaf"
         }
       ],
       "attachments": []
