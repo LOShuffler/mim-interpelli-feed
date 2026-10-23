@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-23T07:05:33.151Z",
-  "completedAt": "2026-10-23T07:06:10.556Z",
+  "retrievedAt": "2026-10-23T08:05:32.374Z",
+  "completedAt": "2026-10-23T08:06:12.121Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -4208,38 +4208,6 @@
         ],
         "attachments": []
       }
-    },
-    {
-      "id": "bbaa514b5998bff8",
-      "type": "new",
-      "detectedAt": "2026-09-23T08:05:33.528Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-29",
-      "item": {
-        "id": "1a98a0b8b506bbc0",
-        "position": 1,
-        "collectionReason": "new",
-        "listLabel": "I.C. \"C. Collodi\" S. Angelo Lodigiano",
-        "listContext": "23 settembre 2026 Interpelli ricerca supplenti I.C. \"C. Collodi\" S. Angelo Lodigiano Scuola primaria posto comune - n. 4 posti fino al 30 giugno 2027",
-        "title": "I.C. \"C. Collodi\" S. Angelo Lodigiano",
-        "subtitle": "Scuola primaria posto comune - n. 4 posti fino al 30 giugno 2027",
-        "publicationDate": "23 settembre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-29",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-29",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/6a02fd09-de2c-4f47-925d-b5308fe188ba",
-            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/6a02fd09-de2c-4f47-925d-b5308fe188ba",
-            "httpStatus": 200,
-            "title": "Elenco interpelli",
-            "subtitle": "",
-            "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" CARLO COLLODI \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio Interpello su cdc EEEE posto comune primaria - n. 4 posti 24h settimanali fino al 30/06/2027 EEEE Insegnante posto comune scuola primaria 24/09/2026 30/06/2027 LOEE815053 Scuola primaria Salerano sul Lambro Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
-          }
-        ],
-        "attachments": []
-      }
     }
   ],
   "latestFour": [
@@ -4290,7 +4258,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/1c1e1262-e2aa-4f40-9a43-179990f6bcdf\" on this server. Reference #18.65a61702.1792739152.1f61f6b0 https://errors.edgesuite.net/18.65a61702.1792739152.1f61f6b0"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/1c1e1262-e2aa-4f40-9a43-179990f6bcdf\" on this server. Reference #18.53a61702.1792742753.12b5ff1 https://errors.edgesuite.net/18.53a61702.1792742753.12b5ff1"
         }
       ],
       "attachments": []
@@ -4327,7 +4295,7 @@
           "context": "Le carte della scuola",
           "status": 200,
           "contentType": "text/html; charset=UTF-8",
-          "bytes": 270594,
+          "bytes": 270638,
           "file": "items/03-I.I.S.-Casalpusterlengo/01-attachment"
         }
       ]
