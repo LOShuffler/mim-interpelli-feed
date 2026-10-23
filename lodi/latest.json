@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-23T11:05:33.157Z",
-  "completedAt": "2026-10-23T11:06:07.951Z",
+  "retrievedAt": "2026-10-23T12:05:32.456Z",
+  "completedAt": "2026-10-23T12:06:07.785Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -4284,45 +4284,13 @@
         ],
         "attachments": []
       }
-    },
-    {
-      "id": "117c6b9c4d284b38",
-      "type": "new",
-      "detectedAt": "2026-09-23T12:05:13.577Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-r-morzenti-s-angelo-lodigiano-15",
-      "item": {
-        "id": "077a99a04995fc48",
-        "position": 1,
-        "collectionReason": "new",
-        "listLabel": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
-        "listContext": "23 settembre 2026 Interpelli ricerca supplenti I.C. \"R. Morzenti\" S. Angelo Lodigiano Posto comune A028 - 18 ore fino al 17/10/2026",
-        "title": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
-        "subtitle": "Posto comune A028 - 18 ore fino al 17/10/2026",
-        "publicationDate": "23 settembre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-r-morzenti-s-angelo-lodigiano-15",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-r-morzenti-s-angelo-lodigiano-15",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0012/871a83b8-e4fe-4bbb-854b-c1cb8c2748b1",
-            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0012/871a83b8-e4fe-4bbb-854b-c1cb8c2748b1",
-            "httpStatus": 200,
-            "title": "Elenco interpelli",
-            "subtitle": "",
-            "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" R. MORZENTI \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio Avviso n. 3 2026/2027 A028 Matematica e scienze 25/09/2026 17/10/2026 LOMM81601N Sant'Angelo Lodigiano Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
-          }
-        ],
-        "attachments": []
-      }
     }
   ],
   "latestFour": [
     {
       "id": "06f7117b358e599a",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Lodi V",
       "listContext": "23 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi V Interpello scuola secondaria I grado 23-10-2026 SOSTEGNO",
       "title": "I.C. Lodi V",
@@ -4340,7 +4308,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Documenti/LOME0004/qa75quv0lq\" on this server. Reference #18.3668dead.1792753544.154d807b https://errors.edgesuite.net/18.3668dead.1792753544.154d807b"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Documenti/LOME0004/qa75quv0lq\" on this server. Reference #18.76a61702.1792757144.180eaa7f https://errors.edgesuite.net/18.76a61702.1792757144.180eaa7f"
         }
       ],
       "attachments": []
@@ -4404,7 +4372,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Documenti/LOME0004/aofn6p0qe1\" on this server. Reference #18.3668dead.1792753558.154dace4 https://errors.edgesuite.net/18.3668dead.1792753558.154dace4"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Documenti/LOME0004/aofn6p0qe1\" on this server. Reference #18.76a61702.1792757158.180ecafa https://errors.edgesuite.net/18.76a61702.1792757158.180ecafa"
         }
       ],
       "attachments": []
