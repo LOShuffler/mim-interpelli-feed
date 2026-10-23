@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-23T01:05:42.501Z",
-  "completedAt": "2026-10-23T01:06:34.224Z",
+  "retrievedAt": "2026-10-23T02:05:42.107Z",
+  "completedAt": "2026-10-23T02:06:21.255Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -4290,7 +4290,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/1c1e1262-e2aa-4f40-9a43-179990f6bcdf\" on this server. Reference #18.78a61702.1792717571.37e29c8 https://errors.edgesuite.net/18.78a61702.1792717571.37e29c8"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/1c1e1262-e2aa-4f40-9a43-179990f6bcdf\" on this server. Reference #18.78a61702.1792721161.38ab4ae https://errors.edgesuite.net/18.78a61702.1792721161.38ab4ae"
         }
       ],
       "attachments": []
