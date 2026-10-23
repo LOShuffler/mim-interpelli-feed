@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-23T04:05:46.816Z",
-  "completedAt": "2026-10-23T04:06:26.248Z",
+  "retrievedAt": "2026-10-23T06:05:33.492Z",
+  "completedAt": "2026-10-23T06:06:15.266Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -4290,7 +4290,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/1c1e1262-e2aa-4f40-9a43-179990f6bcdf\" on this server. Reference #18.45a61702.1792728368.2e570db https://errors.edgesuite.net/18.45a61702.1792728368.2e570db"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/1c1e1262-e2aa-4f40-9a43-179990f6bcdf\" on this server. Reference #18.50a61702.1792735554.4491577 https://errors.edgesuite.net/18.50a61702.1792735554.4491577"
         }
       ],
       "attachments": []
@@ -4327,7 +4327,7 @@
           "context": "Le carte della scuola",
           "status": 200,
           "contentType": "text/html; charset=UTF-8",
-          "bytes": 270603,
+          "bytes": 270638,
           "file": "items/03-I.I.S.-Casalpusterlengo/01-attachment"
         }
       ]
@@ -4351,9 +4351,9 @@
           "url": "https://nuvola.madisoft.it/interpelli/LOIC80400A/docenti/0323cac2-6a4b-4c8b-ba25-f2b929d98ad1/candidatura",
           "finalUrl": "https://nuvola.madisoft.it/interpelli/LOIC80400A/docenti/0323cac2-6a4b-4c8b-ba25-f2b929d98ad1/candidatura",
           "httpStatus": 200,
-          "title": "N. 1 POSTO INSEGNAMENTO DISCIPLINE LETTERARIE NELLA SCUOLA SECONDARIA DI I GR. (ALFABETIZZAZIONE)",
+          "title": "Nuvola - Interpelli",
           "subtitle": "Nuvola - Interpelli",
-          "text": "Gestione Interpelli Torna agli interpelli aperti STEP 1 Dati anagrafici Generalità e contatti STEP 2 Titoli e certificazioni Studio e lingue STEP 3 Abilitazioni Abilitazione all'insegnamento e servizio prestato STEP 4 Esperienze di servizio Incarichi svolti e periodi di servizio STEP 5 Allegati e dichiarazioni Curriculum, altri allegati e dichiarazioni finali STEP 6 Riepilogo Controlla i dati inseriti N. 1 POSTO INSEGNAMENTO DISCIPLINE LETTERARIE NELLA SCUOLA SECONDARIA DI I GR. (ALFABETIZZAZIONE) Durata: 18 ore 0 minuti dal 26/10/2026 al 06/11/2026 Presentazione candidature: dal 22/10/2026 07:42 al 23/10/2026 08:00 Posti disponibili: 1 Annotazioni: Criterio prioritario nell'assegnazione dell'incarico è il possesso di laurea magistrale/specialistica in discipline letterarie. Classe di concorso: A-12 Discipline letterarie nell'istruzione secondaria di I grado e di II grado Ordine di scuola: SECONDARIA I GRADO Leggi il testo sul trattamento dei dati STEP 1 DI 6 Dati anagrafici Generalità e contatti Generalità Generalità Nome Cognome Sesso Codice fiscale Data di nascita Comune di nascita Stato di nascita Residenza Residenza Indirizzo di residenza Comune di residenza CAP di residenza Contatti Contatti Email PEC Cellulare Cittadinanza Cittadinanza Cittadino Italiano Cittadino di uno Stato membro UE Cittadino non comunitario con diritto di soggiorno o soggiorno permanente Avanti"
+          "text": "Gestione Interpelli Interpello non disponibile Le candidature per l'interpello con identificativo \"0323cac2-6a4b-4c8b-ba25-f2b929d98ad1\" sono già chiuse. Torna agli interpelli aperti Riprova"
         }
       ],
       "attachments": []
