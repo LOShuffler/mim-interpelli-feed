@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-22T23:05:34.255Z",
-  "completedAt": "2026-10-22T23:06:11.544Z",
+  "retrievedAt": "2026-10-23T00:05:32.517Z",
+  "completedAt": "2026-10-23T00:06:11.776Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -4290,7 +4290,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/1c1e1262-e2aa-4f40-9a43-179990f6bcdf\" on this server. Reference #18.2a68dead.1792710353.1f46c313 https://errors.edgesuite.net/18.2a68dead.1792710353.1f46c313"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/1c1e1262-e2aa-4f40-9a43-179990f6bcdf\" on this server. Reference #18.4ea61702.1792713951.2cb28d8 https://errors.edgesuite.net/18.4ea61702.1792713951.2cb28d8"
         }
       ],
       "attachments": []
@@ -4321,24 +4321,14 @@
       ],
       "attachments": [
         {
-          "text": "Gestisci opzioni",
-          "href": "https://cesaris.edu.it/documento/piano-annuale-per-linclusione-pai-a-s-2026-2027/",
-          "title": "",
-          "context": "Gestisci opzioni",
-          "status": 200,
-          "contentType": "text/html; charset=UTF-8",
-          "bytes": 231351,
-          "file": "items/03-I.I.S.-Casalpusterlengo/01-attachment"
-        },
-        {
           "text": "Le carte della scuola",
           "href": "https://cesaris.edu.it/documento/",
           "title": "",
           "context": "Le carte della scuola",
           "status": 200,
           "contentType": "text/html; charset=UTF-8",
-          "bytes": 270636,
-          "file": "items/03-I.I.S.-Casalpusterlengo/02-attachment"
+          "bytes": 270638,
+          "file": "items/03-I.I.S.-Casalpusterlengo/01-attachment"
         }
       ]
     },
