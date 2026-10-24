@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-24T09:05:32.780Z",
-  "completedAt": "2026-10-24T09:06:08.052Z",
+  "retrievedAt": "2026-10-24T10:05:34.266Z",
+  "completedAt": "2026-10-24T10:06:09.701Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -4059,91 +4059,6 @@
           }
         ]
       }
-    },
-    {
-      "id": "b717974b47714753",
-      "type": "new",
-      "detectedAt": "2026-09-24T10:05:32.765Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-s-angelo-lodigiano-13",
-      "item": {
-        "id": "63790f56c8389fe6",
-        "position": 1,
-        "collectionReason": "new",
-        "listLabel": "I.I.S. S. Angelo Lodigiano",
-        "listContext": "24 settembre 2026 Interpelli ricerca supplenti I.I.S. S. Angelo Lodigiano Interpello classe di concorso A041",
-        "title": "I.I.S. S. Angelo Lodigiano",
-        "subtitle": "Interpello classe di concorso A041",
-        "publicationDate": "24 settembre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-s-angelo-lodigiano-13",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-i-s-s-angelo-lodigiano-13",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://www.iispandinipiazza.edu.it/procedura-di-interpello/",
-            "finalUrl": "https://www.iispandinipiazza.edu.it/procedura-di-interpello/",
-            "httpStatus": 200,
-            "title": "ANNO SCOLASTICO 2026 – 27",
-            "subtitle": "",
-            "text": "Stampa / Condividi Stampa Invia Condividi Facebook Twitter Linkedin L’Ordinanza Ministeriale n. 88/2024 introduce una novità importante: gli interpelli. Si tratta di avvisi pubblici che le scuole sono tenute a pubblicare nel caso in cui non riescano a reperire supplenti tramite le graduatorie. ANNO SCOLASTICO 2026 – 27 INTERPELLI ATTIVI INTERPELLO A041 INTERPELLI SCADUTI Interpello A027 Interpello A041 Interpello A020 ANNUALITA’ PRECEDENTI ANNO SCOLASTICO 2025 – 26 INTERPELLO ADSS INTERPELLO A041 INTERPELLO B003 INTERPELLO A021 INTERPELLO ADSS interpello AS48 Interpello AS12 INTERPELLO A018 nuovo INTERPELLO AS2A INTERPELLO AS2A 12 ORE INTERPELLO ADSS – 1 INTERPELLO ADSS – 2 INTERPELLO AS2A INTERPELLO ADSS INTERPELLO A050 INTERPELLO A045 INTERPELLO ADSS INTERPELLO AS12 INTERPELLO A026 INTERPELLO AS12 INTERPELLO AS48 SCIENZE MOTORIE E SPORTIVE A040 SCIENZE E TECNOLOGIE ELETTRICHE ED ELETTRONICHE A033 SCIENZE E TECNOLOGIE AERONAUTICHE A042 SCIENZE E TECNOLOGIE MECCANICHE A026 INTERPELLO MATEMATICA A027 INTERPELLO MATEMATICA E FISICA A036 INTERPELLO SCIENZE E TECNOLOGIE DELLA LOGISTICA A041 INTERPELLO SCIENZE E TECNOLOGIE INFORMATICHE A050 INTERPELLO SCIENZE NATURALI BIOLOGICHE E CHIMICHE B005 INTERPELLO LABORATORIO DI LOGISTICA B009 INTERPELLO LABORATORIO DI SCIENZE E TECNOLOGIE AERONAUTICHE ANNO SCOLASTICO 2024 – 25 A026 Interpello 9 ore fino al 08.06.2025 A012 INTERPELLO PER 14 ORE IIS PANDINI AB24 LINGUA E CIVILTA’ STRANIERA (INGLESE) CATTEDRA DI 18 ORE SEDE DI SERVIZIO IIS “RAIMONDO PANDINI A040 9 ORE INTERPELLO supplenza breve A050 INTERPELLO PER CATTEDRA INTERNA IIS PANDINI B015 ORE 6 INTERPELLO A014 Interpello per cattedra interna L.A.S. Piazza A020 Interpello per 14 ore I.I.S. Pandini A020 Interpello per cattedra interna I.I.S. Pandini A027 Interpello per 10 ore L.A.S. Piazza A033 Interpello per 9 ore I.I.S. Pandini A036 Interpello per 16 ore I.I.S. Pandini A040 Interpello per 9 ore I.I.S. Pandini A041 Interpello per 9 ore I.I.S. Pandini A041 Interpello per cattedra interna I.I.S. Pandini A042 Interpello per 9 ore I.I.S. Pandini B009 LAB. AEREONAUTICHE 6 ORE INTERPELLO presso I.I.S Pandini di Sant’Angelo Lodigiano B005 LAB. LOGISTICA 8 ORE INTERPELLO presso I.I.S. Pandini di Sant’Angelo Lodigiano A050: INTERPELLO PER SUPPLENZA SU CLASSE DI CONCORSO A-50 (18 ORE) FINO ALL’AVENTE DIRITTO- SEDE DI SERVIZIO LAS “CALLISTO PIAZZA” Pubblicato: 18.09.2024 - Revisione: 24.09.2026 Eccetto dove diversamente specificato, questo articolo è stato rilasciato sotto Licenza Creative Commons Attribuzione 4.0 Italia."
-          }
-        ],
-        "attachments": [
-          {
-            "text": "Le carte della scuola",
-            "href": "https://www.iispandinipiazza.edu.it/documento/",
-            "title": "",
-            "context": "Le carte della scuola",
-            "status": 200,
-            "contentType": "text/html; charset=UTF-8",
-            "bytes": 375038,
-            "file": "items/01-I.I.S.-S.-Angelo-Lodigiano/01-attachment"
-          },
-          {
-            "text": "PNRR",
-            "href": "https://www.iispandinipiazza.edu.it/tipologia-documento/PNRR/",
-            "title": "",
-            "context": "PNRR",
-            "status": 200,
-            "contentType": "text/html; charset=UTF-8",
-            "bytes": 368735,
-            "file": "items/01-I.I.S.-S.-Angelo-Lodigiano/02-attachment"
-          }
-        ]
-      }
-    },
-    {
-      "id": "c25b129d0bf3f800",
-      "type": "new",
-      "detectedAt": "2026-09-24T10:05:32.765Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-zelo-buon-persico-17",
-      "item": {
-        "id": "f77dbe1b3e8b2aa9",
-        "position": 2,
-        "collectionReason": "new",
-        "listLabel": "I.C. Zelo Buon Persico",
-        "listContext": "24 settembre 2026 Interpelli ricerca supplenti I.C. Zelo Buon Persico Posto comune primaria",
-        "title": "I.C. Zelo Buon Persico",
-        "subtitle": "Posto comune primaria",
-        "publicationDate": "24 settembre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-zelo-buon-persico-17",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-zelo-buon-persico-17",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0003/e6e66bc5-0085-481f-b7ef-13731aab7e56",
-            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0003/e6e66bc5-0085-481f-b7ef-13731aab7e56",
-            "httpStatus": 200,
-            "title": "Elenco interpelli",
-            "subtitle": "",
-            "text": "Interpelli ISTITUTO COMPRENSIVO STATALE . Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio EEEE POSTO COMUNE PRIMARIA EEEE Insegnante posto comune scuola primaria 28/09/2026 07/10/2026 LOEE805018 SCUOLA PRIMARIA IC ZELO B.P./MERLINO/COMAZZO Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
-          }
-        ],
-        "attachments": []
-      }
     }
   ],
   "latestFour": [
@@ -4168,7 +4083,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Documenti/LOME0004/qa75quv0lq\" on this server. Reference #18.4aa61702.1792832744.2682fee6 https://errors.edgesuite.net/18.4aa61702.1792832744.2682fee6"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Documenti/LOME0004/qa75quv0lq\" on this server. Reference #18.45a61702.1792836346.5f41ed2 https://errors.edgesuite.net/18.45a61702.1792836346.5f41ed2"
         }
       ],
       "attachments": []
@@ -4232,7 +4147,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Documenti/LOME0004/aofn6p0qe1\" on this server. Reference #18.4aa61702.1792832758.26832a8f https://errors.edgesuite.net/18.4aa61702.1792832758.26832a8f"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Documenti/LOME0004/aofn6p0qe1\" on this server. Reference #18.45a61702.1792836360.5f43d4b https://errors.edgesuite.net/18.45a61702.1792836360.5f43d4b"
         }
       ],
       "attachments": []
