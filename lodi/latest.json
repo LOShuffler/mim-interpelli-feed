@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-25T10:05:14.723Z",
-  "completedAt": "2026-10-25T10:05:48.786Z",
+  "retrievedAt": "2026-10-25T11:05:13.938Z",
+  "completedAt": "2026-10-25T11:05:48.015Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -3940,38 +3940,6 @@
         ],
         "attachments": []
       }
-    },
-    {
-      "id": "a48debbc54ae750b",
-      "type": "new",
-      "detectedAt": "2026-09-25T11:05:33.177Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-tavazzano-con-villavesco-4",
-      "item": {
-        "id": "6ed2487070f07b5f",
-        "position": 1,
-        "collectionReason": "new",
-        "listLabel": "I.C. Tavazzano con Villavesco",
-        "listContext": "25 settembre 2026 Interpelli ricerca supplenti I.C. Tavazzano con Villavesco Interpello nazionale per reperimento docenti su tipo di posto SOSTEGNO - SCUOLA PRIMARIA n. 3 supplenze brevi",
-        "title": "I.C. Tavazzano con Villavesco",
-        "subtitle": "Interpello nazionale per reperimento docenti su tipo di posto SOSTEGNO - SCUOLA PRIMARIA n. 3 supplenze brevi",
-        "publicationDate": "25 settembre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-tavazzano-con-villavesco-4",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-tavazzano-con-villavesco-4",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0001/c09486e9-6ce9-49bb-a513-e315210b2a9c",
-            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0001/c09486e9-6ce9-49bb-a513-e315210b2a9c",
-            "httpStatus": 200,
-            "title": "Elenco interpelli",
-            "subtitle": "",
-            "text": "Interpelli ISTITUTO COMPRENSIVO \"F. FELLINI\" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio Interpello nazionale per reperimento docenti su tipo di posto SOSTEGNO - SCUOLA PRIMARIA n. 3 supplenze brevi ADEE Sostegno scuola primaria 29/09/2026 LOEE800015 Scuola Primaria di Tavazzano e Sordio Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
-          }
-        ],
-        "attachments": []
-      }
     }
   ],
   "latestFour": [
@@ -3996,7 +3964,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Documenti/LOME0004/qa75quv0lq\" on this server. Reference #18.2368dead.1792922726.1d2461cc https://errors.edgesuite.net/18.2368dead.1792922726.1d2461cc"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Documenti/LOME0004/qa75quv0lq\" on this server. Reference #18.668dead.1792926325.ab45f97 https://errors.edgesuite.net/18.668dead.1792926325.ab45f97"
         }
       ],
       "attachments": []
@@ -4048,7 +4016,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Documenti/LOME0004/aofn6p0qe1\" on this server. Reference #18.2368dead.1792922739.1d247b50 https://errors.edgesuite.net/18.2368dead.1792922739.1d247b50"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Documenti/LOME0004/aofn6p0qe1\" on this server. Reference #18.668dead.1792926338.ab48368 https://errors.edgesuite.net/18.668dead.1792926338.ab48368"
         }
       ],
       "attachments": []
