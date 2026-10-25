@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-25T11:05:13.938Z",
-  "completedAt": "2026-10-25T11:05:48.015Z",
+  "retrievedAt": "2026-10-25T12:06:13.349Z",
+  "completedAt": "2026-10-25T12:06:47.329Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -3908,38 +3908,6 @@
           }
         ]
       }
-    },
-    {
-      "id": "2d63924818cc59c8",
-      "type": "new",
-      "detectedAt": "2026-09-25T12:05:33.457Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-30",
-      "item": {
-        "id": "843f63b0f0b2d80a",
-        "position": 1,
-        "collectionReason": "new",
-        "listLabel": "I.C. Lodi I",
-        "listContext": "25 settembre 2026 Interpelli ricerca supplenti I.C. Lodi I Interpello 6H ADEE fino al 30/06",
-        "title": "I.C. Lodi I",
-        "subtitle": "Interpello 6H ADEE fino al 30/06",
-        "publicationDate": "25 settembre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-30",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-30",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://www.portaleargo.it/albopretorio/online/",
-            "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
-            "httpStatus": 200,
-            "title": "Albo Pretorio",
-            "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
-            "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
-          }
-        ],
-        "attachments": []
-      }
     }
   ],
   "latestFour": [
@@ -3964,7 +3932,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Documenti/LOME0004/qa75quv0lq\" on this server. Reference #18.668dead.1792926325.ab45f97 https://errors.edgesuite.net/18.668dead.1792926325.ab45f97"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Documenti/LOME0004/qa75quv0lq\" on this server. Reference #18.8871cd17.1792929984.a03b55db https://errors.edgesuite.net/18.8871cd17.1792929984.a03b55db"
         }
       ],
       "attachments": []
@@ -4016,7 +3984,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Documenti/LOME0004/aofn6p0qe1\" on this server. Reference #18.668dead.1792926338.ab48368 https://errors.edgesuite.net/18.668dead.1792926338.ab48368"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Documenti/LOME0004/aofn6p0qe1\" on this server. Reference #18.8871cd17.1792929998.a03c4d40 https://errors.edgesuite.net/18.8871cd17.1792929998.a03c4d40"
         }
       ],
       "attachments": []
