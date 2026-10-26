@@ -6,18 +6,50 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-26T14:05:13.579Z",
-  "completedAt": "2026-10-26T14:05:49.017Z",
+  "retrievedAt": "2026-10-26T15:05:13.954Z",
+  "completedAt": "2026-10-26T15:05:49.094Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 24753,
+    "textLength": 24779,
     "discoveredCount": 200,
     "safetyLimited": false,
     "processedCount": 4
   },
   "recentEvents": [
+    {
+      "id": "7f75ee23b961de48",
+      "type": "new",
+      "detectedAt": "2026-10-26T15:05:13.954Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-tavazzano-12",
+      "item": {
+        "id": "92e84c1d0680f309",
+        "position": 1,
+        "collectionReason": "new",
+        "listLabel": "I.C. Tavazzano",
+        "listContext": "26 ottobre 2026 Interpelli ricerca supplenti I.C. Tavazzano Interpello infanzia e primaria posto comune e sostegno a.s. 2026/27",
+        "title": "I.C. Tavazzano",
+        "subtitle": "Interpello infanzia e primaria posto comune e sostegno a.s. 2026/27",
+        "publicationDate": "26 ottobre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-tavazzano-12",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-tavazzano-12",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0001/88fb0efd-cb21-47fd-beb1-437bab35be27",
+            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0001/88fb0efd-cb21-47fd-beb1-437bab35be27",
+            "httpStatus": 403,
+            "title": "Access Denied",
+            "subtitle": "",
+            "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/88fb0efd-cb21-47fd-beb1-437bab35be27\" on this server. Reference #18.1b7e19b8.1793027125.8641f026 https://errors.edgesuite.net/18.1b7e19b8.1793027125.8641f026"
+          }
+        ],
+        "attachments": []
+      }
+    },
     {
       "id": "c6e7727c5108a55c",
       "type": "new",
@@ -4116,8 +4148,34 @@
   ],
   "latestFour": [
     {
-      "id": "2b8942b64c60c1b9",
+      "id": "92e84c1d0680f309",
       "position": 1,
+      "collectionReason": "new",
+      "listLabel": "I.C. Tavazzano",
+      "listContext": "26 ottobre 2026 Interpelli ricerca supplenti I.C. Tavazzano Interpello infanzia e primaria posto comune e sostegno a.s. 2026/27",
+      "title": "I.C. Tavazzano",
+      "subtitle": "Interpello infanzia e primaria posto comune e sostegno a.s. 2026/27",
+      "publicationDate": "26 ottobre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-tavazzano-12",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-tavazzano-12",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0001/88fb0efd-cb21-47fd-beb1-437bab35be27",
+          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0001/88fb0efd-cb21-47fd-beb1-437bab35be27",
+          "httpStatus": 403,
+          "title": "Access Denied",
+          "subtitle": "",
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/88fb0efd-cb21-47fd-beb1-437bab35be27\" on this server. Reference #18.1b7e19b8.1793027125.8641f026 https://errors.edgesuite.net/18.1b7e19b8.1793027125.8641f026"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "2b8942b64c60c1b9",
+      "position": 2,
       "collectionReason": "refresh",
       "listLabel": "I.C. Tavazzano",
       "listContext": "26 ottobre 2026 Interpelli ricerca supplenti I.C. Tavazzano Interpello per reperimento docente su tipo di posto SOSTEGNO - SCUOLA PRIMARIA supplenza breve 24h fino al 11/11/2026",
@@ -4136,14 +4194,14 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/e94f740f-e71d-4ad0-8cd6-6b031f55772e\" on this server. Reference #18.9071cd17.1793023525.e95e85dd https://errors.edgesuite.net/18.9071cd17.1793023525.e95e85dd"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/e94f740f-e71d-4ad0-8cd6-6b031f55772e\" on this server. Reference #18.1b7e19b8.1793027132.86426a99 https://errors.edgesuite.net/18.1b7e19b8.1793027132.86426a99"
         }
       ],
       "attachments": []
     },
     {
       "id": "387b50c8defca92d",
-      "position": 2,
+      "position": 3,
       "collectionReason": "refresh",
       "listLabel": "I.I.S. \"A. Volta\" Lodi",
       "listContext": "26 ottobre 2026 Interpelli ricerca supplenti I.I.S. \"A. Volta\" Lodi Interpello classe di concorso AS12",
@@ -4174,13 +4232,13 @@
           "status": 200,
           "contentType": "text/html; charset=UTF-8",
           "bytes": 283177,
-          "file": "items/02-I.I.S.-A.-Volta-Lodi/01-attachment"
+          "file": "items/03-I.I.S.-A.-Volta-Lodi/01-attachment"
         }
       ]
     },
     {
       "id": "618b12b78dd3c0bc",
-      "position": 3,
+      "position": 4,
       "collectionReason": "refresh",
       "listLabel": "I.I.S. \"A. Volta\" Lodi",
       "listContext": "26 ottobre 2026 Interpelli ricerca supplenti I.I.S. \"A. Volta\" Lodi Interpello classe di concorso A041",
@@ -4200,43 +4258,6 @@
           "title": "Documenti",
           "subtitle": "",
           "text": "Si comunica che, per esaurimento della graduatoria di istituto per l’insegnamento di A041 – SCIENZE E TECNOLOGIE INFORMATICHE questa Istituzione scolastica, ai sensi dell’art. 13, comma 23 dell’O.M. n. 88/2024, deve provvedere al conferimento, fuori graduatoria, di supplenze di cui all’allegato. Documenti INTERPELLO_7_A041.pdf.pades pdf - 283 kb MODULO_RISPOSTA_INTERPELLI document - 19 kb Pubblicato: 26.10.2026 - Revisione: 26.10.2026 Eccetto dove diversamente specificato, questo articolo è stato rilasciato sotto Licenza Creative Commons Attribuzione 4.0 Italia."
-        }
-      ],
-      "attachments": [
-        {
-          "text": "Le carte della scuola",
-          "href": "https://www.iisvolta.edu.it/newpage/documento/",
-          "title": "",
-          "context": "Le carte della scuola",
-          "status": 200,
-          "contentType": "text/html; charset=UTF-8",
-          "bytes": 283177,
-          "file": "items/03-I.I.S.-A.-Volta-Lodi/01-attachment"
-        }
-      ]
-    },
-    {
-      "id": "e993e82b524ebf32",
-      "position": 4,
-      "collectionReason": "refresh",
-      "listLabel": "I.I.S. \"A. Volta\" Lodi",
-      "listContext": "26 ottobre 2026 Interpelli ricerca supplenti I.I.S. \"A. Volta\" Lodi Interpello classe di concorso A042",
-      "title": "I.I.S. \"A. Volta\" Lodi",
-      "subtitle": "Interpello classe di concorso A042",
-      "publicationDate": "26 ottobre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-a-volta-lodi-9",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-i-s-a-volta-lodi-9",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://www.iisvolta.edu.it/newpage/circolare/interpello-n-5-classe-di-concorso-a042/",
-          "finalUrl": "https://www.iisvolta.edu.it/newpage/circolare/interpello-n-5-classe-di-concorso-a042/",
-          "httpStatus": 200,
-          "title": "Documenti",
-          "subtitle": "",
-          "text": "Si comunica che, per esaurimento della graduatoria di istituto per l’insegnamento di A042 – SCIENZE E TECNOLOGIE MECCANICHE questa Istituzione scolastica, ai sensi dell’art. 13, comma 23 dell’O.M. n. 88/2024, deve provvedere al conferimento, fuori graduatoria, di supplenze di cui all’allegato. Documenti INTERPELLO_5_A042_.pdf.pades pdf - 283 kb MODULO_RISPOSTA_INTERPELLI document - 19 kb Pubblicato: 26.10.2026 - Revisione: 26.10.2026 Eccetto dove diversamente specificato, questo articolo è stato rilasciato sotto Licenza Creative Commons Attribuzione 4.0 Italia."
         }
       ],
       "attachments": [
