@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-26T06:05:45.053Z",
-  "completedAt": "2026-10-26T06:06:38.823Z",
+  "retrievedAt": "2026-10-26T07:05:54.340Z",
+  "completedAt": "2026-10-26T07:06:28.574Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -3932,7 +3932,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Documenti/LOME0004/qa75quv0lq\" on this server. Reference #18.57a61702.1792994756.e3f8c13 https://errors.edgesuite.net/18.57a61702.1792994756.e3f8c13"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Documenti/LOME0004/qa75quv0lq\" on this server. Reference #18.50a61702.1792998365.d8d4549 https://errors.edgesuite.net/18.50a61702.1792998365.d8d4549"
         }
       ],
       "attachments": []
@@ -3956,9 +3956,9 @@
           "url": "https://nuvola.madisoft.it/interpelli/LOIC80900D/docenti",
           "finalUrl": "https://nuvola.madisoft.it/interpelli/LOIC80900D/docenti",
           "httpStatus": 200,
-          "title": "Nuvola - Interpelli",
+          "title": "Interpelli per: Personale docente",
           "subtitle": "Nuvola - Interpelli",
-          "text": "Gestione Interpelli Caricamento della pagina…"
+          "text": "Gestione Interpelli IC Casalpusterlengo Codice meccanografico: LOIC80900D CASALPUSTERLENGO (LO) Interpelli per: Personale Docente Cambia ruolo Nessun interpello aperto Non ci sono elementi per la categoria selezionata."
         }
       ],
       "attachments": []
@@ -3984,7 +3984,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Documenti/LOME0004/aofn6p0qe1\" on this server. Reference #18.57a61702.1792994789.e3fe177 https://errors.edgesuite.net/18.57a61702.1792994789.e3fe177"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Documenti/LOME0004/aofn6p0qe1\" on this server. Reference #18.50a61702.1792998379.d8d6bf7 https://errors.edgesuite.net/18.50a61702.1792998379.d8d6bf7"
         }
       ],
       "attachments": []
