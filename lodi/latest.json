@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-26T12:05:14.361Z",
-  "completedAt": "2026-10-26T12:05:57.566Z",
+  "retrievedAt": "2026-10-26T13:05:54.689Z",
+  "completedAt": "2026-10-26T13:06:29.931Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -15,7 +15,7 @@
     "textLength": 24753,
     "discoveredCount": 200,
     "safetyLimited": false,
-    "processedCount": 5
+    "processedCount": 4
   },
   "recentEvents": [
     {
@@ -4118,7 +4118,7 @@
     {
       "id": "2b8942b64c60c1b9",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Tavazzano",
       "listContext": "26 ottobre 2026 Interpelli ricerca supplenti I.C. Tavazzano Interpello per reperimento docente su tipo di posto SOSTEGNO - SCUOLA PRIMARIA supplenza breve 24h fino al 11/11/2026",
       "title": "I.C. Tavazzano",
@@ -4136,7 +4136,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/e94f740f-e71d-4ad0-8cd6-6b031f55772e\" on this server. Reference #18.47e19b8.1793016326.91c2db6d https://errors.edgesuite.net/18.47e19b8.1793016326.91c2db6d"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/e94f740f-e71d-4ad0-8cd6-6b031f55772e\" on this server. Reference #18.e68dead.1793019966.1c223a3f https://errors.edgesuite.net/18.e68dead.1793019966.1c223a3f"
         }
       ],
       "attachments": []
@@ -4144,7 +4144,7 @@
     {
       "id": "387b50c8defca92d",
       "position": 2,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.I.S. \"A. Volta\" Lodi",
       "listContext": "26 ottobre 2026 Interpelli ricerca supplenti I.I.S. \"A. Volta\" Lodi Interpello classe di concorso AS12",
       "title": "I.I.S. \"A. Volta\" Lodi",
@@ -4181,7 +4181,7 @@
     {
       "id": "618b12b78dd3c0bc",
       "position": 3,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.I.S. \"A. Volta\" Lodi",
       "listContext": "26 ottobre 2026 Interpelli ricerca supplenti I.I.S. \"A. Volta\" Lodi Interpello classe di concorso A041",
       "title": "I.I.S. \"A. Volta\" Lodi",
@@ -4218,7 +4218,7 @@
     {
       "id": "e993e82b524ebf32",
       "position": 4,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.I.S. \"A. Volta\" Lodi",
       "listContext": "26 ottobre 2026 Interpelli ricerca supplenti I.I.S. \"A. Volta\" Lodi Interpello classe di concorso A042",
       "title": "I.I.S. \"A. Volta\" Lodi",
