@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-26T15:05:13.954Z",
-  "completedAt": "2026-10-26T15:05:49.094Z",
+  "retrievedAt": "2026-10-26T16:05:13.374Z",
+  "completedAt": "2026-10-26T16:05:47.950Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -4150,7 +4150,7 @@
     {
       "id": "92e84c1d0680f309",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Tavazzano",
       "listContext": "26 ottobre 2026 Interpelli ricerca supplenti I.C. Tavazzano Interpello infanzia e primaria posto comune e sostegno a.s. 2026/27",
       "title": "I.C. Tavazzano",
@@ -4168,7 +4168,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/88fb0efd-cb21-47fd-beb1-437bab35be27\" on this server. Reference #18.1b7e19b8.1793027125.8641f026 https://errors.edgesuite.net/18.1b7e19b8.1793027125.8641f026"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/88fb0efd-cb21-47fd-beb1-437bab35be27\" on this server. Reference #18.1e68dead.1793030724.cfcc5d3 https://errors.edgesuite.net/18.1e68dead.1793030724.cfcc5d3"
         }
       ],
       "attachments": []
@@ -4194,7 +4194,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/e94f740f-e71d-4ad0-8cd6-6b031f55772e\" on this server. Reference #18.1b7e19b8.1793027132.86426a99 https://errors.edgesuite.net/18.1b7e19b8.1793027132.86426a99"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/e94f740f-e71d-4ad0-8cd6-6b031f55772e\" on this server. Reference #18.1e68dead.1793030731.cfcd90f https://errors.edgesuite.net/18.1e68dead.1793030731.cfcd90f"
         }
       ],
       "attachments": []
