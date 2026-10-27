@@ -6,18 +6,50 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-27T10:05:13.141Z",
-  "completedAt": "2026-10-27T10:05:47.512Z",
+  "retrievedAt": "2026-10-27T11:05:13.002Z",
+  "completedAt": "2026-10-27T11:05:48.188Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 24779,
+    "textLength": 24787,
     "discoveredCount": 200,
     "safetyLimited": false,
     "processedCount": 4
   },
   "recentEvents": [
+    {
+      "id": "1328874b5de9d560",
+      "type": "new",
+      "detectedAt": "2026-10-27T11:05:13.002Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-ii-67",
+      "item": {
+        "id": "193b44a5e9e523bd",
+        "position": 1,
+        "collectionReason": "new",
+        "listLabel": "I.C. Lodi II",
+        "listContext": "27 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi II Interpello Suppl. breve SC.PRIMARIA POSTO COMUNE",
+        "title": "I.C. Lodi II",
+        "subtitle": "Interpello Suppl. breve SC.PRIMARIA POSTO COMUNE",
+        "publicationDate": "27 ottobre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-ii-67",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-ii-67",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0014/7192c897-b1d2-4be0-a238-3394e2b7d032",
+            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0014/7192c897-b1d2-4be0-a238-3394e2b7d032",
+            "httpStatus": 403,
+            "title": "Access Denied",
+            "subtitle": "",
+            "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0014/7192c897-b1d2-4be0-a238-3394e2b7d032\" on this server. Reference #18.5da61702.1793099124.d4bc038 https://errors.edgesuite.net/18.5da61702.1793099124.d4bc038"
+          }
+        ],
+        "attachments": []
+      }
+    },
     {
       "id": "7f75ee23b961de48",
       "type": "new",
@@ -4148,8 +4180,34 @@
   ],
   "latestFour": [
     {
-      "id": "92e84c1d0680f309",
+      "id": "193b44a5e9e523bd",
       "position": 1,
+      "collectionReason": "new",
+      "listLabel": "I.C. Lodi II",
+      "listContext": "27 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi II Interpello Suppl. breve SC.PRIMARIA POSTO COMUNE",
+      "title": "I.C. Lodi II",
+      "subtitle": "Interpello Suppl. breve SC.PRIMARIA POSTO COMUNE",
+      "publicationDate": "27 ottobre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-ii-67",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-ii-67",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0014/7192c897-b1d2-4be0-a238-3394e2b7d032",
+          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0014/7192c897-b1d2-4be0-a238-3394e2b7d032",
+          "httpStatus": 403,
+          "title": "Access Denied",
+          "subtitle": "",
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0014/7192c897-b1d2-4be0-a238-3394e2b7d032\" on this server. Reference #18.5da61702.1793099124.d4bc038 https://errors.edgesuite.net/18.5da61702.1793099124.d4bc038"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "92e84c1d0680f309",
+      "position": 2,
       "collectionReason": "refresh",
       "listLabel": "I.C. Tavazzano",
       "listContext": "26 ottobre 2026 Interpelli ricerca supplenti I.C. Tavazzano Interpello infanzia e primaria posto comune e sostegno a.s. 2026/27",
@@ -4168,14 +4226,14 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/88fb0efd-cb21-47fd-beb1-437bab35be27\" on this server. Reference #18.e68dead.1793095524.1e575df0 https://errors.edgesuite.net/18.e68dead.1793095524.1e575df0"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/88fb0efd-cb21-47fd-beb1-437bab35be27\" on this server. Reference #18.5da61702.1793099131.d4bccf0 https://errors.edgesuite.net/18.5da61702.1793099131.d4bccf0"
         }
       ],
       "attachments": []
     },
     {
       "id": "2b8942b64c60c1b9",
-      "position": 2,
+      "position": 3,
       "collectionReason": "refresh",
       "listLabel": "I.C. Tavazzano",
       "listContext": "26 ottobre 2026 Interpelli ricerca supplenti I.C. Tavazzano Interpello per reperimento docente su tipo di posto SOSTEGNO - SCUOLA PRIMARIA supplenza breve 24h fino al 11/11/2026",
@@ -4194,14 +4252,14 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/e94f740f-e71d-4ad0-8cd6-6b031f55772e\" on this server. Reference #18.e68dead.1793095530.1e576bc7 https://errors.edgesuite.net/18.e68dead.1793095530.1e576bc7"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/e94f740f-e71d-4ad0-8cd6-6b031f55772e\" on this server. Reference #18.65a61702.1793099131.2d25f32f https://errors.edgesuite.net/18.65a61702.1793099131.2d25f32f"
         }
       ],
       "attachments": []
     },
     {
       "id": "387b50c8defca92d",
-      "position": 3,
+      "position": 4,
       "collectionReason": "refresh",
       "listLabel": "I.I.S. \"A. Volta\" Lodi",
       "listContext": "26 ottobre 2026 Interpelli ricerca supplenti I.I.S. \"A. Volta\" Lodi Interpello classe di concorso AS12",
@@ -4221,43 +4279,6 @@
           "title": "Documenti",
           "subtitle": "",
           "text": "Si comunica che, per esaurimento della graduatoria di istituto per l’insegnamento di AS12 – DISCIPLINE LETTERARIE NELL’ISTRUZIONE SECONDARIA DI II GRADO questa Istituzione scolastica, ai sensi dell’art. 13, comma 23 dell’O.M. n. 88/2024, deve provvedere al conferimento, fuori graduatoria, di supplenze di cui all’allegato. Documenti INTERPELLO_8_AS12_.pdf.pades pdf - 277 kb MODULO_RISPOSTA_INTERPELLI document - 19 kb Pubblicato: 26.10.2026 - Revisione: 26.10.2026 Eccetto dove diversamente specificato, questo articolo è stato rilasciato sotto Licenza Creative Commons Attribuzione 4.0 Italia."
-        }
-      ],
-      "attachments": [
-        {
-          "text": "Le carte della scuola",
-          "href": "https://www.iisvolta.edu.it/newpage/documento/",
-          "title": "",
-          "context": "Le carte della scuola",
-          "status": 200,
-          "contentType": "text/html; charset=UTF-8",
-          "bytes": 283177,
-          "file": "items/03-I.I.S.-A.-Volta-Lodi/01-attachment"
-        }
-      ]
-    },
-    {
-      "id": "618b12b78dd3c0bc",
-      "position": 4,
-      "collectionReason": "refresh",
-      "listLabel": "I.I.S. \"A. Volta\" Lodi",
-      "listContext": "26 ottobre 2026 Interpelli ricerca supplenti I.I.S. \"A. Volta\" Lodi Interpello classe di concorso A041",
-      "title": "I.I.S. \"A. Volta\" Lodi",
-      "subtitle": "Interpello classe di concorso A041",
-      "publicationDate": "26 ottobre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-a-volta-lodi-10",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-i-s-a-volta-lodi-10",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://www.iisvolta.edu.it/newpage/circolare/interpello-n-7-classe-di-concorso-a041/",
-          "finalUrl": "https://www.iisvolta.edu.it/newpage/circolare/interpello-n-7-classe-di-concorso-a041/",
-          "httpStatus": 200,
-          "title": "Documenti",
-          "subtitle": "",
-          "text": "Si comunica che, per esaurimento della graduatoria di istituto per l’insegnamento di A041 – SCIENZE E TECNOLOGIE INFORMATICHE questa Istituzione scolastica, ai sensi dell’art. 13, comma 23 dell’O.M. n. 88/2024, deve provvedere al conferimento, fuori graduatoria, di supplenze di cui all’allegato. Documenti INTERPELLO_7_A041.pdf.pades pdf - 283 kb MODULO_RISPOSTA_INTERPELLI document - 19 kb Pubblicato: 26.10.2026 - Revisione: 26.10.2026 Eccetto dove diversamente specificato, questo articolo è stato rilasciato sotto Licenza Creative Commons Attribuzione 4.0 Italia."
         }
       ],
       "attachments": [
