@@ -6,18 +6,50 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-27T15:05:44.252Z",
-  "completedAt": "2026-10-27T15:06:18.732Z",
+  "retrievedAt": "2026-10-27T16:05:44.539Z",
+  "completedAt": "2026-10-27T16:06:18.335Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 24787,
+    "textLength": 24742,
     "discoveredCount": 200,
     "safetyLimited": false,
     "processedCount": 4
   },
   "recentEvents": [
+    {
+      "id": "2063836f1b3c5210",
+      "type": "new",
+      "detectedAt": "2026-10-27T16:05:44.539Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-60",
+      "item": {
+        "id": "d048a59570feab1a",
+        "position": 1,
+        "collectionReason": "new",
+        "listLabel": "I.C. Lodi III",
+        "listContext": "27 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi III Interpello posto comune scuola primaria",
+        "title": "I.C. Lodi III",
+        "subtitle": "Interpello posto comune scuola primaria",
+        "publicationDate": "27 ottobre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-60",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-60",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/6481e49f-966d-4753-ac13-2fcdc5149056",
+            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/6481e49f-966d-4753-ac13-2fcdc5149056",
+            "httpStatus": 403,
+            "title": "Access Denied",
+            "subtitle": "",
+            "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0013/6481e49f-966d-4753-ac13-2fcdc5149056\" on this server. Reference #18.1868dead.1793117155.2db8d30 https://errors.edgesuite.net/18.1868dead.1793117155.2db8d30"
+          }
+        ],
+        "attachments": []
+      }
+    },
     {
       "id": "1328874b5de9d560",
       "type": "new",
@@ -4180,8 +4212,34 @@
   ],
   "latestFour": [
     {
-      "id": "193b44a5e9e523bd",
+      "id": "d048a59570feab1a",
       "position": 1,
+      "collectionReason": "new",
+      "listLabel": "I.C. Lodi III",
+      "listContext": "27 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi III Interpello posto comune scuola primaria",
+      "title": "I.C. Lodi III",
+      "subtitle": "Interpello posto comune scuola primaria",
+      "publicationDate": "27 ottobre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-60",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-60",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/6481e49f-966d-4753-ac13-2fcdc5149056",
+          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/6481e49f-966d-4753-ac13-2fcdc5149056",
+          "httpStatus": 403,
+          "title": "Access Denied",
+          "subtitle": "",
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0013/6481e49f-966d-4753-ac13-2fcdc5149056\" on this server. Reference #18.1868dead.1793117155.2db8d30 https://errors.edgesuite.net/18.1868dead.1793117155.2db8d30"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "193b44a5e9e523bd",
+      "position": 2,
       "collectionReason": "refresh",
       "listLabel": "I.C. Lodi II",
       "listContext": "27 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi II Interpello Suppl. breve SC.PRIMARIA POSTO COMUNE",
@@ -4200,14 +4258,14 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0014/7192c897-b1d2-4be0-a238-3394e2b7d032\" on this server. Reference #18.2568dead.1793113555.3255edd7 https://errors.edgesuite.net/18.2568dead.1793113555.3255edd7"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0014/7192c897-b1d2-4be0-a238-3394e2b7d032\" on this server. Reference #18.1868dead.1793117162.2db9b41 https://errors.edgesuite.net/18.1868dead.1793117162.2db9b41"
         }
       ],
       "attachments": []
     },
     {
       "id": "92e84c1d0680f309",
-      "position": 2,
+      "position": 3,
       "collectionReason": "refresh",
       "listLabel": "I.C. Tavazzano",
       "listContext": "26 ottobre 2026 Interpelli ricerca supplenti I.C. Tavazzano Interpello infanzia e primaria posto comune e sostegno a.s. 2026/27",
@@ -4226,14 +4284,14 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/88fb0efd-cb21-47fd-beb1-437bab35be27\" on this server. Reference #18.2568dead.1793113562.3255ffa2 https://errors.edgesuite.net/18.2568dead.1793113562.3255ffa2"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/88fb0efd-cb21-47fd-beb1-437bab35be27\" on this server. Reference #18.3668dead.1793117162.2180570 https://errors.edgesuite.net/18.3668dead.1793117162.2180570"
         }
       ],
       "attachments": []
     },
     {
       "id": "2b8942b64c60c1b9",
-      "position": 3,
+      "position": 4,
       "collectionReason": "refresh",
       "listLabel": "I.C. Tavazzano",
       "listContext": "26 ottobre 2026 Interpelli ricerca supplenti I.C. Tavazzano Interpello per reperimento docente su tipo di posto SOSTEGNO - SCUOLA PRIMARIA supplenza breve 24h fino al 11/11/2026",
@@ -4252,47 +4310,10 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/e94f740f-e71d-4ad0-8cd6-6b031f55772e\" on this server. Reference #18.868dead.1793113562.3159818 https://errors.edgesuite.net/18.868dead.1793113562.3159818"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/e94f740f-e71d-4ad0-8cd6-6b031f55772e\" on this server. Reference #18.3668dead.1793117175.218139e https://errors.edgesuite.net/18.3668dead.1793117175.218139e"
         }
       ],
       "attachments": []
-    },
-    {
-      "id": "387b50c8defca92d",
-      "position": 4,
-      "collectionReason": "refresh",
-      "listLabel": "I.I.S. \"A. Volta\" Lodi",
-      "listContext": "26 ottobre 2026 Interpelli ricerca supplenti I.I.S. \"A. Volta\" Lodi Interpello classe di concorso AS12",
-      "title": "I.I.S. \"A. Volta\" Lodi",
-      "subtitle": "Interpello classe di concorso AS12",
-      "publicationDate": "26 ottobre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-a-volta-lodi-11",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-i-s-a-volta-lodi-11",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://www.iisvolta.edu.it/newpage/circolare/interpello-n-8-classe-di-concorso-as12/",
-          "finalUrl": "https://www.iisvolta.edu.it/newpage/circolare/interpello-n-8-classe-di-concorso-as12/",
-          "httpStatus": 200,
-          "title": "Documenti",
-          "subtitle": "",
-          "text": "Si comunica che, per esaurimento della graduatoria di istituto per l’insegnamento di AS12 – DISCIPLINE LETTERARIE NELL’ISTRUZIONE SECONDARIA DI II GRADO questa Istituzione scolastica, ai sensi dell’art. 13, comma 23 dell’O.M. n. 88/2024, deve provvedere al conferimento, fuori graduatoria, di supplenze di cui all’allegato. Documenti INTERPELLO_8_AS12_.pdf.pades pdf - 277 kb MODULO_RISPOSTA_INTERPELLI document - 19 kb Pubblicato: 26.10.2026 - Revisione: 26.10.2026 Eccetto dove diversamente specificato, questo articolo è stato rilasciato sotto Licenza Creative Commons Attribuzione 4.0 Italia."
-        }
-      ],
-      "attachments": [
-        {
-          "text": "Le carte della scuola",
-          "href": "https://www.iisvolta.edu.it/newpage/documento/",
-          "title": "",
-          "context": "Le carte della scuola",
-          "status": 200,
-          "contentType": "text/html; charset=UTF-8",
-          "bytes": 283177,
-          "file": "items/04-I.I.S.-A.-Volta-Lodi/01-attachment"
-        }
-      ]
     }
   ],
   "errors": []
