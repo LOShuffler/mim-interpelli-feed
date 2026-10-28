@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-28T07:06:11.834Z",
-  "completedAt": "2026-10-28T07:06:45.848Z",
+  "retrievedAt": "2026-10-28T08:05:13.333Z",
+  "completedAt": "2026-10-28T08:05:47.340Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -4153,61 +4153,6 @@
         ],
         "attachments": []
       }
-    },
-    {
-      "id": "3ba515fa22e32d9e",
-      "type": "new",
-      "detectedAt": "2026-09-28T08:05:33.067Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-mulazzano-8",
-      "item": {
-        "id": "81fb8a46d6eb0241",
-        "position": 1,
-        "collectionReason": "new",
-        "listLabel": "I.C. Mulazzano",
-        "listContext": "28 settembre 2026 Interpelli ricerca supplenti I.C. Mulazzano Interpello per 9 ore AJ56 PIANOFORTE Scuola Secondaria 1° grado",
-        "title": "I.C. Mulazzano",
-        "subtitle": "Interpello per 9 ore AJ56 PIANOFORTE Scuola Secondaria 1° grado",
-        "publicationDate": "28 settembre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-mulazzano-8",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-mulazzano-8",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://www.icmulazzano.edu.it/index.php/notizie/notizie-per-il-personale/circolari-e-comunicazioni/9383-interpello-10659-25-09-20256",
-            "finalUrl": "https://www.icmulazzano.edu.it/index.php/notizie/notizie-per-il-personale/circolari-e-comunicazioni/9383-interpello-10659-25-09-20256",
-            "httpStatus": 200,
-            "title": "INTERPELLO 10659 25.09.20256",
-            "subtitle": "Istituto Comprensivo A. Gramsci di Mulazzano",
-            "text": "Stampa Condividi Facebook Twitter Whatsapp Telegram Email INTERPELLO 10659 25.09.20256 Si veda link Attachments: sett 2026 CANDIDATURA-interpello 10659.pdf[candidatura]253 kB SETT 2026 INTERPELLO 10659 piano (1).pdf[interpello ]305 kB Docenti"
-          }
-        ],
-        "attachments": [
-          {
-            "text": "Download this file (sett 2026 CANDIDATURA-interpello 10659.pdf)",
-            "href": "https://www.icmulazzano.edu.it/attachments/article/9383/sett%202026%20CANDIDATURA-interpello%2010659.pdf",
-            "title": "Download this file (sett 2026 CANDIDATURA-interpello 10659.pdf)",
-            "context": "Stampa Condividi Facebook Twitter Whatsapp Telegram Email INTERPELLO 10659 25.09.20256 Si veda link Attachments: sett 2026 CANDIDATURA-interpello 10659.pdf[candidatura]253 kB SETT 2026 INTERPELLO 10659 piano (1).pdf[interpello ]305 kB Docenti",
-            "status": 200,
-            "contentType": "application/pdf",
-            "bytes": 259752,
-            "file": "items/01-I.C.-Mulazzano/01-sett-2026-CANDIDATURA-interpello-10659.pdf",
-            "extractedText": "                          M i n i s t e r o d e l l ’ Is t r u z i o n e e d e l M e r i to\n                                 Istituto Comprensivo “A. GRAMSCI”\n                             Via Ada Negri, 44 - 26837 Mulazzano Tel: 02 989137\n                            www.icmulazzano.edu.it C.F. 92537730159\n                      e-mail loic80200p@istruzione.it PEC loic80200p@pec.istruzione.it\n\n          DOMANDA - Dichiarazione dell’interessato e autocertificazione titoli\n\nIl/la sottoscritt_ ____________________________________, nato a ___________\n_____________il _______________ codice fiscale ______________________,\n\nresidente a ________________________________________________________(prov.____),\ndomiciliato a_______________________________________________________(prov.____),\nrecapito telefonico ______________, indirizzo mail ____________________________,\n\n   •   dichiara di essere interessato al seguente posto: -\n       codice____________________________________________________,\n\n   •   come da interpello prot. N° 10659 del 25.09.2026\n\n   •   dichiara di non essere stato individuato quale destinatario di contratto a tempo\n       determinato e/o destinatario delle assegnazioni di cui all’articolo 4, commi 3 e\n       8, del Decreto ministeriale;\n\n   •   dichiara di possedere i seguenti titoli/abilitazione e il seguente servizio:\n\n   Titolo/servizio                                      Descrizione del titolo/                 Note\n                                                        servizio dell’autocertificante\n   Abilitazione per la classe di concorso\n   per l’insegnamento richiesto\n   nell’interpello\n   Specializzazione sostegno\n\n   Possesso titolo di studio necessario per\n   l’insegnamento richiesto dall’interpello\n   Possesso di altri titoli di studio\n\n   Anni/mesi di insegnamento nella stessa                                                     Numero anni,\n   tipologia di posto nell’IC Gramsci -                                                       mesi e giorni\n   Mulazzano\n   Progetti presso l’IC Gramsci -\n   Mulazzano\n   Anni/mesi di insegnamento nella stessa                                                     Numero anni,\n   tipologia di posto                                                                         mesi e giorni\n   • di essere consapevole delle conseguenze amministrative e penali per chi rilasci dichiarazioni non\n       corrispondenti a verità̀ , ai sensi del DPR 445/2000, dichiara che quanto sopra dichiarato corrisponde\n       al vero.\n   • di autorizzare al trattamento dei dati per lo scopo di cui in oggetto (trattamento privacy vedi sito)\n\n   •   Allega alla presente:\n       -       1) Curriculum vitae, debitamente sottoscritto\n       -       2) Copia del proprio documento di identità e codice fiscale\n                                                                                        Firma\n                                                             ____________________________________\n\f"
-          },
-          {
-            "text": "Download this file (SETT 2026 INTERPELLO 10659 piano (1).pdf)",
-            "href": "https://www.icmulazzano.edu.it/attachments/article/9383/SETT%202026%20INTERPELLO%2010659%20piano%20(1).pdf",
-            "title": "Download this file (SETT 2026 INTERPELLO 10659 piano (1).pdf)",
-            "context": "Stampa Condividi Facebook Twitter Whatsapp Telegram Email INTERPELLO 10659 25.09.20256 Si veda link Attachments: sett 2026 CANDIDATURA-interpello 10659.pdf[candidatura]253 kB SETT 2026 INTERPELLO 10659 piano (1).pdf[interpello ]305 kB Docenti",
-            "status": 200,
-            "contentType": "application/pdf",
-            "bytes": 312969,
-            "file": "items/01-I.C.-Mulazzano/02-SETT-2026-INTERPELLO-10659-piano-1-.pdf",
-            "extractedText": "                                                 M i n i s t ero d el l ’ I s t ru z i o n e e d e l M e r i to\n                                                        Istituto Comprensivo “A. GRAMSCI”\n                                                   Via Ada Negri, 44 - 26837 Mulazzano Tel: 02 989137\n                                                   www.icmulazzano.edu.it C.F. 92537730159\n                                            e-mail loic80200p@istruzione.it PEC loic80200p@pec.istruzione.it\n\n\n\n\n                            AVVISO/INTERPELLO PER LA COPERTURA DI POSTI ART. 13 C. 23 OM. 88/2024\n\n\n\n                                                            Prot. N. 10659 del 25.09.2026\n\n\n             DENOMINAZIONE SCUOLA: Istituto Comprensivo “A. Gramsci”\n\n             INDIRIZZO SCUOLA: via Ada Negri, 44 -26837 Mulazzano (LODI)\n\n             CODICE MECCANOGRAFICO SCUOLA: LOIC80200P\n\n             MAIL SCUOLA SU CUI RICEVERE LA CANDIDATURA: interpello@icmulazzano.com\n\n\n\n             OGGETTO: Interpello per 9 ore AJ56 PIANOFORTE Scuola Secondaria 1° grado\n\n\n                                                                    IL DIRIGENTE SCOLASTICO\n\n\n\n             VISTA l’O.M. 88/2024 ed in particolare l’art. 13 c. 23;\n\n             CONSIDERATO che risultano esaurite le GPS, consultate le graduatorie dello scrivente Istituto e degli Istituti\n             viciniori;\n\n             CONSIDERATA la necessità di reperire docenti per la copertura dei posti indicati in oggetto;\n\n             EMETTE avviso per l’individuazione e il reclutamento di personale docente per il conferimento delle\n             supplenze come da prospetto:\n\n               CODICE     TIPOLOGIA DI                    INIZIO                  TERMINE        ORARIO      SEDE/I DI SERVIZIO\n               POSTO      POSTO                           SUPPLENZA               SUPPLENZA      SETTIMANALE\n                          disponibile\n              10659       n. 1 posto                      Dalla presa di          30.06.2027     9 ore            Scuola Secondaria IC\n                          AJ56                            servizio                               pomeridiane      GRAMSCI -\n                          PIANOFORTE                                                                              Mulazzano\n             TITOLI DI PREFERENZA:\n\n                  1. Possesso dell’abilitazione per la classe di concorso (per il sostegno: possesso della specializzazione).\n                  2. Titolo di studio necessario per l’insegnamento richiesto dall’interpello\n                  3. Possesso dei titoli necessari per l’iscrizione nella seconda fascia delle graduatorie provinciali per le\n                     supplenze, per l’insegnamento richiesto dall’interpello.\n\n\n\nDocumento informatico firmato digitalmente ai sensi del D.Lgs 82/2005 s.m.i. e norme collegate\n\f                             M i n i s t ero d el l ’ I s t ru z i o n e e d e l M e r i to\n                                    Istituto Comprensivo “A. GRAMSCI”\n                                Via Ada Negri, 44 - 26837 Mulazzano Tel: 02 989137\n                                www.icmulazzano.edu.it C.F. 92537730159\n                         e-mail loic80200p@istruzione.it PEC loic80200p@pec.istruzione.it\n\n    4. Altri titoli di studio.\n\nA parità di ordine di priorità, la supplenza sarà conferita all’aspirante che abbia già prestato servizi di\ninsegnamento per la medesima tipologia di posto nel nostro Istituto.\n\nIl personale disponibile potrà presentare la propria manifestazione di interesse entro e non oltre le ore 14.00\ndel 29 settembre 2026, utilizzando ESCLUSIVAMENTE il modulo allegato al presente interpello, che dovrà\nessere trasmesso, in formato PDF e debitamente sottoscritto, tramite email a interpello@icmulazzano.com\n(compilare ed allegare un modulo per ogni candidatura)\n\nIl conferimento della supplenza sarà comunicato tramite mail all’indirizzo indicato dall’aspirante.\n\nLa presa di servizio dovrà avvenire entro le successive 24 ore.\n\nI riscontri agli avvisi devono contenere tutte le dichiarazioni necessarie, rese in autocertificazione ai sensi del\nD.P.R. n. 445/2000, per consentire la verifica puntuale dei suddetti requisiti da parte dei dirigenti scolastici,\nivi compresi gli estremi del conseguimento del titolo di abilitazione e/o del titolo di specializzazione (allegare\nCurriculum Vitae e copia documento di identità): non saranno prese in considerazione istanze formulate con\nmodalità difformi a quelle indicate nel presente avviso e non complete delle dichiarazioni obbligatorie.\n\n\n                                                                                         LA DIRIGENTE SCOLASTICA\n                                                                                         Prof.ssa Eleonora Tarantola\n\f"
-          }
-        ]
-      }
     }
   ],
   "latestFour": [
@@ -4232,7 +4177,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0013/6481e49f-966d-4753-ac13-2fcdc5149056\" on this server. Reference #18.8a71cd17.1793171183.27d8a93a https://errors.edgesuite.net/18.8a71cd17.1793171183.27d8a93a"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0013/6481e49f-966d-4753-ac13-2fcdc5149056\" on this server. Reference #18.48a61702.1793174724.11f6f0b0 https://errors.edgesuite.net/18.48a61702.1793174724.11f6f0b0"
         }
       ],
       "attachments": []
@@ -4258,7 +4203,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0014/7192c897-b1d2-4be0-a238-3394e2b7d032\" on this server. Reference #18.8a71cd17.1793171190.27d964a3 https://errors.edgesuite.net/18.8a71cd17.1793171190.27d964a3"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0014/7192c897-b1d2-4be0-a238-3394e2b7d032\" on this server. Reference #18.48a61702.1793174731.11f7002f https://errors.edgesuite.net/18.48a61702.1793174731.11f7002f"
         }
       ],
       "attachments": []
@@ -4284,7 +4229,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/88fb0efd-cb21-47fd-beb1-437bab35be27\" on this server. Reference #18.8771cd17.1793171190.fb12190c https://errors.edgesuite.net/18.8771cd17.1793171190.fb12190c"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/88fb0efd-cb21-47fd-beb1-437bab35be27\" on this server. Reference #18.60a61702.1793174731.136a9a11 https://errors.edgesuite.net/18.60a61702.1793174731.136a9a11"
         }
       ],
       "attachments": []
@@ -4310,7 +4255,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/e94f740f-e71d-4ad0-8cd6-6b031f55772e\" on this server. Reference #18.8771cd17.1793171203.fb1270b9 https://errors.edgesuite.net/18.8771cd17.1793171203.fb1270b9"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/e94f740f-e71d-4ad0-8cd6-6b031f55772e\" on this server. Reference #18.60a61702.1793174744.136aab2c https://errors.edgesuite.net/18.60a61702.1793174744.136aab2c"
         }
       ],
       "attachments": []
