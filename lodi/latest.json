@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-28T09:06:05.776Z",
-  "completedAt": "2026-10-28T09:06:39.789Z",
+  "retrievedAt": "2026-10-28T10:06:13.793Z",
+  "completedAt": "2026-10-28T10:06:47.260Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -3970,70 +3970,6 @@
           }
         ]
       }
-    },
-    {
-      "id": "a8c6b46ece1e18ca",
-      "type": "new",
-      "detectedAt": "2026-09-28T10:05:32.086Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-33",
-      "item": {
-        "id": "18da407e786d0e62",
-        "position": 1,
-        "collectionReason": "new",
-        "listLabel": "I.C. Lodi I",
-        "listContext": "28 settembre 2026 Interpelli ricerca supplenti I.C. Lodi I Interpello n.1 posto ADEE fino al 30/06",
-        "title": "I.C. Lodi I",
-        "subtitle": "Interpello n.1 posto ADEE fino al 30/06",
-        "publicationDate": "28 settembre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-33",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-33",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://www.portaleargo.it/albopretorio/online/",
-            "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
-            "httpStatus": 200,
-            "title": "Albo Pretorio",
-            "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
-            "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
-          }
-        ],
-        "attachments": []
-      }
-    },
-    {
-      "id": "0c53a8b6a4022a13",
-      "type": "new",
-      "detectedAt": "2026-09-28T10:05:32.086Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-32",
-      "item": {
-        "id": "5cc969f6eb6b1c5e",
-        "position": 2,
-        "collectionReason": "new",
-        "listLabel": "I.C. Lodi I",
-        "listContext": "28 settembre 2026 Interpelli ricerca supplenti I.C. Lodi I Interpello n.1 posto ADEE fino al 30/06 (cattedra piena condivisa tra due istituti)",
-        "title": "I.C. Lodi I",
-        "subtitle": "Interpello n.1 posto ADEE fino al 30/06 (cattedra piena condivisa tra due istituti)",
-        "publicationDate": "28 settembre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-32",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-32",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://www.portaleargo.it/albopretorio/online/",
-            "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
-            "httpStatus": 200,
-            "title": "Albo Pretorio",
-            "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
-            "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
-          }
-        ],
-        "attachments": []
-      }
     }
   ],
   "latestFour": [
@@ -4058,7 +3994,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0013/6481e49f-966d-4753-ac13-2fcdc5149056\" on this server. Reference #18.79a61702.1793178377.ef51ac7 https://errors.edgesuite.net/18.79a61702.1793178377.ef51ac7"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0013/6481e49f-966d-4753-ac13-2fcdc5149056\" on this server. Reference #18.68a61702.1793181985.12a17edb https://errors.edgesuite.net/18.68a61702.1793181985.12a17edb"
         }
       ],
       "attachments": []
@@ -4084,7 +4020,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0014/7192c897-b1d2-4be0-a238-3394e2b7d032\" on this server. Reference #18.79a61702.1793178384.ef52a07 https://errors.edgesuite.net/18.79a61702.1793178384.ef52a07"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0014/7192c897-b1d2-4be0-a238-3394e2b7d032\" on this server. Reference #18.68a61702.1793181991.12a18d17 https://errors.edgesuite.net/18.68a61702.1793181991.12a18d17"
         }
       ],
       "attachments": []
@@ -4110,7 +4046,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/88fb0efd-cb21-47fd-beb1-437bab35be27\" on this server. Reference #18.78a61702.1793178384.139b16eb https://errors.edgesuite.net/18.78a61702.1793178384.139b16eb"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/88fb0efd-cb21-47fd-beb1-437bab35be27\" on this server. Reference #18.59a61702.1793181991.f31a24e https://errors.edgesuite.net/18.59a61702.1793181991.f31a24e"
         }
       ],
       "attachments": []
@@ -4136,7 +4072,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/e94f740f-e71d-4ad0-8cd6-6b031f55772e\" on this server. Reference #18.78a61702.1793178397.139b2b01 https://errors.edgesuite.net/18.78a61702.1793178397.139b2b01"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/e94f740f-e71d-4ad0-8cd6-6b031f55772e\" on this server. Reference #18.59a61702.1793182004.f31ab99 https://errors.edgesuite.net/18.59a61702.1793182004.f31ab99"
         }
       ],
       "attachments": []
