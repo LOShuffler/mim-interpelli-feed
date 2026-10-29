@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-29T13:05:14.538Z",
-  "completedAt": "2026-10-29T13:05:49.375Z",
+  "retrievedAt": "2026-10-29T14:05:14.828Z",
+  "completedAt": "2026-10-29T14:05:49.364Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -3581,124 +3581,6 @@
           }
         ]
       }
-    },
-    {
-      "id": "3f451d0703710295",
-      "type": "new",
-      "detectedAt": "2026-09-29T14:05:32.528Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/c-p-i-a--1",
-      "item": {
-        "id": "a1a3c631b2596f72",
-        "position": 1,
-        "collectionReason": "new",
-        "listLabel": "C.P.I.A.",
-        "listContext": "29 settembre 2026 Interpelli ricerca supplenti C.P.I.A. Interpello cdc EEEE",
-        "title": "C.P.I.A.",
-        "subtitle": "Interpello cdc EEEE",
-        "publicationDate": "29 settembre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/c-p-i-a--1",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/c-p-i-a--1",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://www.cpialodi.edu.it/circolare/interpello-classe-di-concorso-eeee-3/",
-            "finalUrl": "https://www.cpialodi.edu.it/circolare/interpello-classe-di-concorso-eeee-3/",
-            "httpStatus": 200,
-            "title": "Documenti",
-            "subtitle": "",
-            "text": "Si comunica che, per esaurimento della graduatoria di istituto per l’insegnamento di scuola primaria (classe di concorso EEEE) per alfabetizzazione di lingua italiana come L2 questa Istituzione scolastica, ai sensi dell’art. 13, comma 23 dell’O.M. n. 88/2024, deve provvedere al conferimento, fuori graduatoria, delle seguenti supplenze aventi le seguenti caratteristiche: Inizio 02/10/2026 e termine 30/06/2027; Orario settimanale 24 ore NON MODIFICABILE E NON FRAZIONABILE: – CASALPUSTERLENGO: lunedì e mercoledì dalle 17:00 alle 20:30, martedì e giovedì dalle 17:00 alle 20:00; – SANT’ANGELO LODIGIANO: lunedì e mercoledì dalle 13:30 alle 16:30, venerdì dalle 09:00 alle 15:00; Alfabetizzazione adulti; Sede di servizio Casalpusterlengo, via F. Cavallotti, eSant’Angelo Lodigiano, Piazzale Europa. Tutti gli interessati sono tenuti a presentare entro e non oltre le ore 13.00 del 01/10/2026 la propria disponibilità al conferimento della supplenza, inviando all’indirizzo lomm022001@istruzione.it il modello allegato al presente avviso, unitamente al proprio curriculum e a una copia di un documento di identità. Documenti SEGNATURA_1790687304_Interpello_EEEE_Casalpusterlengo_-_Sant'Angelo_Lodigiano pdf - 124 kb INFORMATIVA PRIVACY INTERPELLO pdf - 172 kb Pubblicato: 29.09.2026 - Revisione: 29.09.2026 Eccetto dove diversamente specificato, questo articolo è stato rilasciato sotto Licenza Creative Commons Attribuzione 4.0 Italia."
-          }
-        ],
-        "attachments": [
-          {
-            "text": "Le carte della scuola",
-            "href": "https://www.cpialodi.edu.it/documento/",
-            "title": "",
-            "context": "Le carte della scuola",
-            "status": 200,
-            "contentType": "text/html; charset=UTF-8",
-            "bytes": 297873,
-            "file": "items/01-C.P.I.A./01-attachment"
-          }
-        ]
-      }
-    },
-    {
-      "id": "37f4d8e2ce2424a4",
-      "type": "new",
-      "detectedAt": "2026-09-29T14:05:32.528Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/c-p-i-a-",
-      "item": {
-        "id": "bc5d615b813a1a36",
-        "position": 2,
-        "collectionReason": "new",
-        "listLabel": "C.P.I.A.",
-        "listContext": "29 settembre 2026 Interpelli ricerca supplenti C.P.I.A. Interpello cdc A023",
-        "title": "C.P.I.A.",
-        "subtitle": "Interpello cdc A023",
-        "publicationDate": "29 settembre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/c-p-i-a-",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/c-p-i-a-",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://www.cpialodi.edu.it/circolare/interpello-classe-di-concorso-a023-3/",
-            "finalUrl": "https://www.cpialodi.edu.it/circolare/interpello-classe-di-concorso-a023-3/",
-            "httpStatus": 200,
-            "title": "Documenti",
-            "subtitle": "",
-            "text": "Si comunica che, per esaurimento della graduatoria di istituto per l’insegnamento di Italiano per alloglotti (classe di concorso A023) questa Istituzione scolastica, ai sensi dell’art. 13, comma 23 dell’O.M. n. 88/2024, deve provvedere al conferimento, fuori graduatoria, delle seguenti supplenze aventi le seguenti caratteristiche: (1) Inizio 02/10/2026 e termine 30/06/2027; Orario settimanale 18 ore NON MODIFICABILE: – lunedì dalle 11:30 alle 13:30 e dalle 17:00 alle 20:00 – martedì dalle 11:30 alle 13:30 e dalle 17:00 alle 20:00 – mercoledì dalle 17:00 alle 20:00 – giovedì dalle 17:00 alle 20:00 – venerdì dalle 11:00 alle 13:00; Alfabetizzazione adulti c/o plesso CFP; Sede di servizio LODI. (2) Inizio 02/10/2026 e termine 30/06/2027; Orario settimanale 18 ore NON MODIFICABILE: – lunedì dalle 13:30 alle 16:30 – martedì dalle 14:00 alle 17:00 – mercoledì dalle 10:30 alle 16:30 – giovedì dalle 14:00 alle 17:00 – venerdì dalle 13:30 alle 16:30; Alfabetizzazione minori; Sede di servizio Lodi Via Vignati, 1. (3) Inizio 02/10/2026 e termine 30/06/2027; Orario settimanale 18 ore NON MODIFICABILE: – dal lunedì al venerdì dalle 09:00 alle 13:00; Primo Periodo Didattico minori; Sede di servizio Lodi Via Vignati, 1. (4) Inizio 02/10/2026 e termine 30/06/2027; Orario settimanale 18 ore NON MODIFICABILE: – LODI: lunedì – mercoledì – venerdì dalle 13:30 alle 16:30, Primo Periodo Didattico minori; – SANT’ANGELO LODIGIANO: martedì e giovedì dalle 17:00 alle 21:30, Alfabetizzazione adulti; Sede di servizio Lodi Via Vignati, 1 e Sant’Angelo Lodigiano Piazzale Europa c/o Pandini. (5) Inizio 02/10/2026 e termine 30/06/2027; Orario settimanale 18 ore NON MODIFICABILE: – lunedì dalle 15:00 alle 20:00 – martedì dalle 17:00 alle 20:00 – mercoledì dalle 15:00 alle 20:00 – giovedì dalle 17:00 alle 20:00 – venerdì dalle 15:00 alle 17:00 Primo Periodo Didattico minori Sede di servizio CODOGNO. Tutti gli interessati sono tenuti a presentare entro e non oltre le ore 13.00 del 01/10/2026 la propria disponibilità al conferimento della supplenza, inviando all’indirizzo lomm022001@istruzione.it il modello allegato al presente avviso, unitamente al proprio curriculum e a una copia di un documento di identità. Documenti SEGNATURA_1790682848_Interpello_A023_Codogno_-_Lodi_-_Sant'Angelo_Lodigiano pdf - 128 kb INFORMATIVA PRIVACY INTERPELLO pdf - 172 kb Pubblicato: 29.09.2026 - Revisione: 29.09.2026 Eccetto dove diversamente specificato, questo articolo è stato rilasciato sotto Licenza Creative Commons Attribuzione 4.0 Italia."
-          }
-        ],
-        "attachments": [
-          {
-            "text": "Le carte della scuola",
-            "href": "https://www.cpialodi.edu.it/documento/",
-            "title": "",
-            "context": "Le carte della scuola",
-            "status": 200,
-            "contentType": "text/html; charset=UTF-8",
-            "bytes": 297873,
-            "file": "items/02-C.P.I.A./01-attachment"
-          }
-        ]
-      }
-    },
-    {
-      "id": "8277601301948bc6",
-      "type": "new",
-      "detectedAt": "2026-09-29T14:05:32.528Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-7",
-      "item": {
-        "id": "090d59d8617c9edc",
-        "position": 3,
-        "collectionReason": "new",
-        "listLabel": "I.I.S. Codogno",
-        "listContext": "29 settembre 2026 Interpelli ricerca supplenti I.I.S. Codogno Link Interpelli",
-        "title": "I.I.S. Codogno",
-        "subtitle": "Link Interpelli",
-        "publicationDate": "29 settembre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-7",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-7",
-        "httpStatus": 200,
-        "text": "CDC A040 Scienze e tecnologie elettriche ed elettroniche Link interpello CDC A041 Scienze e tecnologie informatiche Link interpello CDC A042 Scienze e tecnologie meccaniche Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://www.portaleargo.it/albopretorio/online/",
-            "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
-            "httpStatus": 200,
-            "title": "Albo Pretorio",
-            "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
-            "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
-          }
-        ],
-        "attachments": []
-      }
     }
   ],
   "latestFour": [
@@ -3761,7 +3643,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Documenti/LOIT0001/v5am50fhi0\" on this server. Reference #18.67a61702.1793279133.28ebabb https://errors.edgesuite.net/18.67a61702.1793279133.28ebabb"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Documenti/LOIT0001/v5am50fhi0\" on this server. Reference #18.43a61702.1793282733.7c4a5d8 https://errors.edgesuite.net/18.43a61702.1793282733.7c4a5d8"
         }
       ],
       "attachments": []
@@ -3787,7 +3669,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0013/6481e49f-966d-4753-ac13-2fcdc5149056\" on this server. Reference #18.67a61702.1793279140.28ec9a0 https://errors.edgesuite.net/18.67a61702.1793279140.28ec9a0"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0013/6481e49f-966d-4753-ac13-2fcdc5149056\" on this server. Reference #18.43a61702.1793282740.7c4b228 https://errors.edgesuite.net/18.43a61702.1793282740.7c4b228"
         }
       ],
       "attachments": []
@@ -3813,7 +3695,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0014/7192c897-b1d2-4be0-a238-3394e2b7d032\" on this server. Reference #18.43a61702.1793279140.7a86e8f https://errors.edgesuite.net/18.43a61702.1793279140.7a86e8f"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0014/7192c897-b1d2-4be0-a238-3394e2b7d032\" on this server. Reference #18.53a61702.1793282740.6a09e25 https://errors.edgesuite.net/18.53a61702.1793282740.6a09e25"
         }
       ],
       "attachments": []
