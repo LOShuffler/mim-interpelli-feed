@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-29T10:05:54.200Z",
-  "completedAt": "2026-10-29T10:06:28.643Z",
+  "retrievedAt": "2026-10-29T11:05:14.438Z",
+  "completedAt": "2026-10-29T11:05:48.660Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -3699,77 +3699,13 @@
         ],
         "attachments": []
       }
-    },
-    {
-      "id": "85dfcdf847fac125",
-      "type": "new",
-      "detectedAt": "2026-09-29T11:05:32.227Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iv-27",
-      "item": {
-        "id": "24bc8c323c4935f2",
-        "position": 1,
-        "collectionReason": "new",
-        "listLabel": "I.C. Lodi IV",
-        "listContext": "29 settembre 2026 Interpelli ricerca supplenti I.C. Lodi IV Infanzia- posto comune",
-        "title": "I.C. Lodi IV",
-        "subtitle": "Infanzia- posto comune",
-        "publicationDate": "29 settembre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iv-27",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iv-27",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://www.portaleargo.it/albopretorio/online/",
-            "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
-            "httpStatus": 200,
-            "title": "Albo Pretorio",
-            "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
-            "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
-          }
-        ],
-        "attachments": []
-      }
-    },
-    {
-      "id": "c997c7afd12b5a59",
-      "type": "new",
-      "detectedAt": "2026-09-29T11:05:32.227Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-r-morzenti-s-angelo-lodigiano-17",
-      "item": {
-        "id": "f97d4afcfa668a25",
-        "position": 2,
-        "collectionReason": "new",
-        "listLabel": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
-        "listContext": "29 settembre 2026 Interpelli ricerca supplenti I.C. \"R. Morzenti\" S. Angelo Lodigiano A023 - Lingua italiana per discenti di lingua straniera(alloglotti) - fino al 31/08/2027",
-        "title": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
-        "subtitle": "A023 - Lingua italiana per discenti di lingua straniera(alloglotti) - fino al 31/08/2027",
-        "publicationDate": "29 settembre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-r-morzenti-s-angelo-lodigiano-17",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-r-morzenti-s-angelo-lodigiano-17",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0012/f7dfcfe9-6707-4a29-af2b-2e7ef3cf7ea0",
-            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0012/f7dfcfe9-6707-4a29-af2b-2e7ef3cf7ea0",
-            "httpStatus": 200,
-            "title": "Elenco interpelli",
-            "subtitle": "",
-            "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" R. MORZENTI \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio Avviso n. 4 2026/2027 A023 Lingua italiana per discenti di lingua straniera(alloglotti) 01/10/2026 31/08/2027 LOMM81601N Secondaria Sant'Angelo e Caselle Lurani Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
-          }
-        ],
-        "attachments": []
-      }
     }
   ],
   "latestFour": [
     {
       "id": "796c409b58f34ae9",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Casalpusterlengo",
       "listContext": "29 ottobre 2026 Interpelli ricerca supplenti I.C. Casalpusterlengo Posto comune Scuola dell' infanzia",
       "title": "I.C. Casalpusterlengo",
@@ -3825,7 +3761,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Documenti/LOIT0001/v5am50fhi0\" on this server. Reference #18.1e68dead.1793268372.10f0139 https://errors.edgesuite.net/18.1e68dead.1793268372.10f0139"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Documenti/LOIT0001/v5am50fhi0\" on this server. Reference #18.e68dead.1793271932.16cf533 https://errors.edgesuite.net/18.e68dead.1793271932.16cf533"
         }
       ],
       "attachments": []
@@ -3851,7 +3787,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0013/6481e49f-966d-4753-ac13-2fcdc5149056\" on this server. Reference #18.1e68dead.1793268379.10f13d2 https://errors.edgesuite.net/18.1e68dead.1793268379.10f13d2"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0013/6481e49f-966d-4753-ac13-2fcdc5149056\" on this server. Reference #18.e68dead.1793271939.16d07e0 https://errors.edgesuite.net/18.e68dead.1793271939.16d07e0"
         }
       ],
       "attachments": []
@@ -3877,7 +3813,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0014/7192c897-b1d2-4be0-a238-3394e2b7d032\" on this server. Reference #18.4268dead.1793268379.61ecc30 https://errors.edgesuite.net/18.4268dead.1793268379.61ecc30"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0014/7192c897-b1d2-4be0-a238-3394e2b7d032\" on this server. Reference #18.568dead.1793271939.1bfed8c https://errors.edgesuite.net/18.568dead.1793271939.1bfed8c"
         }
       ],
       "attachments": []
