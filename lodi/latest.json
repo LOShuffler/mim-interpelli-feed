@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-30T09:05:44.436Z",
-  "completedAt": "2026-10-30T09:06:19.142Z",
+  "retrievedAt": "2026-10-30T10:05:12.737Z",
+  "completedAt": "2026-10-30T10:05:46.966Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -3493,49 +3493,6 @@
         ],
         "attachments": []
       }
-    },
-    {
-      "id": "3380bce946f6ea11",
-      "type": "new",
-      "detectedAt": "2026-09-30T10:05:12.133Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-di-livraga-2",
-      "item": {
-        "id": "275f352531eda4be",
-        "position": 1,
-        "collectionReason": "new",
-        "listLabel": "I.C. di Livraga",
-        "listContext": "30 settembre 2026 Interpelli ricerca supplenti I.C. di Livraga ADMM - I Grado",
-        "title": "I.C. di Livraga",
-        "subtitle": "ADMM - I Grado",
-        "publicationDate": "30 settembre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-di-livraga-2",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-di-livraga-2",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "http://www.iclivraga.it/interpello/",
-            "finalUrl": "https://www.iclivraga.it/interpello/",
-            "httpStatus": 200,
-            "title": "Accedi ai servizi Chiudi modale",
-            "subtitle": "Homepage del portale scolastico",
-            "text": "Stampa / Condividi Stampa / Condividi Stampa Invia Condividi Facebook WhatsApp Linkedin ANNO SCOLASTICO 2026-2027 Interpello n. 7 Interpello n.6 Interpello n.5 (CHIUSO) Interpello num 4 (CHIUSO) Interpello num 3 (CHIUSO) Interpello num 1(CHIUSO) Interpello num 2(CHIUSO) Modello domanda disponibilità ANNO SCOLASTICO 2025-2026 Interpello n.14(CHIUSO) Interpello n.13 (CHIUSO) Interpello n.12(CHIUSO) Interpello n. 10(CHIUSO) Interpello n.9(CHIUSO) Interpello n. 8 (CHIUSO) Interpello n.7(CHIUSO) Interpello n.6(CHIUSO) Interpello n.5(CHIUSO) Interpello n.4(CHIUSO) Interpello n.3(CHIUSO) Interpello n.2(CHIUSO) Interpello n.1(CHIUSO) Modello domanda disponibilità Pubblicato: 20.09.2024 - Revisione: 30.09.2026 Eccetto dove diversamente specificato, questo articolo è stato rilasciato sotto Licenza Creative Commons Attribuzione CC-BY 4.0."
-          }
-        ],
-        "attachments": [
-          {
-            "text": "Le carte della scuola",
-            "href": "https://www.iclivraga.it/documento/",
-            "title": "",
-            "context": "Le carte della scuola",
-            "status": 200,
-            "contentType": "text/html; charset=UTF-8",
-            "bytes": 388621,
-            "file": "items/01-I.C.-di-Livraga/01-attachment"
-          }
-        ]
-      }
     }
   ],
   "latestFour": [
@@ -3560,7 +3517,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/f1792dc1-c29d-434e-89e4-e2999a0115fc\" on this server. Reference #18.2668dead.1793351156.2ef3337 https://errors.edgesuite.net/18.2668dead.1793351156.2ef3337"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/f1792dc1-c29d-434e-89e4-e2999a0115fc\" on this server. Reference #18.3268dead.1793354724.a65a2e5 https://errors.edgesuite.net/18.3268dead.1793354724.a65a2e5"
         }
       ],
       "attachments": []
@@ -3624,7 +3581,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Documenti/LOIT0001/v5am50fhi0\" on this server. Reference #18.2668dead.1793351169.2ef5bc5 https://errors.edgesuite.net/18.2668dead.1793351169.2ef5bc5"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Documenti/LOIT0001/v5am50fhi0\" on this server. Reference #18.3268dead.1793354737.a65c78e https://errors.edgesuite.net/18.3268dead.1793354737.a65c78e"
         }
       ],
       "attachments": []
@@ -3650,7 +3607,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0013/6481e49f-966d-4753-ac13-2fcdc5149056\" on this server. Reference #18.4168dead.1793351169.c091c25 https://errors.edgesuite.net/18.4168dead.1793351169.c091c25"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0013/6481e49f-966d-4753-ac13-2fcdc5149056\" on this server. Reference #18.1268dead.1793354737.a5ca676 https://errors.edgesuite.net/18.1268dead.1793354737.a5ca676"
         }
       ],
       "attachments": []
