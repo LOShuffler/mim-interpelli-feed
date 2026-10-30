@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-30T13:05:12.839Z",
-  "completedAt": "2026-10-30T13:05:47.737Z",
+  "retrievedAt": "2026-10-30T14:05:55.226Z",
+  "completedAt": "2026-10-30T14:06:30.143Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -3429,66 +3429,13 @@
         ],
         "attachments": []
       }
-    },
-    {
-      "id": "17508ad389b2ea14",
-      "type": "new",
-      "detectedAt": "2026-09-30T14:05:22.241Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-maleo-22",
-      "item": {
-        "id": "5f46f124d7afc25f",
-        "position": 1,
-        "collectionReason": "new",
-        "listLabel": "I.C. Maleo",
-        "listContext": "30 settembre 2026 Interpelli ricerca supplenti I.C. Maleo Interpelli Scuole primarie",
-        "title": "I.C. Maleo",
-        "subtitle": "Interpelli Scuole primarie",
-        "publicationDate": "30 settembre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-maleo-22",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-maleo-22",
-        "httpStatus": 200,
-        "text": "Link interpelli",
-        "pages": [
-          {
-            "label": "Link interpelli",
-            "url": "https://www.iccsmaleo.edu.it/2026/09/30/interpello-per-posto-potenziamento/",
-            "finalUrl": "https://www.iccsmaleo.edu.it/2026/09/30/interpello-per-posto-potenziamento/",
-            "httpStatus": 200,
-            "title": "Documenti",
-            "subtitle": "",
-            "text": "Documenti interpello supplenza potenziamento primaria CSL + S.S. 30.06 pdf - 159 kb interpello supplenza potenziamento primaria MALEO + C.B.A. + S.S. 30.06 (3) pdf - 159 kb Pubblicato: 30.09.2026 - Revisione: 30.09.2026 Eccetto dove diversamente specificato, questo articolo è stato rilasciato sotto Licenza Creative Commons Attribuzione 4.0 Italia."
-          }
-        ],
-        "attachments": [
-          {
-            "text": "Le carte della scuola",
-            "href": "https://www.iccsmaleo.edu.it/documento/",
-            "title": "",
-            "context": "Le carte della scuola",
-            "status": 200,
-            "contentType": "text/html; charset=UTF-8",
-            "bytes": 273911,
-            "file": "items/01-I.C.-Maleo/01-attachment"
-          },
-          {
-            "text": "Albo online",
-            "href": "https://www.iccsmaleo.edu.it/tipologia-documento/albo-online/",
-            "title": "",
-            "context": "Albo online",
-            "status": 200,
-            "contentType": "text/html; charset=UTF-8",
-            "bytes": 256801,
-            "file": "items/01-I.C.-Maleo/02-attachment"
-          }
-        ]
-      }
     }
   ],
   "latestFour": [
     {
       "id": "37a60c9381e1c69a",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Lodi IV",
       "listContext": "30 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi IV Interpello per n. 1 docente A028 - 18 ore settimanali supplenza breve fino al 13/11/2026",
       "title": "I.C. Lodi IV",
@@ -3532,7 +3479,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Documenti/LOME0019/fqqe4hu2v2\" on this server. Reference #18.2068dead.1793365531.9d48746 https://errors.edgesuite.net/18.2068dead.1793365531.9d48746"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Documenti/LOME0019/fqqe4hu2v2\" on this server. Reference #18.2968dead.1793369173.2884ea0 https://errors.edgesuite.net/18.2968dead.1793369173.2884ea0"
         }
       ],
       "attachments": []
@@ -3558,7 +3505,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/f1792dc1-c29d-434e-89e4-e2999a0115fc\" on this server. Reference #18.2068dead.1793365537.9d4994f https://errors.edgesuite.net/18.2068dead.1793365537.9d4994f"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/f1792dc1-c29d-434e-89e4-e2999a0115fc\" on this server. Reference #18.2968dead.1793369180.2885fbf https://errors.edgesuite.net/18.2968dead.1793369180.2885fbf"
         }
       ],
       "attachments": []
