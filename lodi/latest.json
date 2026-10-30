@@ -6,18 +6,50 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-30T10:05:12.737Z",
-  "completedAt": "2026-10-30T10:05:46.966Z",
+  "retrievedAt": "2026-10-30T11:05:13.560Z",
+  "completedAt": "2026-10-30T11:05:47.911Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 24852,
+    "textLength": 24868,
     "discoveredCount": 200,
     "safetyLimited": false,
     "processedCount": 4
   },
   "recentEvents": [
+    {
+      "id": "6fa6a34402f86ca3",
+      "type": "new",
+      "detectedAt": "2026-10-30T11:05:13.560Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-somaglia-14",
+      "item": {
+        "id": "1a9550ce518b1dc4",
+        "position": 1,
+        "collectionReason": "new",
+        "listLabel": "I.C. Somaglia",
+        "listContext": "30 ottobre 2026 Interpelli ricerca supplenti I.C. Somaglia Interpello supplenza breve e saltuaria posto sostegno scuola Infanzia",
+        "title": "I.C. Somaglia",
+        "subtitle": "Interpello supplenza breve e saltuaria posto sostegno scuola Infanzia",
+        "publicationDate": "30 ottobre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-somaglia-14",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-somaglia-14",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://web.spaggiari.eu/sdg2/Documenti/LOME0019/fqqe4hu2v2",
+            "finalUrl": "https://web.spaggiari.eu/sdg2/Documenti/LOME0019/fqqe4hu2v2",
+            "httpStatus": 403,
+            "title": "Access Denied",
+            "subtitle": "",
+            "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Documenti/LOME0019/fqqe4hu2v2\" on this server. Reference #18.f68dead.1793358324.110cff46 https://errors.edgesuite.net/18.f68dead.1793358324.110cff46"
+          }
+        ],
+        "attachments": []
+      }
+    },
     {
       "id": "4a8191ce252f0bca",
       "type": "new",
@@ -3497,8 +3529,34 @@
   ],
   "latestFour": [
     {
-      "id": "d99df8968cf36e48",
+      "id": "1a9550ce518b1dc4",
       "position": 1,
+      "collectionReason": "new",
+      "listLabel": "I.C. Somaglia",
+      "listContext": "30 ottobre 2026 Interpelli ricerca supplenti I.C. Somaglia Interpello supplenza breve e saltuaria posto sostegno scuola Infanzia",
+      "title": "I.C. Somaglia",
+      "subtitle": "Interpello supplenza breve e saltuaria posto sostegno scuola Infanzia",
+      "publicationDate": "30 ottobre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-somaglia-14",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-somaglia-14",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://web.spaggiari.eu/sdg2/Documenti/LOME0019/fqqe4hu2v2",
+          "finalUrl": "https://web.spaggiari.eu/sdg2/Documenti/LOME0019/fqqe4hu2v2",
+          "httpStatus": 403,
+          "title": "Access Denied",
+          "subtitle": "",
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Documenti/LOME0019/fqqe4hu2v2\" on this server. Reference #18.f68dead.1793358324.110cff46 https://errors.edgesuite.net/18.f68dead.1793358324.110cff46"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "d99df8968cf36e48",
+      "position": 2,
       "collectionReason": "refresh",
       "listLabel": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
       "listContext": "29 ottobre 2026 Interpelli ricerca supplenti I.C. \"R. Morzenti\" S. Angelo Lodigiano Interpello posto comune scuola primaria",
@@ -3517,14 +3575,14 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/f1792dc1-c29d-434e-89e4-e2999a0115fc\" on this server. Reference #18.3268dead.1793354724.a65a2e5 https://errors.edgesuite.net/18.3268dead.1793354724.a65a2e5"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/f1792dc1-c29d-434e-89e4-e2999a0115fc\" on this server. Reference #18.f68dead.1793358331.110d0ab6 https://errors.edgesuite.net/18.f68dead.1793358331.110d0ab6"
         }
       ],
       "attachments": []
     },
     {
       "id": "796c409b58f34ae9",
-      "position": 2,
+      "position": 3,
       "collectionReason": "refresh",
       "listLabel": "I.C. Casalpusterlengo",
       "listContext": "29 ottobre 2026 Interpelli ricerca supplenti I.C. Casalpusterlengo Posto comune Scuola dell' infanzia",
@@ -3555,14 +3613,14 @@
           "status": 200,
           "contentType": "application/pdf",
           "bytes": 88140,
-          "file": "items/02-I.C.-Casalpusterlengo/01-firmato_1793265400_SEGNATURA_1793264466_Interpello_per_posto_comune_Scuola_Infanzia._Suppl._breve_e_saltuaria.pdf",
+          "file": "items/03-I.C.-Casalpusterlengo/01-firmato_1793265400_SEGNATURA_1793264466_Interpello_per_posto_comune_Scuola_Infanzia._Suppl._breve_e_saltuaria.pdf",
           "extractedText": "                                                                                                              Ministero dell’Istruzione e del Merito\n                                                                                                   Istituto Comprensivo di Casalpusterlengo ad Indirizzo Musicale\n                                                                                                              Via Olimpo, 6 - 26841 CASALPUSTERLENGO (LO)\n                                                                                      Codice Meccanografico LOIC80900D - Codice Fiscale 90518620159 – Codice Univoco Ufficio UFTH6W\n                                                                                                      Tel. 037781940 – 037784379 - E-Mail: loic80900d@istruzione.it\n                                                                                                     PEC loic80900d@pec.istruzione.it – www.iccasalpusterlengo.edu.it\n\n\n\n                                                                              Oggetto: interpello per selezione personale docente.\n\n                                                                                                             IL DIRIGENTE SCOLASTICO\nLOIC80900D - A24EECC - REGISTRO PROTOCOLLO - 0007322 - 29/10/2026 - VII - U\n\n\n\n\n                                                                              VISTO l’articolo 13 comma 23 DELL’OM 88/2024\n                                                                              VISTO il CCNL SCUOLA VIGENTE;\n                                                                              RILEVATA la necessità di provvedere a formulare specifico avviso finalizzato al\n                                                                              reclutamento di docenti forniti dell’abilitazione o, in subordine, del titolo di studio, che\n                                                                              saranno valutati solo se la Convocazione da Graduatoria di Istituto non avrà esito\n                                                                              positivo.\n                                                                              RITENUTO di dover procedere a proporre interpello;\n\n                                                                                                                       INTERPELLA\n\n                                                                              Il personale interessato per la seguente supplenza:\n\n                                                                              - n. 1 posti, profilo docente Scuola dell’Infanzia POSTO COMUNE\n                                                                              – Supplenza breve e saltuaria\n                                                                              - numero di ore settimanali: 25,00\n                                                                              - durata della supplenza: dal 03/11/2026 con data di scadenza 13/11/2026, con eventuale\n                                                                                possibilità di proroga\n\n                                                                              1   Il candidato/la candidata dovrà possedere i seguenti titoli di studio: abilitazione e,\n                                                                                  in subordine, titoli di studio che danno accesso alla seconda fascia delle GPS;\n                                                                              2   Ai fini della tutela e della garanzia dell’offerta formativa e nel rispetto delle norme\n                                                                                  di prevenzione e protezione dei rischi, qualora non pervenissero candidature di\n                                                                                  aspiranti in possesso dei titoli richiamati al punto 1, si prenderanno in\n                                                                                  considerazione le eventuali candidature degli aspiranti in possesso di titoli affini a\n                                                                                  quelli previsti al punto 1.\n                                                                              3   La selezione avverrà sulla base dei titoli o dei servizi presentati dai candidati\n                                                                                  secondo i criteri pubblicati all’Albo dell’Istituto e visionabili al seguente link\n                                                                              4   la candidatura dovrà pervenire, a pena di esclusione, unicamente attraverso la\n                                                                                  compilazione del form presente sulla pagina dell’Istituto entro le ore 10.30 del\n                                                                                  31/10/2026 allegando C.V. in formato Europass e copia della Carta d’Identità;\n                                                                              5   la presa di servizio avverrà al termine della valutazione delle candidature\n                                                                                  pervenute,a seguito di comunicazione da parte della segreteria del nostro istituto.\n                                                                              6   si ricorda ai sensi dell’OM 88/2024 l’applicazione dell’articolo 14;\n                                                                              7   aderendo alla procedura in oggetto si autorizza al trattamento dei dati personali\n                                                                                  conformemente al Regolamento (UE) 2016/679 del Parlamento Europeo e del\n                                                                                  Consiglio del 27 aprile 2016 relativo alla protezione delle persone fisiche nonché\n                                                                                  alla libera circolazione di tali dati e che abroga la direttiva 95/46CE e del D.lgs. n.\n                                                                                  196/2003, come modificato dal D.lgs. n. 101/2018 e ss.mm.ii per le finalità proprie\n                                                                                  dell’interpello. Il titolare del trattamento dei dati personali è l’Istituto Comprensivo\n                                                                                  di Casalpusterlengo.\n\n\n\n\n                                                                                                                                                   Il Dirigente Scolastico\n                                                                                                                                                   Brunella Tirelli\n                                                                                                                                                   Documento firmato digitalmente\n\n\n\n                                                                                                         Firmato digitalmente da TIRELLI BRUNELLA\n\f"
         }
       ]
     },
     {
       "id": "0a052eb435b33f82",
-      "position": 3,
+      "position": 4,
       "collectionReason": "refresh",
       "listLabel": "I.T.C.G. \"A. Bassi\" Lodi",
       "listContext": "28 ottobre 2026 Interpelli ricerca supplenti I.T.C.G. \"A. Bassi\" Lodi Interpello per incarico supplenza breve dal 30-10-2026 al 08-11-2026 classe di concorso AS48 - Scienze motorie e sportive negli istituti di istruzione secondaria di II grado",
@@ -3581,33 +3639,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Documenti/LOIT0001/v5am50fhi0\" on this server. Reference #18.3268dead.1793354737.a65c78e https://errors.edgesuite.net/18.3268dead.1793354737.a65c78e"
-        }
-      ],
-      "attachments": []
-    },
-    {
-      "id": "d048a59570feab1a",
-      "position": 4,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. Lodi III",
-      "listContext": "27 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi III Interpello posto comune scuola primaria",
-      "title": "I.C. Lodi III",
-      "subtitle": "Interpello posto comune scuola primaria",
-      "publicationDate": "27 ottobre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-60",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-60",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/6481e49f-966d-4753-ac13-2fcdc5149056",
-          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/6481e49f-966d-4753-ac13-2fcdc5149056",
-          "httpStatus": 403,
-          "title": "Access Denied",
-          "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0013/6481e49f-966d-4753-ac13-2fcdc5149056\" on this server. Reference #18.1268dead.1793354737.a5ca676 https://errors.edgesuite.net/18.1268dead.1793354737.a5ca676"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Documenti/LOIT0001/v5am50fhi0\" on this server. Reference #18.2968dead.1793358331.22a4b3a https://errors.edgesuite.net/18.2968dead.1793358331.22a4b3a"
         }
       ],
       "attachments": []
