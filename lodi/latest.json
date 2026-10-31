@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-31T05:06:13.863Z",
-  "completedAt": "2026-10-31T05:06:49.470Z",
+  "retrievedAt": "2026-10-31T06:06:13.097Z",
+  "completedAt": "2026-10-31T06:06:49.751Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -3479,7 +3479,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Documenti/LOME0019/fqqe4hu2v2\" on this server. Reference #18.5ea61702.1793423192.6da59f2 https://errors.edgesuite.net/18.5ea61702.1793423192.6da59f2"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Documenti/LOME0019/fqqe4hu2v2\" on this server. Reference #18.fdb62417.1793426791.15aadf2b https://errors.edgesuite.net/18.fdb62417.1793426791.15aadf2b"
         }
       ],
       "attachments": []
@@ -3505,7 +3505,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/f1792dc1-c29d-434e-89e4-e2999a0115fc\" on this server. Reference #18.5ea61702.1793423198.6da5f76 https://errors.edgesuite.net/18.5ea61702.1793423198.6da5f76"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/f1792dc1-c29d-434e-89e4-e2999a0115fc\" on this server. Reference #18.fdb62417.1793426797.15aaecc7 https://errors.edgesuite.net/18.fdb62417.1793426797.15aaecc7"
         }
       ],
       "attachments": []
@@ -3531,7 +3531,7 @@
           "httpStatus": 200,
           "title": "Interpelli per: Personale docente",
           "subtitle": "Nuvola - Interpelli",
-          "text": "Gestione Interpelli IC Casalpusterlengo Codice meccanografico: LOIC80900D CASALPUSTERLENGO (LO) Interpelli per: Personale Docente Cambia ruolo Interpello per selezione docente Posto comune Scuola Infanzia - Supplenza breve e saltuaria Durata: 25 ore 0 minuti dal 03/11/2026 al 13/11/2026 Presentazione candidature: dal 29/10/2026 10:30 al 31/10/2026 10:30 Posti disponibili: 1 Classe di concorso: Posto comune infanzia Ordine di scuola: INFANZIA Sede di servizio: Scuola Infanzia Documento allegato: Scarica decreto di emissione interpello per Interpello per selezione docente Posto comune Scuola Infanzia - Supplenza breve e saltuaria Invia la tua candidatura"
+          "text": "Gestione Interpelli Interpelli per: Personale Docente Cambia ruolo Interpello per selezione docente Posto comune Scuola Infanzia - Supplenza breve e saltuaria Durata: 25 ore 0 minuti dal 03/11/2026 al 13/11/2026 Presentazione candidature: dal 29/10/2026 10:30 al 31/10/2026 10:30 Posti disponibili: 1 Classe di concorso: Posto comune infanzia Ordine di scuola: INFANZIA Sede di servizio: Scuola Infanzia Documento allegato: Scarica decreto di emissione interpello per Interpello per selezione docente Posto comune Scuola Infanzia - Supplenza breve e saltuaria Invia la tua candidatura"
         }
       ],
       "attachments": [
