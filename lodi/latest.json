@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-10-31T08:05:13.532Z",
-  "completedAt": "2026-10-31T08:05:48.292Z",
+  "retrievedAt": "2026-10-31T09:05:13.878Z",
+  "completedAt": "2026-10-31T09:05:48.359Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -3397,38 +3397,6 @@
         ],
         "attachments": []
       }
-    },
-    {
-      "id": "b1467a0ac0dae4fa",
-      "type": "new",
-      "detectedAt": "2026-10-01T09:05:32.709Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-zelo-buon-persico-18",
-      "item": {
-        "id": "df4ffeb5dd928b3b",
-        "position": 1,
-        "collectionReason": "new",
-        "listLabel": "I.C. Zelo Buon persico",
-        "listContext": "01 ottobre 2026 Interpelli ricerca supplenti I.C. Zelo Buon persico Insegnante posto comune scuola infanzia",
-        "title": "I.C. Zelo Buon persico",
-        "subtitle": "Insegnante posto comune scuola infanzia",
-        "publicationDate": "01 ottobre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-zelo-buon-persico-18",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-zelo-buon-persico-18",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0003/4a643a2c-649b-4c91-95e1-b87d9805054d",
-            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0003/4a643a2c-649b-4c91-95e1-b87d9805054d",
-            "httpStatus": 403,
-            "title": "Access Denied",
-            "subtitle": "",
-            "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0003/4a643a2c-649b-4c91-95e1-b87d9805054d\" on this server. Reference #18.3368dead.1790845544.43ed91d https://errors.edgesuite.net/18.3368dead.1790845544.43ed91d"
-          }
-        ],
-        "attachments": []
-      }
     }
   ],
   "latestFour": [
@@ -3479,7 +3447,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Documenti/LOME0019/fqqe4hu2v2\" on this server. Reference #18.59a61702.1793433931.1731dbd9 https://errors.edgesuite.net/18.59a61702.1793433931.1731dbd9"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Documenti/LOME0019/fqqe4hu2v2\" on this server. Reference #18.d68dead.1793437532.626cce0 https://errors.edgesuite.net/18.d68dead.1793437532.626cce0"
         }
       ],
       "attachments": []
@@ -3505,7 +3473,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/f1792dc1-c29d-434e-89e4-e2999a0115fc\" on this server. Reference #18.59a61702.1793433938.1731e85f https://errors.edgesuite.net/18.59a61702.1793433938.1731e85f"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/f1792dc1-c29d-434e-89e4-e2999a0115fc\" on this server. Reference #18.d68dead.1793437538.626dc06 https://errors.edgesuite.net/18.d68dead.1793437538.626dc06"
         }
       ],
       "attachments": []
