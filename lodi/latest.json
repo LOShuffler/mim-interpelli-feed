@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-11-01T11:06:08.625Z",
-  "completedAt": "2026-11-01T11:06:42.950Z",
+  "retrievedAt": "2026-11-01T12:06:04.457Z",
+  "completedAt": "2026-11-01T12:06:38.890Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -3040,82 +3040,6 @@
         ],
         "attachments": []
       }
-    },
-    {
-      "id": "d5ced0f58fb2dd84",
-      "type": "new",
-      "detectedAt": "2026-10-02T12:05:32.860Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c",
-      "item": {
-        "id": "dd7cf4cf8f77f42f",
-        "position": 1,
-        "collectionReason": "new",
-        "listLabel": "I.C. Casalpusterlengo",
-        "listContext": "02 ottobre 2026 Interpelli ricerca supplenti I.C. Casalpusterlengo Interpello personale docente Scuola dell'Infanzia",
-        "title": "I.C. Casalpusterlengo",
-        "subtitle": "Interpello personale docente Scuola dell'Infanzia",
-        "publicationDate": "02 ottobre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://nuvola.madisoft.it/interpelli/LOIC80900D/docenti",
-            "finalUrl": "https://nuvola.madisoft.it/interpelli/LOIC80900D/docenti",
-            "httpStatus": 200,
-            "title": "Interpelli per: Personale docente",
-            "subtitle": "Nuvola - Interpelli",
-            "text": "Gestione Interpelli IC Casalpusterlengo Codice meccanografico: LOIC80900D CASALPUSTERLENGO (LO) Interpelli per: Personale Docente Cambia ruolo Interpello per selezione docente Sostegno Scuola Infanzia - Supplenza breve e saltuaria Durata: 25 ore 0 minuti dal 08/10/2026 al 13/10/2026 Presentazione candidature: dal 02/10/2026 12:15 al 04/10/2026 13:00 Posti disponibili: 1 Classe di concorso: Posto comune infanzia Ordine di scuola: INFANZIA Sede di servizio: Scuola Infanzia Documento allegato: Scarica decreto di emissione interpello per Interpello per selezione docente Sostegno Scuola Infanzia - Supplenza breve e saltuaria Invia la tua candidatura"
-          }
-        ],
-        "attachments": [
-          {
-            "text": "Scarica decreto di emissione interpelloper Interpello per selezione docente Sostegno Scuola Infanzia - Supplenza breve e saltuaria",
-            "href": "https://nuvola.madisoft.it/file/api/public-download-file-from-entity/LOIC80900D/62eca173-241d-4e5b-8a19-853eb63adc2e",
-            "title": "",
-            "context": "",
-            "status": 200,
-            "contentType": "application/pdf",
-            "bytes": 69476,
-            "file": "items/01-I.C.-Casalpusterlengo/01-SEGNATURA_1790935333_firmato_1790935007_Interpello_per_posto_Scuola_Infanzia._Suppl._breve_e_saltuaria.pdf",
-            "extractedText": "                                           LOIC80900D - A24EECC - REGISTRO PROTOCOLLO - 0006429 - 02/10/2026 - VII - U\n\n\n\n\nFirmato digitalmente da TIRELLI BRUNELLA\n\f"
-          }
-        ]
-      }
-    },
-    {
-      "id": "6676ad937b695693",
-      "type": "new",
-      "detectedAt": "2026-10-02T12:05:32.860Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-r-morzenti-s-angelo-lodigiano-18",
-      "item": {
-        "id": "e073acbdd76e6f37",
-        "position": 2,
-        "collectionReason": "new",
-        "listLabel": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
-        "listContext": "02 ottobre 2026 Interpelli ricerca supplenti I.C. \"R. Morzenti\" S. Angelo Lodigiano Interpelli scuola primaria",
-        "title": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
-        "subtitle": "Interpelli scuola primaria",
-        "publicationDate": "02 ottobre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-r-morzenti-s-angelo-lodigiano-18",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-r-morzenti-s-angelo-lodigiano-18",
-        "httpStatus": 200,
-        "text": "Link pagina interpelli",
-        "pages": [
-          {
-            "label": "Link pagina interpelli",
-            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0012",
-            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0012",
-            "httpStatus": 200,
-            "title": "Elenco interpelli",
-            "subtitle": "",
-            "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" R. MORZENTI \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio Avviso n. 7 2026/2027 EEEE Insegnante posto comune scuola primaria 06/10/2026 05/12/2026 LOEE81603R Sant'Angelo Lodigiano Iscriviti Avviso n. 6 2026/2027 EEEE Insegnante posto comune scuola primaria 06/10/2026 14/10/2026 LOEE81603R Sant'Angelo Lodigiano Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
-          }
-        ],
-        "attachments": []
-      }
     }
   ],
   "latestFour": [
@@ -3166,7 +3090,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Documenti/LOME0019/fqqe4hu2v2\" on this server. Reference #18.78a61702.1793531187.b3e7d3f https://errors.edgesuite.net/18.78a61702.1793531187.b3e7d3f"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Documenti/LOME0019/fqqe4hu2v2\" on this server. Reference #18.5ea61702.1793534782.a231a31 https://errors.edgesuite.net/18.5ea61702.1793534782.a231a31"
         }
       ],
       "attachments": []
@@ -3192,7 +3116,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/f1792dc1-c29d-434e-89e4-e2999a0115fc\" on this server. Reference #18.78a61702.1793531193.b3e9104 https://errors.edgesuite.net/18.78a61702.1793531193.b3e9104"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/f1792dc1-c29d-434e-89e4-e2999a0115fc\" on this server. Reference #18.5ea61702.1793534789.a23289c https://errors.edgesuite.net/18.5ea61702.1793534789.a23289c"
         }
       ],
       "attachments": []
