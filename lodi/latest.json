@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-11-01T13:06:07.794Z",
-  "completedAt": "2026-11-01T13:06:43.658Z",
+  "retrievedAt": "2026-11-01T14:06:11.199Z",
+  "completedAt": "2026-11-01T14:06:45.749Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -3008,38 +3008,6 @@
           }
         ]
       }
-    },
-    {
-      "id": "9841cbd50fa6182f",
-      "type": "new",
-      "detectedAt": "2026-10-02T14:05:31.695Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-53",
-      "item": {
-        "id": "dfb987c963bc60ef",
-        "position": 1,
-        "collectionReason": "new",
-        "listLabel": "I.C. Lodi III",
-        "listContext": "02 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi III Interpello posto comune scuola infanzia",
-        "title": "I.C. Lodi III",
-        "subtitle": "Interpello posto comune scuola infanzia",
-        "publicationDate": "02 ottobre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-53",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-53",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/c8322175-60c6-4691-b0c8-c318f4eb8d16",
-            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/c8322175-60c6-4691-b0c8-c318f4eb8d16",
-            "httpStatus": 200,
-            "title": "Elenco interpelli",
-            "subtitle": "",
-            "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" LODI 3 \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio Insegnante posto comune scuola infanzia AAAA Insegnante posto comune scuola infanzia 05/10/2026 06/10/2026 LOIC814001 I.C. LODI III Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
-          }
-        ],
-        "attachments": []
-      }
     }
   ],
   "latestFour": [
@@ -3090,7 +3058,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Documenti/LOME0019/fqqe4hu2v2\" on this server. Reference #18.43a61702.1793538387.f023612 https://errors.edgesuite.net/18.43a61702.1793538387.f023612"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Documenti/LOME0019/fqqe4hu2v2\" on this server. Reference #18.c6b62417.1793541989.10a7f726 https://errors.edgesuite.net/18.c6b62417.1793541989.10a7f726"
         }
       ],
       "attachments": []
@@ -3116,7 +3084,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/f1792dc1-c29d-434e-89e4-e2999a0115fc\" on this server. Reference #18.43a61702.1793538394.f02449d https://errors.edgesuite.net/18.43a61702.1793538394.f02449d"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/f1792dc1-c29d-434e-89e4-e2999a0115fc\" on this server. Reference #18.c6b62417.1793541996.10a803a2 https://errors.edgesuite.net/18.c6b62417.1793541996.10a803a2"
         }
       ],
       "attachments": []
