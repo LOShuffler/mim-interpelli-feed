@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-11-01T06:06:04.630Z",
-  "completedAt": "2026-11-01T06:06:38.892Z",
+  "retrievedAt": "2026-11-01T07:06:05.354Z",
+  "completedAt": "2026-11-01T07:06:39.334Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -3209,38 +3209,6 @@
           }
         ]
       }
-    },
-    {
-      "id": "d36a2885a07f0715",
-      "type": "new",
-      "detectedAt": "2026-10-02T07:05:32.219Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-9",
-      "item": {
-        "id": "540b0c492753d217",
-        "position": 1,
-        "collectionReason": "new",
-        "listLabel": "I.I.S. Codogno",
-        "listContext": "02 ottobre 2026 Interpelli ricerca supplenti I.I.S. Codogno Interpello A050 scienze naturali fino al 17/11/2026 (10 ore presso IP Merli, Lodi + 7 ore presso ITAS Tosi, Codogno)",
-        "title": "I.I.S. Codogno",
-        "subtitle": "Interpello A050 scienze naturali fino al 17/11/2026 (10 ore presso IP Merli, Lodi + 7 ore presso ITAS Tosi, Codogno)",
-        "publicationDate": "02 ottobre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-9",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-9",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://www.portaleargo.it/albopretorio/online/",
-            "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
-            "httpStatus": 200,
-            "title": "Albo Pretorio",
-            "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
-            "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
-          }
-        ],
-        "attachments": []
-      }
     }
   ],
   "latestFour": [
@@ -3291,7 +3259,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Documenti/LOME0019/fqqe4hu2v2\" on this server. Reference #18.e8b62417.1793513182.12060a2d https://errors.edgesuite.net/18.e8b62417.1793513182.12060a2d"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Documenti/LOME0019/fqqe4hu2v2\" on this server. Reference #18.d5b62417.1793516783.1f058910 https://errors.edgesuite.net/18.d5b62417.1793516783.1f058910"
         }
       ],
       "attachments": []
@@ -3317,7 +3285,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/f1792dc1-c29d-434e-89e4-e2999a0115fc\" on this server. Reference #18.e8b62417.1793513189.1206205f https://errors.edgesuite.net/18.e8b62417.1793513189.1206205f"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/f1792dc1-c29d-434e-89e4-e2999a0115fc\" on this server. Reference #18.d5b62417.1793516790.1f059b77 https://errors.edgesuite.net/18.d5b62417.1793516790.1f059b77"
         }
       ],
       "attachments": []
