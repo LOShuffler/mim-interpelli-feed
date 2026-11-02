@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-11-02T15:05:14.401Z",
-  "completedAt": "2026-11-02T15:05:48.882Z",
+  "retrievedAt": "2026-11-02T16:06:04.765Z",
+  "completedAt": "2026-11-02T16:06:39.081Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -3266,7 +3266,7 @@
     {
       "id": "c8ccf7490f74cfac",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. C. Collodi S. Angelo Lodigiano",
       "listContext": "02 novembre 2026 Interpelli ricerca supplenti I.C. C. Collodi S. Angelo Lodigiano Interpello posto sostegno scuola dell'infanzia",
       "title": "I.C. C. Collodi S. Angelo Lodigiano",
@@ -3284,7 +3284,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/871d047f-5f58-4d75-9c02-4eae4a6cf747\" on this server. Reference #18.8771cd17.1793631925.5c3fc5d8 https://errors.edgesuite.net/18.8771cd17.1793631925.5c3fc5d8"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/871d047f-5f58-4d75-9c02-4eae4a6cf747\" on this server. Reference #18.8871cd17.1793635576.47511d80 https://errors.edgesuite.net/18.8871cd17.1793635576.47511d80"
         }
       ],
       "attachments": []
@@ -3292,7 +3292,7 @@
     {
       "id": "640d48bfd1e1bdf4",
       "position": 2,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Lodi II",
       "listContext": "02 novembre 2026 Interpelli ricerca supplenti I.C. Lodi II Interpello posto comune scuola infanzia",
       "title": "I.C. Lodi II",
@@ -3310,7 +3310,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0014/3b134ffc-5051-407a-b295-49934e512321\" on this server. Reference #18.8771cd17.1793631932.5c4081c9 https://errors.edgesuite.net/18.8771cd17.1793631932.5c4081c9"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0014/3b134ffc-5051-407a-b295-49934e512321\" on this server. Reference #18.8871cd17.1793635582.4751cc68 https://errors.edgesuite.net/18.8871cd17.1793635582.4751cc68"
         }
       ],
       "attachments": []
@@ -3373,7 +3373,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/AlboOnline/LOME0004?\" on this server. Reference #18.8c71cd17.1793631932.7c9b4ae8 https://errors.edgesuite.net/18.8c71cd17.1793631932.7c9b4ae8"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/AlboOnline/LOME0004?\" on this server. Reference #18.8471cd17.1793635582.58e13c8b https://errors.edgesuite.net/18.8471cd17.1793635582.58e13c8b"
         }
       ],
       "attachments": []
