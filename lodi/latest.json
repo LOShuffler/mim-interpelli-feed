@@ -6,18 +6,82 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-11-02T14:05:54.752Z",
-  "completedAt": "2026-11-02T14:06:30.139Z",
+  "retrievedAt": "2026-11-02T15:05:14.401Z",
+  "completedAt": "2026-11-02T15:05:48.882Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 24931,
+    "textLength": 24941,
     "discoveredCount": 200,
     "safetyLimited": false,
     "processedCount": 4
   },
   "recentEvents": [
+    {
+      "id": "6b365e7f0427394b",
+      "type": "new",
+      "detectedAt": "2026-11-02T15:05:14.401Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-38",
+      "item": {
+        "id": "c8ccf7490f74cfac",
+        "position": 1,
+        "collectionReason": "new",
+        "listLabel": "I.C. C. Collodi S. Angelo Lodigiano",
+        "listContext": "02 novembre 2026 Interpelli ricerca supplenti I.C. C. Collodi S. Angelo Lodigiano Interpello posto sostegno scuola dell'infanzia",
+        "title": "I.C. C. Collodi S. Angelo Lodigiano",
+        "subtitle": "Interpello posto sostegno scuola dell'infanzia",
+        "publicationDate": "02 novembre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-38",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-38",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/871d047f-5f58-4d75-9c02-4eae4a6cf747",
+            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/871d047f-5f58-4d75-9c02-4eae4a6cf747",
+            "httpStatus": 403,
+            "title": "Access Denied",
+            "subtitle": "",
+            "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/871d047f-5f58-4d75-9c02-4eae4a6cf747\" on this server. Reference #18.8771cd17.1793631925.5c3fc5d8 https://errors.edgesuite.net/18.8771cd17.1793631925.5c3fc5d8"
+          }
+        ],
+        "attachments": []
+      }
+    },
+    {
+      "id": "4d817f3128c1c160",
+      "type": "new",
+      "detectedAt": "2026-11-02T15:05:14.401Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-ii-68",
+      "item": {
+        "id": "640d48bfd1e1bdf4",
+        "position": 2,
+        "collectionReason": "new",
+        "listLabel": "I.C. Lodi II",
+        "listContext": "02 novembre 2026 Interpelli ricerca supplenti I.C. Lodi II Interpello posto comune scuola infanzia",
+        "title": "I.C. Lodi II",
+        "subtitle": "Interpello posto comune scuola infanzia",
+        "publicationDate": "02 novembre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-ii-68",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-ii-68",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0014/3b134ffc-5051-407a-b295-49934e512321",
+            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0014/3b134ffc-5051-407a-b295-49934e512321",
+            "httpStatus": 403,
+            "title": "Access Denied",
+            "subtitle": "",
+            "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0014/3b134ffc-5051-407a-b295-49934e512321\" on this server. Reference #18.8771cd17.1793631932.5c4081c9 https://errors.edgesuite.net/18.8771cd17.1793631932.5c4081c9"
+          }
+        ],
+        "attachments": []
+      }
+    },
     {
       "id": "499116d357e526b6",
       "type": "new",
@@ -3200,8 +3264,60 @@
   ],
   "latestFour": [
     {
-      "id": "65c78fc2b08812dc",
+      "id": "c8ccf7490f74cfac",
       "position": 1,
+      "collectionReason": "new",
+      "listLabel": "I.C. C. Collodi S. Angelo Lodigiano",
+      "listContext": "02 novembre 2026 Interpelli ricerca supplenti I.C. C. Collodi S. Angelo Lodigiano Interpello posto sostegno scuola dell'infanzia",
+      "title": "I.C. C. Collodi S. Angelo Lodigiano",
+      "subtitle": "Interpello posto sostegno scuola dell'infanzia",
+      "publicationDate": "02 novembre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-38",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-38",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/871d047f-5f58-4d75-9c02-4eae4a6cf747",
+          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/871d047f-5f58-4d75-9c02-4eae4a6cf747",
+          "httpStatus": 403,
+          "title": "Access Denied",
+          "subtitle": "",
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/871d047f-5f58-4d75-9c02-4eae4a6cf747\" on this server. Reference #18.8771cd17.1793631925.5c3fc5d8 https://errors.edgesuite.net/18.8771cd17.1793631925.5c3fc5d8"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "640d48bfd1e1bdf4",
+      "position": 2,
+      "collectionReason": "new",
+      "listLabel": "I.C. Lodi II",
+      "listContext": "02 novembre 2026 Interpelli ricerca supplenti I.C. Lodi II Interpello posto comune scuola infanzia",
+      "title": "I.C. Lodi II",
+      "subtitle": "Interpello posto comune scuola infanzia",
+      "publicationDate": "02 novembre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-ii-68",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-ii-68",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0014/3b134ffc-5051-407a-b295-49934e512321",
+          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0014/3b134ffc-5051-407a-b295-49934e512321",
+          "httpStatus": 403,
+          "title": "Access Denied",
+          "subtitle": "",
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0014/3b134ffc-5051-407a-b295-49934e512321\" on this server. Reference #18.8771cd17.1793631932.5c4081c9 https://errors.edgesuite.net/18.8771cd17.1793631932.5c4081c9"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "65c78fc2b08812dc",
+      "position": 3,
       "collectionReason": "refresh",
       "listLabel": "Liceo \"M. Vegio\" Lodi",
       "listContext": "02 novembre 2026 Interpelli ricerca supplenti Liceo \"M. Vegio\" Lodi Interpello personale docente per classe di concorso AS01 - DISEGNO E STORIA DELL'ARTE NELL'ISTRUZIONE SECONDARIA DI II GRADO",
@@ -3232,13 +3348,13 @@
           "status": 200,
           "contentType": "text/html; charset=UTF-8",
           "bytes": 6552,
-          "file": "items/01-Liceo-M.-Vegio-Lodi/01-LOPM010008"
+          "file": "items/03-Liceo-M.-Vegio-Lodi/01-LOPM010008"
         }
       ]
     },
     {
       "id": "698a4f851bd68d38",
-      "position": 2,
+      "position": 4,
       "collectionReason": "refresh",
       "listLabel": "I.C. LODI V",
       "listContext": "02 novembre 2026 Interpelli ricerca supplenti I.C. LODI V Interpello sostegno scuola primaria",
@@ -3257,79 +3373,10 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/AlboOnline/LOME0004?\" on this server. Reference #18.9471cd17.1793628373.67c66db6 https://errors.edgesuite.net/18.9471cd17.1793628373.67c66db6"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/AlboOnline/LOME0004?\" on this server. Reference #18.8c71cd17.1793631932.7c9b4ae8 https://errors.edgesuite.net/18.8c71cd17.1793631932.7c9b4ae8"
         }
       ],
       "attachments": []
-    },
-    {
-      "id": "5ad0d62cc6ef6ce0",
-      "position": 3,
-      "collectionReason": "refresh",
-      "listLabel": "I.T.C.G. \"A. Bassi\" Lodi",
-      "listContext": "02 novembre 2026 Interpelli ricerca supplenti I.T.C.G. \"A. Bassi\" Lodi Interpello per incarico supplenza breve dal 02-11-2026 al 07-11-2026 classe di concorso A047 Matematica Applicata",
-      "title": "I.T.C.G. \"A. Bassi\" Lodi",
-      "subtitle": "Interpello per incarico supplenza breve dal 02-11-2026 al 07-11-2026 classe di concorso A047 Matematica Applicata",
-      "publicationDate": "02 novembre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-t-c-g-a-bassi-lodi-12",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-t-c-g-a-bassi-lodi-12",
-      "httpStatus": 200,
-      "text": "Link pagina interpelli",
-      "pages": [
-        {
-          "label": "Link pagina interpelli",
-          "url": "https://web.spaggiari.eu/sdg2/AlboOnline/LOIT0001?idCategoria=10004",
-          "finalUrl": "https://web.spaggiari.eu/sdg2/AlboOnline/LOIT0001?idCategoria=10004",
-          "httpStatus": 403,
-          "title": "Access Denied",
-          "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/AlboOnline/LOIT0001?\" on this server. Reference #18.9471cd17.1793628380.67c73bc9 https://errors.edgesuite.net/18.9471cd17.1793628380.67c73bc9"
-        }
-      ],
-      "attachments": []
-    },
-    {
-      "id": "ec49aa9134a5ed87",
-      "position": 4,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. Castiglione d'Adda",
-      "listContext": "02 novembre 2026 Interpelli ricerca supplenti I.C. Castiglione d'Adda Interpello per 18 ore AM12 per supplenza breve e saltuaria fino al 22/12/2026",
-      "title": "I.C. Castiglione d'Adda",
-      "subtitle": "Interpello per 18 ore AM12 per supplenza breve e saltuaria fino al 22/12/2026",
-      "publicationDate": "02 novembre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-castiglione-d-adda-25",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-castiglione-d-adda-25",
-      "httpStatus": 200,
-      "text": "Link pagina interpelli",
-      "pages": [
-        {
-          "label": "Link pagina interpelli",
-          "url": "https://www.iccastiglione.edu.it/albo-online?categoria=10001&cerca=&storico=&aoo=",
-          "finalUrl": "https://www.iccastiglione.edu.it/albo-online?categoria=10001&cerca=&storico=&aoo=",
-          "httpStatus": 200,
-          "title": "Albo Online",
-          "subtitle": "Sito web istituzionale Istituto Comprensivo Castiglione D'Adda - Via Alcide De Gasperi, 30 – 26823 Castiglione d’Adda (LO)",
-          "text": "Salta al contenuto Accedi Istituto Comprensivo di Castiglione d'Adda (LO) Scuola Servizi Novità Didattica Privacy Home > Novità > Albo Online Albo Online Categorie Avvisi 2 Organi Collegiali 16 Graduatorie Nomine personale 2 Contabilità 3 Bandi di gara 1 Convenzioni Incarichi e consulenze Libri di testo Sicurezza Contratti 11 Regolamenti Esami Altro Albo Altre PA Scrutini Tutte le tipologie Avvisi Organi Collegiali Graduatorie Nomine personale Contabilità Bandi di gara Convenzioni Incarichi e consulenze Libri di testo Sicurezza Contratti Regolamenti Esami Altro Albo Altre PA Scrutini Avvisi 517 2026 Protocollo 9365/2026 del 02/11/2026 Interpello per selezione personale docente SCUOLA SECONDARIA I GRADO – AM12 (DISCIPLINE LETTERARIE) Pubblicato il: 02/11/2026 Tipologia: Avvisi 271 2026 Protocollo 6812/2026 del 08/07/2026 Disseminazione D.M. 38 Formazione prot. 95165 Pubblicato il: 08/07/2026 Tipologia: Avvisi Questo sito o gli strumenti terzi da questo utilizzati si avvalgono di cookie necessari al funzionamento ed utili alle finalità illustrate nella COOKIE POLICY. PERSONALIZZA RIFIUTA TUTTI I COOKIES ACCETTA TUTTI I COOKIES Istituto Comprensivo Castiglione D'Adda CONTATTI Istituto Comprensivo Castiglione D'Adda Via Alcide De Gasperi, 30 – 26823 Castiglione d’Adda (LO) Tel: +39 0377 900482 Email: loic80800n@istruzione.it Link per inviare una mail PEC: loic80800n@pec.istruzione.it Link per inviare una mail C.F.: 82503260158 SEZIONE LINK UTILI Cookie policy Note legali Informativa Privacy Ufficio Relazioni con il Pubblico Dichiarazione di accessibilità Obiettivi di accessibilità Whistleblowing Gestione consensi cookie Amministrazione trasparente Pagina visualizzata 219144 volte Sezione Copyright Copyright 2026 | Engineered and powered by Gruppo Spaggiari Parma S.p.A. | Divisione Publishing & New Social Media Disclaimer trattamento dati personali"
-        }
-      ],
-      "attachments": [
-        {
-          "text": "",
-          "href": "https://web.spaggiari.eu/sdg2/Documenti/LOME0007/sfgas3qhge?download=1",
-          "title": "",
-          "context": "",
-          "status": 403,
-          "error": "HTTP 403"
-        },
-        {
-          "text": "",
-          "href": "https://web.spaggiari.eu/sdg2/Documenti/LOME0007/il4rhan97o?download=1",
-          "title": "",
-          "context": "",
-          "status": 403,
-          "error": "HTTP 403"
-        }
-      ]
     }
   ],
   "errors": []
