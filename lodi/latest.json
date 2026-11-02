@@ -6,18 +6,50 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-11-02T07:05:44.738Z",
-  "completedAt": "2026-11-02T07:06:19.549Z",
+  "retrievedAt": "2026-11-02T08:05:34.939Z",
+  "completedAt": "2026-11-02T08:06:10.394Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 24899,
+    "textLength": 24957,
     "discoveredCount": 200,
     "safetyLimited": false,
     "processedCount": 4
   },
   "recentEvents": [
+    {
+      "id": "6631500b3cdc1796",
+      "type": "new",
+      "detectedAt": "2026-11-02T08:05:34.939Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-37",
+      "item": {
+        "id": "9bf8b263647abde6",
+        "position": 1,
+        "collectionReason": "new",
+        "listLabel": "I.C. \"C. Collodi\" S. Angelo Lodigiano",
+        "listContext": "02 novembre 2026 Interpelli ricerca supplenti I.C. \"C. Collodi\" S. Angelo Lodigiano Interpello su cdc ADEE scuola primaria sostegno - n. 2 posti 24 ore fino al 30 giugno 2027",
+        "title": "I.C. \"C. Collodi\" S. Angelo Lodigiano",
+        "subtitle": "Interpello su cdc ADEE scuola primaria sostegno - n. 2 posti 24 ore fino al 30 giugno 2027",
+        "publicationDate": "02 novembre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-37",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-37",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/0f21455d-7c3b-4cd1-927f-4f60dbacd174",
+            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/0f21455d-7c3b-4cd1-927f-4f60dbacd174",
+            "httpStatus": 403,
+            "title": "Access Denied",
+            "subtitle": "",
+            "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/0f21455d-7c3b-4cd1-927f-4f60dbacd174\" on this server. Reference #18.7e1da17.1793606747.1c499d8d https://errors.edgesuite.net/18.7e1da17.1793606747.1c499d8d"
+          }
+        ],
+        "attachments": []
+      }
+    },
     {
       "id": "5623a604a9a25edf",
       "type": "new",
@@ -3012,8 +3044,34 @@
   ],
   "latestFour": [
     {
-      "id": "37a60c9381e1c69a",
+      "id": "9bf8b263647abde6",
       "position": 1,
+      "collectionReason": "new",
+      "listLabel": "I.C. \"C. Collodi\" S. Angelo Lodigiano",
+      "listContext": "02 novembre 2026 Interpelli ricerca supplenti I.C. \"C. Collodi\" S. Angelo Lodigiano Interpello su cdc ADEE scuola primaria sostegno - n. 2 posti 24 ore fino al 30 giugno 2027",
+      "title": "I.C. \"C. Collodi\" S. Angelo Lodigiano",
+      "subtitle": "Interpello su cdc ADEE scuola primaria sostegno - n. 2 posti 24 ore fino al 30 giugno 2027",
+      "publicationDate": "02 novembre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-37",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-37",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/0f21455d-7c3b-4cd1-927f-4f60dbacd174",
+          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/0f21455d-7c3b-4cd1-927f-4f60dbacd174",
+          "httpStatus": 403,
+          "title": "Access Denied",
+          "subtitle": "",
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/0f21455d-7c3b-4cd1-927f-4f60dbacd174\" on this server. Reference #18.7e1da17.1793606747.1c499d8d https://errors.edgesuite.net/18.7e1da17.1793606747.1c499d8d"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "37a60c9381e1c69a",
+      "position": 2,
       "collectionReason": "refresh",
       "listLabel": "I.C. Lodi IV",
       "listContext": "30 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi IV Interpello per n. 1 docente A028 - 18 ore settimanali supplenza breve fino al 13/11/2026",
@@ -3039,7 +3097,7 @@
     },
     {
       "id": "1a9550ce518b1dc4",
-      "position": 2,
+      "position": 3,
       "collectionReason": "refresh",
       "listLabel": "I.C. Somaglia",
       "listContext": "30 ottobre 2026 Interpelli ricerca supplenti I.C. Somaglia Interpello supplenza breve e saltuaria posto sostegno scuola Infanzia",
@@ -3058,14 +3116,14 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Documenti/LOME0019/fqqe4hu2v2\" on this server. Reference #18.62a61702.1793603163.120f79a6 https://errors.edgesuite.net/18.62a61702.1793603163.120f79a6"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Documenti/LOME0019/fqqe4hu2v2\" on this server. Reference #18.7e1da17.1793606761.1c4a1b1c https://errors.edgesuite.net/18.7e1da17.1793606761.1c4a1b1c"
         }
       ],
       "attachments": []
     },
     {
       "id": "d99df8968cf36e48",
-      "position": 3,
+      "position": 4,
       "collectionReason": "refresh",
       "listLabel": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
       "listContext": "29 ottobre 2026 Interpelli ricerca supplenti I.C. \"R. Morzenti\" S. Angelo Lodigiano Interpello posto comune scuola primaria",
@@ -3084,33 +3142,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/f1792dc1-c29d-434e-89e4-e2999a0115fc\" on this server. Reference #18.62a61702.1793603170.120f8767 https://errors.edgesuite.net/18.62a61702.1793603170.120f8767"
-        }
-      ],
-      "attachments": []
-    },
-    {
-      "id": "796c409b58f34ae9",
-      "position": 4,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. Casalpusterlengo",
-      "listContext": "29 ottobre 2026 Interpelli ricerca supplenti I.C. Casalpusterlengo Posto comune Scuola dell' infanzia",
-      "title": "I.C. Casalpusterlengo",
-      "subtitle": "Posto comune Scuola dell' infanzia",
-      "publicationDate": "29 ottobre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-casalpusterlengo-40",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-casalpusterlengo-40",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://nuvola.madisoft.it/interpelli/LOIC80900D/docenti",
-          "finalUrl": "https://nuvola.madisoft.it/interpelli/LOIC80900D/docenti",
-          "httpStatus": 200,
-          "title": "Interpelli per: Personale docente",
-          "subtitle": "Nuvola - Interpelli",
-          "text": "Gestione Interpelli IC Casalpusterlengo Codice meccanografico: LOIC80900D CASALPUSTERLENGO (LO) Interpelli per: Personale Docente Cambia ruolo Nessun interpello aperto Non ci sono elementi per la categoria selezionata."
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/f1792dc1-c29d-434e-89e4-e2999a0115fc\" on this server. Reference #18.7e1da17.1793606761.1c4a578a https://errors.edgesuite.net/18.7e1da17.1793606761.1c4a578a"
         }
       ],
       "attachments": []
