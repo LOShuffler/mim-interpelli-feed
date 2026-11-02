@@ -6,18 +6,61 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-11-02T11:05:55.380Z",
-  "completedAt": "2026-11-02T11:06:30.001Z",
+  "retrievedAt": "2026-11-02T12:05:14.908Z",
+  "completedAt": "2026-11-02T12:05:51.275Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 24868,
+    "textLength": 24931,
     "discoveredCount": 200,
     "safetyLimited": false,
     "processedCount": 4
   },
   "recentEvents": [
+    {
+      "id": "499116d357e526b6",
+      "type": "new",
+      "detectedAt": "2026-11-02T12:05:14.908Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/liceo-m-vegio-lodi-3",
+      "item": {
+        "id": "65c78fc2b08812dc",
+        "position": 1,
+        "collectionReason": "new",
+        "listLabel": "Liceo \"M. Vegio\" Lodi",
+        "listContext": "02 novembre 2026 Interpelli ricerca supplenti Liceo \"M. Vegio\" Lodi Interpello personale docente per classe di concorso AS01 - DISEGNO E STORIA DELL'ARTE NELL'ISTRUZIONE SECONDARIA DI II GRADO",
+        "title": "Liceo \"M. Vegio\" Lodi",
+        "subtitle": "Interpello personale docente per classe di concorso AS01 - DISEGNO E STORIA DELL'ARTE NELL'ISTRUZIONE SECONDARIA DI II GRADO",
+        "publicationDate": "02 novembre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/liceo-m-vegio-lodi-3",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/liceo-m-vegio-lodi-3",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://nuvola.madisoft.it/bacheca-digitale/9910/documento/LOPM010008",
+            "finalUrl": "https://nuvola.madisoft.it/bacheca-digitale/9910/documento/LOPM010008",
+            "httpStatus": 200,
+            "title": "LOPM010008",
+            "subtitle": "",
+            "text": "Liceo statale Maffeo Vegio - LOPM010008 ALBO PRETORIO INTERPELLO AS01 - DISEGNO E STORIA DELL'ARTE NELL'ISTRUZIONE SECONDARIA DI II GRADO - FINO AL 15 NOVEMBRE 2026 Torna indietro Data pubblicazione 02/11/2026 Data archiviazione 17/11/2026 Titolario VII.1 - Organici, lavoratori socialmente utili, graduatorie Ufficio responsabile PERSONALE Utente responsabile Nessun utente responsabile specificato Allegati INTERPELLO AS01.pdf COOKIE POLICY"
+          }
+        ],
+        "attachments": [
+          {
+            "text": "Link interpello",
+            "href": "https://nuvola.madisoft.it/bacheca-digitale/9910/documento/LOPM010008",
+            "title": "",
+            "context": "Liceo \"M. Vegio\" LodiInterpello personale docente per classe di concorso AS01 - DISEGNO E STORIA DELL'ARTE NELL'ISTRUZIONE SECONDARIA DI II GRADO Lunedì, 02 novembre 2026 Link interpello Categorie: Interpelli ricerca supplenti ,",
+            "status": 200,
+            "contentType": "text/html; charset=UTF-8",
+            "bytes": 6552,
+            "file": "items/01-Liceo-M.-Vegio-Lodi/01-LOPM010008"
+          }
+        ]
+      }
+    },
     {
       "id": "ec29b46aeaeb5844",
       "type": "new",
@@ -3157,9 +3200,46 @@
   ],
   "latestFour": [
     {
-      "id": "698a4f851bd68d38",
+      "id": "65c78fc2b08812dc",
       "position": 1,
       "collectionReason": "new",
+      "listLabel": "Liceo \"M. Vegio\" Lodi",
+      "listContext": "02 novembre 2026 Interpelli ricerca supplenti Liceo \"M. Vegio\" Lodi Interpello personale docente per classe di concorso AS01 - DISEGNO E STORIA DELL'ARTE NELL'ISTRUZIONE SECONDARIA DI II GRADO",
+      "title": "Liceo \"M. Vegio\" Lodi",
+      "subtitle": "Interpello personale docente per classe di concorso AS01 - DISEGNO E STORIA DELL'ARTE NELL'ISTRUZIONE SECONDARIA DI II GRADO",
+      "publicationDate": "02 novembre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/liceo-m-vegio-lodi-3",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/liceo-m-vegio-lodi-3",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://nuvola.madisoft.it/bacheca-digitale/9910/documento/LOPM010008",
+          "finalUrl": "https://nuvola.madisoft.it/bacheca-digitale/9910/documento/LOPM010008",
+          "httpStatus": 200,
+          "title": "LOPM010008",
+          "subtitle": "",
+          "text": "Liceo statale Maffeo Vegio - LOPM010008 ALBO PRETORIO INTERPELLO AS01 - DISEGNO E STORIA DELL'ARTE NELL'ISTRUZIONE SECONDARIA DI II GRADO - FINO AL 15 NOVEMBRE 2026 Torna indietro Data pubblicazione 02/11/2026 Data archiviazione 17/11/2026 Titolario VII.1 - Organici, lavoratori socialmente utili, graduatorie Ufficio responsabile PERSONALE Utente responsabile Nessun utente responsabile specificato Allegati INTERPELLO AS01.pdf COOKIE POLICY"
+        }
+      ],
+      "attachments": [
+        {
+          "text": "Link interpello",
+          "href": "https://nuvola.madisoft.it/bacheca-digitale/9910/documento/LOPM010008",
+          "title": "",
+          "context": "Liceo \"M. Vegio\" LodiInterpello personale docente per classe di concorso AS01 - DISEGNO E STORIA DELL'ARTE NELL'ISTRUZIONE SECONDARIA DI II GRADO Lunedì, 02 novembre 2026 Link interpello Categorie: Interpelli ricerca supplenti ,",
+          "status": 200,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 6552,
+          "file": "items/01-Liceo-M.-Vegio-Lodi/01-LOPM010008"
+        }
+      ]
+    },
+    {
+      "id": "698a4f851bd68d38",
+      "position": 2,
+      "collectionReason": "refresh",
       "listLabel": "I.C. LODI V",
       "listContext": "02 novembre 2026 Interpelli ricerca supplenti I.C. LODI V Interpello sostegno scuola primaria",
       "title": "I.C. LODI V",
@@ -3177,15 +3257,15 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/AlboOnline/LOME0004?\" on this server. Reference #18.45a61702.1793617566.d2a072c https://errors.edgesuite.net/18.45a61702.1793617566.d2a072c"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/AlboOnline/LOME0004?\" on this server. Reference #18.8e71cd17.1793621134.1ad73ef0 https://errors.edgesuite.net/18.8e71cd17.1793621134.1ad73ef0"
         }
       ],
       "attachments": []
     },
     {
       "id": "5ad0d62cc6ef6ce0",
-      "position": 2,
-      "collectionReason": "new",
+      "position": 3,
+      "collectionReason": "refresh",
       "listLabel": "I.T.C.G. \"A. Bassi\" Lodi",
       "listContext": "02 novembre 2026 Interpelli ricerca supplenti I.T.C.G. \"A. Bassi\" Lodi Interpello per incarico supplenza breve dal 02-11-2026 al 07-11-2026 classe di concorso A047 Matematica Applicata",
       "title": "I.T.C.G. \"A. Bassi\" Lodi",
@@ -3203,15 +3283,15 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/AlboOnline/LOIT0001?\" on this server. Reference #18.45a61702.1793617573.d2a1396 https://errors.edgesuite.net/18.45a61702.1793617573.d2a1396"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/AlboOnline/LOIT0001?\" on this server. Reference #18.8e71cd17.1793621140.1ad80680 https://errors.edgesuite.net/18.8e71cd17.1793621140.1ad80680"
         }
       ],
       "attachments": []
     },
     {
       "id": "ec49aa9134a5ed87",
-      "position": 3,
-      "collectionReason": "new",
+      "position": 4,
+      "collectionReason": "refresh",
       "listLabel": "I.C. Castiglione d'Adda",
       "listContext": "02 novembre 2026 Interpelli ricerca supplenti I.C. Castiglione d'Adda Interpello per 18 ore AM12 per supplenza breve e saltuaria fino al 22/12/2026",
       "title": "I.C. Castiglione d'Adda",
@@ -3229,7 +3309,7 @@
           "httpStatus": 200,
           "title": "Albo Online",
           "subtitle": "Sito web istituzionale Istituto Comprensivo Castiglione D'Adda - Via Alcide De Gasperi, 30 – 26823 Castiglione d’Adda (LO)",
-          "text": "Salta al contenuto Accedi Istituto Comprensivo di Castiglione d'Adda (LO) Scuola Servizi Novità Didattica Privacy Home > Novità > Albo Online Albo Online Categorie Avvisi 2 Organi Collegiali 16 Graduatorie Nomine personale 2 Contabilità 3 Bandi di gara 1 Convenzioni Incarichi e consulenze Libri di testo Sicurezza Contratti 11 Regolamenti Esami Altro Albo Altre PA Scrutini Tutte le tipologie Avvisi Organi Collegiali Graduatorie Nomine personale Contabilità Bandi di gara Convenzioni Incarichi e consulenze Libri di testo Sicurezza Contratti Regolamenti Esami Altro Albo Altre PA Scrutini Avvisi 517 2026 Protocollo 9365/2026 del 02/11/2026 Interpello per selezione personale docente SCUOLA SECONDARIA I GRADO – AM12 (DISCIPLINE LETTERARIE) Pubblicato il: 02/11/2026 Tipologia: Avvisi 271 2026 Protocollo 6812/2026 del 08/07/2026 Disseminazione D.M. 38 Formazione prot. 95165 Pubblicato il: 08/07/2026 Tipologia: Avvisi Questo sito o gli strumenti terzi da questo utilizzati si avvalgono di cookie necessari al funzionamento ed utili alle finalità illustrate nella COOKIE POLICY. PERSONALIZZA RIFIUTA TUTTI I COOKIES ACCETTA TUTTI I COOKIES Istituto Comprensivo Castiglione D'Adda CONTATTI Istituto Comprensivo Castiglione D'Adda Via Alcide De Gasperi, 30 – 26823 Castiglione d’Adda (LO) Tel: +39 0377 900482 Email: loic80800n@istruzione.it Link per inviare una mail PEC: loic80800n@pec.istruzione.it Link per inviare una mail C.F.: 82503260158 SEZIONE LINK UTILI Cookie policy Note legali Informativa Privacy Ufficio Relazioni con il Pubblico Dichiarazione di accessibilità Obiettivi di accessibilità Whistleblowing Gestione consensi cookie Amministrazione trasparente Pagina visualizzata 219012 volte Sezione Copyright Copyright 2026 | Engineered and powered by Gruppo Spaggiari Parma S.p.A. | Divisione Publishing & New Social Media Disclaimer trattamento dati personali"
+          "text": "Salta al contenuto Accedi Istituto Comprensivo di Castiglione d'Adda (LO) Scuola Servizi Novità Didattica Privacy Home > Novità > Albo Online Albo Online Categorie Avvisi 2 Organi Collegiali 16 Graduatorie Nomine personale 2 Contabilità 3 Bandi di gara 1 Convenzioni Incarichi e consulenze Libri di testo Sicurezza Contratti 11 Regolamenti Esami Altro Albo Altre PA Scrutini Tutte le tipologie Avvisi Organi Collegiali Graduatorie Nomine personale Contabilità Bandi di gara Convenzioni Incarichi e consulenze Libri di testo Sicurezza Contratti Regolamenti Esami Altro Albo Altre PA Scrutini Avvisi 517 2026 Protocollo 9365/2026 del 02/11/2026 Interpello per selezione personale docente SCUOLA SECONDARIA I GRADO – AM12 (DISCIPLINE LETTERARIE) Pubblicato il: 02/11/2026 Tipologia: Avvisi 271 2026 Protocollo 6812/2026 del 08/07/2026 Disseminazione D.M. 38 Formazione prot. 95165 Pubblicato il: 08/07/2026 Tipologia: Avvisi Questo sito o gli strumenti terzi da questo utilizzati si avvalgono di cookie necessari al funzionamento ed utili alle finalità illustrate nella COOKIE POLICY. PERSONALIZZA RIFIUTA TUTTI I COOKIES ACCETTA TUTTI I COOKIES Istituto Comprensivo Castiglione D'Adda CONTATTI Istituto Comprensivo Castiglione D'Adda Via Alcide De Gasperi, 30 – 26823 Castiglione d’Adda (LO) Tel: +39 0377 900482 Email: loic80800n@istruzione.it Link per inviare una mail PEC: loic80800n@pec.istruzione.it Link per inviare una mail C.F.: 82503260158 SEZIONE LINK UTILI Cookie policy Note legali Informativa Privacy Ufficio Relazioni con il Pubblico Dichiarazione di accessibilità Obiettivi di accessibilità Whistleblowing Gestione consensi cookie Amministrazione trasparente Pagina visualizzata 219061 volte Sezione Copyright Copyright 2026 | Engineered and powered by Gruppo Spaggiari Parma S.p.A. | Divisione Publishing & New Social Media Disclaimer trattamento dati personali"
         }
       ],
       "attachments": [
@@ -3250,32 +3330,6 @@
           "error": "HTTP 403"
         }
       ]
-    },
-    {
-      "id": "9bf8b263647abde6",
-      "position": 4,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. \"C. Collodi\" S. Angelo Lodigiano",
-      "listContext": "02 novembre 2026 Interpelli ricerca supplenti I.C. \"C. Collodi\" S. Angelo Lodigiano Interpello su cdc ADEE scuola primaria sostegno - n. 2 posti 24 ore fino al 30 giugno 2027",
-      "title": "I.C. \"C. Collodi\" S. Angelo Lodigiano",
-      "subtitle": "Interpello su cdc ADEE scuola primaria sostegno - n. 2 posti 24 ore fino al 30 giugno 2027",
-      "publicationDate": "02 novembre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-37",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-c-collodi-s-angelo-lodigiano-37",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/0f21455d-7c3b-4cd1-927f-4f60dbacd174",
-          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/0f21455d-7c3b-4cd1-927f-4f60dbacd174",
-          "httpStatus": 403,
-          "title": "Access Denied",
-          "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/0f21455d-7c3b-4cd1-927f-4f60dbacd174\" on this server. Reference #18.4da61702.1793617573.ef57da0 https://errors.edgesuite.net/18.4da61702.1793617573.ef57da0"
-        }
-      ],
-      "attachments": []
     }
   ],
   "errors": []
