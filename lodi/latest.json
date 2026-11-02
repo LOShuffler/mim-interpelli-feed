@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-11-02T08:05:34.939Z",
-  "completedAt": "2026-11-02T08:06:10.394Z",
+  "retrievedAt": "2026-11-02T09:05:34.832Z",
+  "completedAt": "2026-11-02T09:06:09.611Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -3046,7 +3046,7 @@
     {
       "id": "9bf8b263647abde6",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. \"C. Collodi\" S. Angelo Lodigiano",
       "listContext": "02 novembre 2026 Interpelli ricerca supplenti I.C. \"C. Collodi\" S. Angelo Lodigiano Interpello su cdc ADEE scuola primaria sostegno - n. 2 posti 24 ore fino al 30 giugno 2027",
       "title": "I.C. \"C. Collodi\" S. Angelo Lodigiano",
@@ -3064,7 +3064,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/0f21455d-7c3b-4cd1-927f-4f60dbacd174\" on this server. Reference #18.7e1da17.1793606747.1c499d8d https://errors.edgesuite.net/18.7e1da17.1793606747.1c499d8d"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/0f21455d-7c3b-4cd1-927f-4f60dbacd174\" on this server. Reference #18.587e19b8.1793610346.37976db6 https://errors.edgesuite.net/18.587e19b8.1793610346.37976db6"
         }
       ],
       "attachments": []
@@ -3116,7 +3116,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Documenti/LOME0019/fqqe4hu2v2\" on this server. Reference #18.7e1da17.1793606761.1c4a1b1c https://errors.edgesuite.net/18.7e1da17.1793606761.1c4a1b1c"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Documenti/LOME0019/fqqe4hu2v2\" on this server. Reference #18.587e19b8.1793610359.37986579 https://errors.edgesuite.net/18.587e19b8.1793610359.37986579"
         }
       ],
       "attachments": []
@@ -3142,7 +3142,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/f1792dc1-c29d-434e-89e4-e2999a0115fc\" on this server. Reference #18.7e1da17.1793606761.1c4a578a https://errors.edgesuite.net/18.7e1da17.1793606761.1c4a578a"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/f1792dc1-c29d-434e-89e4-e2999a0115fc\" on this server. Reference #18.477e19b8.1793610359.3443014b https://errors.edgesuite.net/18.477e19b8.1793610359.3443014b"
         }
       ],
       "attachments": []
