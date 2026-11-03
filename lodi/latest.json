@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-11-03T15:05:34.122Z",
-  "completedAt": "2026-11-03T15:06:23.938Z",
+  "retrievedAt": "2026-11-03T16:05:12.793Z",
+  "completedAt": "2026-11-03T16:05:48.606Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -15,7 +15,7 @@
     "textLength": 24959,
     "discoveredCount": 200,
     "safetyLimited": false,
-    "processedCount": 6
+    "processedCount": 4
   },
   "recentEvents": [
     {
@@ -3709,7 +3709,7 @@
     {
       "id": "f2603b6adb303688",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Mulazzano",
       "listContext": "03 novembre 2026 Interpelli ricerca supplenti I.C. Mulazzano Interpello per n. 1 posto sostegno SCUOLA INFANZIA",
       "title": "I.C. Mulazzano",
@@ -3758,7 +3758,7 @@
     {
       "id": "1665777500568bca",
       "position": 2,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
       "listContext": "03 novembre 2026 Interpelli ricerca supplenti I.C. \"R. Morzenti\" S. Angelo Lodigiano Interpello Insegnante posto comune scuola primaria",
       "title": "I.C. \"R. Morzenti\" S. Angelo Lodigiano",
@@ -3776,7 +3776,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/c7bd662d-269e-4269-8225-d1804578a8d3\" on this server. Reference #18.54a61702.1793718353.12879a49 https://errors.edgesuite.net/18.54a61702.1793718353.12879a49"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0012/c7bd662d-269e-4269-8225-d1804578a8d3\" on this server. Reference #18.48a61702.1793721931.10b1c763 https://errors.edgesuite.net/18.48a61702.1793721931.10b1c763"
         }
       ],
       "attachments": []
@@ -3784,7 +3784,7 @@
     {
       "id": "631f08110022e98f",
       "position": 3,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Castiglione d'Adda",
       "listContext": "03 novembre 2026 Interpelli ricerca supplenti I.C. Castiglione d'Adda Interpello scuola primaria",
       "title": "I.C. Castiglione d'Adda",
@@ -3802,7 +3802,7 @@
           "httpStatus": 200,
           "title": "Albo Online",
           "subtitle": "Sito web istituzionale Istituto Comprensivo Castiglione D'Adda - Via Alcide De Gasperi, 30 – 26823 Castiglione d’Adda (LO)",
-          "text": "Salta al contenuto Accedi Istituto Comprensivo di Castiglione d'Adda (LO) Scuola Servizi Novità Didattica Privacy Home > Novità > Albo Online Albo Online Categorie Avvisi 3 Organi Collegiali 16 Graduatorie Nomine personale 2 Contabilità 3 Bandi di gara 1 Convenzioni Incarichi e consulenze Libri di testo Sicurezza Contratti 12 Regolamenti Esami Altro Albo Altre PA Scrutini Tutte le tipologie Avvisi Organi Collegiali Graduatorie Nomine personale Contabilità Bandi di gara Convenzioni Incarichi e consulenze Libri di testo Sicurezza Contratti Regolamenti Esami Altro Albo Altre PA Scrutini Avvisi 519 2026 Protocollo 9429/2026 del 03/11/2026 Interpello per selezione personale docente SCUOLA PRIMARIA IC Romeo Fusari Pubblicato il: 03/11/2026 Tipologia: Avvisi 517 2026 Protocollo 9365/2026 del 02/11/2026 Interpello per selezione personale docente SCUOLA SECONDARIA I GRADO – AM12 (DISCIPLINE LETTERARIE) Pubblicato il: 02/11/2026 Tipologia: Avvisi 271 2026 Protocollo 6812/2026 del 08/07/2026 Disseminazione D.M. 38 Formazione prot. 95165 Pubblicato il: 08/07/2026 Tipologia: Avvisi Questo sito o gli strumenti terzi da questo utilizzati si avvalgono di cookie necessari al funzionamento ed utili alle finalità illustrate nella COOKIE POLICY. PERSONALIZZA RIFIUTA TUTTI I COOKIES ACCETTA TUTTI I COOKIES Istituto Comprensivo Castiglione D'Adda CONTATTI Istituto Comprensivo Castiglione D'Adda Via Alcide De Gasperi, 30 – 26823 Castiglione d’Adda (LO) Tel: +39 0377 900482 Email: loic80800n@istruzione.it Link per inviare una mail PEC: loic80800n@pec.istruzione.it Link per inviare una mail C.F.: 82503260158 SEZIONE LINK UTILI Cookie policy Note legali Informativa Privacy Ufficio Relazioni con il Pubblico Dichiarazione di accessibilità Obiettivi di accessibilità Whistleblowing Gestione consensi cookie Amministrazione trasparente Pagina visualizzata 219534 volte Sezione Copyright Copyright 2026 | Engineered and powered by Gruppo Spaggiari Parma S.p.A. | Divisione Publishing & New Social Media Disclaimer trattamento dati personali"
+          "text": "Salta al contenuto Accedi Istituto Comprensivo di Castiglione d'Adda (LO) Scuola Servizi Novità Didattica Privacy Home > Novità > Albo Online Albo Online Categorie Avvisi 3 Organi Collegiali 16 Graduatorie Nomine personale 2 Contabilità 3 Bandi di gara 1 Convenzioni Incarichi e consulenze Libri di testo Sicurezza Contratti 12 Regolamenti Esami Altro Albo Altre PA Scrutini Tutte le tipologie Avvisi Organi Collegiali Graduatorie Nomine personale Contabilità Bandi di gara Convenzioni Incarichi e consulenze Libri di testo Sicurezza Contratti Regolamenti Esami Altro Albo Altre PA Scrutini Avvisi 519 2026 Protocollo 9429/2026 del 03/11/2026 Interpello per selezione personale docente SCUOLA PRIMARIA IC Romeo Fusari Pubblicato il: 03/11/2026 Tipologia: Avvisi 517 2026 Protocollo 9365/2026 del 02/11/2026 Interpello per selezione personale docente SCUOLA SECONDARIA I GRADO – AM12 (DISCIPLINE LETTERARIE) Pubblicato il: 02/11/2026 Tipologia: Avvisi 271 2026 Protocollo 6812/2026 del 08/07/2026 Disseminazione D.M. 38 Formazione prot. 95165 Pubblicato il: 08/07/2026 Tipologia: Avvisi Questo sito o gli strumenti terzi da questo utilizzati si avvalgono di cookie necessari al funzionamento ed utili alle finalità illustrate nella COOKIE POLICY. PERSONALIZZA RIFIUTA TUTTI I COOKIES ACCETTA TUTTI I COOKIES Istituto Comprensivo Castiglione D'Adda CONTATTI Istituto Comprensivo Castiglione D'Adda Via Alcide De Gasperi, 30 – 26823 Castiglione d’Adda (LO) Tel: +39 0377 900482 Email: loic80800n@istruzione.it Link per inviare una mail PEC: loic80800n@pec.istruzione.it Link per inviare una mail C.F.: 82503260158 SEZIONE LINK UTILI Cookie policy Note legali Informativa Privacy Ufficio Relazioni con il Pubblico Dichiarazione di accessibilità Obiettivi di accessibilità Whistleblowing Gestione consensi cookie Amministrazione trasparente Pagina visualizzata 219564 volte Sezione Copyright Copyright 2026 | Engineered and powered by Gruppo Spaggiari Parma S.p.A. | Divisione Publishing & New Social Media Disclaimer trattamento dati personali"
         }
       ],
       "attachments": [
@@ -3835,7 +3835,7 @@
     {
       "id": "6ae4de79ce90cacc",
       "position": 4,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Lodi III",
       "listContext": "03 novembre 2026 Interpelli ricerca supplenti I.C. Lodi III Interpello Sostegno scuola primaria 12 ore settimanali",
       "title": "I.C. Lodi III",
@@ -3853,7 +3853,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0013/208e9c2c-2f10-4df1-9e36-183d481fca69\" on this server. Reference #18.54a61702.1793718368.1287b22d https://errors.edgesuite.net/18.54a61702.1793718368.1287b22d"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0013/208e9c2c-2f10-4df1-9e36-183d481fca69\" on this server. Reference #18.48a61702.1793721945.10b1e070 https://errors.edgesuite.net/18.48a61702.1793721945.10b1e070"
         }
       ],
       "attachments": []
