@@ -6,18 +6,61 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-11-03T12:05:14.427Z",
-  "completedAt": "2026-11-03T12:05:50.562Z",
+  "retrievedAt": "2026-11-03T13:05:13.688Z",
+  "completedAt": "2026-11-03T13:05:52.474Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 24926,
+    "textLength": 24925,
     "discoveredCount": 200,
     "safetyLimited": false,
     "processedCount": 4
   },
   "recentEvents": [
+    {
+      "id": "30e922cde8e9e7b5",
+      "type": "new",
+      "detectedAt": "2026-11-03T13:05:13.688Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-livraga-11",
+      "item": {
+        "id": "9b7a7924b1a064cc",
+        "position": 1,
+        "collectionReason": "new",
+        "listLabel": "I.C Livraga",
+        "listContext": "03 novembre 2026 Interpelli ricerca supplenti I.C Livraga Interpello n. 12 - A060 Tecnologia",
+        "title": "I.C Livraga",
+        "subtitle": "Interpello n. 12 - A060 Tecnologia",
+        "publicationDate": "03 novembre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-livraga-11",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-livraga-11",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://www.iclivraga.it/interpello/",
+            "finalUrl": "https://www.iclivraga.it/interpello/",
+            "httpStatus": 200,
+            "title": "Accedi ai servizi Chiudi modale",
+            "subtitle": "Homepage del portale scolastico",
+            "text": "Stampa / Condividi Stampa / Condividi Stampa Invia Condividi Facebook WhatsApp Linkedin ANNO SCOLASTICO 2026-2027 timbro_Interpello n. 12 Interpello n. 11 (CHIUSO) Interpello n. 10 (CHIUSO) Interpello n.9 (CHIUSO) Interpello n.8 (CHIUSO) Interpello n. 7 (CHIUSO) Interpello n.6 (CHIUSO) Interpello n.5 (CHIUSO) Interpello num 4 (CHIUSO) Interpello num 3 (CHIUSO) Interpello num 1(CHIUSO) Interpello num 2(CHIUSO) Modello domanda disponibilità ANNO SCOLASTICO 2025-2026 Interpello n.14(CHIUSO) Interpello n.13 (CHIUSO) Interpello n.12(CHIUSO) Interpello n. 10(CHIUSO) Interpello n.9(CHIUSO) Interpello n. 8 (CHIUSO) Interpello n.7(CHIUSO) Interpello n.6(CHIUSO) Interpello n.5(CHIUSO) Interpello n.4(CHIUSO) Interpello n.3(CHIUSO) Interpello n.2(CHIUSO) Interpello n.1(CHIUSO) Modello domanda disponibilità Pubblicato: 20.09.2024 - Revisione: 03.11.2026 Eccetto dove diversamente specificato, questo articolo è stato rilasciato sotto Licenza Creative Commons Attribuzione CC-BY 4.0."
+          }
+        ],
+        "attachments": [
+          {
+            "text": "Le carte della scuola",
+            "href": "https://www.iclivraga.it/documento/",
+            "title": "",
+            "context": "Le carte della scuola",
+            "status": 200,
+            "contentType": "text/html; charset=UTF-8",
+            "bytes": 388672,
+            "file": "items/01-I.C-Livraga/01-attachment"
+          }
+        ]
+      }
+    },
     {
       "id": "d28cb8d08ea3305b",
       "type": "new",
@@ -3424,9 +3467,46 @@
   ],
   "latestFour": [
     {
-      "id": "acf05171e4f3abd0",
+      "id": "9b7a7924b1a064cc",
       "position": 1,
       "collectionReason": "new",
+      "listLabel": "I.C Livraga",
+      "listContext": "03 novembre 2026 Interpelli ricerca supplenti I.C Livraga Interpello n. 12 - A060 Tecnologia",
+      "title": "I.C Livraga",
+      "subtitle": "Interpello n. 12 - A060 Tecnologia",
+      "publicationDate": "03 novembre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-livraga-11",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-livraga-11",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://www.iclivraga.it/interpello/",
+          "finalUrl": "https://www.iclivraga.it/interpello/",
+          "httpStatus": 200,
+          "title": "Accedi ai servizi Chiudi modale",
+          "subtitle": "Homepage del portale scolastico",
+          "text": "Stampa / Condividi Stampa / Condividi Stampa Invia Condividi Facebook WhatsApp Linkedin ANNO SCOLASTICO 2026-2027 timbro_Interpello n. 12 Interpello n. 11 (CHIUSO) Interpello n. 10 (CHIUSO) Interpello n.9 (CHIUSO) Interpello n.8 (CHIUSO) Interpello n. 7 (CHIUSO) Interpello n.6 (CHIUSO) Interpello n.5 (CHIUSO) Interpello num 4 (CHIUSO) Interpello num 3 (CHIUSO) Interpello num 1(CHIUSO) Interpello num 2(CHIUSO) Modello domanda disponibilità ANNO SCOLASTICO 2025-2026 Interpello n.14(CHIUSO) Interpello n.13 (CHIUSO) Interpello n.12(CHIUSO) Interpello n. 10(CHIUSO) Interpello n.9(CHIUSO) Interpello n. 8 (CHIUSO) Interpello n.7(CHIUSO) Interpello n.6(CHIUSO) Interpello n.5(CHIUSO) Interpello n.4(CHIUSO) Interpello n.3(CHIUSO) Interpello n.2(CHIUSO) Interpello n.1(CHIUSO) Modello domanda disponibilità Pubblicato: 20.09.2024 - Revisione: 03.11.2026 Eccetto dove diversamente specificato, questo articolo è stato rilasciato sotto Licenza Creative Commons Attribuzione CC-BY 4.0."
+        }
+      ],
+      "attachments": [
+        {
+          "text": "Le carte della scuola",
+          "href": "https://www.iclivraga.it/documento/",
+          "title": "",
+          "context": "Le carte della scuola",
+          "status": 200,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 388672,
+          "file": "items/01-I.C-Livraga/01-attachment"
+        }
+      ]
+    },
+    {
+      "id": "acf05171e4f3abd0",
+      "position": 2,
+      "collectionReason": "refresh",
       "listLabel": "I.C. Codogno",
       "listContext": "03 novembre 2026 Interpelli ricerca supplenti I.C. Codogno INTERPELLO 3 DEROGA SOSTEGNO SCUOLA PRIMARIA/INFANZIA A.S. 2026/27",
       "title": "I.C. Codogno",
@@ -3460,8 +3540,8 @@
     },
     {
       "id": "b58c27a88db706fa",
-      "position": 2,
-      "collectionReason": "new",
+      "position": 3,
+      "collectionReason": "refresh",
       "listLabel": "I.C. LODI V",
       "listContext": "03 novembre 2026 Interpelli ricerca supplenti I.C. LODI V Sostegno primaria fino al 30.06.2027",
       "title": "I.C. LODI V",
@@ -3479,14 +3559,14 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/AlboOnline/LOME0004?\" on this server. Reference #18.b68dead.1793707533.ecfd8f2 https://errors.edgesuite.net/18.b68dead.1793707533.ecfd8f2"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/AlboOnline/LOME0004?\" on this server. Reference #18.8f71cd17.1793711142.6715de59 https://errors.edgesuite.net/18.8f71cd17.1793711142.6715de59"
         }
       ],
       "attachments": []
     },
     {
       "id": "e4b10205a3c4a101",
-      "position": 3,
+      "position": 4,
       "collectionReason": "refresh",
       "listLabel": "I.C. Casalpusterlengo",
       "listContext": "03 novembre 2026 Interpelli ricerca supplenti I.C. Casalpusterlengo Scuola Primaria e Scuola dell'Infanzia",
@@ -3517,7 +3597,7 @@
           "status": 200,
           "contentType": "application/pdf",
           "bytes": 88014,
-          "file": "items/03-I.C.-Casalpusterlengo/01-firmato_1793700277_SEGNATURA_1793700068_Interpello_per_posti_Sostegno_Scuola_Infanzia.pdf",
+          "file": "items/04-I.C.-Casalpusterlengo/01-firmato_1793700277_SEGNATURA_1793700068_Interpello_per_posti_Sostegno_Scuola_Infanzia.pdf",
           "extractedText": "                                                                                                              Ministero dell’Istruzione e del Merito\n                                                                                                   Istituto Comprensivo di Casalpusterlengo ad Indirizzo Musicale\n                                                                                                              Via Olimpo, 6 - 26841 CASALPUSTERLENGO (LO)\n                                                                                      Codice Meccanografico LOIC80900D - Codice Fiscale 90518620159 – Codice Univoco Ufficio UFTH6W\n                                                                                                      Tel. 037781940 – 037784379 - E-Mail: loic80900d@istruzione.it\n                                                                                                     PEC loic80900d@pec.istruzione.it – www.iccasalpusterlengo.edu.it\n\n\n\n                                                                              Oggetto: interpello per selezione personale docente.\n\n                                                                                                             IL DIRIGENTE SCOLASTICO\nLOIC80900D - A24EECC - REGISTRO PROTOCOLLO - 0007461 - 03/11/2026 - VII - U\n\n\n\n\n                                                                              VISTO l’articolo 13 comma 23 DELL’OM 88/2024\n                                                                              VISTO il CCNL SCUOLA VIGENTE;\n                                                                              RILEVATA la necessità di provvedere a formulare specifico avviso finalizzato al\n                                                                              reclutamento di docenti forniti dell’abilitazione o, in subordine, del titolo di studio, che\n                                                                              saranno valutati solo se la Convocazione da Graduatoria di Istituto non avrà esito\n                                                                              positivo.\n                                                                              RITENUTO di dover procedere a proporre interpello;\n\n                                                                                                                       INTERPELLA\n\n                                                                              Il personale interessato per le seguenti supplenze:\n\n                                                                              - n. 2 posti, profilo docente Scuola dell’Infanzia SOSTEGNO\n                                                                              - supplenza fino al termine delle attività didattiche\n                                                                              - numero di ore settimanali: 25,00\n                                                                              - durata della supplenza: fino al termine delle attività didattiche 30/06/2027\n\n                                                                              1   Il candidato/la candidata dovrà possedere i seguenti titoli di studio: abilitazione e,\n                                                                                  in     subordine, titoli di studio che danno accesso alla seconda fascia delle GPS;\n                                                                              2   Ai fini della tutela e della garanzia dell’offerta formativa e nel rispetto delle norme\n                                                                                  di prevenzione e protezione dei rischi, qualora non pervenissero candidature di\n                                                                                  aspiranti in possesso dei titoli richiamati al punto 1, si prenderanno in\n                                                                                  considerazione le eventuali candidature degli aspiranti in possesso di titoli affini a\n                                                                                  quelli previsti al punto 1.\n                                                                              3   La selezione avverrà sulla base dei titoli o dei servizi presentati dai candidati\n                                                                                  secondo i criteri pubblicati all’Albo dell’Istituto e visionabili al seguente link\n                                                                              4   la candidatura dovrà pervenire, a pena di esclusione, unicamente attraverso la\n                                                                                  compilazione del form presente sulla pagina dell’Istituto entro le ore 11.15 del\n                                                                                  05/11/2026 allegando C.V. in formato Europass e copia della Carta d’Identità;\n                                                                              5   la presa di servizio avverrà al termine della valutazione delle candidature\n                                                                                  pervenute,a seguito di comunicazione da parte della segreteria del nostro istituto.\n                                                                              6   si ricorda ai sensi dell’OM 88/2024 l’applicazione dell’articolo 14;\n                                                                              7   aderendo alla procedura in oggetto si autorizza al trattamento dei dati personali\n                                                                                  conformemente al Regolamento (UE) 2016/679 del Parlamento Europeo e del\n                                                                                  Consiglio del 27 aprile 2016 relativo alla protezione delle persone fisiche nonché\n                                                                                  alla libera circolazione di tali dati e che abroga la direttiva 95/46CE e del D.lgs. n.\n                                                                                  196/2003, come modificato dal D.lgs. n. 101/2018 e ss.mm.ii per le finalità proprie\n                                                                                   dell’interpello. Il titolare del trattamento dei dati personali è l’Istituto Comprensivo\n                                                                                  di Casalpusterlengo\n\n\n                                                                                                                                                       Il Dirigente Scolastico\n                                                                                                                                                       Brunella Tirelli\n                                                                                                                                                        Documento firmato digitalmente\n\n\n\n\n                                                                                                         Firmato digitalmente da TIRELLI BRUNELLA\n\f"
         },
         {
@@ -3528,36 +3608,10 @@
           "status": 200,
           "contentType": "application/pdf",
           "bytes": 88031,
-          "file": "items/03-I.C.-Casalpusterlengo/02-firmato_1793700277_SEGNATURA_1793700118_Interpello_per_posti_Sostegno_Scuola_Primaria..pdf",
+          "file": "items/04-I.C.-Casalpusterlengo/02-firmato_1793700277_SEGNATURA_1793700118_Interpello_per_posti_Sostegno_Scuola_Primaria..pdf",
           "extractedText": "                                                                                                              Ministero dell’Istruzione e del Merito\n                                                                                                   Istituto Comprensivo di Casalpusterlengo ad Indirizzo Musicale\n                                                                                                              Via Olimpo, 6 - 26841 CASALPUSTERLENGO (LO)\n                                                                                      Codice Meccanografico LOIC80900D - Codice Fiscale 90518620159 – Codice Univoco Ufficio UFTH6W\n                                                                                                      Tel. 037781940 – 037784379 - E-Mail: loic80900d@istruzione.it\n                                                                                                     PEC loic80900d@pec.istruzione.it – www.iccasalpusterlengo.edu.it\n\n\n\n                                                                              Oggetto: interpello per selezione personale docente.\n\n                                                                                                             IL DIRIGENTE SCOLASTICO\nLOIC80900D - A24EECC - REGISTRO PROTOCOLLO - 0007460 - 03/11/2026 - VII - U\n\n\n\n\n                                                                              VISTO l’articolo 13 comma 23 DELL’OM 88/2024\n                                                                              VISTO il CCNL SCUOLA VIGENTE;\n                                                                              RILEVATA la necessità di provvedere a formulare specifico avviso finalizzato al\n                                                                              reclutamento di docenti forniti dell’abilitazione o, in subordine, del titolo di studio, che\n                                                                              saranno valutati solo se la Convocazione da Graduatoria di Istituto non avrà esito\n                                                                              positivo.\n                                                                              RITENUTO di dover procedere a proporre interpello;\n\n                                                                                                                       INTERPELLA\n\n                                                                              Il personale interessato per le seguenti supplenze:\n\n                                                                              - n. 2 posti, profilo docente Scuola Primaria SOSTEGNO\n                                                                              - supplenza fino al termine delle attività didattiche\n                                                                              - numero di ore settimanali: 24,00\n                                                                              - durata della supplenza: fino al termine delle attività didattiche 30/06/2027\n\n                                                                              1   Il candidato/la candidata dovrà possedere i seguenti titoli di studio: abilitazione e,\n                                                                                  in     subordine, titoli di studio che danno accesso alla seconda fascia delle GPS;\n                                                                              2   Ai fini della tutela e della garanzia dell’offerta formativa e nel rispetto delle norme\n                                                                                  di prevenzione e protezione dei rischi, qualora non pervenissero candidature di\n                                                                                  aspiranti in possesso dei titoli richiamati al punto 1, si prenderanno in\n                                                                                  considerazione le eventuali candidature degli aspiranti in possesso di titoli affini a\n                                                                                  quelli previsti al punto 1.\n                                                                              3   La selezione avverrà sulla base dei titoli o dei servizi presentati dai candidati\n                                                                                  secondo i criteri pubblicati all’Albo dell’Istituto e visionabili al seguente link\n                                                                              4   la candidatura dovrà pervenire, a pena di esclusione, unicamente attraverso la\n                                                                                  compilazione del form presente sulla pagina dell’Istituto entro le ore 11.15 del\n                                                                                  05/11/2026 allegando C.V. in formato Europass e copia della Carta d’Identità;\n                                                                              5   la presa di servizio avverrà al termine della valutazione delle candidature\n                                                                                  pervenute,a seguito di comunicazione da parte della segreteria del nostro istituto.\n                                                                              6   si ricorda ai sensi dell’OM 88/2024 l’applicazione dell’articolo 14;\n                                                                              7   aderendo alla procedura in oggetto si autorizza al trattamento dei dati personali\n                                                                                  conformemente al Regolamento (UE) 2016/679 del Parlamento Europeo e del\n                                                                                  Consiglio del 27 aprile 2016 relativo alla protezione delle persone fisiche nonché\n                                                                                  alla libera circolazione di tali dati e che abroga la direttiva 95/46CE e del D.lgs. n.\n                                                                                  196/2003, come modificato dal D.lgs. n. 101/2018 e ss.mm.ii per le finalità proprie\n                                                                                  dell’interpello. Il titolare del trattamento dei dati personali è l’Istituto Comprensivo\n                                                                                  di Casalpusterlengo.\n\n\n\n                                                                                                                                                       Il Dirigente Scolastico\n                                                                                                                                                       Brunella Tirelli\n                                                                                                                                                        Documento firmato digitalmente\n\n\n\n\n                                                                                                         Firmato digitalmente da TIRELLI BRUNELLA\n\f"
         }
       ]
-    },
-    {
-      "id": "89c960e869ac6133",
-      "position": 4,
-      "collectionReason": "refresh",
-      "listLabel": "I.T.C.G. \"A. Bassi\" Lodi",
-      "listContext": "03 novembre 2026 Interpelli ricerca supplenti I.T.C.G. \"A. Bassi\" Lodi Interpello per incarico supplenza breve diurno dal 02-11-2026 al 21-11-2026 classe di concorso A047 Matematica Applicata",
-      "title": "I.T.C.G. \"A. Bassi\" Lodi",
-      "subtitle": "Interpello per incarico supplenza breve diurno dal 02-11-2026 al 21-11-2026 classe di concorso A047 Matematica Applicata",
-      "publicationDate": "03 novembre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-t-c-g-a-bassi-lodi-13",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-t-c-g-a-bassi-lodi-13",
-      "httpStatus": 200,
-      "text": "Link pagina interpelli",
-      "pages": [
-        {
-          "label": "Link pagina interpelli",
-          "url": "https://web.spaggiari.eu/sdg2/AlboOnline/LOIT0001?idCategoria=10004",
-          "finalUrl": "https://web.spaggiari.eu/sdg2/AlboOnline/LOIT0001?idCategoria=10004",
-          "httpStatus": 403,
-          "title": "Access Denied",
-          "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/AlboOnline/LOIT0001?\" on this server. Reference #18.b68dead.1793707547.ed00548 https://errors.edgesuite.net/18.b68dead.1793707547.ed00548"
-        }
-      ],
-      "attachments": []
     }
   ],
   "errors": []
