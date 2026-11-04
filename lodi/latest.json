@@ -6,18 +6,50 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-11-04T13:05:12.817Z",
-  "completedAt": "2026-11-04T13:05:46.422Z",
+  "retrievedAt": "2026-11-04T14:05:15.972Z",
+  "completedAt": "2026-11-04T14:05:53.327Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 25018,
+    "textLength": 24990,
     "discoveredCount": 200,
     "safetyLimited": false,
     "processedCount": 4
   },
   "recentEvents": [
+    {
+      "id": "a2ed91d25fcdebb9",
+      "type": "new",
+      "detectedAt": "2026-11-04T14:05:15.972Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-64",
+      "item": {
+        "id": "73b113ad74c4544e",
+        "position": 1,
+        "collectionReason": "new",
+        "listLabel": "I.C. Lodi III",
+        "listContext": "04 novembre 2026 Interpelli ricerca supplenti I.C. Lodi III Insegnante posto comune scuola infanzia",
+        "title": "I.C. Lodi III",
+        "subtitle": "Insegnante posto comune scuola infanzia",
+        "publicationDate": "04 novembre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-64",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-64",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/fcbc55a2-c961-4459-a7dc-f7fd10d6b18b",
+            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/fcbc55a2-c961-4459-a7dc-f7fd10d6b18b",
+            "httpStatus": 403,
+            "title": "Access Denied",
+            "subtitle": "",
+            "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0013/fcbc55a2-c961-4459-a7dc-f7fd10d6b18b\" on this server. Reference #18.6aa61702.1793801127.1adbb7e9 https://errors.edgesuite.net/18.6aa61702.1793801127.1adbb7e9"
+          }
+        ],
+        "attachments": []
+      }
+    },
     {
       "id": "52109b4859f4099e",
       "type": "new",
@@ -4061,9 +4093,35 @@
   ],
   "latestFour": [
     {
-      "id": "d8086c3136f5432d",
+      "id": "73b113ad74c4544e",
       "position": 1,
       "collectionReason": "new",
+      "listLabel": "I.C. Lodi III",
+      "listContext": "04 novembre 2026 Interpelli ricerca supplenti I.C. Lodi III Insegnante posto comune scuola infanzia",
+      "title": "I.C. Lodi III",
+      "subtitle": "Insegnante posto comune scuola infanzia",
+      "publicationDate": "04 novembre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-64",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-64",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/fcbc55a2-c961-4459-a7dc-f7fd10d6b18b",
+          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/fcbc55a2-c961-4459-a7dc-f7fd10d6b18b",
+          "httpStatus": 403,
+          "title": "Access Denied",
+          "subtitle": "",
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0013/fcbc55a2-c961-4459-a7dc-f7fd10d6b18b\" on this server. Reference #18.6aa61702.1793801127.1adbb7e9 https://errors.edgesuite.net/18.6aa61702.1793801127.1adbb7e9"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "d8086c3136f5432d",
+      "position": 2,
+      "collectionReason": "refresh",
       "listLabel": "I.C. Tavazzano",
       "listContext": "04 novembre 2026 Interpelli ricerca supplenti I.C. Tavazzano posto SOSTEGNO - SCUOLA PRIMARIA fino al 30/06/2027",
       "title": "I.C. Tavazzano",
@@ -4081,15 +4139,15 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/cb4237df-68b4-437d-94fe-2afd746dc889\" on this server. Reference #18.1668dead.1793797524.11a054a9 https://errors.edgesuite.net/18.1668dead.1793797524.11a054a9"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/cb4237df-68b4-437d-94fe-2afd746dc889\" on this server. Reference #18.6aa61702.1793801134.1adbca9d https://errors.edgesuite.net/18.6aa61702.1793801134.1adbca9d"
         }
       ],
       "attachments": []
     },
     {
       "id": "716fe4adbdb8f40a",
-      "position": 2,
-      "collectionReason": "new",
+      "position": 3,
+      "collectionReason": "refresh",
       "listLabel": "I.C. Tavazzano",
       "listContext": "04 novembre 2026 Interpelli ricerca supplenti I.C. Tavazzano Posto SOSTEGNO- SCUOLA INFANZIA fino al 30/06/2027",
       "title": "I.C. Tavazzano",
@@ -4107,15 +4165,15 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/a4ede95d-3e4a-4215-8c4c-3874bd6b8b2d\" on this server. Reference #18.1668dead.1793797530.11a06921 https://errors.edgesuite.net/18.1668dead.1793797530.11a06921"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/a4ede95d-3e4a-4215-8c4c-3874bd6b8b2d\" on this server. Reference #18.72a61702.1793801134.1c5ef36f https://errors.edgesuite.net/18.72a61702.1793801134.1c5ef36f"
         }
       ],
       "attachments": []
     },
     {
       "id": "2eef565c57a2b61e",
-      "position": 3,
-      "collectionReason": "new",
+      "position": 4,
+      "collectionReason": "refresh",
       "listLabel": "I.C. Zelo Buon Persico",
       "listContext": "04 novembre 2026 Interpelli ricerca supplenti I.C. Zelo Buon Persico Posto comune",
       "title": "I.C. Zelo Buon Persico",
@@ -4133,33 +4191,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0003/3ca1de45-4261-4084-869b-5438baa1b723\" on this server. Reference #18.1c68dead.1793797530.108b47a3 https://errors.edgesuite.net/18.1c68dead.1793797530.108b47a3"
-        }
-      ],
-      "attachments": []
-    },
-    {
-      "id": "9321a43f7b1b204e",
-      "position": 4,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. Zelo Buon Persico",
-      "listContext": "04 novembre 2026 Interpelli ricerca supplenti I.C. Zelo Buon Persico Posto di sostegno",
-      "title": "I.C. Zelo Buon Persico",
-      "subtitle": "Posto di sostegno",
-      "publicationDate": "04 novembre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-zelo-buon-persico-22",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-zelo-buon-persico-22",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0003/793489be-de21-415b-9424-bb0ca6cb8db4",
-          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0003/793489be-de21-415b-9424-bb0ca6cb8db4",
-          "httpStatus": 403,
-          "title": "Access Denied",
-          "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0003/793489be-de21-415b-9424-bb0ca6cb8db4\" on this server. Reference #18.1c68dead.1793797543.108b566c https://errors.edgesuite.net/18.1c68dead.1793797543.108b566c"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0003/3ca1de45-4261-4084-869b-5438baa1b723\" on this server. Reference #18.72a61702.1793801150.1c5f0250 https://errors.edgesuite.net/18.72a61702.1793801150.1c5f0250"
         }
       ],
       "attachments": []
