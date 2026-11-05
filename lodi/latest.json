@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-11-05T13:06:06.092Z",
-  "completedAt": "2026-11-05T13:06:43.572Z",
+  "retrievedAt": "2026-11-05T14:05:14.438Z",
+  "completedAt": "2026-11-05T14:05:51.030Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -4278,7 +4278,7 @@
     {
       "id": "8addbc28bf5b4b61",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Codogno",
       "listContext": "05 novembre 2026 Interpelli ricerca supplenti I.C. Codogno SCUOLA SECONDARIA 1 GRADO CLASSE DI CONCORSO A028",
       "title": "I.C. Codogno",
@@ -4313,7 +4313,7 @@
     {
       "id": "4d399e0df20f5c01",
       "position": 2,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Lodivecchio",
       "listContext": "05 novembre 2026 Interpelli ricerca supplenti I.C. Lodivecchio SCUOLA INFANZIA PER SOSTEGNO – 1/2 POSTO 12.5H,",
       "title": "I.C. Lodivecchio",
@@ -4362,7 +4362,7 @@
     {
       "id": "52c058f42ca58dec",
       "position": 3,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Lodivecchio",
       "listContext": "05 novembre 2026 Interpelli ricerca supplenti I.C. Lodivecchio SCUOLA PRIMARIA PER SOSTEGNO – 1 POSTO 24H,",
       "title": "I.C. Lodivecchio",
