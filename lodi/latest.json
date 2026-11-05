@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-11-05T15:06:04.566Z",
-  "completedAt": "2026-11-05T15:06:42.922Z",
+  "retrievedAt": "2026-11-05T16:06:06.424Z",
+  "completedAt": "2026-11-05T16:06:43.221Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -4021,102 +4021,6 @@
             "title": "Albo Pretorio",
             "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
             "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
-          }
-        ],
-        "attachments": []
-      }
-    },
-    {
-      "id": "87986223b23cb20f",
-      "type": "new",
-      "detectedAt": "2026-10-06T16:05:32.760Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-f-fellini-tavazzano-con-villavesco-1",
-      "item": {
-        "id": "7410f9032214badf",
-        "position": 1,
-        "collectionReason": "new",
-        "listLabel": "I.C. F. Fellini Tavazzano con Villavesco",
-        "listContext": "06 ottobre 2026 Interpelli ricerca supplenti I.C. F. Fellini Tavazzano con Villavesco Interpello posto sostegno- Scuola primaria",
-        "title": "I.C. F. Fellini Tavazzano con Villavesco",
-        "subtitle": "Interpello posto sostegno- Scuola primaria",
-        "publicationDate": "06 ottobre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-f-fellini-tavazzano-con-villavesco-1",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-f-fellini-tavazzano-con-villavesco-1",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0001/e0354b1e-0eb2-4d2f-902a-4554f58a0bf7",
-            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0001/e0354b1e-0eb2-4d2f-902a-4554f58a0bf7",
-            "httpStatus": 200,
-            "title": "Elenco interpelli",
-            "subtitle": "",
-            "text": "Interpelli ISTITUTO COMPRENSIVO \"F. FELLINI\" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio Interpello nazionale per reperimento n. 1 docente su tipo di posto SOSTEGNO - SCUOLA PRIMARIA fino al 30/06/2027 ADEE Sostegno scuola primaria 08/10/2026 30/06/2027 LOEE800015 Scuola Primaria di Sordio Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
-          }
-        ],
-        "attachments": []
-      }
-    },
-    {
-      "id": "15eeaab7b43c775f",
-      "type": "new",
-      "detectedAt": "2026-10-06T16:05:32.760Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-55",
-      "item": {
-        "id": "13254d6dec5bf641",
-        "position": 2,
-        "collectionReason": "new",
-        "listLabel": "I.C. Lodi III",
-        "listContext": "06 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi III Interpello posto comune scuola infanzia",
-        "title": "I.C. Lodi III",
-        "subtitle": "Interpello posto comune scuola infanzia",
-        "publicationDate": "06 ottobre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-55",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-55",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013",
-            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013",
-            "httpStatus": 200,
-            "title": "Elenco interpelli",
-            "subtitle": "",
-            "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" LODI 3 \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio Insegnante posto comune scuola infanzia AAAA Insegnante posto comune scuola infanzia 07/10/2026 09/10/2026 LOIC814001 I.C. LODI III Iscriviti Insegnante posto sostegno scuola infanzia ADAA Sostegno scuola dell'infanzia 07/10/2026 09/10/2026 Loc814001 IC LODI III Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
-          }
-        ],
-        "attachments": []
-      }
-    },
-    {
-      "id": "df8767c1ac45fd64",
-      "type": "new",
-      "detectedAt": "2026-10-06T16:05:32.760Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-54",
-      "item": {
-        "id": "32ffd5d09205e363",
-        "position": 3,
-        "collectionReason": "new",
-        "listLabel": "I.C. Lodi III",
-        "listContext": "06 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi III Interpello posto sostegno scuola infanzia",
-        "title": "I.C. Lodi III",
-        "subtitle": "Interpello posto sostegno scuola infanzia",
-        "publicationDate": "06 ottobre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-54",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-54",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/fc7517dd-b964-4c4a-81e8-e255e972d172",
-            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/fc7517dd-b964-4c4a-81e8-e255e972d172",
-            "httpStatus": 200,
-            "title": "Elenco interpelli",
-            "subtitle": "",
-            "text": "Interpelli ISTITUTO COMPRENSIVO STATALE \" LODI 3 \" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio Insegnante posto sostegno scuola infanzia ADAA Sostegno scuola dell'infanzia 07/10/2026 09/10/2026 Loc814001 IC LODI III Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
           }
         ],
         "attachments": []
