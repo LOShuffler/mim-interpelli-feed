@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-11-05T10:05:12.845Z",
-  "completedAt": "2026-11-05T10:05:46.696Z",
+  "retrievedAt": "2026-11-05T11:05:54.262Z",
+  "completedAt": "2026-11-05T11:06:28.754Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -18,6 +18,38 @@
     "processedCount": 4
   },
   "recentEvents": [
+    {
+      "id": "bd6d6ebf36a2cfcd",
+      "type": "new",
+      "detectedAt": "2026-11-05T11:05:54.262Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-39",
+      "item": {
+        "id": "0f687b249e294607",
+        "position": 1,
+        "collectionReason": "new",
+        "listLabel": "I.C. Lodi I",
+        "listContext": "05 novembre 2026 Interpelli ricerca supplenti I.C. Lodi I n.1 posto ADEE fino al 30/06/2027",
+        "title": "I.C. Lodi I",
+        "subtitle": "n.1 posto ADEE fino al 30/06/2027",
+        "publicationDate": "05 novembre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-39",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-39",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://www.portaleargo.it/albopretorio/online/",
+            "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
+            "httpStatus": 200,
+            "title": "Albo Pretorio",
+            "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
+            "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accessibilità Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
+          }
+        ],
+        "attachments": []
+      }
+    },
     {
       "id": "a2ed91d25fcdebb9",
       "type": "new",
@@ -4093,8 +4125,34 @@
   ],
   "latestFour": [
     {
-      "id": "73b113ad74c4544e",
+      "id": "0f687b249e294607",
       "position": 1,
+      "collectionReason": "new",
+      "listLabel": "I.C. Lodi I",
+      "listContext": "05 novembre 2026 Interpelli ricerca supplenti I.C. Lodi I n.1 posto ADEE fino al 30/06/2027",
+      "title": "I.C. Lodi I",
+      "subtitle": "n.1 posto ADEE fino al 30/06/2027",
+      "publicationDate": "05 novembre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-39",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-39",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://www.portaleargo.it/albopretorio/online/",
+          "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
+          "httpStatus": 200,
+          "title": "Albo Pretorio",
+          "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
+          "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accessibilità Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "73b113ad74c4544e",
+      "position": 2,
       "collectionReason": "refresh",
       "listLabel": "I.C. Lodi III",
       "listContext": "04 novembre 2026 Interpelli ricerca supplenti I.C. Lodi III Insegnante posto comune scuola infanzia",
@@ -4113,14 +4171,14 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0013/fcbc55a2-c961-4459-a7dc-f7fd10d6b18b\" on this server. Reference #18.8f71cd17.1793873124.8934b841 https://errors.edgesuite.net/18.8f71cd17.1793873124.8934b841"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0013/fcbc55a2-c961-4459-a7dc-f7fd10d6b18b\" on this server. Reference #18.c6b62417.1793876772.1ab71d44 https://errors.edgesuite.net/18.c6b62417.1793876772.1ab71d44"
         }
       ],
       "attachments": []
     },
     {
       "id": "d8086c3136f5432d",
-      "position": 2,
+      "position": 3,
       "collectionReason": "refresh",
       "listLabel": "I.C. Tavazzano",
       "listContext": "04 novembre 2026 Interpelli ricerca supplenti I.C. Tavazzano posto SOSTEGNO - SCUOLA PRIMARIA fino al 30/06/2027",
@@ -4139,14 +4197,14 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/cb4237df-68b4-437d-94fe-2afd746dc889\" on this server. Reference #18.8f71cd17.1793873130.89352ff1 https://errors.edgesuite.net/18.8f71cd17.1793873130.89352ff1"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/cb4237df-68b4-437d-94fe-2afd746dc889\" on this server. Reference #18.c6b62417.1793876779.1ab72c20 https://errors.edgesuite.net/18.c6b62417.1793876779.1ab72c20"
         }
       ],
       "attachments": []
     },
     {
       "id": "716fe4adbdb8f40a",
-      "position": 3,
+      "position": 4,
       "collectionReason": "refresh",
       "listLabel": "I.C. Tavazzano",
       "listContext": "04 novembre 2026 Interpelli ricerca supplenti I.C. Tavazzano Posto SOSTEGNO- SCUOLA INFANZIA fino al 30/06/2027",
@@ -4165,33 +4223,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/a4ede95d-3e4a-4215-8c4c-3874bd6b8b2d\" on this server. Reference #18.8f71cd17.1793873130.8935ad99 https://errors.edgesuite.net/18.8f71cd17.1793873130.8935ad99"
-        }
-      ],
-      "attachments": []
-    },
-    {
-      "id": "2eef565c57a2b61e",
-      "position": 4,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. Zelo Buon Persico",
-      "listContext": "04 novembre 2026 Interpelli ricerca supplenti I.C. Zelo Buon Persico Posto comune",
-      "title": "I.C. Zelo Buon Persico",
-      "subtitle": "Posto comune",
-      "publicationDate": "04 novembre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-zelo-buon-persico-23",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-zelo-buon-persico-23",
-      "httpStatus": 200,
-      "text": "LInk interpello",
-      "pages": [
-        {
-          "label": "LInk interpello",
-          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0003/3ca1de45-4261-4084-869b-5438baa1b723",
-          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0003/3ca1de45-4261-4084-869b-5438baa1b723",
-          "httpStatus": 403,
-          "title": "Access Denied",
-          "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0003/3ca1de45-4261-4084-869b-5438baa1b723\" on this server. Reference #18.8f71cd17.1793873144.893620da https://errors.edgesuite.net/18.8f71cd17.1793873144.893620da"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/a4ede95d-3e4a-4215-8c4c-3874bd6b8b2d\" on this server. Reference #18.f9b62417.1793876779.17a7a48a https://errors.edgesuite.net/18.f9b62417.1793876779.17a7a48a"
         }
       ],
       "attachments": []
