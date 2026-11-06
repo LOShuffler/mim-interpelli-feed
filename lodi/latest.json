@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-11-06T07:05:34.520Z",
-  "completedAt": "2026-11-06T07:06:11.914Z",
+  "retrievedAt": "2026-11-06T08:05:14.343Z",
+  "completedAt": "2026-11-06T08:05:51.020Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -3956,71 +3956,6 @@
             "label": "Link interpello",
             "url": "https://web.spaggiari.eu/sdg2/Documenti/LOME0019/ocgpvlogle",
             "error": "page.goto: Download is starting\nCall log:\n  - navigating to \"https://web.spaggiari.eu/sdg2/Documenti/LOME0019/ocgpvlogle\", waiting until \"domcontentloaded\"\n"
-          }
-        ],
-        "attachments": []
-      }
-    },
-    {
-      "id": "08ad9547913fef42",
-      "type": "new",
-      "detectedAt": "2026-10-07T08:05:33.497Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-v-f-cazzulani-lodi",
-      "item": {
-        "id": "9a48aea308d7297e",
-        "position": 1,
-        "collectionReason": "new",
-        "listLabel": "I.C. Lodi V - \"F. Cazzulani\" - Lodi",
-        "listContext": "07 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi V - \"F. Cazzulani\" - Lodi Interpelli cdc AAAA - ADAA - EEEE - ADEE",
-        "title": "I.C. Lodi V - \"F. Cazzulani\" - Lodi",
-        "subtitle": "Interpelli cdc AAAA - ADAA - EEEE - ADEE",
-        "publicationDate": "07 ottobre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-v-f-cazzulani-lodi",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-v-f-cazzulani-lodi",
-        "httpStatus": 200,
-        "text": "Interpello primaria/infanzia interpello primaria ins. Materia Alternativa",
-        "pages": [
-          {
-            "label": "Interpello primaria/infanzia",
-            "url": "https://web.spaggiari.eu/sdg2/Documenti/LOME0004/vk0e62cli0",
-            "error": "page.goto: Download is starting\nCall log:\n  - navigating to \"https://web.spaggiari.eu/sdg2/Documenti/LOME0004/vk0e62cli0\", waiting until \"domcontentloaded\"\n"
-          },
-          {
-            "label": "interpello primaria ins. Materia Alternativa",
-            "url": "https://web.spaggiari.eu/sdg2/Documenti/LOME0004/v9qbnmck02",
-            "error": "page.goto: Download is starting\nCall log:\n  - navigating to \"https://web.spaggiari.eu/sdg2/Documenti/LOME0004/v9qbnmck02\", waiting until \"domcontentloaded\"\n"
-          }
-        ],
-        "attachments": []
-      }
-    },
-    {
-      "id": "635753be411925e8",
-      "type": "new",
-      "detectedAt": "2026-10-07T08:05:33.497Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-10",
-      "item": {
-        "id": "33a335efacfd8327",
-        "position": 2,
-        "collectionReason": "new",
-        "listLabel": "I.I.S. Codogno",
-        "listContext": "07 ottobre 2026 Interpelli ricerca supplenti I.I.S. Codogno Interpelli A026 e A027",
-        "title": "I.I.S. Codogno",
-        "subtitle": "Interpelli A026 e A027",
-        "publicationDate": "07 ottobre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-10",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-10",
-        "httpStatus": 200,
-        "text": "Interpello A026 matematica Interpello A027 matematica e fisica",
-        "pages": [
-          {
-            "label": "Interpello A026 matematica",
-            "url": "https://www.portaleargo.it/albopretorio/online/",
-            "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
-            "httpStatus": 200,
-            "title": "Albo Pretorio",
-            "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
-            "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
           }
         ],
         "attachments": []
