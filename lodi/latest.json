@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-11-06T12:05:14.425Z",
-  "completedAt": "2026-11-06T12:07:50.784Z",
+  "retrievedAt": "2026-11-06T13:05:13.958Z",
+  "completedAt": "2026-11-06T13:05:50.760Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -3843,70 +3843,6 @@
             "title": "Access Denied",
             "subtitle": "",
             "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/AlboOnline/LOIT0004?\" on this server. Reference #18.8a71cd17.1791464744.1bee6552 https://errors.edgesuite.net/18.8a71cd17.1791464744.1bee6552"
-          }
-        ],
-        "attachments": []
-      }
-    },
-    {
-      "id": "e0b0a55cbd82ddaf",
-      "type": "new",
-      "detectedAt": "2026-10-07T13:05:32.308Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-zelo-buon-persico-19",
-      "item": {
-        "id": "3422c2fd038086a5",
-        "position": 1,
-        "collectionReason": "new",
-        "listLabel": "I.C. Zelo Buon Persico",
-        "listContext": "07 ottobre 2026 Interpelli ricerca supplenti I.C. Zelo Buon Persico Interpello cdc EEEE posto comune scuola primaria",
-        "title": "I.C. Zelo Buon Persico",
-        "subtitle": "Interpello cdc EEEE posto comune scuola primaria",
-        "publicationDate": "07 ottobre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-zelo-buon-persico-19",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-zelo-buon-persico-19",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0003/c8bc2bf7-48c2-45e7-b538-f809bf6ede32",
-            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0003/c8bc2bf7-48c2-45e7-b538-f809bf6ede32",
-            "httpStatus": 200,
-            "title": "Elenco interpelli",
-            "subtitle": "",
-            "text": "Interpelli ISTITUTO COMPRENSIVO STATALE . Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio PRIMARIA DISPONIBILITA' 2 POSTI PT 17h e 13h - ALTERNATIVA IRC EEEE Insegnante posto comune scuola primaria 12/10/2026 08/06/2027 SCUOLA PRIMARIA IC ZELO B.P./MERLINO/COMAZZO Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
-          }
-        ],
-        "attachments": []
-      }
-    },
-    {
-      "id": "7d3caa10399041ef",
-      "type": "new",
-      "detectedAt": "2026-10-07T13:05:32.308Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-tavazzano-lodivecchio",
-      "item": {
-        "id": "f8ff1e8410a49dbd",
-        "position": 2,
-        "collectionReason": "new",
-        "listLabel": "I.C. Tavazzano Lodivecchio",
-        "listContext": "07 ottobre 2026 Interpelli ricerca supplenti I.C. Tavazzano Lodivecchio Interpello Posto normale cdc AM2B inglese secondaria di primo grado",
-        "title": "I.C. Tavazzano Lodivecchio",
-        "subtitle": "Interpello Posto normale cdc AM2B inglese secondaria di primo grado",
-        "publicationDate": "07 ottobre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-tavazzano-lodivecchio",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-tavazzano-lodivecchio",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0001/6c4648f0-0743-4f9b-bffa-699444b27adb",
-            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0001/6c4648f0-0743-4f9b-bffa-699444b27adb",
-            "httpStatus": 200,
-            "title": "Elenco interpelli",
-            "subtitle": "",
-            "text": "Interpelli ISTITUTO COMPRENSIVO \"F. FELLINI\" Cerca Elenco interpelli Descrizione Classe concorso Periodo supplenza Sede servizio Interpello nazionale per reperimento docente su tipo di posto normale classe di concorso AM2B 14h fino al 21/10/2026 AM2B LINGUA INGLESE E SECONDA LINGUA COMUNITARIA NELLA SCUOLA SECONDARIA I GRADO (INGLESE) 09/10/2026 21/10/2026 LOMM800014 Scuola Secondaria I grado - Tavazzano Iscriviti È un progetto Copyright 2026 - Gruppo Spaggiari Parma - P.IVA 00150470342 Privacy Policy - Cookie Policy - Condizioni d'utilizzo"
           }
         ],
         "attachments": []
