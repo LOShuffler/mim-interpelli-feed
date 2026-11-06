@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-11-06T11:05:13.154Z",
-  "completedAt": "2026-11-06T11:05:49.839Z",
+  "retrievedAt": "2026-11-06T12:05:14.425Z",
+  "completedAt": "2026-11-06T12:07:50.784Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -3911,98 +3911,6 @@
         ],
         "attachments": []
       }
-    },
-    {
-      "id": "9ce1cffe09c76002",
-      "type": "new",
-      "detectedAt": "2026-10-07T12:05:22.330Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iv-29",
-      "item": {
-        "id": "21d9ff3b38260c05",
-        "position": 1,
-        "collectionReason": "new",
-        "listLabel": "I.C. Lodi IV",
-        "listContext": "07 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi IV Interpello Scuola secondaria I grado - AM12",
-        "title": "I.C. Lodi IV",
-        "subtitle": "Interpello Scuola secondaria I grado - AM12",
-        "publicationDate": "07 ottobre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iv-29",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iv-29",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://www.portaleargo.it/albopretorio/online/",
-            "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
-            "httpStatus": 200,
-            "title": "Albo Pretorio",
-            "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
-            "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
-          }
-        ],
-        "attachments": []
-      }
-    },
-    {
-      "id": "520a76d872985e87",
-      "type": "new",
-      "detectedAt": "2026-10-07T12:05:22.330Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iv-28",
-      "item": {
-        "id": "b287b3b6e984c740",
-        "position": 2,
-        "collectionReason": "new",
-        "listLabel": "I.C. Lodi IV",
-        "listContext": "07 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi IV Interpello Posto comune Scuola Infanzia",
-        "title": "I.C. Lodi IV",
-        "subtitle": "Interpello Posto comune Scuola Infanzia",
-        "publicationDate": "07 ottobre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iv-28",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iv-28",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://www.portaleargo.it/albopretorio/online/",
-            "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
-            "httpStatus": 200,
-            "title": "Albo Pretorio",
-            "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
-            "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
-          }
-        ],
-        "attachments": []
-      }
-    },
-    {
-      "id": "4f7ab593df97575a",
-      "type": "new",
-      "detectedAt": "2026-10-07T12:05:22.330Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-somaglia-12",
-      "item": {
-        "id": "4ab82a2d182581ce",
-        "position": 3,
-        "collectionReason": "new",
-        "listLabel": "I.C. Somaglia",
-        "listContext": "07 ottobre 2026 Interpelli ricerca supplenti I.C. Somaglia Interpello Scuola Secondaria di Primo grado A028",
-        "title": "I.C. Somaglia",
-        "subtitle": "Interpello Scuola Secondaria di Primo grado A028",
-        "publicationDate": "07 ottobre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-somaglia-12",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-somaglia-12",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://web.spaggiari.eu/sdg2/Documenti/LOME0019/ocgpvlogle",
-            "error": "page.goto: Download is starting\nCall log:\n  - navigating to \"https://web.spaggiari.eu/sdg2/Documenti/LOME0019/ocgpvlogle\", waiting until \"domcontentloaded\"\n"
-          }
-        ],
-        "attachments": []
-      }
     }
   ],
   "latestFour": [
@@ -4064,19 +3972,10 @@
           "httpStatus": 200,
           "title": "INVIO CANDIDATURE PER",
           "subtitle": "",
-          "text": "INVIO CANDIDATURE PER INTERPELLI Interpelli selezionati: 0/2 Compila modulo candidature Ricerca : Data Pubblicazione Anno Scolastico Tipo Personale Oggetto Documento Periodo validità 05/11/2026 13:17 N.Prot.: 0007167 2026/2027 DOCENTE NTERPELLO SCUOLA SECONDARIA 1 GRADO CLASSE DI CONCORSO A028 05/11/2026 13:00 06/11/2026 13:00 16/09/2026 15:23 2026/2027 DOCENTE INTERPELLO PER SUPPLENZE BREVI E SALTUARIE SCUOLA PRIMARIA/INFANZIA POSTO COMUNE E SOSTEGNO A.S. 2026/27 16/09/2026 00:00 31/12/2026 00:00"
+          "text": "INVIO CANDIDATURE PER INTERPELLI Interpelli selezionati: 0/1 Compila modulo candidature Ricerca : Data Pubblicazione Anno Scolastico Tipo Personale Oggetto Documento Periodo validità 16/09/2026 15:23 2026/2027 DOCENTE INTERPELLO PER SUPPLENZE BREVI E SALTUARIE SCUOLA PRIMARIA/INFANZIA POSTO COMUNE E SOSTEGNO A.S. 2026/27 16/09/2026 00:00 31/12/2026 00:00"
         }
       ],
-      "attachments": [
-        {
-          "text": "INTEPELLO_05.11.26_A028.pdf.pades.pdf",
-          "href": "https://serviziweb.axioscloud.it/Handlers/updw.aspx",
-          "title": "INTEPELLO_05.11.26_A028.pdf.pades.pdf",
-          "context": "",
-          "status": 500,
-          "error": "HTTP 500"
-        }
-      ]
+      "attachments": []
     },
     {
       "id": "4d399e0df20f5c01",
