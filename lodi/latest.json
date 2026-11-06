@@ -6,18 +6,61 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-11-06T09:05:35.779Z",
-  "completedAt": "2026-11-06T09:06:11.580Z",
+  "retrievedAt": "2026-11-06T10:05:45.793Z",
+  "completedAt": "2026-11-06T10:06:24.296Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 24970,
+    "textLength": 25003,
     "discoveredCount": 200,
     "safetyLimited": false,
     "processedCount": 4
   },
   "recentEvents": [
+    {
+      "id": "f68eb34a36ff07d4",
+      "type": "new",
+      "detectedAt": "2026-11-06T10:05:45.793Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-livraga-12",
+      "item": {
+        "id": "f9a30e250083bea6",
+        "position": 1,
+        "collectionReason": "new",
+        "listLabel": "I.C. Livraga",
+        "listContext": "06 novembre 2026 Interpelli ricerca supplenti I.C. Livraga Interpello Sostegno Scuola Primaria - presso l’IC “Maria Scoglio” – Plesso Primaria Livraga e Senna Lod",
+        "title": "I.C. Livraga",
+        "subtitle": "Interpello Sostegno Scuola Primaria - presso l’IC “Maria Scoglio” – Plesso Primaria Livraga e Senna Lod",
+        "publicationDate": "06 novembre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-livraga-12",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-livraga-12",
+        "httpStatus": 200,
+        "text": "Link pagina interpelli",
+        "pages": [
+          {
+            "label": "Link pagina interpelli",
+            "url": "https://www.iclivraga.it/interpello/",
+            "finalUrl": "https://www.iclivraga.it/interpello/",
+            "httpStatus": 200,
+            "title": "Accedi ai servizi Chiudi modale",
+            "subtitle": "Homepage del portale scolastico",
+            "text": "Stampa / Condividi Stampa / Condividi Stampa Invia Condividi Facebook WhatsApp Linkedin ANNO SCOLASTICO 2026-2027 Interpello n. 13 Interpello n. 12 (CHIUSO) Interpello n. 11 (CHIUSO) Interpello n. 10 (CHIUSO) Interpello n.9 (CHIUSO) Interpello n.8 (CHIUSO) Interpello n. 7 (CHIUSO) Interpello n.6 (CHIUSO) Interpello n.5 (CHIUSO) Interpello num 4 (CHIUSO) Interpello num 3 (CHIUSO) Interpello num 1(CHIUSO) Interpello num 2(CHIUSO) Modello domanda disponibilità ANNO SCOLASTICO 2025-2026 Interpello n.14(CHIUSO) Interpello n.13 (CHIUSO) Interpello n.12(CHIUSO) Interpello n. 10(CHIUSO) Interpello n.9(CHIUSO) Interpello n. 8 (CHIUSO) Interpello n.7(CHIUSO) Interpello n.6(CHIUSO) Interpello n.5(CHIUSO) Interpello n.4(CHIUSO) Interpello n.3(CHIUSO) Interpello n.2(CHIUSO) Interpello n.1(CHIUSO) Modello domanda disponibilità Pubblicato: 20.09.2024 - Revisione: 06.11.2026 Eccetto dove diversamente specificato, questo articolo è stato rilasciato sotto Licenza Creative Commons Attribuzione CC-BY 4.0."
+          }
+        ],
+        "attachments": [
+          {
+            "text": "Le carte della scuola",
+            "href": "https://www.iclivraga.it/documento/",
+            "title": "",
+            "context": "Le carte della scuola",
+            "status": 200,
+            "contentType": "text/html; charset=UTF-8",
+            "bytes": 389818,
+            "file": "items/01-I.C.-Livraga/01-attachment"
+          }
+        ]
+      }
+    },
     {
       "id": "72b1473b1b867a14",
       "type": "new",
@@ -3964,8 +4007,45 @@
   ],
   "latestFour": [
     {
-      "id": "8addbc28bf5b4b61",
+      "id": "f9a30e250083bea6",
       "position": 1,
+      "collectionReason": "new",
+      "listLabel": "I.C. Livraga",
+      "listContext": "06 novembre 2026 Interpelli ricerca supplenti I.C. Livraga Interpello Sostegno Scuola Primaria - presso l’IC “Maria Scoglio” – Plesso Primaria Livraga e Senna Lod",
+      "title": "I.C. Livraga",
+      "subtitle": "Interpello Sostegno Scuola Primaria - presso l’IC “Maria Scoglio” – Plesso Primaria Livraga e Senna Lod",
+      "publicationDate": "06 novembre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-livraga-12",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-livraga-12",
+      "httpStatus": 200,
+      "text": "Link pagina interpelli",
+      "pages": [
+        {
+          "label": "Link pagina interpelli",
+          "url": "https://www.iclivraga.it/interpello/",
+          "finalUrl": "https://www.iclivraga.it/interpello/",
+          "httpStatus": 200,
+          "title": "Accedi ai servizi Chiudi modale",
+          "subtitle": "Homepage del portale scolastico",
+          "text": "Stampa / Condividi Stampa / Condividi Stampa Invia Condividi Facebook WhatsApp Linkedin ANNO SCOLASTICO 2026-2027 Interpello n. 13 Interpello n. 12 (CHIUSO) Interpello n. 11 (CHIUSO) Interpello n. 10 (CHIUSO) Interpello n.9 (CHIUSO) Interpello n.8 (CHIUSO) Interpello n. 7 (CHIUSO) Interpello n.6 (CHIUSO) Interpello n.5 (CHIUSO) Interpello num 4 (CHIUSO) Interpello num 3 (CHIUSO) Interpello num 1(CHIUSO) Interpello num 2(CHIUSO) Modello domanda disponibilità ANNO SCOLASTICO 2025-2026 Interpello n.14(CHIUSO) Interpello n.13 (CHIUSO) Interpello n.12(CHIUSO) Interpello n. 10(CHIUSO) Interpello n.9(CHIUSO) Interpello n. 8 (CHIUSO) Interpello n.7(CHIUSO) Interpello n.6(CHIUSO) Interpello n.5(CHIUSO) Interpello n.4(CHIUSO) Interpello n.3(CHIUSO) Interpello n.2(CHIUSO) Interpello n.1(CHIUSO) Modello domanda disponibilità Pubblicato: 20.09.2024 - Revisione: 06.11.2026 Eccetto dove diversamente specificato, questo articolo è stato rilasciato sotto Licenza Creative Commons Attribuzione CC-BY 4.0."
+        }
+      ],
+      "attachments": [
+        {
+          "text": "Le carte della scuola",
+          "href": "https://www.iclivraga.it/documento/",
+          "title": "",
+          "context": "Le carte della scuola",
+          "status": 200,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 389818,
+          "file": "items/01-I.C.-Livraga/01-attachment"
+        }
+      ]
+    },
+    {
+      "id": "8addbc28bf5b4b61",
+      "position": 2,
       "collectionReason": "refresh",
       "listLabel": "I.C. Codogno",
       "listContext": "05 novembre 2026 Interpelli ricerca supplenti I.C. Codogno SCUOLA SECONDARIA 1 GRADO CLASSE DI CONCORSO A028",
@@ -4000,7 +4080,7 @@
     },
     {
       "id": "4d399e0df20f5c01",
-      "position": 2,
+      "position": 3,
       "collectionReason": "refresh",
       "listLabel": "I.C. Lodivecchio",
       "listContext": "05 novembre 2026 Interpelli ricerca supplenti I.C. Lodivecchio SCUOLA INFANZIA PER SOSTEGNO – 1/2 POSTO 12.5H,",
@@ -4026,7 +4106,7 @@
     },
     {
       "id": "52c058f42ca58dec",
-      "position": 3,
+      "position": 4,
       "collectionReason": "refresh",
       "listLabel": "I.C. Lodivecchio",
       "listContext": "05 novembre 2026 Interpelli ricerca supplenti I.C. Lodivecchio SCUOLA PRIMARIA PER SOSTEGNO – 1 POSTO 24H,",
@@ -4046,32 +4126,6 @@
           "title": "Interpelli per: Personale docente",
           "subtitle": "Nuvola - Interpelli",
           "text": "Gestione Interpelli Istituto Comprensivo Statale Antonio Gramsci Codice meccanografico: LOIC80300E LODI VECCHIO (LO) Interpelli per: Personale Docente Cambia ruolo Nessun interpello aperto Non ci sono elementi per la categoria selezionata."
-        }
-      ],
-      "attachments": []
-    },
-    {
-      "id": "0f687b249e294607",
-      "position": 4,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. Lodi I",
-      "listContext": "05 novembre 2026 Interpelli ricerca supplenti I.C. Lodi I n.1 posto ADEE fino al 30/06/2027",
-      "title": "I.C. Lodi I",
-      "subtitle": "n.1 posto ADEE fino al 30/06/2027",
-      "publicationDate": "05 novembre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-39",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-39",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://www.portaleargo.it/albopretorio/online/",
-          "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
-          "httpStatus": 200,
-          "title": "Albo Pretorio",
-          "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
-          "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accessibilità Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
         }
       ],
       "attachments": []
