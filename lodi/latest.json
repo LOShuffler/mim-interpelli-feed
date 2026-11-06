@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-11-06T10:05:45.793Z",
-  "completedAt": "2026-11-06T10:06:24.296Z",
+  "retrievedAt": "2026-11-06T11:05:13.154Z",
+  "completedAt": "2026-11-06T11:05:49.839Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -4009,7 +4009,7 @@
     {
       "id": "f9a30e250083bea6",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Livraga",
       "listContext": "06 novembre 2026 Interpelli ricerca supplenti I.C. Livraga Interpello Sostegno Scuola Primaria - presso l’IC “Maria Scoglio” – Plesso Primaria Livraga e Senna Lod",
       "title": "I.C. Livraga",
