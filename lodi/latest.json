@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-11-06T13:05:13.958Z",
-  "completedAt": "2026-11-06T13:05:50.760Z",
+  "retrievedAt": "2026-11-07T13:05:14.510Z",
+  "completedAt": "2026-11-07T13:05:51.661Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -3814,38 +3814,6 @@
             "file": "items/01-I.C.-Maleo/02-attachment"
           }
         ]
-      }
-    },
-    {
-      "id": "dc3723bcf5553a56",
-      "type": "new",
-      "detectedAt": "2026-10-08T13:05:32.843Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-t-a-s-a-tosi-codogno-9",
-      "item": {
-        "id": "4954a4734d05da17",
-        "position": 1,
-        "collectionReason": "new",
-        "listLabel": "I.T.A.S. \"A. Tosi\" Codogno",
-        "listContext": "08 ottobre 2026 Interpelli ricerca supplenti I.T.A.S. \"A. Tosi\" Codogno Interpello cdc A052",
-        "title": "I.T.A.S. \"A. Tosi\" Codogno",
-        "subtitle": "Interpello cdc A052",
-        "publicationDate": "08 ottobre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-t-a-s-a-tosi-codogno-9",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-t-a-s-a-tosi-codogno-9",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://web.spaggiari.eu/sdg2/AlboOnline/LOIT0004?idCategoria=10001&stato=pubblicati",
-            "finalUrl": "https://web.spaggiari.eu/sdg2/AlboOnline/LOIT0004?idCategoria=10001&stato=pubblicati",
-            "httpStatus": 403,
-            "title": "Access Denied",
-            "subtitle": "",
-            "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/AlboOnline/LOIT0004?\" on this server. Reference #18.8a71cd17.1791464744.1bee6552 https://errors.edgesuite.net/18.8a71cd17.1791464744.1bee6552"
-          }
-        ],
-        "attachments": []
       }
     }
   ],
