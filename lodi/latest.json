@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-11-07T13:05:14.510Z",
-  "completedAt": "2026-11-07T13:05:51.661Z",
+  "retrievedAt": "2026-11-08T09:05:55.639Z",
+  "completedAt": "2026-11-08T09:06:32.363Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -3761,59 +3761,6 @@
           }
         ],
         "attachments": []
-      }
-    },
-    {
-      "id": "2c5f30c82ce57c12",
-      "type": "new",
-      "detectedAt": "2026-10-09T09:05:33.335Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-maleo-23",
-      "item": {
-        "id": "1d1618346a90c295",
-        "position": 1,
-        "collectionReason": "new",
-        "listLabel": "I.C. Maleo",
-        "listContext": "09 ottobre 2026 Interpelli ricerca supplenti I.C. Maleo Interpelli supplenze al 30/06/2027 scuole primarie",
-        "title": "I.C. Maleo",
-        "subtitle": "Interpelli supplenze al 30/06/2027 scuole primarie",
-        "publicationDate": "09 ottobre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-maleo-23",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-maleo-23",
-        "httpStatus": 200,
-        "text": "Link pagina interpelli",
-        "pages": [
-          {
-            "label": "Link pagina interpelli",
-            "url": "https://www.iccsmaleo.edu.it/tipologia-articolo/interpello/",
-            "finalUrl": "https://www.iccsmaleo.edu.it/tipologia-articolo/interpello/",
-            "httpStatus": 200,
-            "title": "Interpelli alternativa scuola primaria",
-            "subtitle": "",
-            "text": "2026 09 Ott Interpelli alternativa scuola primaria Interpelli alternativa scuola primaria"
-          }
-        ],
-        "attachments": [
-          {
-            "text": "Le carte della scuola",
-            "href": "https://www.iccsmaleo.edu.it/documento/",
-            "title": "",
-            "context": "Le carte della scuola",
-            "status": 200,
-            "contentType": "text/html; charset=UTF-8",
-            "bytes": 273911,
-            "file": "items/01-I.C.-Maleo/01-attachment"
-          },
-          {
-            "text": "Albo online",
-            "href": "https://www.iccsmaleo.edu.it/tipologia-documento/albo-online/",
-            "title": "",
-            "context": "Albo online",
-            "status": 200,
-            "contentType": "text/html; charset=UTF-8",
-            "bytes": 256801,
-            "file": "items/01-I.C.-Maleo/02-attachment"
-          }
-        ]
       }
     }
   ],
