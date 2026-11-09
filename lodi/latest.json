@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-11-09T12:05:55.226Z",
-  "completedAt": "2026-11-09T12:06:31.130Z",
+  "retrievedAt": "2026-11-09T13:05:54.726Z",
+  "completedAt": "2026-11-09T13:06:32.308Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -3875,7 +3875,7 @@
     {
       "id": "3e226b62d6a9c5f7",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Lodi IV",
       "listContext": "09 novembre 2026 Interpelli ricerca supplenti I.C. Lodi IV Reclutamento di n. 1 docente SOSTEGNO SCUOLA PRIMARIA ADEE 12 ore settimanali fino al 30/06/2027",
       "title": "I.C. Lodi IV",
@@ -3901,7 +3901,7 @@
     {
       "id": "270490709193174b",
       "position": 2,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Lodi IV",
       "listContext": "09 novembre 2026 Interpelli ricerca supplenti I.C. Lodi IV Reclutamento di N. 1 docente di sostegno scuola infanzia - 25 H SETT. fino al 30/06/27",
       "title": "I.C. Lodi IV",
@@ -3945,7 +3945,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0014/22bfaf3b-7999-4bba-a7d7-ba96b68c118d\" on this server. Reference #18.51a61702.1794225980.b99acef https://errors.edgesuite.net/18.51a61702.1794225980.b99acef"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0014/22bfaf3b-7999-4bba-a7d7-ba96b68c118d\" on this server. Reference #18.78a61702.1794229580.2546841a https://errors.edgesuite.net/18.78a61702.1794229580.2546841a"
         }
       ],
       "attachments": []
@@ -3982,7 +3982,7 @@
           "context": "Le carte della scuola",
           "status": 200,
           "contentType": "text/html; charset=UTF-8",
-          "bytes": 270664,
+          "bytes": 270613,
           "file": "items/04-I.I.S.-Casalpusterlengo/01-attachment"
         }
       ]
