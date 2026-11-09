@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-11-09T06:05:35.634Z",
-  "completedAt": "2026-11-09T06:07:01.773Z",
+  "retrievedAt": "2026-11-09T07:05:35.804Z",
+  "completedAt": "2026-11-09T07:06:13.429Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -3813,7 +3813,11 @@
         {
           "label": "Link interpello",
           "url": "https://nuvola.madisoft.it/interpelli/LOIC80300E/docenti",
-          "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://nuvola.madisoft.it/interpelli/LOIC80300E/docenti\", waiting until \"domcontentloaded\"\n"
+          "finalUrl": "https://nuvola.madisoft.it/interpelli/LOIC80300E/docenti",
+          "httpStatus": 200,
+          "title": "Interpelli per: Personale docente",
+          "subtitle": "Nuvola - Interpelli",
+          "text": "Gestione Interpelli Istituto Comprensivo Statale Antonio Gramsci Codice meccanografico: LOIC80300E LODI VECCHIO (LO) Interpelli per: Personale Docente Cambia ruolo Nessun interpello aperto Non ci sono elementi per la categoria selezionata."
         }
       ],
       "attachments": []
@@ -3839,7 +3843,7 @@
           "httpStatus": 200,
           "title": "Interpelli per: Personale docente",
           "subtitle": "Nuvola - Interpelli",
-          "text": "Gestione Interpelli Interpelli per: Personale Docente Cambia ruolo Nessun interpello aperto Non ci sono elementi per la categoria selezionata."
+          "text": "Gestione Interpelli Istituto Comprensivo Statale Antonio Gramsci Codice meccanografico: LOIC80300E LODI VECCHIO (LO) Interpelli per: Personale Docente Cambia ruolo Nessun interpello aperto Non ci sono elementi per la categoria selezionata."
         }
       ],
       "attachments": []
