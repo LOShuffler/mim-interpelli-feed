@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-11-09T10:05:13.619Z",
-  "completedAt": "2026-11-09T10:05:52.055Z",
+  "retrievedAt": "2026-11-09T11:05:12.859Z",
+  "completedAt": "2026-11-09T11:05:54.258Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -3811,7 +3811,7 @@
     {
       "id": "9f630ea2ef5bf187",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Lodi II",
       "listContext": "09 novembre 2026 Interpelli ricerca supplenti I.C. Lodi II Scuola primaria G.Pascoli supplenza breve",
       "title": "I.C. Lodi II",
@@ -3829,7 +3829,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0014/22bfaf3b-7999-4bba-a7d7-ba96b68c118d\" on this server. Reference #18.8871cd17.1794218725.b4aa8366 https://errors.edgesuite.net/18.8871cd17.1794218725.b4aa8366"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0014/22bfaf3b-7999-4bba-a7d7-ba96b68c118d\" on this server. Reference #18.46a61702.1794222324.1cf03e06 https://errors.edgesuite.net/18.46a61702.1794222324.1cf03e06"
         }
       ],
       "attachments": []
@@ -3837,7 +3837,7 @@
     {
       "id": "407db9bf13aa8037",
       "position": 2,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.I.S. Casalpusterlengo",
       "listContext": "09 novembre 2026 Interpelli ricerca supplenti I.I.S. Casalpusterlengo Classe di concorso A041 Scienze e tecnologie informatiche",
       "title": "I.I.S. Casalpusterlengo",
@@ -3860,14 +3860,24 @@
       ],
       "attachments": [
         {
+          "text": "Gestisci opzioni",
+          "href": "https://cesaris.edu.it/documento/curricoli-verticali-degli-indirizzi-di-studio/",
+          "title": "",
+          "context": "Gestisci opzioni",
+          "status": 200,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 239198,
+          "file": "items/02-I.I.S.-Casalpusterlengo/01-attachment"
+        },
+        {
           "text": "Le carte della scuola",
           "href": "https://cesaris.edu.it/documento/",
           "title": "",
           "context": "Le carte della scuola",
           "status": 200,
           "contentType": "text/html; charset=UTF-8",
-          "bytes": 270664,
-          "file": "items/02-I.I.S.-Casalpusterlengo/01-attachment"
+          "bytes": 270634,
+          "file": "items/02-I.I.S.-Casalpusterlengo/02-attachment"
         }
       ]
     },
