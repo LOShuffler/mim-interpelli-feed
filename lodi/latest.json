@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-11-09T19:05:13.502Z",
-  "completedAt": "2026-11-09T19:05:50.138Z",
+  "retrievedAt": "2026-11-09T20:05:13.041Z",
+  "completedAt": "2026-11-09T20:05:50.684Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -3945,7 +3945,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0014/22bfaf3b-7999-4bba-a7d7-ba96b68c118d\" on this server. Reference #18.78a61702.1794251138.260eb101 https://errors.edgesuite.net/18.78a61702.1794251138.260eb101"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0014/22bfaf3b-7999-4bba-a7d7-ba96b68c118d\" on this server. Reference #18.8871cd17.1794254738.c1260172 https://errors.edgesuite.net/18.8871cd17.1794254738.c1260172"
         }
       ],
       "attachments": []
@@ -3982,7 +3982,7 @@
           "context": "Le carte della scuola",
           "status": 200,
           "contentType": "text/html; charset=UTF-8",
-          "bytes": 270599,
+          "bytes": 270602,
           "file": "items/04-I.I.S.-Casalpusterlengo/01-attachment"
         }
       ]
