@@ -6,18 +6,93 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-11-09T07:05:35.804Z",
-  "completedAt": "2026-11-09T07:06:13.429Z",
+  "retrievedAt": "2026-11-09T10:05:13.619Z",
+  "completedAt": "2026-11-09T10:05:52.055Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 25003,
+    "textLength": 24986,
     "discoveredCount": 200,
     "safetyLimited": false,
     "processedCount": 4
   },
   "recentEvents": [
+    {
+      "id": "17ad8aa8f17ce1a8",
+      "type": "new",
+      "detectedAt": "2026-11-09T10:05:13.619Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-ii-71",
+      "item": {
+        "id": "9f630ea2ef5bf187",
+        "position": 1,
+        "collectionReason": "new",
+        "listLabel": "I.C. Lodi II",
+        "listContext": "09 novembre 2026 Interpelli ricerca supplenti I.C. Lodi II Scuola primaria G.Pascoli supplenza breve",
+        "title": "I.C. Lodi II",
+        "subtitle": "Scuola primaria G.Pascoli supplenza breve",
+        "publicationDate": "09 novembre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-ii-71",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-ii-71",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0014/22bfaf3b-7999-4bba-a7d7-ba96b68c118d",
+            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0014/22bfaf3b-7999-4bba-a7d7-ba96b68c118d",
+            "httpStatus": 403,
+            "title": "Access Denied",
+            "subtitle": "",
+            "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0014/22bfaf3b-7999-4bba-a7d7-ba96b68c118d\" on this server. Reference #18.8871cd17.1794218725.b4aa8366 https://errors.edgesuite.net/18.8871cd17.1794218725.b4aa8366"
+          }
+        ],
+        "attachments": []
+      }
+    },
+    {
+      "id": "a82f63e6d4b49192",
+      "type": "new",
+      "detectedAt": "2026-11-09T10:05:13.619Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-casalpusterlengo-8",
+      "item": {
+        "id": "407db9bf13aa8037",
+        "position": 2,
+        "collectionReason": "new",
+        "listLabel": "I.I.S. Casalpusterlengo",
+        "listContext": "09 novembre 2026 Interpelli ricerca supplenti I.I.S. Casalpusterlengo Classe di concorso A041 Scienze e tecnologie informatiche",
+        "title": "I.I.S. Casalpusterlengo",
+        "subtitle": "Classe di concorso A041 Scienze e tecnologie informatiche",
+        "publicationDate": "09 novembre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-casalpusterlengo-8",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-i-s-casalpusterlengo-8",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://cesaris.edu.it/tipologia-articolo/interpelli/",
+            "finalUrl": "https://cesaris.edu.it/tipologia-articolo/interpelli/",
+            "httpStatus": 200,
+            "title": "Interpello su classe di concorso A041 Scienze e tecnologie informatiche – IIS A. Cesaris",
+            "subtitle": "",
+            "text": "2026 09 Nov Interpello su classe di concorso A041 Scienze e tecnologie informatiche – IIS A. Cesaris Interpello su classe di concorso A041 Scienze e tecnologie informatiche - IIS A. Cesaris"
+          }
+        ],
+        "attachments": [
+          {
+            "text": "Le carte della scuola",
+            "href": "https://cesaris.edu.it/documento/",
+            "title": "",
+            "context": "Le carte della scuola",
+            "status": 200,
+            "contentType": "text/html; charset=UTF-8",
+            "bytes": 270664,
+            "file": "items/02-I.I.S.-Casalpusterlengo/01-attachment"
+          }
+        ]
+      }
+    },
     {
       "id": "f68eb34a36ff07d4",
       "type": "new",
@@ -3734,8 +3809,71 @@
   ],
   "latestFour": [
     {
-      "id": "f9a30e250083bea6",
+      "id": "9f630ea2ef5bf187",
       "position": 1,
+      "collectionReason": "new",
+      "listLabel": "I.C. Lodi II",
+      "listContext": "09 novembre 2026 Interpelli ricerca supplenti I.C. Lodi II Scuola primaria G.Pascoli supplenza breve",
+      "title": "I.C. Lodi II",
+      "subtitle": "Scuola primaria G.Pascoli supplenza breve",
+      "publicationDate": "09 novembre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-ii-71",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-ii-71",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0014/22bfaf3b-7999-4bba-a7d7-ba96b68c118d",
+          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0014/22bfaf3b-7999-4bba-a7d7-ba96b68c118d",
+          "httpStatus": 403,
+          "title": "Access Denied",
+          "subtitle": "",
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0014/22bfaf3b-7999-4bba-a7d7-ba96b68c118d\" on this server. Reference #18.8871cd17.1794218725.b4aa8366 https://errors.edgesuite.net/18.8871cd17.1794218725.b4aa8366"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "407db9bf13aa8037",
+      "position": 2,
+      "collectionReason": "new",
+      "listLabel": "I.I.S. Casalpusterlengo",
+      "listContext": "09 novembre 2026 Interpelli ricerca supplenti I.I.S. Casalpusterlengo Classe di concorso A041 Scienze e tecnologie informatiche",
+      "title": "I.I.S. Casalpusterlengo",
+      "subtitle": "Classe di concorso A041 Scienze e tecnologie informatiche",
+      "publicationDate": "09 novembre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-casalpusterlengo-8",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-i-s-casalpusterlengo-8",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://cesaris.edu.it/tipologia-articolo/interpelli/",
+          "finalUrl": "https://cesaris.edu.it/tipologia-articolo/interpelli/",
+          "httpStatus": 200,
+          "title": "Interpello su classe di concorso A041 Scienze e tecnologie informatiche – IIS A. Cesaris",
+          "subtitle": "",
+          "text": "2026 09 Nov Interpello su classe di concorso A041 Scienze e tecnologie informatiche – IIS A. Cesaris Interpello su classe di concorso A041 Scienze e tecnologie informatiche - IIS A. Cesaris"
+        }
+      ],
+      "attachments": [
+        {
+          "text": "Le carte della scuola",
+          "href": "https://cesaris.edu.it/documento/",
+          "title": "",
+          "context": "Le carte della scuola",
+          "status": 200,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 270664,
+          "file": "items/02-I.I.S.-Casalpusterlengo/01-attachment"
+        }
+      ]
+    },
+    {
+      "id": "f9a30e250083bea6",
+      "position": 3,
       "collectionReason": "refresh",
       "listLabel": "I.C. Livraga",
       "listContext": "06 novembre 2026 Interpelli ricerca supplenti I.C. Livraga Interpello Sostegno Scuola Primaria - presso l’IC “Maria Scoglio” – Plesso Primaria Livraga e Senna Lod",
@@ -3766,13 +3904,13 @@
           "status": 200,
           "contentType": "text/html; charset=UTF-8",
           "bytes": 389818,
-          "file": "items/01-I.C.-Livraga/01-attachment"
+          "file": "items/03-I.C.-Livraga/01-attachment"
         }
       ]
     },
     {
       "id": "8addbc28bf5b4b61",
-      "position": 2,
+      "position": 4,
       "collectionReason": "refresh",
       "listLabel": "I.C. Codogno",
       "listContext": "05 novembre 2026 Interpelli ricerca supplenti I.C. Codogno SCUOLA SECONDARIA 1 GRADO CLASSE DI CONCORSO A028",
@@ -3792,58 +3930,6 @@
           "title": "INVIO CANDIDATURE PER",
           "subtitle": "",
           "text": "INVIO CANDIDATURE PER INTERPELLI Interpelli selezionati: 0/1 Compila modulo candidature Ricerca : Data Pubblicazione Anno Scolastico Tipo Personale Oggetto Documento Periodo validità 16/09/2026 15:23 2026/2027 DOCENTE INTERPELLO PER SUPPLENZE BREVI E SALTUARIE SCUOLA PRIMARIA/INFANZIA POSTO COMUNE E SOSTEGNO A.S. 2026/27 16/09/2026 00:00 31/12/2026 00:00"
-        }
-      ],
-      "attachments": []
-    },
-    {
-      "id": "4d399e0df20f5c01",
-      "position": 3,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. Lodivecchio",
-      "listContext": "05 novembre 2026 Interpelli ricerca supplenti I.C. Lodivecchio SCUOLA INFANZIA PER SOSTEGNO – 1/2 POSTO 12.5H,",
-      "title": "I.C. Lodivecchio",
-      "subtitle": "SCUOLA INFANZIA PER SOSTEGNO – 1/2 POSTO 12.5H,",
-      "publicationDate": "05 novembre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodivecchio-14",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodivecchio-14",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://nuvola.madisoft.it/interpelli/LOIC80300E/docenti",
-          "finalUrl": "https://nuvola.madisoft.it/interpelli/LOIC80300E/docenti",
-          "httpStatus": 200,
-          "title": "Interpelli per: Personale docente",
-          "subtitle": "Nuvola - Interpelli",
-          "text": "Gestione Interpelli Istituto Comprensivo Statale Antonio Gramsci Codice meccanografico: LOIC80300E LODI VECCHIO (LO) Interpelli per: Personale Docente Cambia ruolo Nessun interpello aperto Non ci sono elementi per la categoria selezionata."
-        }
-      ],
-      "attachments": []
-    },
-    {
-      "id": "52c058f42ca58dec",
-      "position": 4,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. Lodivecchio",
-      "listContext": "05 novembre 2026 Interpelli ricerca supplenti I.C. Lodivecchio SCUOLA PRIMARIA PER SOSTEGNO – 1 POSTO 24H,",
-      "title": "I.C. Lodivecchio",
-      "subtitle": "SCUOLA PRIMARIA PER SOSTEGNO – 1 POSTO 24H,",
-      "publicationDate": "05 novembre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodivecchio-13",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodivecchio-13",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://nuvola.madisoft.it/interpelli/LOIC80300E/docenti",
-          "finalUrl": "https://nuvola.madisoft.it/interpelli/LOIC80300E/docenti",
-          "httpStatus": 200,
-          "title": "Interpelli per: Personale docente",
-          "subtitle": "Nuvola - Interpelli",
-          "text": "Gestione Interpelli Istituto Comprensivo Statale Antonio Gramsci Codice meccanografico: LOIC80300E LODI VECCHIO (LO) Interpelli per: Personale Docente Cambia ruolo Nessun interpello aperto Non ci sono elementi per la categoria selezionata."
         }
       ],
       "attachments": []
