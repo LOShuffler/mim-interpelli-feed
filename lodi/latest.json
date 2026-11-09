@@ -6,18 +6,82 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-11-09T11:05:12.859Z",
-  "completedAt": "2026-11-09T11:05:54.258Z",
+  "retrievedAt": "2026-11-09T12:05:55.226Z",
+  "completedAt": "2026-11-09T12:06:31.130Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 24986,
+    "textLength": 25004,
     "discoveredCount": 200,
     "safetyLimited": false,
     "processedCount": 4
   },
   "recentEvents": [
+    {
+      "id": "6bc7fb1a2e20d2ef",
+      "type": "new",
+      "detectedAt": "2026-11-09T12:05:55.226Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iv-35",
+      "item": {
+        "id": "3e226b62d6a9c5f7",
+        "position": 1,
+        "collectionReason": "new",
+        "listLabel": "I.C. Lodi IV",
+        "listContext": "09 novembre 2026 Interpelli ricerca supplenti I.C. Lodi IV Reclutamento di n. 1 docente SOSTEGNO SCUOLA PRIMARIA ADEE 12 ore settimanali fino al 30/06/2027",
+        "title": "I.C. Lodi IV",
+        "subtitle": "Reclutamento di n. 1 docente SOSTEGNO SCUOLA PRIMARIA ADEE 12 ore settimanali fino al 30/06/2027",
+        "publicationDate": "09 novembre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iv-35",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iv-35",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://www.portaleargo.it/albopretorio/online/",
+            "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
+            "httpStatus": 200,
+            "title": "Albo Pretorio",
+            "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
+            "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accessibilità Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
+          }
+        ],
+        "attachments": []
+      }
+    },
+    {
+      "id": "5bba75b1201b2b3f",
+      "type": "new",
+      "detectedAt": "2026-11-09T12:05:55.226Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iv-34",
+      "item": {
+        "id": "270490709193174b",
+        "position": 2,
+        "collectionReason": "new",
+        "listLabel": "I.C. Lodi IV",
+        "listContext": "09 novembre 2026 Interpelli ricerca supplenti I.C. Lodi IV Reclutamento di N. 1 docente di sostegno scuola infanzia - 25 H SETT. fino al 30/06/27",
+        "title": "I.C. Lodi IV",
+        "subtitle": "Reclutamento di N. 1 docente di sostegno scuola infanzia - 25 H SETT. fino al 30/06/27",
+        "publicationDate": "09 novembre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iv-34",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iv-34",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://www.portaleargo.it/albopretorio/online/",
+            "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
+            "httpStatus": 200,
+            "title": "Albo Pretorio",
+            "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
+            "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accessibilità Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
+          }
+        ],
+        "attachments": []
+      }
+    },
     {
       "id": "17ad8aa8f17ce1a8",
       "type": "new",
@@ -3809,8 +3873,60 @@
   ],
   "latestFour": [
     {
-      "id": "9f630ea2ef5bf187",
+      "id": "3e226b62d6a9c5f7",
       "position": 1,
+      "collectionReason": "new",
+      "listLabel": "I.C. Lodi IV",
+      "listContext": "09 novembre 2026 Interpelli ricerca supplenti I.C. Lodi IV Reclutamento di n. 1 docente SOSTEGNO SCUOLA PRIMARIA ADEE 12 ore settimanali fino al 30/06/2027",
+      "title": "I.C. Lodi IV",
+      "subtitle": "Reclutamento di n. 1 docente SOSTEGNO SCUOLA PRIMARIA ADEE 12 ore settimanali fino al 30/06/2027",
+      "publicationDate": "09 novembre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iv-35",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iv-35",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://www.portaleargo.it/albopretorio/online/",
+          "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
+          "httpStatus": 200,
+          "title": "Albo Pretorio",
+          "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
+          "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accessibilità Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "270490709193174b",
+      "position": 2,
+      "collectionReason": "new",
+      "listLabel": "I.C. Lodi IV",
+      "listContext": "09 novembre 2026 Interpelli ricerca supplenti I.C. Lodi IV Reclutamento di N. 1 docente di sostegno scuola infanzia - 25 H SETT. fino al 30/06/27",
+      "title": "I.C. Lodi IV",
+      "subtitle": "Reclutamento di N. 1 docente di sostegno scuola infanzia - 25 H SETT. fino al 30/06/27",
+      "publicationDate": "09 novembre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iv-34",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iv-34",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://www.portaleargo.it/albopretorio/online/",
+          "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
+          "httpStatus": 200,
+          "title": "Albo Pretorio",
+          "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
+          "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accessibilità Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "9f630ea2ef5bf187",
+      "position": 3,
       "collectionReason": "refresh",
       "listLabel": "I.C. Lodi II",
       "listContext": "09 novembre 2026 Interpelli ricerca supplenti I.C. Lodi II Scuola primaria G.Pascoli supplenza breve",
@@ -3829,14 +3945,14 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0014/22bfaf3b-7999-4bba-a7d7-ba96b68c118d\" on this server. Reference #18.46a61702.1794222324.1cf03e06 https://errors.edgesuite.net/18.46a61702.1794222324.1cf03e06"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0014/22bfaf3b-7999-4bba-a7d7-ba96b68c118d\" on this server. Reference #18.51a61702.1794225980.b99acef https://errors.edgesuite.net/18.51a61702.1794225980.b99acef"
         }
       ],
       "attachments": []
     },
     {
       "id": "407db9bf13aa8037",
-      "position": 2,
+      "position": 4,
       "collectionReason": "refresh",
       "listLabel": "I.I.S. Casalpusterlengo",
       "listContext": "09 novembre 2026 Interpelli ricerca supplenti I.I.S. Casalpusterlengo Classe di concorso A041 Scienze e tecnologie informatiche",
@@ -3860,89 +3976,16 @@
       ],
       "attachments": [
         {
-          "text": "Gestisci opzioni",
-          "href": "https://cesaris.edu.it/documento/curricoli-verticali-degli-indirizzi-di-studio/",
-          "title": "",
-          "context": "Gestisci opzioni",
-          "status": 200,
-          "contentType": "text/html; charset=UTF-8",
-          "bytes": 239198,
-          "file": "items/02-I.I.S.-Casalpusterlengo/01-attachment"
-        },
-        {
           "text": "Le carte della scuola",
           "href": "https://cesaris.edu.it/documento/",
           "title": "",
           "context": "Le carte della scuola",
           "status": 200,
           "contentType": "text/html; charset=UTF-8",
-          "bytes": 270634,
-          "file": "items/02-I.I.S.-Casalpusterlengo/02-attachment"
+          "bytes": 270664,
+          "file": "items/04-I.I.S.-Casalpusterlengo/01-attachment"
         }
       ]
-    },
-    {
-      "id": "f9a30e250083bea6",
-      "position": 3,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. Livraga",
-      "listContext": "06 novembre 2026 Interpelli ricerca supplenti I.C. Livraga Interpello Sostegno Scuola Primaria - presso l’IC “Maria Scoglio” – Plesso Primaria Livraga e Senna Lod",
-      "title": "I.C. Livraga",
-      "subtitle": "Interpello Sostegno Scuola Primaria - presso l’IC “Maria Scoglio” – Plesso Primaria Livraga e Senna Lod",
-      "publicationDate": "06 novembre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-livraga-12",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-livraga-12",
-      "httpStatus": 200,
-      "text": "Link pagina interpelli",
-      "pages": [
-        {
-          "label": "Link pagina interpelli",
-          "url": "https://www.iclivraga.it/interpello/",
-          "finalUrl": "https://www.iclivraga.it/interpello/",
-          "httpStatus": 200,
-          "title": "Accedi ai servizi Chiudi modale",
-          "subtitle": "Homepage del portale scolastico",
-          "text": "Stampa / Condividi Stampa / Condividi Stampa Invia Condividi Facebook WhatsApp Linkedin ANNO SCOLASTICO 2026-2027 Interpello n. 13 Interpello n. 12 (CHIUSO) Interpello n. 11 (CHIUSO) Interpello n. 10 (CHIUSO) Interpello n.9 (CHIUSO) Interpello n.8 (CHIUSO) Interpello n. 7 (CHIUSO) Interpello n.6 (CHIUSO) Interpello n.5 (CHIUSO) Interpello num 4 (CHIUSO) Interpello num 3 (CHIUSO) Interpello num 1(CHIUSO) Interpello num 2(CHIUSO) Modello domanda disponibilità ANNO SCOLASTICO 2025-2026 Interpello n.14(CHIUSO) Interpello n.13 (CHIUSO) Interpello n.12(CHIUSO) Interpello n. 10(CHIUSO) Interpello n.9(CHIUSO) Interpello n. 8 (CHIUSO) Interpello n.7(CHIUSO) Interpello n.6(CHIUSO) Interpello n.5(CHIUSO) Interpello n.4(CHIUSO) Interpello n.3(CHIUSO) Interpello n.2(CHIUSO) Interpello n.1(CHIUSO) Modello domanda disponibilità Pubblicato: 20.09.2024 - Revisione: 06.11.2026 Eccetto dove diversamente specificato, questo articolo è stato rilasciato sotto Licenza Creative Commons Attribuzione CC-BY 4.0."
-        }
-      ],
-      "attachments": [
-        {
-          "text": "Le carte della scuola",
-          "href": "https://www.iclivraga.it/documento/",
-          "title": "",
-          "context": "Le carte della scuola",
-          "status": 200,
-          "contentType": "text/html; charset=UTF-8",
-          "bytes": 389818,
-          "file": "items/03-I.C.-Livraga/01-attachment"
-        }
-      ]
-    },
-    {
-      "id": "8addbc28bf5b4b61",
-      "position": 4,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. Codogno",
-      "listContext": "05 novembre 2026 Interpelli ricerca supplenti I.C. Codogno SCUOLA SECONDARIA 1 GRADO CLASSE DI CONCORSO A028",
-      "title": "I.C. Codogno",
-      "subtitle": "SCUOLA SECONDARIA 1 GRADO CLASSE DI CONCORSO A028",
-      "publicationDate": "05 novembre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-codogno-9",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-codogno-9",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCssOuw4TigJkVw5IBwqAJWw%3d%3d",
-          "finalUrl": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCssOuw4TigJkVw5IBwqAJWw%3d%3d",
-          "httpStatus": 200,
-          "title": "INVIO CANDIDATURE PER",
-          "subtitle": "",
-          "text": "INVIO CANDIDATURE PER INTERPELLI Interpelli selezionati: 0/1 Compila modulo candidature Ricerca : Data Pubblicazione Anno Scolastico Tipo Personale Oggetto Documento Periodo validità 16/09/2026 15:23 2026/2027 DOCENTE INTERPELLO PER SUPPLENZE BREVI E SALTUARIE SCUOLA PRIMARIA/INFANZIA POSTO COMUNE E SOSTEGNO A.S. 2026/27 16/09/2026 00:00 31/12/2026 00:00"
-        }
-      ],
-      "attachments": []
     }
   ],
   "errors": []
