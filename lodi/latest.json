@@ -6,18 +6,99 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-11-16T08:05:13.319Z",
-  "completedAt": "2026-11-16T08:05:50.358Z",
+  "retrievedAt": "2026-11-16T09:05:45.205Z",
+  "completedAt": "2026-11-16T09:06:20.498Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 25137,
+    "textLength": 25221,
     "discoveredCount": 200,
     "safetyLimited": false,
     "processedCount": 4
   },
   "recentEvents": [
+    {
+      "id": "d5c01153f49e2b8b",
+      "type": "new",
+      "detectedAt": "2026-11-16T09:05:45.205Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-s-angelo-lodigiano-14",
+      "item": {
+        "id": "a7e4b85a64fb9b33",
+        "position": 1,
+        "collectionReason": "new",
+        "listLabel": "I.I.S. S. Angelo Lodigiano",
+        "listContext": "16 novembre 2026 Interpelli ricerca supplenti I.I.S. S. Angelo Lodigiano Interpello classe di concorso AS2B",
+        "title": "I.I.S. S. Angelo Lodigiano",
+        "subtitle": "Interpello classe di concorso AS2B",
+        "publicationDate": "16 novembre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-s-angelo-lodigiano-14",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-i-s-s-angelo-lodigiano-14",
+        "httpStatus": 200,
+        "text": "Link pagina intrpello",
+        "pages": [
+          {
+            "label": "Link pagina intrpello",
+            "url": "https://www.iispandinipiazza.edu.it/procedura-di-interpello/",
+            "finalUrl": "https://www.iispandinipiazza.edu.it/procedura-di-interpello/",
+            "httpStatus": 200,
+            "title": "ANNO SCOLASTICO 2026 – 27",
+            "subtitle": "",
+            "text": "Stampa / Condividi Stampa Invia Condividi Facebook Twitter Linkedin L’Ordinanza Ministeriale n. 88/2024 introduce una novità importante: gli interpelli. Si tratta di avvisi pubblici che le scuole sono tenute a pubblicare nel caso in cui non riescano a reperire supplenti tramite le graduatorie. ANNO SCOLASTICO 2026 – 27 INTERPELLI ATTIVI INTERPELLO AS2A INTERPELLO AS2B INTERPELLI SCADUTI INTERPELLO AS2A INTERPELLO AS48 INTERPELLO A054 Interpello A027 Interpello A041 Interpello A020 INTERPELLO A041 INTERPELLO AS2A INTERPELLO A037 ANNUALITA’ PRECEDENTI ANNO SCOLASTICO 2025 – 26 INTERPELLO ADSS INTERPELLO A041 INTERPELLO B003 INTERPELLO A021 INTERPELLO ADSS interpello AS48 Interpello AS12 INTERPELLO A018 nuovo INTERPELLO AS2A INTERPELLO AS2A 12 ORE INTERPELLO ADSS – 1 INTERPELLO ADSS – 2 INTERPELLO AS2A INTERPELLO ADSS INTERPELLO A050 INTERPELLO A045 INTERPELLO ADSS INTERPELLO AS12 INTERPELLO A026 INTERPELLO AS12 INTERPELLO AS48 SCIENZE MOTORIE E SPORTIVE A040 SCIENZE E TECNOLOGIE ELETTRICHE ED ELETTRONICHE A033 SCIENZE E TECNOLOGIE AERONAUTICHE A042 SCIENZE E TECNOLOGIE MECCANICHE A026 INTERPELLO MATEMATICA A027 INTERPELLO MATEMATICA E FISICA A036 INTERPELLO SCIENZE E TECNOLOGIE DELLA LOGISTICA A041 INTERPELLO SCIENZE E TECNOLOGIE INFORMATICHE A050 INTERPELLO SCIENZE NATURALI BIOLOGICHE E CHIMICHE B005 INTERPELLO LABORATORIO DI LOGISTICA B009 INTERPELLO LABORATORIO DI SCIENZE E TECNOLOGIE AERONAUTICHE ANNO SCOLASTICO 2024 – 25 A026 Interpello 9 ore fino al 08.06.2025 A012 INTERPELLO PER 14 ORE IIS PANDINI AB24 LINGUA E CIVILTA’ STRANIERA (INGLESE) CATTEDRA DI 18 ORE SEDE DI SERVIZIO IIS “RAIMONDO PANDINI A040 9 ORE INTERPELLO supplenza breve A050 INTERPELLO PER CATTEDRA INTERNA IIS PANDINI B015 ORE 6 INTERPELLO A014 Interpello per cattedra interna L.A.S. Piazza A020 Interpello per 14 ore I.I.S. Pandini A020 Interpello per cattedra interna I.I.S. Pandini A027 Interpello per 10 ore L.A.S. Piazza A033 Interpello per 9 ore I.I.S. Pandini A036 Interpello per 16 ore I.I.S. Pandini A040 Interpello per 9 ore I.I.S. Pandini A041 Interpello per 9 ore I.I.S. Pandini A041 Interpello per cattedra interna I.I.S. Pandini A042 Interpello per 9 ore I.I.S. Pandini B009 LAB. AEREONAUTICHE 6 ORE INTERPELLO presso I.I.S Pandini di Sant’Angelo Lodigiano B005 LAB. LOGISTICA 8 ORE INTERPELLO presso I.I.S. Pandini di Sant’Angelo Lodigiano A050: INTERPELLO PER SUPPLENZA SU CLASSE DI CONCORSO A-50 (18 ORE) FINO ALL’AVENTE DIRITTO- SEDE DI SERVIZIO LAS “CALLISTO PIAZZA” Pubblicato: 18.09.2024 - Revisione: 16.11.2026 Eccetto dove diversamente specificato, questo articolo è stato rilasciato sotto Licenza Creative Commons Attribuzione 4.0 Italia."
+          }
+        ],
+        "attachments": [
+          {
+            "text": "Le carte della scuola",
+            "href": "https://www.iispandinipiazza.edu.it/documento/",
+            "title": "",
+            "context": "Le carte della scuola",
+            "status": 200,
+            "contentType": "text/html; charset=UTF-8",
+            "bytes": 375081,
+            "file": "items/01-I.I.S.-S.-Angelo-Lodigiano/01-attachment"
+          },
+          {
+            "text": "PNRR",
+            "href": "https://www.iispandinipiazza.edu.it/tipologia-documento/PNRR/",
+            "title": "",
+            "context": "PNRR",
+            "status": 200,
+            "contentType": "text/html; charset=UTF-8",
+            "bytes": 368778,
+            "file": "items/01-I.I.S.-S.-Angelo-Lodigiano/02-attachment"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f906393af320d1ac",
+      "type": "new",
+      "detectedAt": "2026-11-16T09:05:45.205Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/liceo-statale-maffeo-vegio-lodi",
+      "item": {
+        "id": "a78ae20685725c3d",
+        "position": 2,
+        "collectionReason": "new",
+        "listLabel": "Liceo Statale \"Maffeo Vegio\" Lodi",
+        "listContext": "16 novembre 2026 Interpelli ricerca supplenti Liceo Statale \"Maffeo Vegio\" Lodi INTERPELLO AS01 - DISEGNO E STORIA DELL'ARTE NELL'ISTRUZIONE SECONDARIA DI II GRADO - FINO AL 22 DICEMBRE 2026",
+        "title": "Liceo Statale \"Maffeo Vegio\" Lodi",
+        "subtitle": "INTERPELLO AS01 - DISEGNO E STORIA DELL'ARTE NELL'ISTRUZIONE SECONDARIA DI II GRADO - FINO AL 22 DICEMBRE 2026",
+        "publicationDate": "16 novembre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/liceo-statale-maffeo-vegio-lodi",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/liceo-statale-maffeo-vegio-lodi",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://nuvola.madisoft.it/file/api/public-file-preview/LOPM010008/89bb1d79-02e8-4117-a351-8a4d5837894b",
+            "error": "page.goto: Download is starting\nCall log:\n  - navigating to \"https://nuvola.madisoft.it/file/api/public-file-preview/LOPM010008/89bb1d79-02e8-4117-a351-8a4d5837894b\", waiting until \"domcontentloaded\"\n"
+          }
+        ],
+        "attachments": []
+      }
+    },
     {
       "id": "0d12561016044b8c",
       "type": "new",
@@ -2881,9 +2962,78 @@
   ],
   "latestFour": [
     {
-      "id": "0f0048cebf0f8ec5",
+      "id": "a7e4b85a64fb9b33",
       "position": 1,
       "collectionReason": "new",
+      "listLabel": "I.I.S. S. Angelo Lodigiano",
+      "listContext": "16 novembre 2026 Interpelli ricerca supplenti I.I.S. S. Angelo Lodigiano Interpello classe di concorso AS2B",
+      "title": "I.I.S. S. Angelo Lodigiano",
+      "subtitle": "Interpello classe di concorso AS2B",
+      "publicationDate": "16 novembre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-s-angelo-lodigiano-14",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-i-s-s-angelo-lodigiano-14",
+      "httpStatus": 200,
+      "text": "Link pagina intrpello",
+      "pages": [
+        {
+          "label": "Link pagina intrpello",
+          "url": "https://www.iispandinipiazza.edu.it/procedura-di-interpello/",
+          "finalUrl": "https://www.iispandinipiazza.edu.it/procedura-di-interpello/",
+          "httpStatus": 200,
+          "title": "ANNO SCOLASTICO 2026 – 27",
+          "subtitle": "",
+          "text": "Stampa / Condividi Stampa Invia Condividi Facebook Twitter Linkedin L’Ordinanza Ministeriale n. 88/2024 introduce una novità importante: gli interpelli. Si tratta di avvisi pubblici che le scuole sono tenute a pubblicare nel caso in cui non riescano a reperire supplenti tramite le graduatorie. ANNO SCOLASTICO 2026 – 27 INTERPELLI ATTIVI INTERPELLO AS2A INTERPELLO AS2B INTERPELLI SCADUTI INTERPELLO AS2A INTERPELLO AS48 INTERPELLO A054 Interpello A027 Interpello A041 Interpello A020 INTERPELLO A041 INTERPELLO AS2A INTERPELLO A037 ANNUALITA’ PRECEDENTI ANNO SCOLASTICO 2025 – 26 INTERPELLO ADSS INTERPELLO A041 INTERPELLO B003 INTERPELLO A021 INTERPELLO ADSS interpello AS48 Interpello AS12 INTERPELLO A018 nuovo INTERPELLO AS2A INTERPELLO AS2A 12 ORE INTERPELLO ADSS – 1 INTERPELLO ADSS – 2 INTERPELLO AS2A INTERPELLO ADSS INTERPELLO A050 INTERPELLO A045 INTERPELLO ADSS INTERPELLO AS12 INTERPELLO A026 INTERPELLO AS12 INTERPELLO AS48 SCIENZE MOTORIE E SPORTIVE A040 SCIENZE E TECNOLOGIE ELETTRICHE ED ELETTRONICHE A033 SCIENZE E TECNOLOGIE AERONAUTICHE A042 SCIENZE E TECNOLOGIE MECCANICHE A026 INTERPELLO MATEMATICA A027 INTERPELLO MATEMATICA E FISICA A036 INTERPELLO SCIENZE E TECNOLOGIE DELLA LOGISTICA A041 INTERPELLO SCIENZE E TECNOLOGIE INFORMATICHE A050 INTERPELLO SCIENZE NATURALI BIOLOGICHE E CHIMICHE B005 INTERPELLO LABORATORIO DI LOGISTICA B009 INTERPELLO LABORATORIO DI SCIENZE E TECNOLOGIE AERONAUTICHE ANNO SCOLASTICO 2024 – 25 A026 Interpello 9 ore fino al 08.06.2025 A012 INTERPELLO PER 14 ORE IIS PANDINI AB24 LINGUA E CIVILTA’ STRANIERA (INGLESE) CATTEDRA DI 18 ORE SEDE DI SERVIZIO IIS “RAIMONDO PANDINI A040 9 ORE INTERPELLO supplenza breve A050 INTERPELLO PER CATTEDRA INTERNA IIS PANDINI B015 ORE 6 INTERPELLO A014 Interpello per cattedra interna L.A.S. Piazza A020 Interpello per 14 ore I.I.S. Pandini A020 Interpello per cattedra interna I.I.S. Pandini A027 Interpello per 10 ore L.A.S. Piazza A033 Interpello per 9 ore I.I.S. Pandini A036 Interpello per 16 ore I.I.S. Pandini A040 Interpello per 9 ore I.I.S. Pandini A041 Interpello per 9 ore I.I.S. Pandini A041 Interpello per cattedra interna I.I.S. Pandini A042 Interpello per 9 ore I.I.S. Pandini B009 LAB. AEREONAUTICHE 6 ORE INTERPELLO presso I.I.S Pandini di Sant’Angelo Lodigiano B005 LAB. LOGISTICA 8 ORE INTERPELLO presso I.I.S. Pandini di Sant’Angelo Lodigiano A050: INTERPELLO PER SUPPLENZA SU CLASSE DI CONCORSO A-50 (18 ORE) FINO ALL’AVENTE DIRITTO- SEDE DI SERVIZIO LAS “CALLISTO PIAZZA” Pubblicato: 18.09.2024 - Revisione: 16.11.2026 Eccetto dove diversamente specificato, questo articolo è stato rilasciato sotto Licenza Creative Commons Attribuzione 4.0 Italia."
+        }
+      ],
+      "attachments": [
+        {
+          "text": "Le carte della scuola",
+          "href": "https://www.iispandinipiazza.edu.it/documento/",
+          "title": "",
+          "context": "Le carte della scuola",
+          "status": 200,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 375081,
+          "file": "items/01-I.I.S.-S.-Angelo-Lodigiano/01-attachment"
+        },
+        {
+          "text": "PNRR",
+          "href": "https://www.iispandinipiazza.edu.it/tipologia-documento/PNRR/",
+          "title": "",
+          "context": "PNRR",
+          "status": 200,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 368778,
+          "file": "items/01-I.I.S.-S.-Angelo-Lodigiano/02-attachment"
+        }
+      ]
+    },
+    {
+      "id": "a78ae20685725c3d",
+      "position": 2,
+      "collectionReason": "new",
+      "listLabel": "Liceo Statale \"Maffeo Vegio\" Lodi",
+      "listContext": "16 novembre 2026 Interpelli ricerca supplenti Liceo Statale \"Maffeo Vegio\" Lodi INTERPELLO AS01 - DISEGNO E STORIA DELL'ARTE NELL'ISTRUZIONE SECONDARIA DI II GRADO - FINO AL 22 DICEMBRE 2026",
+      "title": "Liceo Statale \"Maffeo Vegio\" Lodi",
+      "subtitle": "INTERPELLO AS01 - DISEGNO E STORIA DELL'ARTE NELL'ISTRUZIONE SECONDARIA DI II GRADO - FINO AL 22 DICEMBRE 2026",
+      "publicationDate": "16 novembre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/liceo-statale-maffeo-vegio-lodi",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/liceo-statale-maffeo-vegio-lodi",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://nuvola.madisoft.it/file/api/public-file-preview/LOPM010008/89bb1d79-02e8-4117-a351-8a4d5837894b",
+          "error": "page.goto: Download is starting\nCall log:\n  - navigating to \"https://nuvola.madisoft.it/file/api/public-file-preview/LOPM010008/89bb1d79-02e8-4117-a351-8a4d5837894b\", waiting until \"domcontentloaded\"\n"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "0f0048cebf0f8ec5",
+      "position": 3,
+      "collectionReason": "refresh",
       "listLabel": "I.C. Borghetto Lodigiano",
       "listContext": "16 novembre 2026 Interpelli ricerca supplenti I.C. Borghetto Lodigiano INTERPELLO PER SELEZIONE POSTO SOSTEGNO PERSONALE DOCENTE PRIMARIA",
       "title": "I.C. Borghetto Lodigiano",
@@ -2908,7 +3058,7 @@
     },
     {
       "id": "2b37af1437150b84",
-      "position": 2,
+      "position": 4,
       "collectionReason": "refresh",
       "listLabel": "I.C. \"C. Collodi\" S. Angelo Lodigiano",
       "listContext": "13 novembre 2026 Interpelli ricerca supplenti I.C. \"C. Collodi\" S. Angelo Lodigiano Interpello su cdc ADEE - sostegno scuola primaria - 24 ore settimanali fino al 21/11/2026",
@@ -2927,80 +3077,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/b2eb7cea-0c48-4fa0-915a-6193428f9b6f\" on this server. Reference #18.8a71cd17.1794816331.8deaa43a https://errors.edgesuite.net/18.8a71cd17.1794816331.8deaa43a"
-        }
-      ],
-      "attachments": []
-    },
-    {
-      "id": "79875da45fc8a7cb",
-      "position": 3,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. Maleo",
-      "listContext": "13 novembre 2026 Interpelli ricerca supplenti I.C. Maleo Interpello sostegno primaria al 30/06 plessi vari",
-      "title": "I.C. Maleo",
-      "subtitle": "Interpello sostegno primaria al 30/06 plessi vari",
-      "publicationDate": "13 novembre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-maleo-25",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-maleo-25",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://www.iccsmaleo.edu.it/tipologia-articolo/interpello/",
-          "finalUrl": "https://www.iccsmaleo.edu.it/tipologia-articolo/interpello/",
-          "httpStatus": 200,
-          "title": "Interpello sostegno primaria 30-06",
-          "subtitle": "",
-          "text": "2026 12 Nov Interpello sostegno primaria 30-06 Interpello sostegno primaria 30-06"
-        }
-      ],
-      "attachments": [
-        {
-          "text": "Le carte della scuola",
-          "href": "https://www.iccsmaleo.edu.it/documento/",
-          "title": "",
-          "context": "Le carte della scuola",
-          "status": 200,
-          "contentType": "text/html; charset=UTF-8",
-          "bytes": 274171,
-          "file": "items/03-I.C.-Maleo/01-attachment"
-        },
-        {
-          "text": "Albo online",
-          "href": "https://www.iccsmaleo.edu.it/tipologia-documento/albo-online/",
-          "title": "",
-          "context": "Albo online",
-          "status": 200,
-          "contentType": "text/html; charset=UTF-8",
-          "bytes": 256864,
-          "file": "items/03-I.C.-Maleo/02-attachment"
-        }
-      ]
-    },
-    {
-      "id": "9b647b82039710ec",
-      "position": 4,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. Casalpusterlengo",
-      "listContext": "12 novembre 2026 Interpelli ricerca supplenti I.C. Casalpusterlengo Supplenza breve AM48",
-      "title": "I.C. Casalpusterlengo",
-      "subtitle": "Supplenza breve AM48",
-      "publicationDate": "12 novembre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-casalpusterlengo-44",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-casalpusterlengo-44",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://nuvola.madisoft.it/interpelli/LOIC80900D/docenti",
-          "finalUrl": "https://nuvola.madisoft.it/interpelli/LOIC80900D/docenti",
-          "httpStatus": 200,
-          "title": "Interpelli per: Personale docente",
-          "subtitle": "Nuvola - Interpelli",
-          "text": "Gestione Interpelli IC Casalpusterlengo Codice meccanografico: LOIC80900D CASALPUSTERLENGO (LO) Interpelli per: Personale Docente Cambia ruolo Nessun interpello aperto Non ci sono elementi per la categoria selezionata."
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/b2eb7cea-0c48-4fa0-915a-6193428f9b6f\" on this server. Reference #18.3468dead.1794819977.8d5c65d https://errors.edgesuite.net/18.3468dead.1794819977.8d5c65d"
         }
       ],
       "attachments": []
