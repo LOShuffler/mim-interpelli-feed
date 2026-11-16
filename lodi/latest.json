@@ -6,13 +6,13 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-11-16T09:05:45.205Z",
-  "completedAt": "2026-11-16T09:06:20.498Z",
+  "retrievedAt": "2026-11-16T10:05:57.188Z",
+  "completedAt": "2026-11-16T10:06:33.103Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 25221,
+    "textLength": 25177,
     "discoveredCount": 200,
     "safetyLimited": false,
     "processedCount": 4
@@ -2964,7 +2964,7 @@
     {
       "id": "a7e4b85a64fb9b33",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.I.S. S. Angelo Lodigiano",
       "listContext": "16 novembre 2026 Interpelli ricerca supplenti I.I.S. S. Angelo Lodigiano Interpello classe di concorso AS2B",
       "title": "I.I.S. S. Angelo Lodigiano",
@@ -3011,7 +3011,7 @@
     {
       "id": "a78ae20685725c3d",
       "position": 2,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "Liceo Statale \"Maffeo Vegio\" Lodi",
       "listContext": "16 novembre 2026 Interpelli ricerca supplenti Liceo Statale \"Maffeo Vegio\" Lodi INTERPELLO AS01 - DISEGNO E STORIA DELL'ARTE NELL'ISTRUZIONE SECONDARIA DI II GRADO - FINO AL 22 DICEMBRE 2026",
       "title": "Liceo Statale \"Maffeo Vegio\" Lodi",
@@ -3031,34 +3031,8 @@
       "attachments": []
     },
     {
-      "id": "0f0048cebf0f8ec5",
-      "position": 3,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. Borghetto Lodigiano",
-      "listContext": "16 novembre 2026 Interpelli ricerca supplenti I.C. Borghetto Lodigiano INTERPELLO PER SELEZIONE POSTO SOSTEGNO PERSONALE DOCENTE PRIMARIA",
-      "title": "I.C. Borghetto Lodigiano",
-      "subtitle": "INTERPELLO PER SELEZIONE POSTO SOSTEGNO PERSONALE DOCENTE PRIMARIA",
-      "publicationDate": "16 novembre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-borghetto-lodigiano-16",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-borghetto-lodigiano-16",
-      "httpStatus": 200,
-      "text": "Link inrepello",
-      "pages": [
-        {
-          "label": "Link inrepello",
-          "url": "https://nuvola.madisoft.it/interpelli/LOIC80400A/docenti/f3aa4b1f-a3ec-4c2a-8bdc-0814154c4968/candidatura",
-          "finalUrl": "https://nuvola.madisoft.it/interpelli/LOIC80400A/docenti/f3aa4b1f-a3ec-4c2a-8bdc-0814154c4968/candidatura",
-          "httpStatus": 200,
-          "title": "Nuvola - Interpelli",
-          "subtitle": "Nuvola - Interpelli",
-          "text": "Gestione Interpelli Interpello non disponibile Le candidature per l'interpello con identificativo \"f3aa4b1f-a3ec-4c2a-8bdc-0814154c4968\" sono già chiuse. Torna agli interpelli aperti Riprova"
-        }
-      ],
-      "attachments": []
-    },
-    {
       "id": "2b37af1437150b84",
-      "position": 4,
+      "position": 3,
       "collectionReason": "refresh",
       "listLabel": "I.C. \"C. Collodi\" S. Angelo Lodigiano",
       "listContext": "13 novembre 2026 Interpelli ricerca supplenti I.C. \"C. Collodi\" S. Angelo Lodigiano Interpello su cdc ADEE - sostegno scuola primaria - 24 ore settimanali fino al 21/11/2026",
@@ -3077,10 +3051,57 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/b2eb7cea-0c48-4fa0-915a-6193428f9b6f\" on this server. Reference #18.3468dead.1794819977.8d5c65d https://errors.edgesuite.net/18.3468dead.1794819977.8d5c65d"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/b2eb7cea-0c48-4fa0-915a-6193428f9b6f\" on this server. Reference #18.1e68dead.1794823581.7da2ee0 https://errors.edgesuite.net/18.1e68dead.1794823581.7da2ee0"
         }
       ],
       "attachments": []
+    },
+    {
+      "id": "79875da45fc8a7cb",
+      "position": 4,
+      "collectionReason": "refresh",
+      "listLabel": "I.C. Maleo",
+      "listContext": "13 novembre 2026 Interpelli ricerca supplenti I.C. Maleo Interpello sostegno primaria al 30/06 plessi vari",
+      "title": "I.C. Maleo",
+      "subtitle": "Interpello sostegno primaria al 30/06 plessi vari",
+      "publicationDate": "13 novembre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-maleo-25",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-maleo-25",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://www.iccsmaleo.edu.it/tipologia-articolo/interpello/",
+          "finalUrl": "https://www.iccsmaleo.edu.it/tipologia-articolo/interpello/",
+          "httpStatus": 200,
+          "title": "Interpello sostegno primaria 30-06",
+          "subtitle": "",
+          "text": "2026 12 Nov Interpello sostegno primaria 30-06 Interpello sostegno primaria 30-06"
+        }
+      ],
+      "attachments": [
+        {
+          "text": "Le carte della scuola",
+          "href": "https://www.iccsmaleo.edu.it/documento/",
+          "title": "",
+          "context": "Le carte della scuola",
+          "status": 200,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 274171,
+          "file": "items/04-I.C.-Maleo/01-attachment"
+        },
+        {
+          "text": "Albo online",
+          "href": "https://www.iccsmaleo.edu.it/tipologia-documento/albo-online/",
+          "title": "",
+          "context": "Albo online",
+          "status": 200,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 256864,
+          "file": "items/04-I.C.-Maleo/02-attachment"
+        }
+      ]
     }
   ],
   "errors": []
