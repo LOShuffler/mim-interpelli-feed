@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-11-16T16:05:55.508Z",
-  "completedAt": "2026-11-16T16:06:31.823Z",
+  "retrievedAt": "2026-11-16T17:05:14.094Z",
+  "completedAt": "2026-11-16T17:05:49.977Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -3127,7 +3127,7 @@
     {
       "id": "238cddbe8089bece",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Zelo Buon Persico",
       "listContext": "16 novembre 2026 Interpelli ricerca supplenti I.C. Zelo Buon Persico Interpello scuola infanzia",
       "title": "I.C. Zelo Buon Persico",
@@ -3145,7 +3145,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0003/802b7cb6-ef7f-4ca4-99ba-7d6fd5562aaf\" on this server. Reference #18.5b7e19b8.1794845167.4de1af91 https://errors.edgesuite.net/18.5b7e19b8.1794845167.4de1af91"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0003/802b7cb6-ef7f-4ca4-99ba-7d6fd5562aaf\" on this server. Reference #18.e9b62417.1794848726.aa50a4d https://errors.edgesuite.net/18.e9b62417.1794848726.aa50a4d"
         }
       ],
       "attachments": []
@@ -3171,7 +3171,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0003/1d804c03-8bb4-468f-951f-c94629aacd3b\" on this server. Reference #18.5b7e19b8.1794845174.4de21dbf https://errors.edgesuite.net/18.5b7e19b8.1794845174.4de21dbf"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0003/1d804c03-8bb4-468f-951f-c94629aacd3b\" on this server. Reference #18.e9b62417.1794848732.aa51b29 https://errors.edgesuite.net/18.e9b62417.1794848732.aa51b29"
         }
       ],
       "attachments": []
