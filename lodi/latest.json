@@ -6,18 +6,62 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-11-16T12:05:15.134Z",
-  "completedAt": "2026-11-16T12:05:53.473Z",
+  "retrievedAt": "2026-11-16T13:05:56.059Z",
+  "completedAt": "2026-11-16T13:06:30.902Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 25177,
+    "textLength": 25193,
     "discoveredCount": 200,
     "safetyLimited": false,
     "processedCount": 4
   },
   "recentEvents": [
+    {
+      "id": "af7195a942914446",
+      "type": "new",
+      "detectedAt": "2026-11-16T13:05:56.059Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-casalpusterlengo-45",
+      "item": {
+        "id": "4ed01fd51c5fd5b3",
+        "position": 1,
+        "collectionReason": "new",
+        "listLabel": "I.C. Casalpusterlengo",
+        "listContext": "16 novembre 2026 Interpelli ricerca supplenti I.C. Casalpusterlengo Interpello posto sostegno Scuola Primaria",
+        "title": "I.C. Casalpusterlengo",
+        "subtitle": "Interpello posto sostegno Scuola Primaria",
+        "publicationDate": "16 novembre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-casalpusterlengo-45",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-casalpusterlengo-45",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://nuvola.madisoft.it/interpelli/LOIC80900D/docenti",
+            "finalUrl": "https://nuvola.madisoft.it/interpelli/LOIC80900D/docenti",
+            "httpStatus": 200,
+            "title": "Interpelli per: Personale docente",
+            "subtitle": "Nuvola - Interpelli",
+            "text": "Gestione Interpelli IC Casalpusterlengo Codice meccanografico: LOIC80900D CASALPUSTERLENGO (LO) Interpelli per: Personale Docente Cambia ruolo Interpello per selezione docente Sostegno Scuola Primaria - Supplenza breve e saltuaria Durata: 24 ore 0 minuti dal 19/11/2026 al 22/12/2026 Presentazione candidature: dal 16/11/2026 12:15 al 18/11/2026 12:15 Posti disponibili: 1 Classe di concorso: ADEE Sostegno nella scuola Primaria Ordine di scuola: PRIMARIA Sede di servizio: Scuola Primaria Documento allegato: Scarica decreto di emissione interpello per Interpello per selezione docente Sostegno Scuola Primaria - Supplenza breve e saltuaria Invia la tua candidatura"
+          }
+        ],
+        "attachments": [
+          {
+            "text": "Scarica decreto di emissione interpelloper Interpello per selezione docente Sostegno Scuola Primaria - Supplenza breve e saltuaria",
+            "href": "https://nuvola.madisoft.it/file/api/public-download-file-from-entity/LOIC80900D/2adcea96-71ec-49f4-9617-cc5eadc493bb",
+            "title": "",
+            "context": "",
+            "status": 200,
+            "contentType": "application/pdf",
+            "bytes": 88327,
+            "file": "items/01-I.C.-Casalpusterlengo/01-firmato_1794826603_SEGNATURA_1794826464_Interpello_per_posto_sostegno_Scuola_primaria_-_supplenza_breve_e_saltuaria_16.11.26.pdf",
+            "extractedText": "                                                                                                              Ministero dell’Istruzione e del Merito\n                                                                                                   Istituto Comprensivo di Casalpusterlengo ad Indirizzo Musicale\n                                                                                                              Via Olimpo, 6 - 26841 CASALPUSTERLENGO (LO)\n                                                                                      Codice Meccanografico LOIC80900D - Codice Fiscale 90518620159 – Codice Univoco Ufficio UFTH6W\n                                                                                                      Tel. 037781940 – 037784379 - E-Mail: loic80900d@istruzione.it\n                                                                                                     PEC loic80900d@pec.istruzione.it – www.iccasalpusterlengo.edu.it\n\n\n\n                                                                              Oggetto: interpello per selezione personale docente.\n\n                                                                                                             IL DIRIGENTE SCOLASTICO\nLOIC80900D - A24EECC - REGISTRO PROTOCOLLO - 0007935 - 16/11/2026 - VII - U\n\n\n\n\n                                                                              VISTO l’articolo 13 comma 23 DELL’OM 88/2024\n                                                                              VISTO il CCNL SCUOLA VIGENTE;\n                                                                              RILEVATA la necessità di provvedere a formulare specifico avviso finalizzato al\n                                                                              reclutamento di docenti forniti dell’abilitazione o, in subordine, del titolo di studio, che\n                                                                              saranno valutati solo se la Convocazione da Graduatoria di Istituto non avrà esito\n                                                                              positivo.\n                                                                              RITENUTO di dover procedere a proporre interpello;\n\n                                                                                                                       INTERPELLA\n\n                                                                              Il personale interessato per le seguenti supplenze:\n\n                                                                              - n. 1 posto, profilo docente SOSTEGNO Scuola Primaria\n                                                                              - supplenza breve e saltuaria\n                                                                              - numero di ore settimanali: 24,00\n                                                                              - durata della supplenza: dal 19/11/2026 al 22/12/2026 (con possibilità di proroga)\n\n                                                                              1   Il candidato/la candidata dovrà possedere i seguenti titoli di studio: abilitazione e,\n                                                                                  in     subordine, titoli di studio che danno accesso alla seconda fascia delle GPS;\n                                                                              2   Ai fini della tutela e della garanzia dell’offerta formativa e nel rispetto delle norme\n                                                                                  di prevenzione e protezione dei rischi, qualora non pervenissero candidature di\n                                                                                  aspiranti in possesso dei titoli richiamati al punto 1, si prenderanno in\n                                                                                  considerazione le eventuali candidature degli aspiranti in possesso di titoli affini a\n                                                                                  quelli previsti al punto 1.\n                                                                              3   La selezione avverrà sulla base dei titoli o dei servizi presentati dai candidati\n                                                                                  secondo i criteri pubblicati all’Albo dell’Istituto e visionabili al seguente link\n                                                                              4   la candidatura dovrà pervenire, a pena di esclusione, unicamente attraverso la\n                                                                                  compilazione del form presente sulla pagina dell’Istituto entro le ore 12.15 del\n                                                                                  18/11/2026 allegando C.V. in formato Europass e copia della Carta d’Identità;\n                                                                              5   la presa di servizio avverrà al termine della valutazione delle candidature\n                                                                                  pervenute,a seguito di comunicazione da parte della segreteria del nostro istituto.\n                                                                              6   si ricorda ai sensi dell’OM 88/2024 l’applicazione dell’articolo 14;\n                                                                              7   aderendo alla procedura in oggetto si autorizza al trattamento dei dati personali\n                                                                                  conformemente al Regolamento (UE) 2016/679 del Parlamento Europeo e del\n                                                                                  Consiglio del 27 aprile 2016 relativo alla protezione delle persone fisiche nonché\n                                                                                  alla libera circolazione di tali dati e che abroga la direttiva 95/46CE e del D.lgs. n.\n                                                                                  196/2003, come modificato dal D.lgs. n. 101/2018 e ss.mm.ii per le finalità proprie\n                                                                                   dell’interpello. Il titolare del trattamento dei dati personali è l’Istituto Comprensivo\n                                                                                  di Casalpusterlengo\n\n\n                                                                                                                                                       Il Dirigente Scolastico\n                                                                                                                                                       Brunella Tirelli\n                                                                                                                                                        Documento firmato digitalmente\n\n\n\n\n                                                                                                         Firmato digitalmente da TIRELLI BRUNELLA\n\f"
+          }
+        ]
+      }
+    },
     {
       "id": "d5c01153f49e2b8b",
       "type": "new",
@@ -2962,8 +3006,46 @@
   ],
   "latestFour": [
     {
-      "id": "a7e4b85a64fb9b33",
+      "id": "4ed01fd51c5fd5b3",
       "position": 1,
+      "collectionReason": "new",
+      "listLabel": "I.C. Casalpusterlengo",
+      "listContext": "16 novembre 2026 Interpelli ricerca supplenti I.C. Casalpusterlengo Interpello posto sostegno Scuola Primaria",
+      "title": "I.C. Casalpusterlengo",
+      "subtitle": "Interpello posto sostegno Scuola Primaria",
+      "publicationDate": "16 novembre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-casalpusterlengo-45",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-casalpusterlengo-45",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://nuvola.madisoft.it/interpelli/LOIC80900D/docenti",
+          "finalUrl": "https://nuvola.madisoft.it/interpelli/LOIC80900D/docenti",
+          "httpStatus": 200,
+          "title": "Interpelli per: Personale docente",
+          "subtitle": "Nuvola - Interpelli",
+          "text": "Gestione Interpelli IC Casalpusterlengo Codice meccanografico: LOIC80900D CASALPUSTERLENGO (LO) Interpelli per: Personale Docente Cambia ruolo Interpello per selezione docente Sostegno Scuola Primaria - Supplenza breve e saltuaria Durata: 24 ore 0 minuti dal 19/11/2026 al 22/12/2026 Presentazione candidature: dal 16/11/2026 12:15 al 18/11/2026 12:15 Posti disponibili: 1 Classe di concorso: ADEE Sostegno nella scuola Primaria Ordine di scuola: PRIMARIA Sede di servizio: Scuola Primaria Documento allegato: Scarica decreto di emissione interpello per Interpello per selezione docente Sostegno Scuola Primaria - Supplenza breve e saltuaria Invia la tua candidatura"
+        }
+      ],
+      "attachments": [
+        {
+          "text": "Scarica decreto di emissione interpelloper Interpello per selezione docente Sostegno Scuola Primaria - Supplenza breve e saltuaria",
+          "href": "https://nuvola.madisoft.it/file/api/public-download-file-from-entity/LOIC80900D/2adcea96-71ec-49f4-9617-cc5eadc493bb",
+          "title": "",
+          "context": "",
+          "status": 200,
+          "contentType": "application/pdf",
+          "bytes": 88327,
+          "file": "items/01-I.C.-Casalpusterlengo/01-firmato_1794826603_SEGNATURA_1794826464_Interpello_per_posto_sostegno_Scuola_primaria_-_supplenza_breve_e_saltuaria_16.11.26.pdf",
+          "extractedText": "                                                                                                              Ministero dell’Istruzione e del Merito\n                                                                                                   Istituto Comprensivo di Casalpusterlengo ad Indirizzo Musicale\n                                                                                                              Via Olimpo, 6 - 26841 CASALPUSTERLENGO (LO)\n                                                                                      Codice Meccanografico LOIC80900D - Codice Fiscale 90518620159 – Codice Univoco Ufficio UFTH6W\n                                                                                                      Tel. 037781940 – 037784379 - E-Mail: loic80900d@istruzione.it\n                                                                                                     PEC loic80900d@pec.istruzione.it – www.iccasalpusterlengo.edu.it\n\n\n\n                                                                              Oggetto: interpello per selezione personale docente.\n\n                                                                                                             IL DIRIGENTE SCOLASTICO\nLOIC80900D - A24EECC - REGISTRO PROTOCOLLO - 0007935 - 16/11/2026 - VII - U\n\n\n\n\n                                                                              VISTO l’articolo 13 comma 23 DELL’OM 88/2024\n                                                                              VISTO il CCNL SCUOLA VIGENTE;\n                                                                              RILEVATA la necessità di provvedere a formulare specifico avviso finalizzato al\n                                                                              reclutamento di docenti forniti dell’abilitazione o, in subordine, del titolo di studio, che\n                                                                              saranno valutati solo se la Convocazione da Graduatoria di Istituto non avrà esito\n                                                                              positivo.\n                                                                              RITENUTO di dover procedere a proporre interpello;\n\n                                                                                                                       INTERPELLA\n\n                                                                              Il personale interessato per le seguenti supplenze:\n\n                                                                              - n. 1 posto, profilo docente SOSTEGNO Scuola Primaria\n                                                                              - supplenza breve e saltuaria\n                                                                              - numero di ore settimanali: 24,00\n                                                                              - durata della supplenza: dal 19/11/2026 al 22/12/2026 (con possibilità di proroga)\n\n                                                                              1   Il candidato/la candidata dovrà possedere i seguenti titoli di studio: abilitazione e,\n                                                                                  in     subordine, titoli di studio che danno accesso alla seconda fascia delle GPS;\n                                                                              2   Ai fini della tutela e della garanzia dell’offerta formativa e nel rispetto delle norme\n                                                                                  di prevenzione e protezione dei rischi, qualora non pervenissero candidature di\n                                                                                  aspiranti in possesso dei titoli richiamati al punto 1, si prenderanno in\n                                                                                  considerazione le eventuali candidature degli aspiranti in possesso di titoli affini a\n                                                                                  quelli previsti al punto 1.\n                                                                              3   La selezione avverrà sulla base dei titoli o dei servizi presentati dai candidati\n                                                                                  secondo i criteri pubblicati all’Albo dell’Istituto e visionabili al seguente link\n                                                                              4   la candidatura dovrà pervenire, a pena di esclusione, unicamente attraverso la\n                                                                                  compilazione del form presente sulla pagina dell’Istituto entro le ore 12.15 del\n                                                                                  18/11/2026 allegando C.V. in formato Europass e copia della Carta d’Identità;\n                                                                              5   la presa di servizio avverrà al termine della valutazione delle candidature\n                                                                                  pervenute,a seguito di comunicazione da parte della segreteria del nostro istituto.\n                                                                              6   si ricorda ai sensi dell’OM 88/2024 l’applicazione dell’articolo 14;\n                                                                              7   aderendo alla procedura in oggetto si autorizza al trattamento dei dati personali\n                                                                                  conformemente al Regolamento (UE) 2016/679 del Parlamento Europeo e del\n                                                                                  Consiglio del 27 aprile 2016 relativo alla protezione delle persone fisiche nonché\n                                                                                  alla libera circolazione di tali dati e che abroga la direttiva 95/46CE e del D.lgs. n.\n                                                                                  196/2003, come modificato dal D.lgs. n. 101/2018 e ss.mm.ii per le finalità proprie\n                                                                                   dell’interpello. Il titolare del trattamento dei dati personali è l’Istituto Comprensivo\n                                                                                  di Casalpusterlengo\n\n\n                                                                                                                                                       Il Dirigente Scolastico\n                                                                                                                                                       Brunella Tirelli\n                                                                                                                                                        Documento firmato digitalmente\n\n\n\n\n                                                                                                         Firmato digitalmente da TIRELLI BRUNELLA\n\f"
+        }
+      ]
+    },
+    {
+      "id": "a7e4b85a64fb9b33",
+      "position": 2,
       "collectionReason": "refresh",
       "listLabel": "I.I.S. S. Angelo Lodigiano",
       "listContext": "16 novembre 2026 Interpelli ricerca supplenti I.I.S. S. Angelo Lodigiano Interpello classe di concorso AS2B",
@@ -2994,7 +3076,7 @@
           "status": 200,
           "contentType": "text/html; charset=UTF-8",
           "bytes": 375081,
-          "file": "items/01-I.I.S.-S.-Angelo-Lodigiano/01-attachment"
+          "file": "items/02-I.I.S.-S.-Angelo-Lodigiano/01-attachment"
         },
         {
           "text": "PNRR",
@@ -3004,13 +3086,13 @@
           "status": 200,
           "contentType": "text/html; charset=UTF-8",
           "bytes": 368778,
-          "file": "items/01-I.I.S.-S.-Angelo-Lodigiano/02-attachment"
+          "file": "items/02-I.I.S.-S.-Angelo-Lodigiano/02-attachment"
         }
       ]
     },
     {
       "id": "a78ae20685725c3d",
-      "position": 2,
+      "position": 3,
       "collectionReason": "refresh",
       "listLabel": "Liceo Statale \"Maffeo Vegio\" Lodi",
       "listContext": "16 novembre 2026 Interpelli ricerca supplenti Liceo Statale \"Maffeo Vegio\" Lodi INTERPELLO AS01 - DISEGNO E STORIA DELL'ARTE NELL'ISTRUZIONE SECONDARIA DI II GRADO - FINO AL 22 DICEMBRE 2026",
@@ -3032,7 +3114,7 @@
     },
     {
       "id": "2b37af1437150b84",
-      "position": 3,
+      "position": 4,
       "collectionReason": "refresh",
       "listLabel": "I.C. \"C. Collodi\" S. Angelo Lodigiano",
       "listContext": "13 novembre 2026 Interpelli ricerca supplenti I.C. \"C. Collodi\" S. Angelo Lodigiano Interpello su cdc ADEE - sostegno scuola primaria - 24 ore settimanali fino al 21/11/2026",
@@ -3051,57 +3133,10 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/b2eb7cea-0c48-4fa0-915a-6193428f9b6f\" on this server. Reference #18.1168dead.1794830741.f4bc9a1 https://errors.edgesuite.net/18.1168dead.1794830741.f4bc9a1"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/b2eb7cea-0c48-4fa0-915a-6193428f9b6f\" on this server. Reference #18.57a61702.1794834388.c06909b https://errors.edgesuite.net/18.57a61702.1794834388.c06909b"
         }
       ],
       "attachments": []
-    },
-    {
-      "id": "79875da45fc8a7cb",
-      "position": 4,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. Maleo",
-      "listContext": "13 novembre 2026 Interpelli ricerca supplenti I.C. Maleo Interpello sostegno primaria al 30/06 plessi vari",
-      "title": "I.C. Maleo",
-      "subtitle": "Interpello sostegno primaria al 30/06 plessi vari",
-      "publicationDate": "13 novembre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-maleo-25",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-maleo-25",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://www.iccsmaleo.edu.it/tipologia-articolo/interpello/",
-          "finalUrl": "https://www.iccsmaleo.edu.it/tipologia-articolo/interpello/",
-          "httpStatus": 200,
-          "title": "Interpello sostegno primaria 30-06",
-          "subtitle": "",
-          "text": "2026 12 Nov Interpello sostegno primaria 30-06 Interpello sostegno primaria 30-06"
-        }
-      ],
-      "attachments": [
-        {
-          "text": "Le carte della scuola",
-          "href": "https://www.iccsmaleo.edu.it/documento/",
-          "title": "",
-          "context": "Le carte della scuola",
-          "status": 200,
-          "contentType": "text/html; charset=UTF-8",
-          "bytes": 274171,
-          "file": "items/04-I.C.-Maleo/01-attachment"
-        },
-        {
-          "text": "Albo online",
-          "href": "https://www.iccsmaleo.edu.it/tipologia-documento/albo-online/",
-          "title": "",
-          "context": "Albo online",
-          "status": 200,
-          "contentType": "text/html; charset=UTF-8",
-          "bytes": 256864,
-          "file": "items/04-I.C.-Maleo/02-attachment"
-        }
-      ]
     }
   ],
   "errors": []
