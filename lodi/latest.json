@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-11-17T05:06:13.423Z",
-  "completedAt": "2026-11-17T05:06:50.476Z",
+  "retrievedAt": "2026-11-17T06:06:06.219Z",
+  "completedAt": "2026-11-17T06:07:03.757Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -3145,7 +3145,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0003/802b7cb6-ef7f-4ca4-99ba-7d6fd5562aaf\" on this server. Reference #18.7e1da17.1794891985.2690877a https://errors.edgesuite.net/18.7e1da17.1794891985.2690877a"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0003/802b7cb6-ef7f-4ca4-99ba-7d6fd5562aaf\" on this server. Reference #18.ee1da17.1794895578.4492b609 https://errors.edgesuite.net/18.ee1da17.1794895578.4492b609"
         }
       ],
       "attachments": []
@@ -3171,7 +3171,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0003/1d804c03-8bb4-468f-951f-c94629aacd3b\" on this server. Reference #18.7e1da17.1794891992.2690d36e https://errors.edgesuite.net/18.7e1da17.1794891992.2690d36e"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0003/1d804c03-8bb4-468f-951f-c94629aacd3b\" on this server. Reference #18.ee1da17.1794895585.4492f02c https://errors.edgesuite.net/18.ee1da17.1794895585.4492f02c"
         }
       ],
       "attachments": []
@@ -3197,7 +3197,7 @@
           "httpStatus": 200,
           "title": "Interpelli per: Personale docente",
           "subtitle": "Nuvola - Interpelli",
-          "text": "Gestione Interpelli IC Casalpusterlengo Codice meccanografico: LOIC80900D CASALPUSTERLENGO (LO) Interpelli per: Personale Docente Cambia ruolo Interpello per selezione docente Sostegno Scuola Primaria - Supplenza breve e saltuaria Durata: 24 ore 0 minuti dal 19/11/2026 al 22/12/2026 Presentazione candidature: dal 16/11/2026 12:15 al 18/11/2026 12:15 Posti disponibili: 1 Classe di concorso: ADEE Sostegno nella scuola Primaria Ordine di scuola: PRIMARIA Sede di servizio: Scuola Primaria Documento allegato: Scarica decreto di emissione interpello per Interpello per selezione docente Sostegno Scuola Primaria - Supplenza breve e saltuaria Invia la tua candidatura Interpello per N.1 posto A-28 - Matematica e scienze scuola sec. primo grado Durata: 18 ore 0 minuti dal 19/11/2026 al 27/11/2026 Presentazione candidature: dal 16/11/2026 12:00 al 18/11/2026 12:00 Posti disponibili: 1 Annotazioni: Possibile eventuale proroga Classe di concorso: A-28 Matematica e scienze Ordine di scuola: SECONDARIA I GRADO Sede di servizio: Scuola Sec. I grado Documento allegato: Scarica decreto di emissione interpello per Interpello per N.1 posto A-28 - Matematica e scienze scuola sec. primo grado Invia la tua candidatura"
+          "text": "Gestione Interpelli Interpelli per: Personale Docente Cambia ruolo Interpello per selezione docente Sostegno Scuola Primaria - Supplenza breve e saltuaria Durata: 24 ore 0 minuti dal 19/11/2026 al 22/12/2026 Presentazione candidature: dal 16/11/2026 12:15 al 18/11/2026 12:15 Posti disponibili: 1 Classe di concorso: ADEE Sostegno nella scuola Primaria Ordine di scuola: PRIMARIA Sede di servizio: Scuola Primaria Documento allegato: Scarica decreto di emissione interpello per Interpello per selezione docente Sostegno Scuola Primaria - Supplenza breve e saltuaria Invia la tua candidatura Interpello per N.1 posto A-28 - Matematica e scienze scuola sec. primo grado Durata: 18 ore 0 minuti dal 19/11/2026 al 27/11/2026 Presentazione candidature: dal 16/11/2026 12:00 al 18/11/2026 12:00 Posti disponibili: 1 Annotazioni: Possibile eventuale proroga Classe di concorso: A-28 Matematica e scienze Ordine di scuola: SECONDARIA I GRADO Sede di servizio: Scuola Sec. I grado Documento allegato: Scarica decreto di emissione interpello per Interpello per N.1 posto A-28 - Matematica e scienze scuola sec. primo grado Invia la tua candidatura"
         }
       ],
       "attachments": [
