@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-11-18T12:06:13.429Z",
-  "completedAt": "2026-11-18T12:06:51.399Z",
+  "retrievedAt": "2026-11-18T14:06:13.952Z",
+  "completedAt": "2026-11-18T14:06:51.060Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -3310,45 +3310,13 @@
         ],
         "attachments": []
       }
-    },
-    {
-      "id": "fa7b66afa1be8274",
-      "type": "new",
-      "detectedAt": "2026-10-19T13:05:13.498Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-zelo-buon-persico-21",
-      "item": {
-        "id": "9a01288dbc7de019",
-        "position": 1,
-        "collectionReason": "new",
-        "listLabel": "I.C. Zelo Buon Persico",
-        "listContext": "19 ottobre 2026 Interpelli ricerca supplenti I.C. Zelo Buon Persico Interpello Sostegno scuola primaria",
-        "title": "I.C. Zelo Buon Persico",
-        "subtitle": "Interpello Sostegno scuola primaria",
-        "publicationDate": "19 ottobre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-zelo-buon-persico-21",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-zelo-buon-persico-21",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0003/9a4866ec-58cb-474e-afa0-ffaa72f54afc",
-            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0003/9a4866ec-58cb-474e-afa0-ffaa72f54afc",
-            "httpStatus": 403,
-            "title": "Access Denied",
-            "subtitle": "",
-            "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0003/9a4866ec-58cb-474e-afa0-ffaa72f54afc\" on this server. Reference #18.43a61702.1792415125.eaba657 https://errors.edgesuite.net/18.43a61702.1792415125.eaba657"
-          }
-        ],
-        "attachments": []
-      }
     }
   ],
   "latestFour": [
     {
       "id": "7f8af24fd4665f25",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Castiglione d'Adda",
       "listContext": "18 novembre 2026 Interpelli ricerca supplenti I.C. Castiglione d'Adda 1 posto comune supplenza breve e saltuaria fino al 05/12/2026",
       "title": "I.C. Castiglione d'Adda",
@@ -3366,13 +3334,37 @@
           "httpStatus": 200,
           "title": "Albo Online",
           "subtitle": "Sito web istituzionale Istituto Comprensivo Castiglione D'Adda - Via Alcide De Gasperi, 30 – 26823 Castiglione d’Adda (LO)",
-          "text": "Salta al contenuto Accedi Istituto Comprensivo di Castiglione d'Adda (LO) Scuola Servizi Novità Didattica Privacy Home > Novità > Albo Online Albo Online Categorie Avvisi 3 Organi Collegiali 15 Graduatorie Nomine personale 5 Contabilità 4 Bandi di gara 1 Convenzioni Incarichi e consulenze Libri di testo Sicurezza Contratti 12 Regolamenti Esami Altro Albo Altre PA Scrutini Tutte le tipologie Avvisi Organi Collegiali Graduatorie Nomine personale Contabilità Bandi di gara Convenzioni Incarichi e consulenze Libri di testo Sicurezza Contratti Regolamenti Esami Altro Albo Altre PA Scrutini Tutte le tipologie 544 2026 Protocollo 9992/2026 del 18/11/2026 Procedura di interpello per selezione personale docente SCUOLA PRIMARIA Pubblicato il: 18/11/2026 Tipologia: Avvisi 543 2026 Protocollo 9948/2026 del 17/11/2026 Decisione a contrarre materiale di Pulizia Infanzia e Secondaria Castiglione d'Adda. Pubblicato il: 17/11/2026 Tipologia: Contabilità 542 2026 Protocollo 9943/2026 del 17/11/2026 Decisione a contrarre madrelingua Inglese e Spagnolo Primaria Bertonico. Pubblicato il: 17/11/2026 Tipologia: Contabilità 541 2026 Protocollo 9918/2026 del 16/11/2026 contratto di lavoro a tempo determinato C. S. FIORENZA del 16-11-2026 al 30-06-2027 Pubblicato il: 16/11/2026 Tipologia: Contratti 540 2026 Protocollo 9903/2026 del 16/11/2026 Proroga contratto suppl. breve e saltuaria EEEE Pubblicato il: 16/11/2026 Tipologia: Contratti 539 2026 Protocollo 9860/2026 del 13/11/2026 contratto tempo determinato c. s. santangelo da 13-11-26 al 30-06-2027 Pubblicato il: 13/11/2026 Tipologia: Contratti 538 2026 Protocollo 9859/2026 del 13/11/2026 risoluzione santangelo del 12-11-2026 Pubblicato il: 13/11/2026 Tipologia: Contratti 535 2026 Protocollo 9781/2026 del 11/11/2026 Verbale consiglio istituto seduta del 04-11-2026 Pubblicato il: 11/11/2026 Tipologia: Organi Collegiali 534 2026 Protocollo 9769/2026 del 11/11/2026 Decisione a contrarre rinnovo servizio dominio aruba Pubblicato il: 11/11/2026 Tipologia: Contabilità 533 2026 Protocollo 9751/2026 del 11/11/2026 Lettera incarico GDL DM 176 Romano Lidia Pubblicato il: 11/11/2026 Tipologia: Nomine personale 1 2 3 ... 4 Pagina successiva Questo sito o gli strumenti terzi da questo utilizzati si avvalgono di cookie necessari al funzionamento ed utili alle finalità illustrate nella COOKIE POLICY. PERSONALIZZA RIFIUTA TUTTI I COOKIES ACCETTA TUTTI I COOKIES Istituto Comprensivo Castiglione D'Adda CONTATTI Istituto Comprensivo Castiglione D'Adda Via Alcide De Gasperi, 30 – 26823 Castiglione d’Adda (LO) Tel: +39 0377 900482 Email: loic80800n@istruzione.it Link per inviare una mail PEC: loic80800n@pec.istruzione.it Link per inviare una mail C.F.: 82503260158 SEZIONE LINK UTILI Cookie policy Note legali Informativa Privacy Ufficio Relazioni con il Pubblico Dichiarazione di accessibilità Obiettivi di accessibilità Whistleblowing Gestione consensi cookie Amministrazione trasparente Pagina visualizzata 220884 volte Sezione Copyright Copyright 2026 | Engineered and powered by Gruppo Spaggiari Parma S.p.A. | Divisione Publishing & New Social Media Disclaimer trattamento dati personali"
+          "text": "Salta al contenuto Accedi Istituto Comprensivo di Castiglione d'Adda (LO) Scuola Servizi Novità Didattica Privacy Home > Novità > Albo Online Albo Online Categorie Avvisi 3 Organi Collegiali 16 Graduatorie Nomine personale 5 Contabilità 4 Bandi di gara 1 Convenzioni Incarichi e consulenze Libri di testo Sicurezza Contratti 13 Regolamenti Esami Altro Albo Altre PA Scrutini Tutte le tipologie Avvisi Organi Collegiali Graduatorie Nomine personale Contabilità Bandi di gara Convenzioni Incarichi e consulenze Libri di testo Sicurezza Contratti Regolamenti Esami Altro Albo Altre PA Scrutini Tutte le tipologie 545 2026 Protocollo 10028/2026 del 18/11/2026 Pubblicazione delibere CI del 04-11-2026 Pubblicato il: 18/11/2026 Tipologia: Organi Collegiali Allegati: DELIBERE PDF.zip 544 2026 Protocollo 9992/2026 del 18/11/2026 Procedura di interpello per selezione personale docente SCUOLA PRIMARIA Pubblicato il: 18/11/2026 Tipologia: Avvisi 537 2026 Protocollo 10029/2026 del 18/11/2026 RISOLUZIONE CONTRATTO C. S. SANTANGELO DEL 12-11-2026 Pubblicato il: 18/11/2026 Tipologia: Contratti 543 2026 Protocollo 9948/2026 del 17/11/2026 Decisione a contrarre materiale di Pulizia Infanzia e Secondaria Castiglione d'Adda. Pubblicato il: 17/11/2026 Tipologia: Contabilità 542 2026 Protocollo 9943/2026 del 17/11/2026 Decisione a contrarre madrelingua Inglese e Spagnolo Primaria Bertonico. Pubblicato il: 17/11/2026 Tipologia: Contabilità 541 2026 Protocollo 9918/2026 del 16/11/2026 contratto di lavoro a tempo determinato C. S. FIORENZA del 16-11-2026 al 30-06-2027 Pubblicato il: 16/11/2026 Tipologia: Contratti 540 2026 Protocollo 9903/2026 del 16/11/2026 Proroga contratto suppl. breve e saltuaria EEEE Pubblicato il: 16/11/2026 Tipologia: Contratti 539 2026 Protocollo 9860/2026 del 13/11/2026 contratto tempo determinato c. s. santangelo da 13-11-26 al 30-06-2027 Pubblicato il: 13/11/2026 Tipologia: Contratti 538 2026 Protocollo 9859/2026 del 13/11/2026 risoluzione santangelo del 12-11-2026 Pubblicato il: 13/11/2026 Tipologia: Contratti 535 2026 Protocollo 9781/2026 del 11/11/2026 Verbale consiglio istituto seduta del 04-11-2026 Pubblicato il: 11/11/2026 Tipologia: Organi Collegiali 1 2 3 ... 5 Pagina successiva Questo sito o gli strumenti terzi da questo utilizzati si avvalgono di cookie necessari al funzionamento ed utili alle finalità illustrate nella COOKIE POLICY. PERSONALIZZA RIFIUTA TUTTI I COOKIES ACCETTA TUTTI I COOKIES Istituto Comprensivo Castiglione D'Adda CONTATTI Istituto Comprensivo Castiglione D'Adda Via Alcide De Gasperi, 30 – 26823 Castiglione d’Adda (LO) Tel: +39 0377 900482 Email: loic80800n@istruzione.it Link per inviare una mail PEC: loic80800n@pec.istruzione.it Link per inviare una mail C.F.: 82503260158 SEZIONE LINK UTILI Cookie policy Note legali Informativa Privacy Ufficio Relazioni con il Pubblico Dichiarazione di accessibilità Obiettivi di accessibilità Whistleblowing Gestione consensi cookie Amministrazione trasparente Pagina visualizzata 220934 volte Sezione Copyright Copyright 2026 | Engineered and powered by Gruppo Spaggiari Parma S.p.A. | Divisione Publishing & New Social Media Disclaimer trattamento dati personali"
         }
       ],
       "attachments": [
         {
           "text": "",
+          "href": "https://web.spaggiari.eu/sdg2/Documenti/LOME0007/mri7mukb06?download=1",
+          "title": "",
+          "context": "DELIBERE PDF.zip",
+          "status": 403,
+          "error": "HTTP 403"
+        },
+        {
+          "text": "",
+          "href": "https://web.spaggiari.eu/sdg2/Documenti/LOME0007/lb0sdg4l42?download=1",
+          "title": "",
+          "context": "",
+          "status": 403,
+          "error": "HTTP 403"
+        },
+        {
+          "text": "",
           "href": "https://web.spaggiari.eu/sdg2/Documenti/LOME0007/o3ga8j6kj5?download=1",
+          "title": "",
+          "context": "",
+          "status": 403,
+          "error": "HTTP 403"
+        },
+        {
+          "text": "",
+          "href": "https://web.spaggiari.eu/sdg2/Documenti/LOME0007/1hpqlb46o3?download=1",
           "title": "",
           "context": "",
           "status": 403,
@@ -3425,30 +3417,6 @@
           "context": "",
           "status": 403,
           "error": "HTTP 403"
-        },
-        {
-          "text": "",
-          "href": "https://web.spaggiari.eu/sdg2/Documenti/LOME0007/g0b288fde5?download=1",
-          "title": "",
-          "context": "",
-          "status": 403,
-          "error": "HTTP 403"
-        },
-        {
-          "text": "",
-          "href": "https://web.spaggiari.eu/sdg2/Documenti/LOME0007/jk8nf7onb1?download=1",
-          "title": "",
-          "context": "",
-          "status": 403,
-          "error": "HTTP 403"
-        },
-        {
-          "text": "",
-          "href": "https://web.spaggiari.eu/sdg2/Documenti/LOME0007/ldqttshvd2?download=1",
-          "title": "",
-          "context": "",
-          "status": 403,
-          "error": "HTTP 403"
         }
       ]
     },
@@ -3473,7 +3441,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/AlboOnline/LOME0004\" on this server. Reference #18.6aa61702.1795003594.1bb8b53c https://errors.edgesuite.net/18.6aa61702.1795003594.1bb8b53c"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/AlboOnline/LOME0004\" on this server. Reference #18.6c1645f.1795010794.b0c2f1ec https://errors.edgesuite.net/18.6c1645f.1795010794.b0c2f1ec"
         }
       ],
       "attachments": []
@@ -3537,7 +3505,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/AlboOnline/LOIT0004?\" on this server. Reference #18.6aa61702.1795003608.1bb8cfb3 https://errors.edgesuite.net/18.6aa61702.1795003608.1bb8cfb3"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/AlboOnline/LOIT0004?\" on this server. Reference #18.6c1645f.1795010808.b0c4c503 https://errors.edgesuite.net/18.6c1645f.1795010808.b0c4c503"
         }
       ],
       "attachments": []
