@@ -6,18 +6,94 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-11-18T10:05:13.152Z",
-  "completedAt": "2026-11-18T10:05:47.479Z",
+  "retrievedAt": "2026-11-18T11:06:13.148Z",
+  "completedAt": "2026-11-18T11:06:49.196Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 24869,
+    "textLength": 24809,
     "discoveredCount": 200,
     "safetyLimited": false,
     "processedCount": 4
   },
   "recentEvents": [
+    {
+      "id": "c068edd30df3ad28",
+      "type": "new",
+      "detectedAt": "2026-11-18T11:06:13.148Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-v-20",
+      "item": {
+        "id": "5dd2ff31c815df16",
+        "position": 1,
+        "collectionReason": "new",
+        "listLabel": "I.C. Lodi V",
+        "listContext": "18 novembre 2026 Interpelli ricerca supplenti I.C. Lodi V Primaria sostegno",
+        "title": "I.C. Lodi V",
+        "subtitle": "Primaria sostegno",
+        "publicationDate": "18 novembre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-v-20",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-v-20",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://web.spaggiari.eu/sdg2/AlboOnline/LOME0004",
+            "finalUrl": "https://web.spaggiari.eu/sdg2/AlboOnline/LOME0004",
+            "httpStatus": 403,
+            "title": "Access Denied",
+            "subtitle": "",
+            "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/AlboOnline/LOME0004\" on this server. Reference #18.f6b62417.1794999985.2ab7ac16 https://errors.edgesuite.net/18.f6b62417.1794999985.2ab7ac16"
+          }
+        ],
+        "attachments": []
+      }
+    },
+    {
+      "id": "532a9f2f9ccdd5fa",
+      "type": "new",
+      "detectedAt": "2026-11-18T11:06:13.148Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodivecchio-15",
+      "item": {
+        "id": "111193957e6012a4",
+        "position": 2,
+        "collectionReason": "new",
+        "listLabel": "I.C. Lodivecchio",
+        "listContext": "18 novembre 2026 Interpelli ricerca supplenti I.C. Lodivecchio SUPPLENZA SCUOLA SECONDARIA AM48 – 14H – DAL 19/11/2026 AL 17/12/2026",
+        "title": "I.C. Lodivecchio",
+        "subtitle": "SUPPLENZA SCUOLA SECONDARIA AM48 – 14H – DAL 19/11/2026 AL 17/12/2026",
+        "publicationDate": "18 novembre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodivecchio-15",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodivecchio-15",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://nuvola.madisoft.it/interpelli/LOIC80300E/docenti",
+            "finalUrl": "https://nuvola.madisoft.it/interpelli/LOIC80300E/docenti",
+            "httpStatus": 200,
+            "title": "Interpelli per: Personale docente",
+            "subtitle": "Nuvola - Interpelli",
+            "text": "Gestione Interpelli Istituto Comprensivo Statale Antonio Gramsci Codice meccanografico: LOIC80300E LODI VECCHIO (LO) Interpelli per: Personale Docente Cambia ruolo DECRETO DI EMISSIONE DI INTERPELLO PER IL CONFERIMENTO DI SUPPLENZE ALLA SCUOLA SECONDARIA AM48 – 14H – DAL 19/11/2026 AL 17/12/2026 Durata: 14 ore 0 minuti dal 19/11/2026 al 17/12/2026 Presentazione candidature: dal 18/11/2026 10:47 al 19/11/2026 12:00 Posti disponibili: 1 Classe di concorso: AM48 Scienze motorie e sportive nella scuola secondaria di I grado Ordine di scuola: SECONDARIA I GRADO Sede di servizio: SECONDARIA I GRADO - A. GRAMSCI DI LODI VECCHIO Documento allegato: Scarica decreto di emissione interpello per DECRETO DI EMISSIONE DI INTERPELLO PER IL CONFERIMENTO DI SUPPLENZE ALLA SCUOLA SECONDARIA AM48 – 14H – DAL 19/11/2026 AL 17/12/2026 Invia la tua candidatura"
+          }
+        ],
+        "attachments": [
+          {
+            "text": "Scarica decreto di emissione interpelloper DECRETO DI EMISSIONE DI INTERPELLO PER IL CONFERIMENTO DI SUPPLENZE ALLA SCUOLA SECONDARIA AM48 – 14H – DAL 19/11/2026 AL 17/12/2026",
+            "href": "https://nuvola.madisoft.it/file/api/public-download-file-from-entity/LOIC80300E/356825af-1883-4f07-89de-b110371f80f4",
+            "title": "",
+            "context": "",
+            "status": 200,
+            "contentType": "application/pdf",
+            "bytes": 297733,
+            "file": "items/02-I.C.-Lodivecchio/01-firmato_1794995450_SEGNATURA_1794995237_Interpello_alternativa_AM48_14H_SECONDARIA.pdf",
+            "extractedText": "                                                                                                                      MINISTERO DELL’ISTRUZIONE E DEL MERITO\n                                                                                                            ISTITUTO COMPRENSIVO STATALE \"A. GRAMSCI\" - Lodi Vecchio\n                                                                                                              Piazza S. Giovanni da Lodi Antica, 4 - 26855 Lodi Vecchio (LO)\n                                                                                                                  Scuola dell'Infanzia - Primaria - Secondaria di I Grado\n                                                                                                      Cod. Mecc. LOIC8030 - Cod. IPA: istsc_loic80300e0E Cod. Univoco UFGMXG\n                                                                                                                          C.F. 92532000152       Tel. 0371-752792\n                                                                                                           PEC: loic80300e@pec.istruzione.it - mail: loic80300e@istruzione.it\n                                                                                                                        Sito web: https://scuolalodivecchio.edu.it/\n\n\n                                                                                 Prot. Vedi segnatura\n\n                                                                                     DECRETO DI EMISSIONE DI INTERPELLO PER IL CONFERIMENTO DI SUPPLENZE ALLA\n                                                                                            SCUOLA SECONDARIA AM48 – 14H – DAL 19/11/2026 AL 17/12/2026\nLOIC80300E - AF255C6 - REGISTRO PROTOCOLLO - 0010069 - 18/11/2026 - VII.1 - U\n\n\n\n\n                                                                                                                                                 All'Ufficio VIII – Ambito Territoriale di Lodi\n                                                                                                                                                                                         All'Albo\n                                                                                                                                                                    A tutti i docenti interessati\n\n                                                                                 Oggetto: Interpello nazionale per il conferimento di n. 1 supplenze (14H) per AM48 - Scuola\n                                                                                 SECONDARIA– a.s. 2026/2027\n\n                                                                                                                        IL DIRIGENTE SCOLASTICO\n\n                                                                                 VISTO       il D.P.R. 28 dicembre 2000, n. 445, recante “Testo unico delle disposizioni legislative\n                                                                                             e regolamentari in materia di documentazione amministrativa”\n                                                                                 VISTO       il D.lgs. n. 165/2001, ed in particolare il comma 4, riguardante l’adozione da parte del\n                                                                                             dirigente scolastico di provvedimenti di gestione delle risorse e del personale\n                                                                                 VISTO       il Decreto legislativo 30 giugno 2003, n. 196, recante “Codice in materia di protezione\n                                                                                             dei dati personali, recante disposizioni per l’adeguamento dell’ordinamento nazionale\n                                                                                             al regolamento (UE) n. 2016/679 del Parlamento europeo e del Consiglio, del 27\n                                                                                             aprile 2016, relativo alla protezione delle persone fisiche con riguardo al trattamento\n                                                                                             dei dati personali, nonché alla libera circolazione di tali dati e che abroga la direttiva\n                                                                                             95/46/CE”, come integrato dal D.lgs. n. 101/18\n                                                                                 VISTA       l’Ordinanza Ministeriale n. 27 del 16 febbraio 2026, recante “Procedure di\n                                                                                             aggiornamento delle graduatorie provinciali e di istituto di cui all’articolo 4, commi 6-\n                                                                                             bis e 6-ter, della legge 3 maggio 1999, n. 124, e di conferimento delle relative\n                                                                                             supplenze per il personale docente ed educativo”\n                                                                                 VISTO       in particolare, l’art. 14 dell’O.M. n. 27/2026, concernente il conferimento delle\n                                                                                             supplenze mediante graduatorie di istituto e, in caso di esaurimento delle stesse,\n                                                                                             mediante interpello\n                                                                                 VISTO       l’art. 15 dell’O.M. n. 27/2026, concernente gli effetti del mancato perfezionamento e\n                                                                                             della risoluzione anticipata del rapporto di lavoro\n                                                                                 VISTA       la nota del Ministero dell’Istruzione e del Merito – Direzione generale per il personale\n                                                                                             scolastico prot. n. 11814 del 06/05/2026, recante “Anno scolastico 2026/2027 –\n                                                                                             Istruzioni e indicazioni operative in materia di supplenze al personale docente,\n                                                                                             educativo ed A.T.A.”\n                                                                                 VISTO       il CCNL del Comparto Istruzione e Ricerca vigente e i precedenti CCNL per le parti\n                                                                                             non abrogate\n                                                                                 VISTA       la nota DGPER prot. n. 23352 del 10/09/2026\n                                                                                 CONSIDERATO che la Convocazione da Graduatoria di Istituto non ha dato esito positivo\n                                                                                 RILEVATA    la necessità di provvedere a formulare specifico avviso finalizzato al reclutamento di\n                                                                                             docenti forniti dell’abilitazione o, in subordine, del titolo di studio,\n\n                                                                                                                                    EMETTE\n                                                                                 avviso per l’individuazione e il reclutamento di personale docente per il conferimento di n. 1 supplenza\n                                                                                 avente le seguenti caratteristiche:\n\n                                                                                                    TIPOLOGIA                    TIPOLOGIA\n                                                                                  ORDINE      CdC             POSTO ORE                              INIZIO          FINE          PLESSO\n                                                                                                     DI POSTO                    SUPPLENZA\n                                                                                                 SCIENZE\n                                                                                                                                                                           SECONDARIA I\n                                                                                                MOTORIE                          SUPPLENZA\n                                                                                SECONDARIA AM48                     1     14                      19/11/2026 17/12/2026 GRADO - A. GRAMSCI\n                                                                                                    E                              BREVE\n                                                                                                                                                                          – LOMM80301G\n                                                                                                SPORTIVE\n\n                                                                                                           Firmato digitalmente da CIRO SORRENTINO\n\f                                                                                La disponibilità sopra indicata è conferita mediante procedura di interpello secondo quanto previsto\n                                                                                dall’O.M. n. 27/2026.\n\n                                                                                Gli aspiranti interessati sono invitati a comunicare la propria disponibilità compilando il form, entro le\n                                                                                ore 12,00 del giorno 19/11/2026, presente nella pagina relativa agli Interpelli disponibile al seguente\n                                                                                link: https://nuvola.madisoft.it/interpelli/LOIC80300E/docenti\n\n                                                                                La candidatura dovrà contenere tutte le dichiarazioni necessarie, rese ai sensi del D.P.R. n. 445/2000,\n                                                                                per consentire la verifica dei requisiti dichiarati, ivi compresi gli estremi del conseguimento del titolo di\n                                                                                abilitazione e/o specializzazione.\n\n                                                                                La supplenza sarà conferita agli aspiranti che avranno presentato domanda nei termini indicati,\n                                                                                tenendo presente le seguenti priorità:\nLOIC80300E - AF255C6 - REGISTRO PROTOCOLLO - 0010069 - 18/11/2026 - VII.1 - U\n\n\n\n\n                                                                                      1. possesso dello specifico titolo di abilitazione all’insegnamento nella scuola SECONDARIA;\n                                                                                      2. in subordine, possesso del titolo di accesso alla seconda fascia delle GPS per la scuola\n                                                                                         SECONDARIA, ossia iscrizione almeno al terzo anno del corso di laurea in Scienze della\n                                                                                         Formazione Primaria, avendo conseguito almeno 150 CFU;\n                                                                                      3. in ulteriore subordine, candidati non in possesso dei predetti requisiti, secondo i seguenti\n                                                                                         criteri di priorità:\n                                                                                           a. la supplenza sarà conferita all’aspirante che abbia già prestato servizio di insegnamento\n                                                                                              presso questa istituzione scolastica, preferibilmente per la medesima tipologia di posto;\n                                                                                           b. anni di insegnamento sulla classe richiesta.\n                                                                                Non saranno prese in considerazione istanze formulate con modalità difformi a quelle indicate nel\n                                                                                presente avviso e non complete delle dichiarazioni obbligatorie.\n                                                                                Non è consentito partecipare alla procedura agli aspiranti già individuati quali destinatari di contratto a\n                                                                                tempo determinato, ai sensi dell’art. 14, comma 22, dell’O.M. n. 27/2026.\n                                                                                Il conferimento della supplenza sarà comunicato all’indirizzo e-mail o al recapito telefonico indicato\n                                                                                dall’aspirante. Il candidato individuato dovrà comunicare formalmente l’accettazione entro 1 ora dal\n                                                                                ricevimento della comunicazione di individuazione. La presa di servizio dovrà avvenire entro le\n                                                                                successive 24 ore, salvo i casi previsti dalla normativa vigente.\n                                                                                Si applicano, in caso di mancata accettazione e/o presa di servizio, le sanzioni di cui all’art. 15\n                                                                                dell’O.M. n. 27/2026.\n                                                                                Degli esiti dell’individuazione sarà data pubblicazione all’Albo dell’Istituzione scolastica, nel rispetto\n                                                                                della normativa in materia di protezione dei dati personali.\n                                                                                I dati personali forniti dagli aspiranti saranno trattati esclusivamente per le finalità connesse alla\n                                                                                presente procedura, nel rispetto del Regolamento (UE) 2016/679 e del D.Lgs. 30 giugno 2003, n. 196,\n                                                                                come modificato dal D.Lgs. 10 agosto 2018, n. 101 e ss.mm.ii., secondo l’informativa sul trattamento\n                                                                                dei dati personali pubblicata sul sito istituzionale.\n                                                                                Il presente avviso è pubblicato sul sito della istituzione scolastica e copia è inviata all’Ambito territoriale\n                                                                                competente.\n\n\n                                                                                Lodi Vecchio, 18/11/2026\n\n\n                                                                                                                                              Il Dirigente Scolastico\n                                                                                                                                                Ing. Ciro Sorrentino\n                                                                                                                       (firmato digitalmente ai sensi del D.Lgs 82/2005 s.m.i. e norme collegate)\n\n\n\n\n                                                                                                           Firmato digitalmente da CIRO SORRENTINO\n\f"
+          }
+        ]
+      }
+    },
     {
       "id": "bdcc2de1f40ae565",
       "type": "new",
@@ -3189,8 +3265,72 @@
   ],
   "latestFour": [
     {
-      "id": "86c3f253eb0032f0",
+      "id": "5dd2ff31c815df16",
       "position": 1,
+      "collectionReason": "new",
+      "listLabel": "I.C. Lodi V",
+      "listContext": "18 novembre 2026 Interpelli ricerca supplenti I.C. Lodi V Primaria sostegno",
+      "title": "I.C. Lodi V",
+      "subtitle": "Primaria sostegno",
+      "publicationDate": "18 novembre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-v-20",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-v-20",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://web.spaggiari.eu/sdg2/AlboOnline/LOME0004",
+          "finalUrl": "https://web.spaggiari.eu/sdg2/AlboOnline/LOME0004",
+          "httpStatus": 403,
+          "title": "Access Denied",
+          "subtitle": "",
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/AlboOnline/LOME0004\" on this server. Reference #18.f6b62417.1794999985.2ab7ac16 https://errors.edgesuite.net/18.f6b62417.1794999985.2ab7ac16"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "111193957e6012a4",
+      "position": 2,
+      "collectionReason": "new",
+      "listLabel": "I.C. Lodivecchio",
+      "listContext": "18 novembre 2026 Interpelli ricerca supplenti I.C. Lodivecchio SUPPLENZA SCUOLA SECONDARIA AM48 – 14H – DAL 19/11/2026 AL 17/12/2026",
+      "title": "I.C. Lodivecchio",
+      "subtitle": "SUPPLENZA SCUOLA SECONDARIA AM48 – 14H – DAL 19/11/2026 AL 17/12/2026",
+      "publicationDate": "18 novembre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodivecchio-15",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodivecchio-15",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://nuvola.madisoft.it/interpelli/LOIC80300E/docenti",
+          "finalUrl": "https://nuvola.madisoft.it/interpelli/LOIC80300E/docenti",
+          "httpStatus": 200,
+          "title": "Interpelli per: Personale docente",
+          "subtitle": "Nuvola - Interpelli",
+          "text": "Gestione Interpelli Istituto Comprensivo Statale Antonio Gramsci Codice meccanografico: LOIC80300E LODI VECCHIO (LO) Interpelli per: Personale Docente Cambia ruolo DECRETO DI EMISSIONE DI INTERPELLO PER IL CONFERIMENTO DI SUPPLENZE ALLA SCUOLA SECONDARIA AM48 – 14H – DAL 19/11/2026 AL 17/12/2026 Durata: 14 ore 0 minuti dal 19/11/2026 al 17/12/2026 Presentazione candidature: dal 18/11/2026 10:47 al 19/11/2026 12:00 Posti disponibili: 1 Classe di concorso: AM48 Scienze motorie e sportive nella scuola secondaria di I grado Ordine di scuola: SECONDARIA I GRADO Sede di servizio: SECONDARIA I GRADO - A. GRAMSCI DI LODI VECCHIO Documento allegato: Scarica decreto di emissione interpello per DECRETO DI EMISSIONE DI INTERPELLO PER IL CONFERIMENTO DI SUPPLENZE ALLA SCUOLA SECONDARIA AM48 – 14H – DAL 19/11/2026 AL 17/12/2026 Invia la tua candidatura"
+        }
+      ],
+      "attachments": [
+        {
+          "text": "Scarica decreto di emissione interpelloper DECRETO DI EMISSIONE DI INTERPELLO PER IL CONFERIMENTO DI SUPPLENZE ALLA SCUOLA SECONDARIA AM48 – 14H – DAL 19/11/2026 AL 17/12/2026",
+          "href": "https://nuvola.madisoft.it/file/api/public-download-file-from-entity/LOIC80300E/356825af-1883-4f07-89de-b110371f80f4",
+          "title": "",
+          "context": "",
+          "status": 200,
+          "contentType": "application/pdf",
+          "bytes": 297733,
+          "file": "items/02-I.C.-Lodivecchio/01-firmato_1794995450_SEGNATURA_1794995237_Interpello_alternativa_AM48_14H_SECONDARIA.pdf",
+          "extractedText": "                                                                                                                      MINISTERO DELL’ISTRUZIONE E DEL MERITO\n                                                                                                            ISTITUTO COMPRENSIVO STATALE \"A. GRAMSCI\" - Lodi Vecchio\n                                                                                                              Piazza S. Giovanni da Lodi Antica, 4 - 26855 Lodi Vecchio (LO)\n                                                                                                                  Scuola dell'Infanzia - Primaria - Secondaria di I Grado\n                                                                                                      Cod. Mecc. LOIC8030 - Cod. IPA: istsc_loic80300e0E Cod. Univoco UFGMXG\n                                                                                                                          C.F. 92532000152       Tel. 0371-752792\n                                                                                                           PEC: loic80300e@pec.istruzione.it - mail: loic80300e@istruzione.it\n                                                                                                                        Sito web: https://scuolalodivecchio.edu.it/\n\n\n                                                                                 Prot. Vedi segnatura\n\n                                                                                     DECRETO DI EMISSIONE DI INTERPELLO PER IL CONFERIMENTO DI SUPPLENZE ALLA\n                                                                                            SCUOLA SECONDARIA AM48 – 14H – DAL 19/11/2026 AL 17/12/2026\nLOIC80300E - AF255C6 - REGISTRO PROTOCOLLO - 0010069 - 18/11/2026 - VII.1 - U\n\n\n\n\n                                                                                                                                                 All'Ufficio VIII – Ambito Territoriale di Lodi\n                                                                                                                                                                                         All'Albo\n                                                                                                                                                                    A tutti i docenti interessati\n\n                                                                                 Oggetto: Interpello nazionale per il conferimento di n. 1 supplenze (14H) per AM48 - Scuola\n                                                                                 SECONDARIA– a.s. 2026/2027\n\n                                                                                                                        IL DIRIGENTE SCOLASTICO\n\n                                                                                 VISTO       il D.P.R. 28 dicembre 2000, n. 445, recante “Testo unico delle disposizioni legislative\n                                                                                             e regolamentari in materia di documentazione amministrativa”\n                                                                                 VISTO       il D.lgs. n. 165/2001, ed in particolare il comma 4, riguardante l’adozione da parte del\n                                                                                             dirigente scolastico di provvedimenti di gestione delle risorse e del personale\n                                                                                 VISTO       il Decreto legislativo 30 giugno 2003, n. 196, recante “Codice in materia di protezione\n                                                                                             dei dati personali, recante disposizioni per l’adeguamento dell’ordinamento nazionale\n                                                                                             al regolamento (UE) n. 2016/679 del Parlamento europeo e del Consiglio, del 27\n                                                                                             aprile 2016, relativo alla protezione delle persone fisiche con riguardo al trattamento\n                                                                                             dei dati personali, nonché alla libera circolazione di tali dati e che abroga la direttiva\n                                                                                             95/46/CE”, come integrato dal D.lgs. n. 101/18\n                                                                                 VISTA       l’Ordinanza Ministeriale n. 27 del 16 febbraio 2026, recante “Procedure di\n                                                                                             aggiornamento delle graduatorie provinciali e di istituto di cui all’articolo 4, commi 6-\n                                                                                             bis e 6-ter, della legge 3 maggio 1999, n. 124, e di conferimento delle relative\n                                                                                             supplenze per il personale docente ed educativo”\n                                                                                 VISTO       in particolare, l’art. 14 dell’O.M. n. 27/2026, concernente il conferimento delle\n                                                                                             supplenze mediante graduatorie di istituto e, in caso di esaurimento delle stesse,\n                                                                                             mediante interpello\n                                                                                 VISTO       l’art. 15 dell’O.M. n. 27/2026, concernente gli effetti del mancato perfezionamento e\n                                                                                             della risoluzione anticipata del rapporto di lavoro\n                                                                                 VISTA       la nota del Ministero dell’Istruzione e del Merito – Direzione generale per il personale\n                                                                                             scolastico prot. n. 11814 del 06/05/2026, recante “Anno scolastico 2026/2027 –\n                                                                                             Istruzioni e indicazioni operative in materia di supplenze al personale docente,\n                                                                                             educativo ed A.T.A.”\n                                                                                 VISTO       il CCNL del Comparto Istruzione e Ricerca vigente e i precedenti CCNL per le parti\n                                                                                             non abrogate\n                                                                                 VISTA       la nota DGPER prot. n. 23352 del 10/09/2026\n                                                                                 CONSIDERATO che la Convocazione da Graduatoria di Istituto non ha dato esito positivo\n                                                                                 RILEVATA    la necessità di provvedere a formulare specifico avviso finalizzato al reclutamento di\n                                                                                             docenti forniti dell’abilitazione o, in subordine, del titolo di studio,\n\n                                                                                                                                    EMETTE\n                                                                                 avviso per l’individuazione e il reclutamento di personale docente per il conferimento di n. 1 supplenza\n                                                                                 avente le seguenti caratteristiche:\n\n                                                                                                    TIPOLOGIA                    TIPOLOGIA\n                                                                                  ORDINE      CdC             POSTO ORE                              INIZIO          FINE          PLESSO\n                                                                                                     DI POSTO                    SUPPLENZA\n                                                                                                 SCIENZE\n                                                                                                                                                                           SECONDARIA I\n                                                                                                MOTORIE                          SUPPLENZA\n                                                                                SECONDARIA AM48                     1     14                      19/11/2026 17/12/2026 GRADO - A. GRAMSCI\n                                                                                                    E                              BREVE\n                                                                                                                                                                          – LOMM80301G\n                                                                                                SPORTIVE\n\n                                                                                                           Firmato digitalmente da CIRO SORRENTINO\n\f                                                                                La disponibilità sopra indicata è conferita mediante procedura di interpello secondo quanto previsto\n                                                                                dall’O.M. n. 27/2026.\n\n                                                                                Gli aspiranti interessati sono invitati a comunicare la propria disponibilità compilando il form, entro le\n                                                                                ore 12,00 del giorno 19/11/2026, presente nella pagina relativa agli Interpelli disponibile al seguente\n                                                                                link: https://nuvola.madisoft.it/interpelli/LOIC80300E/docenti\n\n                                                                                La candidatura dovrà contenere tutte le dichiarazioni necessarie, rese ai sensi del D.P.R. n. 445/2000,\n                                                                                per consentire la verifica dei requisiti dichiarati, ivi compresi gli estremi del conseguimento del titolo di\n                                                                                abilitazione e/o specializzazione.\n\n                                                                                La supplenza sarà conferita agli aspiranti che avranno presentato domanda nei termini indicati,\n                                                                                tenendo presente le seguenti priorità:\nLOIC80300E - AF255C6 - REGISTRO PROTOCOLLO - 0010069 - 18/11/2026 - VII.1 - U\n\n\n\n\n                                                                                      1. possesso dello specifico titolo di abilitazione all’insegnamento nella scuola SECONDARIA;\n                                                                                      2. in subordine, possesso del titolo di accesso alla seconda fascia delle GPS per la scuola\n                                                                                         SECONDARIA, ossia iscrizione almeno al terzo anno del corso di laurea in Scienze della\n                                                                                         Formazione Primaria, avendo conseguito almeno 150 CFU;\n                                                                                      3. in ulteriore subordine, candidati non in possesso dei predetti requisiti, secondo i seguenti\n                                                                                         criteri di priorità:\n                                                                                           a. la supplenza sarà conferita all’aspirante che abbia già prestato servizio di insegnamento\n                                                                                              presso questa istituzione scolastica, preferibilmente per la medesima tipologia di posto;\n                                                                                           b. anni di insegnamento sulla classe richiesta.\n                                                                                Non saranno prese in considerazione istanze formulate con modalità difformi a quelle indicate nel\n                                                                                presente avviso e non complete delle dichiarazioni obbligatorie.\n                                                                                Non è consentito partecipare alla procedura agli aspiranti già individuati quali destinatari di contratto a\n                                                                                tempo determinato, ai sensi dell’art. 14, comma 22, dell’O.M. n. 27/2026.\n                                                                                Il conferimento della supplenza sarà comunicato all’indirizzo e-mail o al recapito telefonico indicato\n                                                                                dall’aspirante. Il candidato individuato dovrà comunicare formalmente l’accettazione entro 1 ora dal\n                                                                                ricevimento della comunicazione di individuazione. La presa di servizio dovrà avvenire entro le\n                                                                                successive 24 ore, salvo i casi previsti dalla normativa vigente.\n                                                                                Si applicano, in caso di mancata accettazione e/o presa di servizio, le sanzioni di cui all’art. 15\n                                                                                dell’O.M. n. 27/2026.\n                                                                                Degli esiti dell’individuazione sarà data pubblicazione all’Albo dell’Istituzione scolastica, nel rispetto\n                                                                                della normativa in materia di protezione dei dati personali.\n                                                                                I dati personali forniti dagli aspiranti saranno trattati esclusivamente per le finalità connesse alla\n                                                                                presente procedura, nel rispetto del Regolamento (UE) 2016/679 e del D.Lgs. 30 giugno 2003, n. 196,\n                                                                                come modificato dal D.Lgs. 10 agosto 2018, n. 101 e ss.mm.ii., secondo l’informativa sul trattamento\n                                                                                dei dati personali pubblicata sul sito istituzionale.\n                                                                                Il presente avviso è pubblicato sul sito della istituzione scolastica e copia è inviata all’Ambito territoriale\n                                                                                competente.\n\n\n                                                                                Lodi Vecchio, 18/11/2026\n\n\n                                                                                                                                              Il Dirigente Scolastico\n                                                                                                                                                Ing. Ciro Sorrentino\n                                                                                                                       (firmato digitalmente ai sensi del D.Lgs 82/2005 s.m.i. e norme collegate)\n\n\n\n\n                                                                                                           Firmato digitalmente da CIRO SORRENTINO\n\f"
+        }
+      ]
+    },
+    {
+      "id": "86c3f253eb0032f0",
+      "position": 3,
       "collectionReason": "refresh",
       "listLabel": "I.T.A.S. \"A. Tosi\" Codogno",
       "listContext": "18 novembre 2026 Interpelli ricerca supplenti I.T.A.S. \"A. Tosi\" Codogno INTERPELLO n.2 per selezione personale DOCENTE A052, 19 ore, Supplenza Breve al 04.12.2026",
@@ -3209,14 +3349,14 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/AlboOnline/LOIT0004?\" on this server. Reference #18.8a71cd17.1794996325.bc15870d https://errors.edgesuite.net/18.8a71cd17.1794996325.bc15870d"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/AlboOnline/LOIT0004?\" on this server. Reference #18.f6b62417.1794999999.2ab7dc4b https://errors.edgesuite.net/18.f6b62417.1794999999.2ab7dc4b"
         }
       ],
       "attachments": []
     },
     {
       "id": "0ae0862eafcec580",
-      "position": 2,
+      "position": 4,
       "collectionReason": "refresh",
       "listLabel": "I.C. Borghetto Lodigiano",
       "listContext": "17 novembre 2026 Interpelli ricerca supplenti I.C. Borghetto Lodigiano POSTO SOSTEGNO PERSONALE DOCENTE INFANZIA",
@@ -3236,58 +3376,6 @@
           "title": "INTERPELLO PER SELEZIONE PERSONALE DOCENTE POSTO DI SOSTEGNO SCUOLA INFANZIA",
           "subtitle": "Nuvola - Interpelli",
           "text": "Gestione Interpelli Torna agli interpelli aperti STEP 1 Dati anagrafici Generalità e contatti STEP 2 Titoli e certificazioni Studio e lingue STEP 3 Abilitazioni Abilitazione all'insegnamento e servizio prestato STEP 4 Esperienze di servizio Incarichi svolti e periodi di servizio STEP 5 Allegati e dichiarazioni Curriculum, altri allegati e dichiarazioni finali STEP 6 Riepilogo Controlla i dati inseriti INTERPELLO PER SELEZIONE PERSONALE DOCENTE POSTO DI SOSTEGNO SCUOLA INFANZIA Durata: 25 ore 0 minuti dal 19/11/2026 al 27/11/2026 Presentazione candidature: dal 17/11/2026 13:30 al 18/11/2026 13:30 Posti disponibili: 1 Annotazioni: A parità di ordine di priorità, la supplenza sarà conferita all'aspirante che abbia già prestato servizio di insegnamento presso questa istituzione scolastica, preferibilmente per la medesima tipologia di posto. Classe di concorso: ADAA Sostegno nella scuola dell’Infanzia Ordine di scuola: INFANZIA Sede di servizio: IC BORGHETTO LODIGIANO (VARI PLESSI) Leggi il testo sul trattamento dei dati STEP 1 DI 6 Dati anagrafici Generalità e contatti Generalità Generalità Nome Cognome Sesso Codice fiscale Data di nascita Comune di nascita Stato di nascita Residenza Residenza Indirizzo di residenza Comune di residenza CAP di residenza Contatti Contatti Email PEC Cellulare Cittadinanza Cittadinanza Cittadino Italiano Cittadino di uno Stato membro UE Cittadino non comunitario con diritto di soggiorno o soggiorno permanente Avanti"
-        }
-      ],
-      "attachments": []
-    },
-    {
-      "id": "238cddbe8089bece",
-      "position": 3,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. Zelo Buon Persico",
-      "listContext": "16 novembre 2026 Interpelli ricerca supplenti I.C. Zelo Buon Persico Interpello scuola infanzia",
-      "title": "I.C. Zelo Buon Persico",
-      "subtitle": "Interpello scuola infanzia",
-      "publicationDate": "16 novembre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-zelo-buon-persico-26",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-zelo-buon-persico-26",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0003/802b7cb6-ef7f-4ca4-99ba-7d6fd5562aaf",
-          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0003/802b7cb6-ef7f-4ca4-99ba-7d6fd5562aaf",
-          "httpStatus": 403,
-          "title": "Access Denied",
-          "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0003/802b7cb6-ef7f-4ca4-99ba-7d6fd5562aaf\" on this server. Reference #18.8a71cd17.1794996338.bc170798 https://errors.edgesuite.net/18.8a71cd17.1794996338.bc170798"
-        }
-      ],
-      "attachments": []
-    },
-    {
-      "id": "c2cd91a401936e80",
-      "position": 4,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. Zelo Buon Persico",
-      "listContext": "16 novembre 2026 Interpelli ricerca supplenti I.C. Zelo Buon Persico Interpello scuola primaria - sostegno",
-      "title": "I.C. Zelo Buon Persico",
-      "subtitle": "Interpello scuola primaria - sostegno",
-      "publicationDate": "16 novembre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-zelo-buon-persico-25",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-zelo-buon-persico-25",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0003/1d804c03-8bb4-468f-951f-c94629aacd3b",
-          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0003/1d804c03-8bb4-468f-951f-c94629aacd3b",
-          "httpStatus": 403,
-          "title": "Access Denied",
-          "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0003/1d804c03-8bb4-468f-951f-c94629aacd3b\" on this server. Reference #18.9271cd17.1794996338.d3d9f060 https://errors.edgesuite.net/18.9271cd17.1794996338.d3d9f060"
         }
       ],
       "attachments": []
