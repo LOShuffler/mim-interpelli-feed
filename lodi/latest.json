@@ -6,18 +6,50 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-11-19T12:06:05.696Z",
-  "completedAt": "2026-11-19T12:06:43.515Z",
+  "retrievedAt": "2026-11-19T13:05:14.228Z",
+  "completedAt": "2026-11-19T13:05:53.155Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 24813,
+    "textLength": 24777,
     "discoveredCount": 200,
     "safetyLimited": false,
     "processedCount": 4
   },
   "recentEvents": [
+    {
+      "id": "05e4cd313e8e9d82",
+      "type": "new",
+      "detectedAt": "2026-11-19T13:05:14.228Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-40",
+      "item": {
+        "id": "8aef87c35067c953",
+        "position": 1,
+        "collectionReason": "new",
+        "listLabel": "I.C. Lodi I",
+        "listContext": "19 novembre 2026 Interpelli ricerca supplenti I.C. Lodi I n.1 posto 4H ADEE fino al 30/06",
+        "title": "I.C. Lodi I",
+        "subtitle": "n.1 posto 4H ADEE fino al 30/06",
+        "publicationDate": "19 novembre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-40",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-40",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://www.portaleargo.it/albopretorio/online/",
+            "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
+            "httpStatus": 200,
+            "title": "Albo Pretorio",
+            "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
+            "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accessibilità Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
+          }
+        ],
+        "attachments": []
+      }
+    },
     {
       "id": "0a2170106bd6af7b",
       "type": "new",
@@ -3250,8 +3282,34 @@
   ],
   "latestFour": [
     {
-      "id": "11613c378157a9cc",
+      "id": "8aef87c35067c953",
       "position": 1,
+      "collectionReason": "new",
+      "listLabel": "I.C. Lodi I",
+      "listContext": "19 novembre 2026 Interpelli ricerca supplenti I.C. Lodi I n.1 posto 4H ADEE fino al 30/06",
+      "title": "I.C. Lodi I",
+      "subtitle": "n.1 posto 4H ADEE fino al 30/06",
+      "publicationDate": "19 novembre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-40",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-i-40",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://www.portaleargo.it/albopretorio/online/",
+          "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
+          "httpStatus": 200,
+          "title": "Albo Pretorio",
+          "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
+          "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accessibilità Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "11613c378157a9cc",
+      "position": 2,
       "collectionReason": "refresh",
       "listLabel": "I.I.S. Codogno",
       "listContext": "19 novembre 2026 Interpelli ricerca supplenti I.I.S. Codogno Classe di concorso A046 - Diritto",
@@ -3277,7 +3335,7 @@
     },
     {
       "id": "7f8af24fd4665f25",
-      "position": 2,
+      "position": 3,
       "collectionReason": "refresh",
       "listLabel": "I.C. Castiglione d'Adda",
       "listContext": "18 novembre 2026 Interpelli ricerca supplenti I.C. Castiglione d'Adda 1 posto comune supplenza breve e saltuaria fino al 05/12/2026",
@@ -3296,7 +3354,7 @@
           "httpStatus": 200,
           "title": "Albo Online",
           "subtitle": "Sito web istituzionale Istituto Comprensivo Castiglione D'Adda - Via Alcide De Gasperi, 30 – 26823 Castiglione d’Adda (LO)",
-          "text": "Salta al contenuto Accedi Istituto Comprensivo di Castiglione d'Adda (LO) Scuola Servizi Novità Didattica Privacy Home > Novità > Albo Online Albo Online Categorie Avvisi 2 Organi Collegiali 16 Graduatorie Nomine personale 5 Contabilità 4 Bandi di gara 1 Convenzioni Incarichi e consulenze Libri di testo Sicurezza Contratti 12 Regolamenti Esami Altro Albo Altre PA Scrutini Tutte le tipologie Avvisi Organi Collegiali Graduatorie Nomine personale Contabilità Bandi di gara Convenzioni Incarichi e consulenze Libri di testo Sicurezza Contratti Regolamenti Esami Altro Albo Altre PA Scrutini Tutte le tipologie 545 2026 Protocollo 10028/2026 del 18/11/2026 Pubblicazione delibere CI del 04-11-2026 Pubblicato il: 18/11/2026 Tipologia: Organi Collegiali Allegati: DELIBERE PDF.zip 544 2026 Protocollo 9992/2026 del 18/11/2026 Procedura di interpello per selezione personale docente SCUOLA PRIMARIA Pubblicato il: 18/11/2026 Tipologia: Avvisi 537 2026 Protocollo 10029/2026 del 18/11/2026 RISOLUZIONE CONTRATTO C. S. SANTANGELO DEL 12-11-2026 Pubblicato il: 18/11/2026 Tipologia: Contratti 543 2026 Protocollo 9948/2026 del 17/11/2026 Decisione a contrarre materiale di Pulizia Infanzia e Secondaria Castiglione d'Adda. Pubblicato il: 17/11/2026 Tipologia: Contabilità 542 2026 Protocollo 9943/2026 del 17/11/2026 Decisione a contrarre madrelingua Inglese e Spagnolo Primaria Bertonico. Pubblicato il: 17/11/2026 Tipologia: Contabilità 541 2026 Protocollo 9918/2026 del 16/11/2026 contratto di lavoro a tempo determinato C. S. FIORENZA del 16-11-2026 al 30-06-2027 Pubblicato il: 16/11/2026 Tipologia: Contratti 540 2026 Protocollo 9903/2026 del 16/11/2026 Proroga contratto suppl. breve e saltuaria EEEE Pubblicato il: 16/11/2026 Tipologia: Contratti 539 2026 Protocollo 9860/2026 del 13/11/2026 contratto tempo determinato c. s. santangelo da 13-11-26 al 30-06-2027 Pubblicato il: 13/11/2026 Tipologia: Contratti 538 2026 Protocollo 9859/2026 del 13/11/2026 risoluzione santangelo del 12-11-2026 Pubblicato il: 13/11/2026 Tipologia: Contratti 535 2026 Protocollo 9781/2026 del 11/11/2026 Verbale consiglio istituto seduta del 04-11-2026 Pubblicato il: 11/11/2026 Tipologia: Organi Collegiali 1 2 3 ... 4 Pagina successiva Questo sito o gli strumenti terzi da questo utilizzati si avvalgono di cookie necessari al funzionamento ed utili alle finalità illustrate nella COOKIE POLICY. PERSONALIZZA RIFIUTA TUTTI I COOKIES ACCETTA TUTTI I COOKIES Istituto Comprensivo Castiglione D'Adda CONTATTI Istituto Comprensivo Castiglione D'Adda Via Alcide De Gasperi, 30 – 26823 Castiglione d’Adda (LO) Tel: +39 0377 900482 Email: loic80800n@istruzione.it Link per inviare una mail PEC: loic80800n@pec.istruzione.it Link per inviare una mail C.F.: 82503260158 SEZIONE LINK UTILI Cookie policy Note legali Informativa Privacy Ufficio Relazioni con il Pubblico Dichiarazione di accessibilità Obiettivi di accessibilità Whistleblowing Gestione consensi cookie Amministrazione trasparente Pagina visualizzata 221265 volte Sezione Copyright Copyright 2026 | Engineered and powered by Gruppo Spaggiari Parma S.p.A. | Divisione Publishing & New Social Media Disclaimer trattamento dati personali"
+          "text": "Salta al contenuto Accedi Istituto Comprensivo di Castiglione d'Adda (LO) Scuola Servizi Novità Didattica Privacy Home > Novità > Albo Online Albo Online Categorie Avvisi 2 Organi Collegiali 16 Graduatorie Nomine personale 5 Contabilità 4 Bandi di gara 1 Convenzioni Incarichi e consulenze Libri di testo Sicurezza Contratti 12 Regolamenti Esami Altro Albo Altre PA Scrutini Tutte le tipologie Avvisi Organi Collegiali Graduatorie Nomine personale Contabilità Bandi di gara Convenzioni Incarichi e consulenze Libri di testo Sicurezza Contratti Regolamenti Esami Altro Albo Altre PA Scrutini Tutte le tipologie 545 2026 Protocollo 10028/2026 del 18/11/2026 Pubblicazione delibere CI del 04-11-2026 Pubblicato il: 18/11/2026 Tipologia: Organi Collegiali Allegati: DELIBERE PDF.zip 544 2026 Protocollo 9992/2026 del 18/11/2026 Procedura di interpello per selezione personale docente SCUOLA PRIMARIA Pubblicato il: 18/11/2026 Tipologia: Avvisi 537 2026 Protocollo 10029/2026 del 18/11/2026 RISOLUZIONE CONTRATTO C. S. SANTANGELO DEL 12-11-2026 Pubblicato il: 18/11/2026 Tipologia: Contratti 543 2026 Protocollo 9948/2026 del 17/11/2026 Decisione a contrarre materiale di Pulizia Infanzia e Secondaria Castiglione d'Adda. Pubblicato il: 17/11/2026 Tipologia: Contabilità 542 2026 Protocollo 9943/2026 del 17/11/2026 Decisione a contrarre madrelingua Inglese e Spagnolo Primaria Bertonico. Pubblicato il: 17/11/2026 Tipologia: Contabilità 541 2026 Protocollo 9918/2026 del 16/11/2026 contratto di lavoro a tempo determinato C. S. FIORENZA del 16-11-2026 al 30-06-2027 Pubblicato il: 16/11/2026 Tipologia: Contratti 540 2026 Protocollo 9903/2026 del 16/11/2026 Proroga contratto suppl. breve e saltuaria EEEE Pubblicato il: 16/11/2026 Tipologia: Contratti 539 2026 Protocollo 9860/2026 del 13/11/2026 contratto tempo determinato c. s. santangelo da 13-11-26 al 30-06-2027 Pubblicato il: 13/11/2026 Tipologia: Contratti 538 2026 Protocollo 9859/2026 del 13/11/2026 risoluzione santangelo del 12-11-2026 Pubblicato il: 13/11/2026 Tipologia: Contratti 535 2026 Protocollo 9781/2026 del 11/11/2026 Verbale consiglio istituto seduta del 04-11-2026 Pubblicato il: 11/11/2026 Tipologia: Organi Collegiali 1 2 3 ... 4 Pagina successiva Questo sito o gli strumenti terzi da questo utilizzati si avvalgono di cookie necessari al funzionamento ed utili alle finalità illustrate nella COOKIE POLICY. PERSONALIZZA RIFIUTA TUTTI I COOKIES ACCETTA TUTTI I COOKIES Istituto Comprensivo Castiglione D'Adda CONTATTI Istituto Comprensivo Castiglione D'Adda Via Alcide De Gasperi, 30 – 26823 Castiglione d’Adda (LO) Tel: +39 0377 900482 Email: loic80800n@istruzione.it Link per inviare una mail PEC: loic80800n@pec.istruzione.it Link per inviare una mail C.F.: 82503260158 SEZIONE LINK UTILI Cookie policy Note legali Informativa Privacy Ufficio Relazioni con il Pubblico Dichiarazione di accessibilità Obiettivi di accessibilità Whistleblowing Gestione consensi cookie Amministrazione trasparente Pagina visualizzata 221314 volte Sezione Copyright Copyright 2026 | Engineered and powered by Gruppo Spaggiari Parma S.p.A. | Divisione Publishing & New Social Media Disclaimer trattamento dati personali"
         }
       ],
       "attachments": [
@@ -3384,7 +3442,7 @@
     },
     {
       "id": "5dd2ff31c815df16",
-      "position": 3,
+      "position": 4,
       "collectionReason": "refresh",
       "listLabel": "I.C. Lodi V",
       "listContext": "18 novembre 2026 Interpelli ricerca supplenti I.C. Lodi V Primaria sostegno",
@@ -3403,33 +3461,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/AlboOnline/LOME0004\" on this server. Reference #18.2468dead.1795089993.121f0eed https://errors.edgesuite.net/18.2468dead.1795089993.121f0eed"
-        }
-      ],
-      "attachments": []
-    },
-    {
-      "id": "111193957e6012a4",
-      "position": 4,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. Lodivecchio",
-      "listContext": "18 novembre 2026 Interpelli ricerca supplenti I.C. Lodivecchio SUPPLENZA SCUOLA SECONDARIA AM48 – 14H – DAL 19/11/2026 AL 17/12/2026",
-      "title": "I.C. Lodivecchio",
-      "subtitle": "SUPPLENZA SCUOLA SECONDARIA AM48 – 14H – DAL 19/11/2026 AL 17/12/2026",
-      "publicationDate": "18 novembre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodivecchio-15",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodivecchio-15",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://nuvola.madisoft.it/interpelli/LOIC80300E/docenti",
-          "finalUrl": "https://nuvola.madisoft.it/interpelli/LOIC80300E/docenti",
-          "httpStatus": 200,
-          "title": "Interpelli per: Personale docente",
-          "subtitle": "Nuvola - Interpelli",
-          "text": "Gestione Interpelli Istituto Comprensivo Statale Antonio Gramsci Codice meccanografico: LOIC80300E LODI VECCHIO (LO) Interpelli per: Personale Docente Cambia ruolo Nessun interpello aperto Non ci sono elementi per la categoria selezionata."
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/AlboOnline/LOME0004\" on this server. Reference #18.617e19b8.1795093550.4ebdd3ab https://errors.edgesuite.net/18.617e19b8.1795093550.4ebdd3ab"
         }
       ],
       "attachments": []
