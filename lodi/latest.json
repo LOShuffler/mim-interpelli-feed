@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-11-21T10:05:19.405Z",
-  "completedAt": "2026-11-21T10:06:05.835Z",
+  "retrievedAt": "2026-11-21T11:05:18.973Z",
+  "completedAt": "2026-11-21T11:05:56.661Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -3215,49 +3215,6 @@
         ],
         "attachments": []
       }
-    },
-    {
-      "id": "26de973ff9b49feb",
-      "type": "new",
-      "detectedAt": "2026-10-22T11:05:12.638Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-casalpusterlengo-7",
-      "item": {
-        "id": "661d76226409d2eb",
-        "position": 1,
-        "collectionReason": "new",
-        "listLabel": "I.I.S. Casalpusterlengo",
-        "listContext": "22 ottobre 2026 Interpelli ricerca supplenti I.I.S. Casalpusterlengo Classe di concorso A034 - IIS A. Cesaris",
-        "title": "I.I.S. Casalpusterlengo",
-        "subtitle": "Classe di concorso A034 - IIS A. Cesaris",
-        "publicationDate": "22 ottobre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-casalpusterlengo-7",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-i-s-casalpusterlengo-7",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://cesaris.edu.it/tipologia-articolo/interpelli/",
-            "finalUrl": "https://cesaris.edu.it/tipologia-articolo/interpelli/",
-            "httpStatus": 200,
-            "title": "Interpello A034 scienze e tecnologie chimiche – IIS A. Cesaris",
-            "subtitle": "",
-            "text": "2026 22 Ott Interpello A034 scienze e tecnologie chimiche – IIS A. Cesaris Interpello A034 scienze e tecnologie chimiche - IIS A. Cesaris"
-          }
-        ],
-        "attachments": [
-          {
-            "text": "Le carte della scuola",
-            "href": "https://cesaris.edu.it/documento/",
-            "title": "",
-            "context": "Le carte della scuola",
-            "status": 200,
-            "contentType": "text/html; charset=UTF-8",
-            "bytes": 270618,
-            "file": "items/01-I.I.S.-Casalpusterlengo/01-attachment"
-          }
-        ]
-      }
     }
   ],
   "latestFour": [
@@ -3372,7 +3329,7 @@
           "httpStatus": 200,
           "title": "Albo Online",
           "subtitle": "Sito web istituzionale Istituto Comprensivo Castiglione D'Adda - Via Alcide De Gasperi, 30 – 26823 Castiglione d’Adda (LO)",
-          "text": "Salta al contenuto Accedi Istituto Comprensivo di Castiglione d'Adda (LO) Scuola Servizi Novità Didattica Privacy Home > Novità > Albo Online Albo Online Categorie Avvisi 2 Organi Collegiali 16 Graduatorie Nomine personale 5 Contabilità 4 Bandi di gara 1 Convenzioni Incarichi e consulenze Libri di testo Sicurezza Contratti 11 Regolamenti Esami Altro Albo Altre PA Scrutini Tutte le tipologie Avvisi Organi Collegiali Graduatorie Nomine personale Contabilità Bandi di gara Convenzioni Incarichi e consulenze Libri di testo Sicurezza Contratti Regolamenti Esami Altro Albo Altre PA Scrutini Tutte le tipologie 548 2026 Protocollo 10159/2026 del 20/11/2026 Contratto breve C. S. Gelera del 20-11-2026 Pubblicato il: 20/11/2026 Tipologia: Contratti 547 2026 Protocollo 10144/2026 del 20/11/2026 Decisione a contrarre Laboratorio Musicale e Teatrale Primaria di Turano L. Pubblicato il: 20/11/2026 Tipologia: Contabilità 546 2026 Protocollo 10074/2026 del 19/11/2026 contratti di lavoro breve C. S. Veneziani Eva del 19-11-26 Pubblicato il: 19/11/2026 Tipologia: Contratti 545 2026 Protocollo 10028/2026 del 18/11/2026 Pubblicazione delibere CI del 04-11-2026 Pubblicato il: 18/11/2026 Tipologia: Organi Collegiali Allegati: DELIBERE PDF.zip 544 2026 Protocollo 9992/2026 del 18/11/2026 Procedura di interpello per selezione personale docente SCUOLA PRIMARIA Pubblicato il: 18/11/2026 Tipologia: Avvisi 537 2026 Protocollo 10029/2026 del 18/11/2026 RISOLUZIONE CONTRATTO C. S. SANTANGELO DEL 12-11-2026 Pubblicato il: 18/11/2026 Tipologia: Contratti 543 2026 Protocollo 9948/2026 del 17/11/2026 Decisione a contrarre materiale di Pulizia Infanzia e Secondaria Castiglione d'Adda. Pubblicato il: 17/11/2026 Tipologia: Contabilità 542 2026 Protocollo 9943/2026 del 17/11/2026 Decisione a contrarre madrelingua Inglese e Spagnolo Primaria Bertonico. Pubblicato il: 17/11/2026 Tipologia: Contabilità 541 2026 Protocollo 9918/2026 del 16/11/2026 contratto di lavoro a tempo determinato C. S. FIORENZA del 16-11-2026 al 30-06-2027 Pubblicato il: 16/11/2026 Tipologia: Contratti 540 2026 Protocollo 9903/2026 del 16/11/2026 Proroga contratto suppl. breve e saltuaria EEEE Pubblicato il: 16/11/2026 Tipologia: Contratti 1 2 3 ... 4 Pagina successiva Questo sito o gli strumenti terzi da questo utilizzati si avvalgono di cookie necessari al funzionamento ed utili alle finalità illustrate nella COOKIE POLICY. PERSONALIZZA RIFIUTA TUTTI I COOKIES ACCETTA TUTTI I COOKIES Istituto Comprensivo Castiglione D'Adda CONTATTI Istituto Comprensivo Castiglione D'Adda Via Alcide De Gasperi, 30 – 26823 Castiglione d’Adda (LO) Tel: +39 0377 900482 Email: loic80800n@istruzione.it Link per inviare una mail PEC: loic80800n@pec.istruzione.it Link per inviare una mail C.F.: 82503260158 SEZIONE LINK UTILI Cookie policy Note legali Informativa Privacy Ufficio Relazioni con il Pubblico Dichiarazione di accessibilità Obiettivi di accessibilità Whistleblowing Gestione consensi cookie Amministrazione trasparente Pagina visualizzata 221846 volte Sezione Copyright Copyright 2026 | Engineered and powered by Gruppo Spaggiari Parma S.p.A. | Divisione Publishing & New Social Media Disclaimer trattamento dati personali"
+          "text": "Salta al contenuto Accedi Istituto Comprensivo di Castiglione d'Adda (LO) Scuola Servizi Novità Didattica Privacy Home > Novità > Albo Online Albo Online Categorie Avvisi 2 Organi Collegiali 16 Graduatorie Nomine personale 5 Contabilità 4 Bandi di gara 1 Convenzioni Incarichi e consulenze Libri di testo Sicurezza Contratti 11 Regolamenti Esami Altro Albo Altre PA Scrutini Tutte le tipologie Avvisi Organi Collegiali Graduatorie Nomine personale Contabilità Bandi di gara Convenzioni Incarichi e consulenze Libri di testo Sicurezza Contratti Regolamenti Esami Altro Albo Altre PA Scrutini Tutte le tipologie 548 2026 Protocollo 10159/2026 del 20/11/2026 Contratto breve C. S. Gelera del 20-11-2026 Pubblicato il: 20/11/2026 Tipologia: Contratti 547 2026 Protocollo 10144/2026 del 20/11/2026 Decisione a contrarre Laboratorio Musicale e Teatrale Primaria di Turano L. Pubblicato il: 20/11/2026 Tipologia: Contabilità 546 2026 Protocollo 10074/2026 del 19/11/2026 contratti di lavoro breve C. S. Veneziani Eva del 19-11-26 Pubblicato il: 19/11/2026 Tipologia: Contratti 545 2026 Protocollo 10028/2026 del 18/11/2026 Pubblicazione delibere CI del 04-11-2026 Pubblicato il: 18/11/2026 Tipologia: Organi Collegiali Allegati: DELIBERE PDF.zip 544 2026 Protocollo 9992/2026 del 18/11/2026 Procedura di interpello per selezione personale docente SCUOLA PRIMARIA Pubblicato il: 18/11/2026 Tipologia: Avvisi 537 2026 Protocollo 10029/2026 del 18/11/2026 RISOLUZIONE CONTRATTO C. S. SANTANGELO DEL 12-11-2026 Pubblicato il: 18/11/2026 Tipologia: Contratti 543 2026 Protocollo 9948/2026 del 17/11/2026 Decisione a contrarre materiale di Pulizia Infanzia e Secondaria Castiglione d'Adda. Pubblicato il: 17/11/2026 Tipologia: Contabilità 542 2026 Protocollo 9943/2026 del 17/11/2026 Decisione a contrarre madrelingua Inglese e Spagnolo Primaria Bertonico. Pubblicato il: 17/11/2026 Tipologia: Contabilità 541 2026 Protocollo 9918/2026 del 16/11/2026 contratto di lavoro a tempo determinato C. S. FIORENZA del 16-11-2026 al 30-06-2027 Pubblicato il: 16/11/2026 Tipologia: Contratti 540 2026 Protocollo 9903/2026 del 16/11/2026 Proroga contratto suppl. breve e saltuaria EEEE Pubblicato il: 16/11/2026 Tipologia: Contratti 1 2 3 ... 4 Pagina successiva Questo sito o gli strumenti terzi da questo utilizzati si avvalgono di cookie necessari al funzionamento ed utili alle finalità illustrate nella COOKIE POLICY. PERSONALIZZA RIFIUTA TUTTI I COOKIES ACCETTA TUTTI I COOKIES Istituto Comprensivo Castiglione D'Adda CONTATTI Istituto Comprensivo Castiglione D'Adda Via Alcide De Gasperi, 30 – 26823 Castiglione d’Adda (LO) Tel: +39 0377 900482 Email: loic80800n@istruzione.it Link per inviare una mail PEC: loic80800n@pec.istruzione.it Link per inviare una mail C.F.: 82503260158 SEZIONE LINK UTILI Cookie policy Note legali Informativa Privacy Ufficio Relazioni con il Pubblico Dichiarazione di accessibilità Obiettivi di accessibilità Whistleblowing Gestione consensi cookie Amministrazione trasparente Pagina visualizzata 221848 volte Sezione Copyright Copyright 2026 | Engineered and powered by Gruppo Spaggiari Parma S.p.A. | Divisione Publishing & New Social Media Disclaimer trattamento dati personali"
         }
       ],
       "attachments": [
