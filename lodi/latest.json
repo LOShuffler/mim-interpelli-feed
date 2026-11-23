@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-11-23T09:05:22.375Z",
-  "completedAt": "2026-11-23T09:06:03.351Z",
+  "retrievedAt": "2026-11-23T10:05:37.929Z",
+  "completedAt": "2026-11-23T10:06:25.994Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -3081,7 +3081,7 @@
     {
       "id": "925fd7eeebcab9c7",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "Liceo \"Novello\" Codogno",
       "listContext": "23 novembre 2026 Interpelli ricerca supplenti Liceo \"Novello\" Codogno Interpello A013 DISCIPLINE LETTERARIE LATINO E",
       "title": "Liceo \"Novello\" Codogno",
