@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-11-23T14:05:20.966Z",
-  "completedAt": "2026-11-23T14:05:56.792Z",
+  "retrievedAt": "2026-11-23T15:05:58.638Z",
+  "completedAt": "2026-11-23T15:06:35.465Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -3113,7 +3113,7 @@
     {
       "id": "31e92c4a3a189822",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Collodi",
       "listContext": "23 novembre 2026 Interpelli ricerca supplenti I.C. Collodi Interpello su cdc ADAA -n. 2 cattedre posti sostegno scuola dell'infanzia ( n.1 a 25 h/n. 1 a 12,5h)",
       "title": "I.C. Collodi",
@@ -3131,7 +3131,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/8095f7c1-cff2-4fd0-81ce-79c8f69d622c\" on this server. Reference #18.f6b62417.1795442732.42754314 https://errors.edgesuite.net/18.f6b62417.1795442732.42754314"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/8095f7c1-cff2-4fd0-81ce-79c8f69d622c\" on this server. Reference #18.3fb5655f.1795446371.1727cc5 https://errors.edgesuite.net/18.3fb5655f.1795446371.1727cc5"
         }
       ],
       "attachments": []
