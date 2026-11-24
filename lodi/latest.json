@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-11-24T09:05:29.276Z",
-  "completedAt": "2026-11-24T09:06:05.313Z",
+  "retrievedAt": "2026-11-24T10:05:19.356Z",
+  "completedAt": "2026-11-24T10:05:55.360Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -3145,7 +3145,7 @@
     {
       "id": "37db755c62189e47",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Lodi III",
       "listContext": "24 novembre 2026 Interpelli ricerca supplenti I.C. Lodi III Insegnante posto sostegno scuola infanzia",
       "title": "I.C. Lodi III",
@@ -3163,7 +3163,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0013/242d2e5e-0d3d-4c29-bac7-f5195e3d33d6\" on this server. Reference #18.9271cd17.1795511141.54d075f6 https://errors.edgesuite.net/18.9271cd17.1795511141.54d075f6"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0013/242d2e5e-0d3d-4c29-bac7-f5195e3d33d6\" on this server. Reference #18.1fb5655f.1795514731.30f5233a https://errors.edgesuite.net/18.1fb5655f.1795514731.30f5233a"
         }
       ],
       "attachments": []
@@ -3189,7 +3189,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/8095f7c1-cff2-4fd0-81ce-79c8f69d622c\" on this server. Reference #18.9271cd17.1795511148.54d133bb https://errors.edgesuite.net/18.9271cd17.1795511148.54d133bb"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/8095f7c1-cff2-4fd0-81ce-79c8f69d622c\" on this server. Reference #18.1fb5655f.1795514738.30f53508 https://errors.edgesuite.net/18.1fb5655f.1795514738.30f53508"
         }
       ],
       "attachments": []
