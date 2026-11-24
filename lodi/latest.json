@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-11-24T03:05:24.942Z",
-  "completedAt": "2026-11-24T03:06:05.866Z",
+  "retrievedAt": "2026-11-24T04:05:57.241Z",
+  "completedAt": "2026-11-24T04:06:32.670Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -3131,7 +3131,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/8095f7c1-cff2-4fd0-81ce-79c8f69d622c\" on this server. Reference #18.3fb5655f.1795489542.39edae1 https://errors.edgesuite.net/18.3fb5655f.1795489542.39edae1"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/8095f7c1-cff2-4fd0-81ce-79c8f69d622c\" on this server. Reference #18.43a61702.1795493168.28e6ad72 https://errors.edgesuite.net/18.43a61702.1795493168.28e6ad72"
         }
       ],
       "attachments": []
@@ -3157,7 +3157,7 @@
           "httpStatus": 200,
           "title": "Argo MAD INTERPELLO",
           "subtitle": "",
-          "text": "Mad - Interpello Benvenuti nel portale Argo MAD - Interpello, lo strumento mediante il quale inviare la propria domanda di supplenza alle scuole Argo. Scarica il manuale su come utilizzare la piattaforma. Hai bisogno di aiuto? Consulta le domande più frequenti (FAQ) o manda una richiesta di supporto a: mad@argosoft.it. Argo MAD INTERPELLO Invia la tua domanda di supplenza alle scuole Argo Seleziona Operazione Mad-Interpello / Argo - Vers. 4.4.0"
+          "text": "Mad - Interpello Benvenuti nel portale Argo MAD - Interpello, lo strumento mediante il quale inviare la propria domanda di supplenza alle scuole Argo. Scarica il manuale su come utilizzare la piattaforma. Hai bisogno di aiuto? Consulta le domande più frequenti (FAQ) o manda una richiesta di supporto a: mad@argosoft.it. Argo MAD INTERPELLO Invia la tua domanda di supplenza alle scuole Argo Stiamo Verificando Che Non Sei Un Robot Mad-Interpello / Argo - Vers. 4.4.0"
         }
       ],
       "attachments": []
