@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-11-24T11:05:29.412Z",
-  "completedAt": "2026-11-24T11:06:04.986Z",
+  "retrievedAt": "2026-11-24T12:05:09.619Z",
+  "completedAt": "2026-11-24T12:05:44.120Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -3177,7 +3177,7 @@
     {
       "id": "3ff64593da90632c",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Lodi IV",
       "listContext": "24 novembre 2026 Interpelli ricerca supplenti I.C. Lodi IV Interpello per il reclutamento di n. 1 docente di scuola primaria EEEE su personale docente temporaneamente assente fino al 01/12/2026",
       "title": "I.C. Lodi IV",
@@ -3221,7 +3221,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0013/242d2e5e-0d3d-4c29-bac7-f5195e3d33d6\" on this server. Reference #18.d0b62417.1795518348.1a6bf3a6 https://errors.edgesuite.net/18.d0b62417.1795518348.1a6bf3a6"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0013/242d2e5e-0d3d-4c29-bac7-f5195e3d33d6\" on this server. Reference #18.c9b62417.1795521927.1f246bc4 https://errors.edgesuite.net/18.c9b62417.1795521927.1f246bc4"
         }
       ],
       "attachments": []
@@ -3247,7 +3247,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/8095f7c1-cff2-4fd0-81ce-79c8f69d622c\" on this server. Reference #18.d0b62417.1795518355.1a6c04f7 https://errors.edgesuite.net/18.d0b62417.1795518355.1a6c04f7"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/8095f7c1-cff2-4fd0-81ce-79c8f69d622c\" on this server. Reference #18.c9b62417.1795521934.1f247a00 https://errors.edgesuite.net/18.c9b62417.1795521934.1f247a00"
         }
       ],
       "attachments": []
