@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-11-25T11:06:02.222Z",
-  "completedAt": "2026-11-25T11:06:37.194Z",
+  "retrievedAt": "2026-11-25T12:05:59.553Z",
+  "completedAt": "2026-11-25T12:06:35.320Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -2999,210 +2999,6 @@
         ],
         "attachments": []
       }
-    },
-    {
-      "id": "c6e7727c5108a55c",
-      "type": "new",
-      "detectedAt": "2026-10-26T12:05:14.361Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-tavazzano-11",
-      "item": {
-        "id": "2b8942b64c60c1b9",
-        "position": 1,
-        "collectionReason": "new",
-        "listLabel": "I.C. Tavazzano",
-        "listContext": "26 ottobre 2026 Interpelli ricerca supplenti I.C. Tavazzano Interpello per reperimento docente su tipo di posto SOSTEGNO - SCUOLA PRIMARIA supplenza breve 24h fino al 11/11/2026",
-        "title": "I.C. Tavazzano",
-        "subtitle": "Interpello per reperimento docente su tipo di posto SOSTEGNO - SCUOLA PRIMARIA supplenza breve 24h fino al 11/11/2026",
-        "publicationDate": "26 ottobre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-tavazzano-11",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-tavazzano-11",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0001/e94f740f-e71d-4ad0-8cd6-6b031f55772e",
-            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0001/e94f740f-e71d-4ad0-8cd6-6b031f55772e",
-            "httpStatus": 403,
-            "title": "Access Denied",
-            "subtitle": "",
-            "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/e94f740f-e71d-4ad0-8cd6-6b031f55772e\" on this server. Reference #18.47e19b8.1793016326.91c2db6d https://errors.edgesuite.net/18.47e19b8.1793016326.91c2db6d"
-          }
-        ],
-        "attachments": []
-      }
-    },
-    {
-      "id": "721bbb0394f3bd48",
-      "type": "new",
-      "detectedAt": "2026-10-26T12:05:14.361Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-a-volta-lodi-11",
-      "item": {
-        "id": "387b50c8defca92d",
-        "position": 2,
-        "collectionReason": "new",
-        "listLabel": "I.I.S. \"A. Volta\" Lodi",
-        "listContext": "26 ottobre 2026 Interpelli ricerca supplenti I.I.S. \"A. Volta\" Lodi Interpello classe di concorso AS12",
-        "title": "I.I.S. \"A. Volta\" Lodi",
-        "subtitle": "Interpello classe di concorso AS12",
-        "publicationDate": "26 ottobre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-a-volta-lodi-11",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-i-s-a-volta-lodi-11",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://www.iisvolta.edu.it/newpage/circolare/interpello-n-8-classe-di-concorso-as12/",
-            "finalUrl": "https://www.iisvolta.edu.it/newpage/circolare/interpello-n-8-classe-di-concorso-as12/",
-            "httpStatus": 200,
-            "title": "Documenti",
-            "subtitle": "",
-            "text": "Si comunica che, per esaurimento della graduatoria di istituto per l’insegnamento di AS12 – DISCIPLINE LETTERARIE NELL’ISTRUZIONE SECONDARIA DI II GRADO questa Istituzione scolastica, ai sensi dell’art. 13, comma 23 dell’O.M. n. 88/2024, deve provvedere al conferimento, fuori graduatoria, di supplenze di cui all’allegato. Documenti INTERPELLO_8_AS12_.pdf.pades pdf - 277 kb MODULO_RISPOSTA_INTERPELLI document - 19 kb Pubblicato: 26.10.2026 - Revisione: 26.10.2026 Eccetto dove diversamente specificato, questo articolo è stato rilasciato sotto Licenza Creative Commons Attribuzione 4.0 Italia."
-          }
-        ],
-        "attachments": [
-          {
-            "text": "Le carte della scuola",
-            "href": "https://www.iisvolta.edu.it/newpage/documento/",
-            "title": "",
-            "context": "Le carte della scuola",
-            "status": 200,
-            "contentType": "text/html; charset=UTF-8",
-            "bytes": 283177,
-            "file": "items/02-I.I.S.-A.-Volta-Lodi/01-attachment"
-          }
-        ]
-      }
-    },
-    {
-      "id": "9ea4de763c93c638",
-      "type": "new",
-      "detectedAt": "2026-10-26T12:05:14.361Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-a-volta-lodi-10",
-      "item": {
-        "id": "618b12b78dd3c0bc",
-        "position": 3,
-        "collectionReason": "new",
-        "listLabel": "I.I.S. \"A. Volta\" Lodi",
-        "listContext": "26 ottobre 2026 Interpelli ricerca supplenti I.I.S. \"A. Volta\" Lodi Interpello classe di concorso A041",
-        "title": "I.I.S. \"A. Volta\" Lodi",
-        "subtitle": "Interpello classe di concorso A041",
-        "publicationDate": "26 ottobre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-a-volta-lodi-10",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-i-s-a-volta-lodi-10",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://www.iisvolta.edu.it/newpage/circolare/interpello-n-7-classe-di-concorso-a041/",
-            "finalUrl": "https://www.iisvolta.edu.it/newpage/circolare/interpello-n-7-classe-di-concorso-a041/",
-            "httpStatus": 200,
-            "title": "Documenti",
-            "subtitle": "",
-            "text": "Si comunica che, per esaurimento della graduatoria di istituto per l’insegnamento di A041 – SCIENZE E TECNOLOGIE INFORMATICHE questa Istituzione scolastica, ai sensi dell’art. 13, comma 23 dell’O.M. n. 88/2024, deve provvedere al conferimento, fuori graduatoria, di supplenze di cui all’allegato. Documenti INTERPELLO_7_A041.pdf.pades pdf - 283 kb MODULO_RISPOSTA_INTERPELLI document - 19 kb Pubblicato: 26.10.2026 - Revisione: 26.10.2026 Eccetto dove diversamente specificato, questo articolo è stato rilasciato sotto Licenza Creative Commons Attribuzione 4.0 Italia."
-          }
-        ],
-        "attachments": [
-          {
-            "text": "Le carte della scuola",
-            "href": "https://www.iisvolta.edu.it/newpage/documento/",
-            "title": "",
-            "context": "Le carte della scuola",
-            "status": 200,
-            "contentType": "text/html; charset=UTF-8",
-            "bytes": 283177,
-            "file": "items/03-I.I.S.-A.-Volta-Lodi/01-attachment"
-          }
-        ]
-      }
-    },
-    {
-      "id": "a0e0eea3743ad464",
-      "type": "new",
-      "detectedAt": "2026-10-26T12:05:14.361Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-a-volta-lodi-9",
-      "item": {
-        "id": "e993e82b524ebf32",
-        "position": 4,
-        "collectionReason": "new",
-        "listLabel": "I.I.S. \"A. Volta\" Lodi",
-        "listContext": "26 ottobre 2026 Interpelli ricerca supplenti I.I.S. \"A. Volta\" Lodi Interpello classe di concorso A042",
-        "title": "I.I.S. \"A. Volta\" Lodi",
-        "subtitle": "Interpello classe di concorso A042",
-        "publicationDate": "26 ottobre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-a-volta-lodi-9",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-i-s-a-volta-lodi-9",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://www.iisvolta.edu.it/newpage/circolare/interpello-n-5-classe-di-concorso-a042/",
-            "finalUrl": "https://www.iisvolta.edu.it/newpage/circolare/interpello-n-5-classe-di-concorso-a042/",
-            "httpStatus": 200,
-            "title": "Documenti",
-            "subtitle": "",
-            "text": "Si comunica che, per esaurimento della graduatoria di istituto per l’insegnamento di A042 – SCIENZE E TECNOLOGIE MECCANICHE questa Istituzione scolastica, ai sensi dell’art. 13, comma 23 dell’O.M. n. 88/2024, deve provvedere al conferimento, fuori graduatoria, di supplenze di cui all’allegato. Documenti INTERPELLO_5_A042_.pdf.pades pdf - 283 kb MODULO_RISPOSTA_INTERPELLI document - 19 kb Pubblicato: 26.10.2026 - Revisione: 26.10.2026 Eccetto dove diversamente specificato, questo articolo è stato rilasciato sotto Licenza Creative Commons Attribuzione 4.0 Italia."
-          }
-        ],
-        "attachments": [
-          {
-            "text": "Le carte della scuola",
-            "href": "https://www.iisvolta.edu.it/newpage/documento/",
-            "title": "",
-            "context": "Le carte della scuola",
-            "status": 200,
-            "contentType": "text/html; charset=UTF-8",
-            "bytes": 283177,
-            "file": "items/04-I.I.S.-A.-Volta-Lodi/01-attachment"
-          }
-        ]
-      }
-    },
-    {
-      "id": "6a5aa471c5855073",
-      "type": "new",
-      "detectedAt": "2026-10-26T12:05:14.361Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-a-volta-lodi-8",
-      "item": {
-        "id": "9bb3c0686b1d0b25",
-        "position": 5,
-        "collectionReason": "new",
-        "listLabel": "I.I.S. \"A. Volta\" Lodi",
-        "listContext": "26 ottobre 2026 Interpelli ricerca supplenti I.I.S. \"A. Volta\" Lodi Interpelli classe di concorso A040",
-        "title": "I.I.S. \"A. Volta\" Lodi",
-        "subtitle": "Interpelli classe di concorso A040",
-        "publicationDate": "26 ottobre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-a-volta-lodi-8",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-i-s-a-volta-lodi-8",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://www.iisvolta.edu.it/newpage/circolare/interpello-n-6-classe-di-concorso-a040/",
-            "finalUrl": "https://www.iisvolta.edu.it/newpage/circolare/interpello-n-6-classe-di-concorso-a040/",
-            "httpStatus": 200,
-            "title": "Documenti",
-            "subtitle": "",
-            "text": "Si comunica che, per esaurimento della graduatoria di istituto per l’insegnamento di A040 – SCIENZE E TECNOLOGIE ELETTRICHE ED ELETTRONICHE questa Istituzione scolastica, ai sensi dell’art. 13, comma 23 dell’O.M. n. 88/2024, deve provvedere al conferimento, fuori graduatoria, di supplenze di cui all’allegato. Documenti INTERPELLO_6_A040.pdf.pades pdf - 282 kb MODULO_RISPOSTA_INTERPELLI document - 19 kb Pubblicato: 26.10.2026 - Revisione: 26.10.2026 Eccetto dove diversamente specificato, questo articolo è stato rilasciato sotto Licenza Creative Commons Attribuzione 4.0 Italia."
-          }
-        ],
-        "attachments": [
-          {
-            "text": "Le carte della scuola",
-            "href": "https://www.iisvolta.edu.it/newpage/documento/",
-            "title": "",
-            "context": "Le carte della scuola",
-            "status": 200,
-            "contentType": "text/html; charset=UTF-8",
-            "bytes": 283177,
-            "file": "items/05-I.I.S.-A.-Volta-Lodi/01-attachment"
-          }
-        ]
-      }
     }
   ],
   "latestFour": [
@@ -3279,7 +3075,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0013/242d2e5e-0d3d-4c29-bac7-f5195e3d33d6\" on this server. Reference #18.8871cd17.1795604788.d96a1d70 https://errors.edgesuite.net/18.8871cd17.1795604788.d96a1d70"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0013/242d2e5e-0d3d-4c29-bac7-f5195e3d33d6\" on this server. Reference #18.8771cd17.1795608385.8060593 https://errors.edgesuite.net/18.8771cd17.1795608385.8060593"
         }
       ],
       "attachments": []
@@ -3305,7 +3101,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/8095f7c1-cff2-4fd0-81ce-79c8f69d622c\" on this server. Reference #18.8871cd17.1795604794.d96a7e72 https://errors.edgesuite.net/18.8871cd17.1795604794.d96a7e72"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/8095f7c1-cff2-4fd0-81ce-79c8f69d622c\" on this server. Reference #18.8771cd17.1795608392.806881d https://errors.edgesuite.net/18.8771cd17.1795608392.806881d"
         }
       ],
       "attachments": []
