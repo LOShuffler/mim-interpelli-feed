@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-11-25T04:05:23.510Z",
-  "completedAt": "2026-11-25T04:05:59.243Z",
+  "retrievedAt": "2026-11-25T05:06:43.221Z",
+  "completedAt": "2026-11-25T05:07:18.244Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -3221,7 +3221,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0013/242d2e5e-0d3d-4c29-bac7-f5195e3d33d6\" on this server. Reference #18.f2b62417.1795579543.1e041c22 https://errors.edgesuite.net/18.f2b62417.1795579543.1e041c22"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0013/242d2e5e-0d3d-4c29-bac7-f5195e3d33d6\" on this server. Reference #18.e9b62417.1795583222.21e3663b https://errors.edgesuite.net/18.e9b62417.1795583222.21e3663b"
         }
       ],
       "attachments": []
@@ -3247,7 +3247,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/8095f7c1-cff2-4fd0-81ce-79c8f69d622c\" on this server. Reference #18.f2b62417.1795579549.1e0424ad https://errors.edgesuite.net/18.f2b62417.1795579549.1e0424ad"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/8095f7c1-cff2-4fd0-81ce-79c8f69d622c\" on this server. Reference #18.e9b62417.1795583228.21e3730b https://errors.edgesuite.net/18.e9b62417.1795583228.21e3730b"
         }
       ],
       "attachments": []
@@ -3273,7 +3273,7 @@
           "httpStatus": 200,
           "title": "Argo MAD INTERPELLO",
           "subtitle": "",
-          "text": "Mad - Interpello Benvenuti nel portale Argo MAD - Interpello, lo strumento mediante il quale inviare la propria domanda di supplenza alle scuole Argo. Scarica il manuale su come utilizzare la piattaforma. Hai bisogno di aiuto? Consulta le domande più frequenti (FAQ) o manda una richiesta di supporto a: mad@argosoft.it. Argo MAD INTERPELLO Invia la tua domanda di supplenza alle scuole Argo Stiamo Verificando Che Non Sei Un Robot Mad-Interpello / Argo - Vers. 4.4.0"
+          "text": "Mad - Interpello Benvenuti nel portale Argo MAD - Interpello, lo strumento mediante il quale inviare la propria domanda di supplenza alle scuole Argo. Scarica il manuale su come utilizzare la piattaforma. Hai bisogno di aiuto? Consulta le domande più frequenti (FAQ) o manda una richiesta di supporto a: mad@argosoft.it. Argo MAD INTERPELLO Invia la tua domanda di supplenza alle scuole Argo Seleziona Operazione Mad-Interpello / Argo - Vers. 4.4.0"
         }
       ],
       "attachments": []
