@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-11-25T10:05:21.761Z",
-  "completedAt": "2026-11-25T10:05:58.600Z",
+  "retrievedAt": "2026-11-25T11:06:02.222Z",
+  "completedAt": "2026-11-25T11:06:37.194Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -3209,7 +3209,7 @@
     {
       "id": "6b1dbf21a6953486",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Lodi I",
       "listContext": "25 novembre 2026 Interpelli ricerca supplenti I.C. Lodi I n.1 posto EE fino al 09/12/2026",
       "title": "I.C. Lodi I",
@@ -3279,7 +3279,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0013/242d2e5e-0d3d-4c29-bac7-f5195e3d33d6\" on this server. Reference #18.8771cd17.1795601149.5cf8d70 https://errors.edgesuite.net/18.8771cd17.1795601149.5cf8d70"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0013/242d2e5e-0d3d-4c29-bac7-f5195e3d33d6\" on this server. Reference #18.8871cd17.1795604788.d96a1d70 https://errors.edgesuite.net/18.8871cd17.1795604788.d96a1d70"
         }
       ],
       "attachments": []
@@ -3305,7 +3305,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/8095f7c1-cff2-4fd0-81ce-79c8f69d622c\" on this server. Reference #18.8771cd17.1795601155.5d01356 https://errors.edgesuite.net/18.8771cd17.1795601155.5d01356"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/8095f7c1-cff2-4fd0-81ce-79c8f69d622c\" on this server. Reference #18.8871cd17.1795604794.d96a7e72 https://errors.edgesuite.net/18.8871cd17.1795604794.d96a7e72"
         }
       ],
       "attachments": []
