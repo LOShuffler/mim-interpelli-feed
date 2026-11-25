@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-11-25T14:06:01.409Z",
-  "completedAt": "2026-11-25T14:06:36.005Z",
+  "retrievedAt": "2026-11-25T15:05:26.801Z",
+  "completedAt": "2026-11-25T15:06:01.873Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -2967,38 +2967,6 @@
         ],
         "attachments": []
       }
-    },
-    {
-      "id": "7f75ee23b961de48",
-      "type": "new",
-      "detectedAt": "2026-10-26T15:05:13.954Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-tavazzano-12",
-      "item": {
-        "id": "92e84c1d0680f309",
-        "position": 1,
-        "collectionReason": "new",
-        "listLabel": "I.C. Tavazzano",
-        "listContext": "26 ottobre 2026 Interpelli ricerca supplenti I.C. Tavazzano Interpello infanzia e primaria posto comune e sostegno a.s. 2026/27",
-        "title": "I.C. Tavazzano",
-        "subtitle": "Interpello infanzia e primaria posto comune e sostegno a.s. 2026/27",
-        "publicationDate": "26 ottobre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-tavazzano-12",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-tavazzano-12",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0001/88fb0efd-cb21-47fd-beb1-437bab35be27",
-            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0001/88fb0efd-cb21-47fd-beb1-437bab35be27",
-            "httpStatus": 403,
-            "title": "Access Denied",
-            "subtitle": "",
-            "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0001/88fb0efd-cb21-47fd-beb1-437bab35be27\" on this server. Reference #18.1b7e19b8.1793027125.8641f026 https://errors.edgesuite.net/18.1b7e19b8.1793027125.8641f026"
-          }
-        ],
-        "attachments": []
-      }
     }
   ],
   "latestFour": [
@@ -3075,7 +3043,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0013/242d2e5e-0d3d-4c29-bac7-f5195e3d33d6\" on this server. Reference #18.9371cd17.1795615586.6f3b86af https://errors.edgesuite.net/18.9371cd17.1795615586.6f3b86af"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0013/242d2e5e-0d3d-4c29-bac7-f5195e3d33d6\" on this server. Reference #18.8871cd17.1795619152.dd745314 https://errors.edgesuite.net/18.8871cd17.1795619152.dd745314"
         }
       ],
       "attachments": []
@@ -3101,7 +3069,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/8095f7c1-cff2-4fd0-81ce-79c8f69d622c\" on this server. Reference #18.9371cd17.1795615593.6f3c2179 https://errors.edgesuite.net/18.9371cd17.1795615593.6f3c2179"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/8095f7c1-cff2-4fd0-81ce-79c8f69d622c\" on this server. Reference #18.8871cd17.1795619159.dd74f23c https://errors.edgesuite.net/18.8871cd17.1795619159.dd74f23c"
         }
       ],
       "attachments": []
