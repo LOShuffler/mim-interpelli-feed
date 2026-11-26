@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-11-26T10:05:59.769Z",
-  "completedAt": "2026-11-26T10:06:35.604Z",
+  "retrievedAt": "2026-11-26T11:05:19.043Z",
+  "completedAt": "2026-11-26T11:05:54.028Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -2967,45 +2967,13 @@
         ],
         "attachments": []
       }
-    },
-    {
-      "id": "1328874b5de9d560",
-      "type": "new",
-      "detectedAt": "2026-10-27T11:05:13.002Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-ii-67",
-      "item": {
-        "id": "193b44a5e9e523bd",
-        "position": 1,
-        "collectionReason": "new",
-        "listLabel": "I.C. Lodi II",
-        "listContext": "27 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi II Interpello Suppl. breve SC.PRIMARIA POSTO COMUNE",
-        "title": "I.C. Lodi II",
-        "subtitle": "Interpello Suppl. breve SC.PRIMARIA POSTO COMUNE",
-        "publicationDate": "27 ottobre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-ii-67",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-ii-67",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0014/7192c897-b1d2-4be0-a238-3394e2b7d032",
-            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0014/7192c897-b1d2-4be0-a238-3394e2b7d032",
-            "httpStatus": 403,
-            "title": "Access Denied",
-            "subtitle": "",
-            "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0014/7192c897-b1d2-4be0-a238-3394e2b7d032\" on this server. Reference #18.5da61702.1793099124.d4bc038 https://errors.edgesuite.net/18.5da61702.1793099124.d4bc038"
-          }
-        ],
-        "attachments": []
-      }
     }
   ],
   "latestFour": [
     {
       "id": "a9b0afb0760f8e30",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.I.S. Codogno",
       "listContext": "26 novembre 2026 Interpelli ricerca supplenti I.I.S. Codogno Interpello classe di concorso B017 officina meccanica",
       "title": "I.I.S. Codogno",
@@ -3101,7 +3069,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0013/242d2e5e-0d3d-4c29-bac7-f5195e3d33d6\" on this server. Reference #18.8a71cd17.1795687592.3c88150f https://errors.edgesuite.net/18.8a71cd17.1795687592.3c88150f"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0013/242d2e5e-0d3d-4c29-bac7-f5195e3d33d6\" on this server. Reference #18.8771cd17.1795691151.1a814e44 https://errors.edgesuite.net/18.8771cd17.1795691151.1a814e44"
         }
       ],
       "attachments": []
