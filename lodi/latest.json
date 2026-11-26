@@ -6,18 +6,50 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-11-26T09:05:19.422Z",
-  "completedAt": "2026-11-26T09:05:54.104Z",
+  "retrievedAt": "2026-11-26T10:05:59.769Z",
+  "completedAt": "2026-11-26T10:06:35.604Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
     "title": "Navigazione",
-    "textLength": 24704,
+    "textLength": 24654,
     "discoveredCount": 200,
     "safetyLimited": false,
     "processedCount": 4
   },
   "recentEvents": [
+    {
+      "id": "ca2e9291e1247e2d",
+      "type": "new",
+      "detectedAt": "2026-11-26T10:05:59.769Z",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-18",
+      "item": {
+        "id": "a9b0afb0760f8e30",
+        "position": 1,
+        "collectionReason": "new",
+        "listLabel": "I.I.S. Codogno",
+        "listContext": "26 novembre 2026 Interpelli ricerca supplenti I.I.S. Codogno Interpello classe di concorso B017 officina meccanica",
+        "title": "I.I.S. Codogno",
+        "subtitle": "Interpello classe di concorso B017 officina meccanica",
+        "publicationDate": "26 novembre 2026",
+        "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-18",
+        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-18",
+        "httpStatus": 200,
+        "text": "Link interpello",
+        "pages": [
+          {
+            "label": "Link interpello",
+            "url": "https://www.portaleargo.it/albopretorio/online/",
+            "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
+            "httpStatus": 200,
+            "title": "Albo Pretorio",
+            "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
+            "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accessibilità Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
+          }
+        ],
+        "attachments": []
+      }
+    },
     {
       "id": "8f7aea00978c6530",
       "type": "new",
@@ -2971,8 +3003,34 @@
   ],
   "latestFour": [
     {
-      "id": "6b1dbf21a6953486",
+      "id": "a9b0afb0760f8e30",
       "position": 1,
+      "collectionReason": "new",
+      "listLabel": "I.I.S. Codogno",
+      "listContext": "26 novembre 2026 Interpelli ricerca supplenti I.I.S. Codogno Interpello classe di concorso B017 officina meccanica",
+      "title": "I.I.S. Codogno",
+      "subtitle": "Interpello classe di concorso B017 officina meccanica",
+      "publicationDate": "26 novembre 2026",
+      "url": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-18",
+      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-i-s-codogno-18",
+      "httpStatus": 200,
+      "text": "Link interpello",
+      "pages": [
+        {
+          "label": "Link interpello",
+          "url": "https://www.portaleargo.it/albopretorio/online/",
+          "finalUrl": "https://www.portaleargo.it/albopretorio/online/#/error",
+          "httpStatus": 200,
+          "title": "Albo Pretorio",
+          "subtitle": "Albo Pretorio Online - Consultazione atti e pubblicazioni",
+          "text": "Albo Pretorio Vai al contenuto principale Pubblicità Legale Accessibilità Accedi Pagina non trovata. La pagina che stai cercando non esiste. Assicurati di star inserendo un codice cliente valido. Sezione Link Utili Cookie Policy Feed RSS Su questo sito e negli applicativi collegati utilizziamo alcuni cookies che sono necessari al funzionamento dei prodotti software. Per più informazioni su quali cookies potrebbero essere utilizzati negli applicativi o su questo portale clicca Leggi di più Ok"
+        }
+      ],
+      "attachments": []
+    },
+    {
+      "id": "6b1dbf21a6953486",
+      "position": 2,
       "collectionReason": "refresh",
       "listLabel": "I.C. Lodi I",
       "listContext": "25 novembre 2026 Interpelli ricerca supplenti I.C. Lodi I n.1 posto EE fino al 09/12/2026",
@@ -2998,7 +3056,7 @@
     },
     {
       "id": "3ff64593da90632c",
-      "position": 2,
+      "position": 3,
       "collectionReason": "refresh",
       "listLabel": "I.C. Lodi IV",
       "listContext": "24 novembre 2026 Interpelli ricerca supplenti I.C. Lodi IV Interpello per il reclutamento di n. 1 docente di scuola primaria EEEE su personale docente temporaneamente assente fino al 01/12/2026",
@@ -3024,7 +3082,7 @@
     },
     {
       "id": "37db755c62189e47",
-      "position": 3,
+      "position": 4,
       "collectionReason": "refresh",
       "listLabel": "I.C. Lodi III",
       "listContext": "24 novembre 2026 Interpelli ricerca supplenti I.C. Lodi III Insegnante posto sostegno scuola infanzia",
@@ -3043,33 +3101,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0013/242d2e5e-0d3d-4c29-bac7-f5195e3d33d6\" on this server. Reference #18.8a71cd17.1795683944.3aeaabcc https://errors.edgesuite.net/18.8a71cd17.1795683944.3aeaabcc"
-        }
-      ],
-      "attachments": []
-    },
-    {
-      "id": "31e92c4a3a189822",
-      "position": 4,
-      "collectionReason": "refresh",
-      "listLabel": "I.C. Collodi",
-      "listContext": "23 novembre 2026 Interpelli ricerca supplenti I.C. Collodi Interpello su cdc ADAA -n. 2 cattedre posti sostegno scuola dell'infanzia ( n.1 a 25 h/n. 1 a 12,5h)",
-      "title": "I.C. Collodi",
-      "subtitle": "Interpello su cdc ADAA -n. 2 cattedre posti sostegno scuola dell'infanzia ( n.1 a 25 h/n. 1 a 12,5h)",
-      "publicationDate": "23 novembre 2026",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-collodi-4",
-      "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-collodi-4",
-      "httpStatus": 200,
-      "text": "Link interpello",
-      "pages": [
-        {
-          "label": "Link interpello",
-          "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/8095f7c1-cff2-4fd0-81ce-79c8f69d622c",
-          "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0010/8095f7c1-cff2-4fd0-81ce-79c8f69d622c",
-          "httpStatus": 403,
-          "title": "Access Denied",
-          "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0010/8095f7c1-cff2-4fd0-81ce-79c8f69d622c\" on this server. Reference #18.8a71cd17.1795683951.3aeb7c87 https://errors.edgesuite.net/18.8a71cd17.1795683951.3aeb7c87"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0013/242d2e5e-0d3d-4c29-bac7-f5195e3d33d6\" on this server. Reference #18.8a71cd17.1795687592.3c88150f https://errors.edgesuite.net/18.8a71cd17.1795687592.3c88150f"
         }
       ],
       "attachments": []
