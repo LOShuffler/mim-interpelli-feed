@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-11-26T14:05:20.060Z",
-  "completedAt": "2026-11-26T14:05:56.707Z",
+  "retrievedAt": "2026-11-26T16:05:18.876Z",
+  "completedAt": "2026-11-26T16:05:55.066Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -3018,38 +3018,6 @@
             "title": "Access Denied",
             "subtitle": "",
             "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Documenti/LOIT0001/v5am50fhi0\" on this server. Reference #18.568dead.1793192784.5542ebf https://errors.edgesuite.net/18.568dead.1793192784.5542ebf"
-          }
-        ],
-        "attachments": []
-      }
-    },
-    {
-      "id": "2063836f1b3c5210",
-      "type": "new",
-      "detectedAt": "2026-10-27T16:05:44.539Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-60",
-      "item": {
-        "id": "d048a59570feab1a",
-        "position": 1,
-        "collectionReason": "new",
-        "listLabel": "I.C. Lodi III",
-        "listContext": "27 ottobre 2026 Interpelli ricerca supplenti I.C. Lodi III Interpello posto comune scuola primaria",
-        "title": "I.C. Lodi III",
-        "subtitle": "Interpello posto comune scuola primaria",
-        "publicationDate": "27 ottobre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-60",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-c-lodi-iii-60",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/6481e49f-966d-4753-ac13-2fcdc5149056",
-            "finalUrl": "https://web.spaggiari.eu/sdg2/Interpelli/LOME0013/6481e49f-966d-4753-ac13-2fcdc5149056",
-            "httpStatus": 403,
-            "title": "Access Denied",
-            "subtitle": "",
-            "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0013/6481e49f-966d-4753-ac13-2fcdc5149056\" on this server. Reference #18.1868dead.1793117155.2db8d30 https://errors.edgesuite.net/18.1868dead.1793117155.2db8d30"
           }
         ],
         "attachments": []
