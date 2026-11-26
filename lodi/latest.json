@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-11-26T13:05:19.666Z",
-  "completedAt": "2026-11-26T13:05:56.368Z",
+  "retrievedAt": "2026-11-26T14:05:20.060Z",
+  "completedAt": "2026-11-26T14:05:56.707Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -3060,7 +3060,7 @@
     {
       "id": "eed07f491b88f8dd",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Lodi I",
       "listContext": "26 novembre 2026 Interpelli ricerca supplenti I.C. Lodi I Am12 dal 09-12-26 al 22-12-26",
       "title": "I.C. Lodi I",
