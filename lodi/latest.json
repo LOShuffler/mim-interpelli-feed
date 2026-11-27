@@ -6,8 +6,8 @@
     "startUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti"
   },
   "status": "success",
-  "retrievedAt": "2026-11-27T12:05:19.729Z",
-  "completedAt": "2026-11-27T12:05:56.910Z",
+  "retrievedAt": "2026-11-27T13:05:40.627Z",
+  "completedAt": "2026-11-27T13:06:18.534Z",
   "index": {
     "status": 200,
     "finalUrl": "https://www.mim.gov.it/web/lodi/interpelli-ricerca-supplenti",
@@ -3109,45 +3109,13 @@
           }
         ]
       }
-    },
-    {
-      "id": "a01b55369ddbcdd9",
-      "type": "new",
-      "detectedAt": "2026-10-28T13:06:12.900Z",
-      "url": "https://www.mim.gov.it/web/lodi/-/i-t-c-g-a-bassi-lodi-11",
-      "item": {
-        "id": "0a052eb435b33f82",
-        "position": 1,
-        "collectionReason": "new",
-        "listLabel": "I.T.C.G. \"A. Bassi\" Lodi",
-        "listContext": "28 ottobre 2026 Interpelli ricerca supplenti I.T.C.G. \"A. Bassi\" Lodi Interpello per incarico supplenza breve dal 30-10-2026 al 08-11-2026 classe di concorso AS48 - Scienze motorie e sportive negli istituti di istruzione secondaria di II grado",
-        "title": "I.T.C.G. \"A. Bassi\" Lodi",
-        "subtitle": "Interpello per incarico supplenza breve dal 30-10-2026 al 08-11-2026 classe di concorso AS48 - Scienze motorie e sportive negli istituti di istruzione secondaria di II grado",
-        "publicationDate": "28 ottobre 2026",
-        "url": "https://www.mim.gov.it/web/lodi/-/i-t-c-g-a-bassi-lodi-11",
-        "finalUrl": "https://www.mim.gov.it/web/lodi/-/i-t-c-g-a-bassi-lodi-11",
-        "httpStatus": 200,
-        "text": "Link interpello",
-        "pages": [
-          {
-            "label": "Link interpello",
-            "url": "https://web.spaggiari.eu/sdg2/Documenti/LOIT0001/v5am50fhi0",
-            "finalUrl": "https://web.spaggiari.eu/sdg2/Documenti/LOIT0001/v5am50fhi0",
-            "httpStatus": 403,
-            "title": "Access Denied",
-            "subtitle": "",
-            "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Documenti/LOIT0001/v5am50fhi0\" on this server. Reference #18.568dead.1793192784.5542ebf https://errors.edgesuite.net/18.568dead.1793192784.5542ebf"
-          }
-        ],
-        "attachments": []
-      }
     }
   ],
   "latestFour": [
     {
       "id": "028fe994b81c1444",
       "position": 1,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Casalpusterlengo",
       "listContext": "27 novembre 2026 Interpelli ricerca supplenti I.C. Casalpusterlengo Supplenza breve e saltuaria scuola Primaria",
       "title": "I.C. Casalpusterlengo",
@@ -3196,7 +3164,7 @@
     {
       "id": "f73dda9c6cfe9e7a",
       "position": 2,
-      "collectionReason": "new",
+      "collectionReason": "refresh",
       "listLabel": "I.C. Lodi II",
       "listContext": "27 novembre 2026 Interpelli ricerca supplenti I.C. Lodi II SUPPLENZA BREVE SCUOLA PRIMARIA OSSAGO LODIGIANO",
       "title": "I.C. Lodi II",
@@ -3214,7 +3182,7 @@
           "httpStatus": 403,
           "title": "Access Denied",
           "subtitle": "",
-          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0014/6129f323-31aa-4b60-99cf-7a22f3cc4b78\" on this server. Reference #18.8a71cd17.1795781139.55bb06b3 https://errors.edgesuite.net/18.8a71cd17.1795781139.55bb06b3"
+          "text": "Access Denied You don't have permission to access \"http://web.spaggiari.eu/sdg2/Interpelli/LOME0014/6129f323-31aa-4b60-99cf-7a22f3cc4b78\" on this server. Reference #18.9271cd17.1795784760.9d828351 https://errors.edgesuite.net/18.9271cd17.1795784760.9d828351"
         }
       ],
       "attachments": []
@@ -3240,7 +3208,7 @@
           "httpStatus": 200,
           "title": "INTERPELLI",
           "subtitle": "Anno Scolastico 2026/27",
-          "text": "Salta al contenuto ITALIANO Accedi Istituto Comprensivo F. Fellini di Tavazzano con Villavesco (LO) Scuola Servizi Novità Didattica PNRR Contatti Home > Novità > Altre info > INTERPELLI INTERPELLI Interpelli a.s. 2026/27 - Interpello nazionale per reperimento docente AM12 discipline letterarie nella scuola secondaria di I grado fino al 11/12/26 . Scadenza ore 7:00 del 30/11/2026. - Interpello nazionale per reperimento docente SOSTEGNO SCUOLA PRIMARIA fino al 30/06/2027. Scadenza ore 12:00 del 06/11/2026. ESITO - Interpello nazionale per reperimento docente SOSTEGNO SCUOLA INFANZIA fino al 30/06/2027. Scadenza ore 12:00 del 06/11/2026. ESITO - Interpello nazionale per reperimento docenti per supplenze fino a 10 giorni infanzia e primaria posto comune e sostegno a.s. 2026/27. Scadenza ore 12:00 del 29/10/2026. ESITO Interpello nazionale per reperimento docente SOSTEGNO SCUOLA INFANZIA supplenza breve 24h fino al 11/11/2026. Scadenza ore 7:00 del 28/10/2026. ESITO - Interpello nazionale per reperimento docente su tipo di posto normale classe di concorso AM2B 14h fino al 05/11/2026. Scadenza ore 7:00 del 26/10/2026. ESITO - Interpello nazionale per reperimento docente h12,30 SOSTEGNO SCUOLA INFANZIA fino al 30/06/2027. Scadenza ore 12:00 del 16/10/2026. ESITO: L’interpello ha avuto esito negativo ai sensi di quanto previsto al punto 3, lettere a) e d). - Interpello nazionale per reperimento docente 12h SOSTEGNO - SCUOLA PRIMARIA +2h programmazione fino al 30/06/2027. Scadenza ore 12:00 del 16/10/2026. ESITO: L’interpello ha avuto esito negativo ai sensi di quanto previsto al punto 3, lettere a) e d). -Interpello nazionale per reperimento docente su tipo di posto normale classe di concorso AM2B inglese secondaria di primo grado 14h fino al 21/10/2026. Scadenza ore 7:00 del 09/10/2026. ESITO -Interpello nazionale per reperimento n.1 docente su tipo di posto SOSTEGNO - SCUOLA PRIMARIA fino al 30/06/2027. Scadenza ore 7:00 del 08/10/2026. ESITO: L’interpello ha avuto esito negativo ai sensi di quanto previsto al punto 3, lettera a) e d) -Interpello nazionale per reperimento docenti su tipo di posto SOSTEGNO - SCUOLA PRIMARIA n. 3 supplenze brevi. Scadenza ore 7:00 del 28/09/2026. ESITO: L’interpello ha avuto esito negativo ai sensi di quanto previsto al punto 3, lettera a) e d) -Interpello nazionale per reperimento docenti su tipo di posto SOSTEGNO - SCUOLA PRIMARIA FINO AL 30.06.2027. Scadenza ore 7:30 del 21/09/2026. ESITO: L’interpello ha avuto esito negativo ai sensi di quanto previsto al punto 3, lettera a) -Interpello nazionale per reperimento docenti su tipo di posto POSTO COMUNE- SCUOLA PRIMARIA n. 1 POSTO 24H FINO AL 08.06.2027. Scadenza ore 7:30 del 21/09/2026. ESITO: L’interpello ha avuto esito negativo ai sensi di quanto previsto al punto 3, lettera a) -Interpello nazionale per reperimento docenti su tipo di posto POSTO COMUNE - SCUOLA PRIMARIA FINO AL 30.06.2027. Scadenza ore 7:30 del 21/09/2026. ESITO: L’interpello ha avuto esito negativo ai sensi di quanto previsto al punto 3, lettera a) -Interpello nazionale per reperimento docenti su tipo di posto SOSTEGNO - SCUOLA INFANZIA n. 5 POSTO 25H FINO AL 30.06.2027. Scadenza ore 14:00 del 17/09/2026. ESITO -Interpello nazionale per reperimento docenti su tipo di posto COMUNE - SCUOLA INFANZIA n. 1 POSTO 25H FINO AL 30.06.2027. Scadenza ore 14:00 del 17/09/2026. ESITO Questo sito o gli strumenti terzi da questo utilizzati si avvalgono di cookie necessari al funzionamento ed utili alle finalità illustrate nella COOKIE POLICY. PERSONALIZZA RIFIUTA TUTTI I COOKIES ACCETTA TUTTI I COOKIES Istituto Comprensivo F. Fellini Tavazzano con Villavesco CONTATTI Istituto Comprensivo F. Fellini Tavazzano con Villavesco Via Dante, 7 - 26838 Tavazzano con Villavesco (LO) Tel: +39 0371470219 Email: loic800003@istruzione.it Link per inviare una mail PEC: loic800003@pec.istruzione.it Link per inviare una mail C.F.: 92537680156 Codice Mecc: loic800003 SEZIONE LINK UTILI Cookie policy Note legali Informativa Privacy Ufficio Relazioni con il Pubblico Dichiarazione di accessibilità Obiettivi di accessibilità Whistleblowing Gestione consensi cookie Amministrazione trasparente Pagina visualizzata 1046 volte Sezione Copyright Copyright 2026 | Engineered and powered by Gruppo Spaggiari Parma S.p.A. | Divisione Publishing & New Social Media Disclaimer trattamento dati personali"
+          "text": "Salta al contenuto ITALIANO Accedi Istituto Comprensivo F. Fellini di Tavazzano con Villavesco (LO) Scuola Servizi Novità Didattica PNRR Contatti Home > Novità > Altre info > INTERPELLI INTERPELLI Interpelli a.s. 2026/27 - Interpello nazionale per reperimento docente AM12 discipline letterarie nella scuola secondaria di I grado fino al 11/12/26 . Scadenza ore 7:00 del 30/11/2026. - Interpello nazionale per reperimento docente SOSTEGNO SCUOLA PRIMARIA fino al 30/06/2027. Scadenza ore 12:00 del 06/11/2026. ESITO - Interpello nazionale per reperimento docente SOSTEGNO SCUOLA INFANZIA fino al 30/06/2027. Scadenza ore 12:00 del 06/11/2026. ESITO - Interpello nazionale per reperimento docenti per supplenze fino a 10 giorni infanzia e primaria posto comune e sostegno a.s. 2026/27. Scadenza ore 12:00 del 29/10/2026. ESITO Interpello nazionale per reperimento docente SOSTEGNO SCUOLA INFANZIA supplenza breve 24h fino al 11/11/2026. Scadenza ore 7:00 del 28/10/2026. ESITO - Interpello nazionale per reperimento docente su tipo di posto normale classe di concorso AM2B 14h fino al 05/11/2026. Scadenza ore 7:00 del 26/10/2026. ESITO - Interpello nazionale per reperimento docente h12,30 SOSTEGNO SCUOLA INFANZIA fino al 30/06/2027. Scadenza ore 12:00 del 16/10/2026. ESITO: L’interpello ha avuto esito negativo ai sensi di quanto previsto al punto 3, lettere a) e d). - Interpello nazionale per reperimento docente 12h SOSTEGNO - SCUOLA PRIMARIA +2h programmazione fino al 30/06/2027. Scadenza ore 12:00 del 16/10/2026. ESITO: L’interpello ha avuto esito negativo ai sensi di quanto previsto al punto 3, lettere a) e d). -Interpello nazionale per reperimento docente su tipo di posto normale classe di concorso AM2B inglese secondaria di primo grado 14h fino al 21/10/2026. Scadenza ore 7:00 del 09/10/2026. ESITO -Interpello nazionale per reperimento n.1 docente su tipo di posto SOSTEGNO - SCUOLA PRIMARIA fino al 30/06/2027. Scadenza ore 7:00 del 08/10/2026. ESITO: L’interpello ha avuto esito negativo ai sensi di quanto previsto al punto 3, lettera a) e d) -Interpello nazionale per reperimento docenti su tipo di posto SOSTEGNO - SCUOLA PRIMARIA n. 3 supplenze brevi. Scadenza ore 7:00 del 28/09/2026. ESITO: L’interpello ha avuto esito negativo ai sensi di quanto previsto al punto 3, lettera a) e d) -Interpello nazionale per reperimento docenti su tipo di posto SOSTEGNO - SCUOLA PRIMARIA FINO AL 30.06.2027. Scadenza ore 7:30 del 21/09/2026. ESITO: L’interpello ha avuto esito negativo ai sensi di quanto previsto al punto 3, lettera a) -Interpello nazionale per reperimento docenti su tipo di posto POSTO COMUNE- SCUOLA PRIMARIA n. 1 POSTO 24H FINO AL 08.06.2027. Scadenza ore 7:30 del 21/09/2026. ESITO: L’interpello ha avuto esito negativo ai sensi di quanto previsto al punto 3, lettera a) -Interpello nazionale per reperimento docenti su tipo di posto POSTO COMUNE - SCUOLA PRIMARIA FINO AL 30.06.2027. Scadenza ore 7:30 del 21/09/2026. ESITO: L’interpello ha avuto esito negativo ai sensi di quanto previsto al punto 3, lettera a) -Interpello nazionale per reperimento docenti su tipo di posto SOSTEGNO - SCUOLA INFANZIA n. 5 POSTO 25H FINO AL 30.06.2027. Scadenza ore 14:00 del 17/09/2026. ESITO -Interpello nazionale per reperimento docenti su tipo di posto COMUNE - SCUOLA INFANZIA n. 1 POSTO 25H FINO AL 30.06.2027. Scadenza ore 14:00 del 17/09/2026. ESITO Questo sito o gli strumenti terzi da questo utilizzati si avvalgono di cookie necessari al funzionamento ed utili alle finalità illustrate nella COOKIE POLICY. PERSONALIZZA RIFIUTA TUTTI I COOKIES ACCETTA TUTTI I COOKIES Istituto Comprensivo F. Fellini Tavazzano con Villavesco CONTATTI Istituto Comprensivo F. Fellini Tavazzano con Villavesco Via Dante, 7 - 26838 Tavazzano con Villavesco (LO) Tel: +39 0371470219 Email: loic800003@istruzione.it Link per inviare una mail PEC: loic800003@pec.istruzione.it Link per inviare una mail C.F.: 92537680156 Codice Mecc: loic800003 SEZIONE LINK UTILI Cookie policy Note legali Informativa Privacy Ufficio Relazioni con il Pubblico Dichiarazione di accessibilità Obiettivi di accessibilità Whistleblowing Gestione consensi cookie Amministrazione trasparente Pagina visualizzata 1078 volte Sezione Copyright Copyright 2026 | Engineered and powered by Gruppo Spaggiari Parma S.p.A. | Divisione Publishing & New Social Media Disclaimer trattamento dati personali"
         }
       ],
       "attachments": []
